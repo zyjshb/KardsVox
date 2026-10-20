@@ -1,0 +1,61 @@
+category	trigger	speaker	original	text
+CMD	INTRO_1	德国指挥官	Soldaten! Die Stunde des Angriffs ist gekommen!	士兵们，进攻的时刻到了！
+CMD	INTRO_2	德国指挥官	Der Feind glaubt, ein paar Verteidigungslinien könnten uns aufhalten.	敌人以为，凭几道防线就能阻挡我们的脚步。
+CMD	INTRO_3	德国指挥官	Zerschlagt diese Illusion mit eurem Mut! Lasst ihn vor unserem Angriff zittern!	用你们的勇气击碎他们的妄想，让他们在我们的攻势面前颤抖！
+CMD	INTRO_4	德国指挥官	Durchbrecht seine Stellungen und erkämpft euch den Sieg!	突破他们的阵地，把胜利握在自己手中！
+CMD	INTRO_5	德国指挥官	Alle Einheiten, hört mein Kommando: Zum Angriff, vorwärts!	全军听令——向前进攻！
+CMD	HQ_LOW	德国指挥官	Das Hauptquartier liegt unter Feuer. Verteidigung verstärken!	总部遭到炮火打击。加强防御！
+CMD	HQ_CRITICAL	德国指挥官	Die Führung ist in Gefahr! Letzte Reserven zum Hauptquartier!	指挥部危急！最后的预备队支援总部！
+CMD	ENEMY_HQ_LOW	德国指挥官	Ihre Zentrale wankt. Den Angriff zu Ende führen!	敌方指挥中心动摇了。将攻势进行到底！
+INFANTRY	DEPLOY	德国步兵	Trupp ist angetreten. Wir erwarten den Befehl.	全队报到。等待命令。
+INFANTRY	DEPLOY_2	德国步兵	Stellung erreicht. Flanken werden gesichert.	到达阵地。正在警戒两翼。
+INFANTRY	DEPLOY_3	德国步兵	Munition verteilt. Alle Mann bereit!	弹药分发完毕。全员就绪！
+INFANTRY	DEPLOY_4	德国步兵	Infanterie vor Ort. Verbindung steht.	步兵到位。联络畅通。
+INFANTRY	DEPLOY_5	德国步兵	Ablösung eingetroffen. Wir übernehmen diesen Abschnitt.	接替部队抵达。我们接管这一地段。
+INFANTRY	ATTACK	德国步兵	Feind voraus! Feuer eröffnen!	前方有敌军！开火！
+INFANTRY	ATTACK_2	德国步兵	Stoßtrupp, ran an die Stellung!	突击队，冲向阵地！
+INFANTRY	ATTACK_3	德国步兵	Ziel erfasst. Gemeinsam feuern!	锁定目标。集中开火！
+INFANTRY	HURT	德国步兵	Wir liegen unter Beschuss. In Deckung!	我们遭到射击。隐蔽！
+INFANTRY	HURT_2	德国步兵	Verwundete bergen! Stellung halten!	救出伤员！守住阵地！
+INFANTRY	HURT_3	德国步兵	Feuer von vorn! Abstände halten!	前方火力！保持间距！
+INFANTRY	MOVE	德国步兵	Truppweise vor! Abstand halten!	分队前进！保持间距！
+INFANTRY	MOVE_2	德国步兵	Wir rücken in die vordere Stellung.	我们向前沿阵地推进。
+ARTILLERY	DEPLOY	德国炮兵	Batterie in Stellung. Feuerauftrag wird erwartet.	炮兵连就位。等待射击任务。
+ARTILLERY	DEPLOY_2	德国炮兵	Geschütze eingerichtet. Entfernungsmesser bereit.	火炮架设完毕。测距仪就绪。
+ARTILLERY	DEPLOY_3	德国炮兵	Munition am Geschütz. Richtschütze meldet bereit.	弹药已送到炮位。瞄准手报告就绪。
+ARTILLERY	DEPLOY_4	德国炮兵	Beobachtung steht. Ziele können zugewiesen werden.	观察哨已建立。可以分配目标。
+ARTILLERY	DEPLOY_5	德国炮兵	Feuerstellung bezogen. Rohre sind frei.	进入射击阵地。炮口射界畅通。
+ARTILLERY	ATTACK	德国炮兵	Ziel eingerichtet. Batterie, Feuer!	目标诸元设定完毕。全连开火！
+ARTILLERY	ATTACK_2	德国炮兵	Granate geladen. Schuss!	炮弹已装填。放！
+ARTILLERY	ATTACK_3	德国炮兵	Feuer auf die markierte Stellung!	向标记阵地开火！
+ARTILLERY	HURT	德国炮兵	Einschläge am Geschütz! Bedienung in Deckung!	炮位附近有弹着！炮组隐蔽！
+ARTILLERY	HURT_2	德国炮兵	Batterie unter Feuer. Munition sichern!	炮兵连遭到攻击。保护弹药！
+ARTILLERY	HURT_3	德国炮兵	Treffer an der Stellung. Geschütz überprüfen!	阵地中弹。检查火炮！
+ARTILLERY	MOVE	德国炮兵	Aufprotzen! Neue Feuerstellung beziehen!	挂炮！转移到新炮位！
+ARTILLERY	MOVE_2	德国炮兵	Geschütze nach vorn. Bedienung folgt!	火炮前移。炮组跟上！
+TANK	DEPLOY	德国装甲部队	Panzer meldet sich. Motor läuft.	坦克报到。发动机运转中。
+TANK	DEPLOY_2	德国装甲部队	Besatzung vollständig. Fahrzeug einsatzbereit.	车组全员到齐。车辆可投入战斗。
+TANK	DEPLOY_3	德国装甲部队	Funk geprüft. Wir stehen in Bereitstellung.	无线电检查完毕。我们在待命位置。
+TANK	DEPLOY_4	德国装甲部队	Munition verstaut. Turm und Antrieb bereit.	弹药装载完毕。炮塔与传动系统就绪。
+TANK	DEPLOY_5	德国装甲部队	Panzer am Sammelpunkt. Warten auf Marschbefehl.	坦克抵达集结点。等待行进命令。
+TANK	ATTACK	德国装甲部队	Ziel im Visier. Feuer!	目标进入瞄准镜。开火！
+TANK	ATTACK_2	德国装甲部队	Turm ausrichten! Ziel bekämpfen!	转动炮塔！打击目标！
+TANK	ATTACK_3	德国装甲部队	Geladen! Schuss auf das Ziel!	装填完毕！向目标射击！
+TANK	HURT	德国装甲部队	Treffer an der Wanne! Schaden prüfen!	车体中弹！检查损伤！
+TANK	HURT_2	德国装甲部队	Wir werden beschossen. Front zum Feind!	我们遭到射击。正面对敌！
+TANK	HURT_3	德国装甲部队	Panzer getroffen. Besatzung meldet!	坦克中弹。各乘员报告！
+TANK	MOVE	德国装甲部队	Fahrer, vorwärts! Formation halten!	驾驶员，前进！保持队形！
+TANK	MOVE_2	德国装甲部队	Wir rollen zur Front. Flanken beobachten!	我们正驶向前线。注意两翼！
+AIR	DEPLOY	德国航空队	Staffel am Einsatzort. Wir erwarten Zielangaben.	中队到达任务空域。等待目标信息。
+AIR	DEPLOY_2	德国航空队	Funkverbindung klar. Verband einsatzbereit.	无线电联络清晰。编队准备就绪。
+AIR	DEPLOY_3	德国航空队	Einsatzhöhe erreicht. Luftraum wird beobachtet.	到达任务高度。正在监视空域。
+AIR	DEPLOY_4	德国航空队	Alle Maschinen in Formation. Bereit zum Einsatz.	各机已编队。可以执行任务。
+AIR	DEPLOY_5	德国航空队	Flugzeuge über dem Abschnitt. Zielzuweisung erbeten.	机群抵达指定区域上空。请求分配目标。
+AIR	ATTACK	德国航空队	Ziel voraus. Angriff einleiten!	目标就在前方。开始攻击！
+AIR	ATTACK_2	德国航空队	Im Anflug. Waffen frei!	正在接近目标。准许开火！
+AIR	ATTACK_3	德国航空队	Staffel, angreifen! Ziel festhalten!	中队，攻击！紧盯目标！
+AIR	HURT	德国航空队	Maschine getroffen! Fluglage halten!	飞机中弹！保持飞行姿态！
+AIR	HURT_2	德国航空队	Beschuss von unten. Ausweichen!	下方有火力。规避！
+AIR	HURT_3	德国航空队	Schaden am Flugzeug. Ich bleibe im Verband.	飞机受损。我仍在编队中。
+AIR	MOVE	德国航空队	Neuen Abschnitt anfliegen. Verband folgt!	飞往新的区域。编队跟上！
+AIR	MOVE_2	德国航空队	Kurs auf die Front. Höhe halten!	航向前线。保持高度！

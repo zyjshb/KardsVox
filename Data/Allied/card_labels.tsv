@@ -1,0 +1,1310 @@
+resource	origin	kind	original_title	chinese_title
+card_event_a_few_good_men	USA	EVENT	A FEW GOOD MEN	好人寥寥
+card_event_aa_barrage	Britain	EVENT	AA BARRAGE	防空弹幕
+card_event_aans	ANZAC	EVENT	NZANS	新西兰陆军护理队
+card_event_act_on_the_intel	Poland	EVENT	DZIAŁAĆ NA PODSTAWIE WYWIADU	见机行事
+card_event_active_sonar	Britain	EVENT	ACTIVE SONAR	主动声呐
+card_event_admiral_hipper	Germany	EVENT	KM ADMIRAL HIPPER	KM 希佩尔海军上将号
+card_event_advanced_reich_research	Germany	EVENT	FORTGESCHRITTENE REICHSFORSCHUNG	高级德意志帝国研发
+card_event_advanced_royal_research	Britain	EVENT	ADVANCED ROYAL RESEARCH	高级皇家研发
+card_event_advanced_us_research	USA	EVENT	ADVANCED US RESEARCH	高级美国研发
+card_event_aerial_reconaissance	Britain	EVENT	AERIAL RECONNAISSANCE	空中侦察
+card_event_against_the_odds	Britain	EVENT	AGAINST THE ODDS	迎难而上
+card_event_agency_africa	Poland	EVENT	AGENCJA AFRYKA	非洲情报局
+card_event_air_blitz	Germany	EVENT	LUFT-BLITZANGRIFF	空中闪击
+card_event_air_corps_ferrying	USA	EVENT	AIR CORPS FERRYING	航空兵团运输
+card_event_air_cover_us	USA	EVENT	AIR COVER	空中掩护
+card_event_air_defense	USA	EVENT	AIR DEFENSE	防空
+card_event_air_escort	Italy	EVENT	SCORTA AEREA	空中护航
+card_event_air_power	Britain	EVENT	AIR POWER	空军力量
+card_event_air_strips	Italy	EVENT	PISTE AVANZATE	跑道
+card_event_airdrop	Britain	EVENT	AIRDROP	空降
+card_event_airstrike_new	Germany	EVENT	LUFTSCHLAG	空袭
+card_event_allied_research_effort	USA	EVENT	ALLIED RESEARCH EFFORT	盟军研发成果
+card_event_alpenfestung	Germany	EVENT	ALPENFESTUNG	阿尔卑斯要塞
+card_event_ambush	France	EVENT	EMBUSCADE FLAMBOYANTE	猛烈伏击
+card_event_america_goes_to_war	USA	EVENT	AMERICA AT WAR	战时美利坚
+card_event_anders_army	Poland	EVENT	ARMIA ANDERSA	安德斯军团
+card_event_annihilation	Germany	EVENT	VERNICHTUNG	歼灭
+card_event_anzac_spirit	ANZAC	EVENT	THE ANZAC SPIRIT	澳新军团精神
+card_event_area_bombardment	Britain	EVENT	AREA BOMBARDMENT	区域轰炸
+card_event_armaments_eg	Britain	EVENT	ARMAMENTS	军备
+card_event_arming_resistance	France	EVENT	ARMER LA RÉSISTANCE	武装抵抗
+card_event_asw_patrol	USA	EVENT	ASW PATROL	反潜巡逻
+card_event_atlantic_convoy	Britain	EVENT	ATLANTIC CONVOY	大西洋护航队
+card_event_ats	Britain	EVENT	ATS	女子辅助军
+card_event_attack_in_the_colonies	Italy	EVENT	ATTACCO NELLE COLONIE	进攻殖民地
+card_event_attrition	USA	EVENT	ATTRITION	消耗战
+card_event_aunt_frieda	Germany	EVENT	TANTE FRIEDA	弗里达阿姨手册
+card_event_awoken_giant	USA	EVENT	AWOKEN GIANT	巨人苏醒
+card_event_baker_street_irregulars	Britain	EVENT	BAKER STREET IRREGULARS	贝克街分队
+card_event_battery	USA	EVENT	BATTERY	炮火支援
+card_event_battle_valor	USA	EVENT	BATTLE VALOR	勇气迸发
+card_event_betasom	Italy	EVENT	BETASOM	波尔多潜艇指挥部
+card_event_bismarck	Germany	EVENT	KM BISMARCK	KM 俾斯麦号
+card_event_blackout	Germany	EVENT	VERDUNKELUNG	灯火管制
+card_event_blast	Neutral	EVENT	BLAST	爆破
+card_event_bletchley_park	Britain	EVENT	BLETCHLEY PARK	布莱切利庄园
+card_event_blitz_doctrine	Germany	EVENT	BLITZ-DOKTRIN	闪击战法
+card_event_blitzkrieg	Germany	EVENT	BLITZKRIEG	闪电战
+card_event_blockade	Britain	EVENT	BLOCKADE	封锁
+card_event_bocage_warfare	USA	EVENT	BOCAGE WARFARE	篱墙之战
+card_event_bolster_the_ranks	USA	EVENT	BOLSTER THE RANKS	激励部队
+card_event_bomber_mafia	USA	EVENT	BOMBER MAFIA	轰炸机黑手党
+card_event_bomber_run_brit	Britain	EVENT	BOMBER RUN	轰炸航路
+card_event_bpf	Britain	EVENT	BPF	英国太平洋舰队
+card_event_breaking_point	Finland	EVENT	BREAKING POINT	临界点
+card_event_breakout	Britain	EVENT	BREAKOUT	突围
+card_event_breakthrough	Germany	EVENT	DURCHBRUCH	突破
+card_event_bridge_too_far	Germany	EVENT	A BRIDGE TOO FAR	遥远的桥
+card_event_brute_force	Italy	EVENT	FORZA BRUTA	蛮力
+card_event_buzz_bomb	Germany	EVENT	BUZZ BOMBE	嗡嗡炸弹
+card_event_bypass	Germany	EVENT	UMGEHUNG	迂回
+card_event_cadet_nurse_corps	USA	EVENT	CADET NURSE CORPS	军校护士团
+card_event_call_to_the_colonies	France	EVENT	APPEL AUX COLONIES	呼叫殖民地
+card_event_campaign_alamein1_flanking_maneuver	Germany	EVENT	FLANKENMANÖVER	侧翼机动
+card_event_campaign_alamein1_iron_fist	Germany	EVENT		
+card_event_campaign_alamein1_through_the_wire	Italy	EVENT	OLTRE LE BARRICATE	突破阵线
+card_event_campaign_alamein3_head_to_head	Germany	EVENT	PANZERRAMME	硬碰硬
+card_event_campaign_alamein3_riding_the_storm	Germany	EVENT	RITT AUF DEM STURM	乘风破浪
+card_event_campaign_alamein3_spring_the_reserves	Italy	EVENT	FUORI LE RISERVE	迅速储备
+card_event_campaign_guadalcanal2_base_defense	USA	EVENT	BASE DEFENSE	基地防御
+card_event_campaign_guadalcanal2_coastal_raid	USA	EVENT	COASTAL RAID	沿海突袭
+card_event_campaign_guadalcanal2_naval_patrol	USA	EVENT	NAVAL PATROLS	海军巡逻
+card_event_campaign_guadalcanal4_bomber_runway	USA	EVENT	BOMBER RUNWAY	轰炸机跑道
+card_event_campaign_guadalcanal4_marine_patrols	USA	EVENT	MARINE PATROLS	海陆巡逻
+card_event_campaign_guadalcanal4_naval_blockade	USA	EVENT	NAVAL BLOCKADE	海军封锁
+card_event_campaign_trail	USA	EVENT	CAMPAIGN TRAIL	战役路线
+card_event_campaign_tunis1_blade_force_arrives	USA	EVENT	BLADE FORCE ARRIVES	刀锋武力
+card_event_campaign_tunis1_commando_raid	Britain	EVENT	COMMANDO RAID	突击队袭击
+card_event_campaign_tunis1_french_reinforcement	France	EVENT	RENFORTS FRANÇAIS	法国援军
+card_event_campaign_tunis3_counterattack	USA	EVENT	COUNTERATTACK	反击
+card_event_campaign_tunis3_french_artillery	France	EVENT	ARTILLERIE FRANÇAISE	法国火炮
+card_event_campaign_tunis3_supply_intercepted	Britain	EVENT	SUPPLY INTERCEPTED	截获补给
+card_event_capitulation	Germany	EVENT	KAPITULATION	一触即溃
+card_event_careless_talk	Germany	EVENT	FEIND HÖRT MIT	无心漫谈
+card_event_carpet_bombing	Britain	EVENT	CARPET BOMBING	地毯式轰炸
+card_event_carrier_cover	USA	EVENT	CARRIER COVER	航母掩护
+card_event_case_blue	Germany	EVENT	FALL BLAU	蓝色方案
+card_event_case_yellow	Germany	EVENT	FALL GELB	黄色方案
+card_event_chain_home	Britain	EVENT	CHAIN HOME	本土链
+card_event_chasing_shadows	France	EVENT	POURSUIVRE DES OMBRES	捕风捉影
+card_event_claim_objective	Germany	EVENT	ZIEL EROBERN	夺取目标
+card_event_close_air_support	Britain	EVENT	CLOSE AIR SUPPORT	近距离空中支援
+card_event_close_call	Britain	EVENT	CLOSE CALL	千钧一发
+card_event_cobelligerents	Britain	EVENT	CO-BELLIGERENTS	战时盟国
+card_event_cold_trap	Finland	EVENT	COLD TRAP	极寒陷阱
+card_event_colonial_dreams	Italy	EVENT	SOGNI COLONIALI	殖民梦
+card_event_colossus	Britain	EVENT	COLOSSUS	巨人计算机
+card_event_combined_arms	Germany	EVENT	VEREINTE STREITKRÄFTE	协同作战
+card_event_combined_arms_cam1	Germany	EVENT	VEREINTE STREITKRÄFTE	协同作战
+card_event_combined_chiefs_of_staff	Britain	EVENT	COMBINED CHIEFS OF STAFF	参谋长联席会议
+card_event_commando_raid	Britain	EVENT	COMMANDO RAID	突击队突击
+card_event_committed_crew	Britain	EVENT	COMMITTED CREW	恪尽职守
+card_event_compromise	France	EVENT	COMPROMIS	妥协
+card_event_contest_doctrine	Germany	EVENT	WETTBEWERBS-DOKTRIN	竞争战法
+card_event_convoy_175	Britain	EVENT	CONVOY HX 175	HX 175 护航队
+card_event_convoy_attack	Italy	EVENT	ATTACCO AL CONVOGLIO	护航攻击
+card_event_corps_command	ANZAC	EVENT	CORPS COMMAND	军司令部
+card_event_counter_strike	USA	EVENT	COUNTER STRIKE	反袭
+card_event_creeping_barrage	Britain	EVENT	CREEPING BARRAGE	徐进弹幕
+card_event_critical_damage	Britain	EVENT	CRITICAL DAMAGE	致命伤害
+card_event_cross_of_lorraine	France	EVENT	CROIX DE LORRAINE	洛林十字
+card_event_crossfire	Germany	EVENT	KREUZFEUER	交叉火力
+card_event_cup_of_tea	Britain	EVENT	CUP OF TEA	一杯茶
+card_event_cup_of_tea_cam1	Britain	EVENT	CUP OF TEA	一杯茶
+card_event_dagger_has_struck	Italy	EVENT	IL PUGNALE COLPISCE	单刀直入
+card_event_daring_strike	Poland	EVENT	ŚMIAŁE UDERZENIE	英勇一击
+card_event_dark_deeds	Finland	EVENT	DARK DEEDS	阴谋
+card_event_daylight_bombing	Britain	EVENT	DAYLIGHT BOMBING	日间轰炸
+card_event_death_from_above	USA	EVENT	DEATH FROM ABOVE	死神降临
+card_event_decisive_defense	Italy	EVENT	DIFESA DECISIVA	关键防御
+card_event_decoy_tactics	Finland	EVENT	DECOY TACTICS	诱饵战术
+card_event_defend_in_depth	France	EVENT	DÉFENDRE EN PROFONDEUR	纵深防御
+card_event_defend_the_empire	France	EVENT	DÉFENDRE LA PATRIE	保家卫国
+card_event_delaying_tactics	Britain	EVENT	DELAYING TACTICS	拖延战术
+card_event_depot_raid	Finland	EVENT	DEPOT RAID	劫营
+card_event_depth_charges	USA	EVENT	DEPTH CHARGES	深水炸弹
+card_event_desert_dust	Britain	EVENT	DESERT DUST	沙尘满目
+card_event_desert_push	Italy	EVENT	AVANZATA NEL DESERTO	沙漠推进
+card_event_desert_push_cam1	Italy	EVENT	AVANZATA NEL DESERTO	沙漠推进
+card_event_desert_raid	Britain	EVENT	DESERT RAID	沙漠突袭
+card_event_desert_rats	Britain	EVENT	THE DESERT RATS	沙漠之鼠
+card_event_desert_rats_cam1	Britain	EVENT	THE DESERT RATS	沙漠之鼠
+card_event_detailed_recon	Germany	EVENT	DETAILLIERTE AUFKLÄRUNG	周密侦察
+card_event_dilemma	Britain	EVENT	DILEMMA	两难困境
+card_event_direct_hit	USA	EVENT	DIRECT HIT	直接命中
+card_event_dive_bombing	Germany	EVENT	STURZKAMPF	俯冲轰炸
+card_event_double_strength	Britain	EVENT	DOUBLE STRENGTH	双倍力量
+card_event_dowding_system	Britain	EVENT	DOWDING SYSTEM	道丁系统
+card_event_duress	USA	EVENT	DURESS	胁迫
+card_event_eagle_claws	Germany	EVENT	ADLERKLAUEN	鹰爪
+card_event_eagle_day	Germany	EVENT	ADLERTAG	鹰日计划
+card_event_eastern_front	Italy	EVENT	IL FRONTE ORIENTALE	东线边界
+card_event_echelon	Britain	EVENT	ECHELON	梯队
+card_event_embargo	USA	EVENT	EMBARGO	禁止通商
+card_event_emergency_measures	Britain	EVENT	EMERGENCY MEASURES	紧急措施
+card_event_encirclement	Germany	EVENT	EINKREISUNG	包围
+card_event_enemy_contact	Britain	EVENT	ENEMY CONTACT	逢敌
+card_event_enemy_sighted	Germany	EVENT	FEINDSICHTUNG	目击敌人
+card_event_enemy_spotted	USA	EVENT	ENEMY SPOTTED	发现敌人
+card_event_enigma	Germany	EVENT	ENIGMA	恩尼格玛
+card_event_entanglement	Britain	EVENT	ENTANGLEMENT	障碍
+card_event_entrapment	Germany	EVENT	EINKESSELUNG	圈套
+card_event_entrenched	Britain	EVENT	ENTRENCHED	深沟固垒
+card_event_envelop	Germany	EVENT	UMHÜLLEN	合围
+card_event_escaut_plan	France	EVENT	PLAN ESCAUT	埃斯科计划
+card_event_escort_group	Britain	EVENT	ESCORT GROUP	护航船队
+card_event_evasive_action	Britain	EVENT	EVASIVE ACTION	规避动作
+card_event_exiled_forces	Poland	EVENT	SIŁY NA UCHODŹSTWIE	流亡部队
+card_event_expanded_reich_research	Germany	EVENT	ERWEITERTE REICHSFORSCHUNG	扩展德意志帝国研发
+card_event_expanded_royal_research	Britain	EVENT	EXPANDED ROYAL RESEARCH	扩展皇家研发
+card_event_expanded_us_research	USA	EVENT	EXPANDED US RESEARCH	扩展美国研发
+card_event_exploit_the_gap	Germany	EVENT	EINE BRESCHE SCHLAGEN	扩大优势
+card_event_fast_heinz	Germany	EVENT	SCHNELLER HEINZ	古德里安
+card_event_field_hospital	USA	EVENT	FIELD HOSPITAL	野战医院
+card_event_fighter_frieda	Germany	EVENT	LUFTUNTERSTÜTZUNG	空中支援
+card_event_finest_hour	Britain	EVENT	FINEST HOUR	最光辉的时刻
+card_event_firebomb	USA	EVENT	FIREBOMB	燃烧弹
+card_event_firewall	USA	EVENT	FIREWALL	防火墙
+card_event_first_responders	Britain	EVENT	FIRST RESPONDERS	第一响应
+card_event_first_to_fight	Poland	EVENT	PIERWSI W WALCE	冲锋在前
+card_event_fliegerfuhrer_atlantik	Germany	EVENT	FLIEGERFÜHRER ATLANTIK	大西洋航空指挥部
+card_event_focused_attack_ger	Germany	EVENT	FOKUSSIERTER ANGRIFF	集中攻击
+card_event_fog_of_war	Britain	EVENT	FOG OF WAR	战争迷雾
+card_event_foiled_plans	Germany	EVENT	VEREITELTE PLÄNE	轻虑浅谋
+card_event_for_freedom	USA	EVENT	FOR FREEDOM	为了自由
+card_event_for_precision_bombing	Britain	EVENT	PRECISION BOMBING	精准轰炸
+card_event_for_the_king	Britain	EVENT	FOR THE KING	为了国王
+card_event_fortification	Britain	EVENT	FORTIFICATION	防御工事
+card_event_fortified_position	France	EVENT	POSITION FORTIFIÉE	加固阵地
+card_event_fortified_position_cam1	France	EVENT	POSITION FORTIFIÉE	加固阵地
+card_event_fortunes_of_war	USA	EVENT	FORTUNES OF WAR	战争财
+card_event_forward_base_anzac	ANZAC	EVENT	FORWARD BASE	前沿基地
+card_event_forward_observers	Britain	EVENT	FORWARD OBSERVERS	前进观察员
+card_event_frappe	France	EVENT	FRAPPE	攻击
+card_event_free_french_navy	France	EVENT	FNFL	自由法国海军
+card_event_french_alliance	France	EVENT	ALLIÉS OCCIDENTAUX	西方盟友
+card_event_fresh_recruits	USA	EVENT	FRESH RECRUITS	新兵入伍
+card_event_friendly_fire_fin	Finland	EVENT	FRIENDLY FIRE	误伤
+card_event_from_the_deep	Germany	EVENT	AUS DEN TIEFEN	来自深处
+card_event_front_and_homeland	Germany	EVENT	FRONT UND HEIMAT	前线与家乡
+card_event_frontal_defense	Poland	EVENT	OBRONA PRZEDNIA	正面防御
+card_event_frozen_assets	Finland	EVENT	FROZEN ASSETS	强制冻结
+card_event_furor	USA	EVENT	FUROR	狂怒
+card_event_gathering_storm	Germany	EVENT	KRAFT SAMMELN	风暴前夕
+card_event_german_counterattack	Germany	EVENT	GEGENANGRIFF	反击
+card_event_glide_bombing	Germany	EVENT	GLEITBOMBARDEMENT	滑翔轰炸
+card_event_grim_day	USA	EVENT	GRIM DAY	朝不保夕
+card_event_grounded	Britain	EVENT	GROUNDED	停飞
+card_event_guerilla_warfare_school	ANZAC	EVENT	GUERILLA WARFARE SCHOOL	游击战学校
+card_event_gunship	USA	EVENT	GUNSHIP MISSION	炮艇任务
+card_event_hammer_home	Poland	EVENT	TRAFIĆ W SEDNO	捷报传乡
+card_event_happy_time	Germany	EVENT	GLÜCKLICHE ZEIT	美好时光
+card_event_harass	Germany	EVENT	STÖRUNGSFEUER	侵扰
+card_event_heartland_defense	Finland	EVENT	HEARTLAND DEFENSE	腹地防御
+card_event_hel	Poland	EVENT	HEL	海尔要塞
+card_event_hell_on_wheels	USA	EVENT	HELL ON WHEELS	地狱之轮
+card_event_hidden_plans	USA	EVENT	HIDDEN PLANS	保密计划
+card_event_high_altitude_bombing	USA	EVENT	HIGH ALTITUDE BOMBING	高空轰炸
+card_event_his_majesty_chosen	Britain	EVENT	HIS MAJESTY'S CHOSEN	皇家旨意
+card_event_hit_the_drop_point	Germany	EVENT	TRIFF DIE LANDEZONE	袭击落点
+card_event_hmas_warramunga	ANZAC	EVENT	HMAS WARRAMUNGA	HMAS 瓦拉孟加号
+card_event_hms_belfast	Britain	EVENT	HMS BELFAST	HMS 贝尔法斯特号
+card_event_hms_formidable	Britain	EVENT	HMS FORMIDABLE	HMS 可畏号
+card_event_hms_hermes	Britain	EVENT	HMS HERMES	HMS 竞技神号
+card_event_hms_illustrious	Britain	EVENT	HMS ILLUSTRIOUS	HMS 光辉号
+card_event_hms_spectre	Britain	EVENT	HMS SCEPTRE	HMS 权杖号
+card_event_hms_talbot	Britain	EVENT	HMS TALBOT	HMS 塔尔伯特
+card_event_hold_the_line	Poland	EVENT	UTRZYMAĆ LINIĘ	坚守阵线
+card_event_home_guard	Britain	EVENT	HOME GUARD	国土警卫队
+card_event_honor_and_loyalty	France	EVENT	HONNEUR ET FIDÉLITÉ	荣誉与忠诚
+card_event_in_hour_of_need	USA	EVENT	IN HOUR OF NEED	战争需要
+card_event_in_the_navy	USA	EVENT	IN THE NAVY	海军服役
+card_event_industrial_might	USA	EVENT	INDUSTRIAL MIGHT	工业力量
+card_event_infiltrate	Britain	EVENT	INFILTRATE	渗透
+card_event_ingenuity	Britain	EVENT	INGENUITY	革新
+card_event_interception	Britain	EVENT	INTERCEPTION	拦截
+card_event_iron_from_the_north	Germany	EVENT	EISEN AUS DEM NORDEN	北方铁矿
+card_event_island_hopping_elit	USA	EVENT	ISLAND HOPPING	跳岛战术
+card_event_italian_human_torpedo	Italy	EVENT	SILURO A LENTA CORSA	人控鱼雷
+card_event_joint_operation	Germany	EVENT	GEMEINSCHAFTSOPERATION	联合行动
+card_event_joint_operation_cam1	Germany	EVENT	GEMEINSCHAFTSOPERATION	联合行动
+card_event_kangaroo_transport	Britain	EVENT	KANGAROO TRANSPORT	袋鼠运输
+card_event_kettenkrad_home	Germany	EVENT	KETTENKRAD	轻型履带摩托车
+card_event_kriegsmarine	Germany	EVENT	KRIEGSMARINE	战争海军
+card_event_land_of_the_free	USA	EVENT	LAND OF THE FREE	自由之地
+card_event_lend_lease	Britain	EVENT	LEND LEASE	租借法案
+card_event_liberation	France	EVENT	LIBÉRATION	解放
+card_event_lightning_strike	Germany	EVENT	BLITZSCHLAG	闪电袭击
+card_event_lion_for_a_day	Italy	EVENT	UN GIORNO DA LEONE	一日之狮
+card_event_long_range_desert_group	Britain	EVENT	LONG RANGE DESERT GROUP	长距离沙漠群
+card_event_lost_convoy	Germany	EVENT	VERSENKTER GELEITZUG	护航覆灭
+card_event_lotta_svard	Finland	EVENT	LOTTA SVÄRD	洛塔组织
+card_event_lure	Britain	EVENT	LURE	诱敌
+card_event_lurking_danger	Germany	EVENT	LAUERNDE GEFAHR	潜在危险
+card_event_lysander_pl	Poland	EVENT	LYSANDER PL	莱桑德 PL
+card_event_maelstrom	Germany	EVENT	MAHLSTROM	大混战
+card_event_magic	USA	EVENT	MAGIC	魔法
+card_event_maginot_line	France	EVENT	LIGNE MAGINOT	马奇诺防线
+card_event_manhattan_project	USA	EVENT	MANHATTAN PROJECT	曼哈顿计划
+card_event_manpower	USA	EVENT	MANPOWER	人力
+card_event_mare_nostrum	Italy	EVENT	MARE NOSTRUM	我们的海
+card_event_mass_deployment	USA	EVENT	MASS DEPLOYMENT	大规模部署
+card_event_materials_eg	Britain	EVENT	MATERIALS	原料
+card_event_mayhem	USA	EVENT	MAYHEM	骚乱
+card_event_med_raid	Italy	EVENT	RAID MEDITERRANEO	地中海突袭
+card_event_merchant_navy	Britain	EVENT	THE MERCHANT NAVY	商船队
+card_event_mi_5	Britain	EVENT	MI5	军情五处
+card_event_minor_nation_conquest	Germany	EVENT	NEBENLAND-ANNEXION	征服
+card_event_missing	Germany	EVENT	VERSCHOLLEN	失踪
+card_event_mobilization	USA	EVENT	MOBILIZATION	动员
+card_event_molotov_cocktail_fin	Finland	EVENT	MOLOTOV COCKTAIL	莫洛托夫鸡尾酒
+card_event_momentum	Germany	EVENT	MOMENTUM	破竹之势
+card_event_monsoon_rot	Britain	EVENT	MONSOON ROT	季风侵袭
+card_event_monty	Britain	EVENT	MONTY	蒙哥马利
+card_event_motti_tactic	Finland	EVENT	MOTTI TACTIC	柴堆战术
+card_event_mountain_offense	Germany	EVENT	GEBIRGSOFFENSIVE	山地攻势
+card_event_national_fire_service	Britain	EVENT	NATIONAL FIRE SERVICE	国家消防局
+card_event_national_resistance_council	France	EVENT	CNR	全国抵抗委员会
+card_event_national_service_home	Britain	EVENT	NATIONAL SERVICE	国民服役
+card_event_naval_battle	USA	EVENT	NAVAL BATTLE	海战
+card_event_naval_bombardment	USA	EVENT	NAVAL BOMBARDMENT	海军轰炸
+card_event_naval_bombardment_cam1	USA	EVENT	NAVAL BOMBARDMENT	海军轰炸
+card_event_naval_engagement	Italy	EVENT	INGAGGIO NAVALE	海军交战
+card_event_naval_power	Britain	EVENT	NAVAL POWER	海军力量
+card_event_naval_support	Britain	EVENT	NAVAL SUPPORT	海军支援
+card_event_naval_task_force	USA	EVENT	NAVAL TASK FORCE	海军特遣队
+card_event_night_attack	Germany	EVENT	NACHTANGRIFF	夜间攻击
+card_event_night_bombing	USA	EVENT	NIGHT BOMBING	夜间轰炸
+card_event_night_patrol	USA	EVENT	NIGHT PATROL	黑夜巡视
+card_event_night_raid	Britain	EVENT	NIGHT RAID	夜袭
+card_event_observer_corps	Britain	EVENT	OBSERVER CORPS	观察团
+card_event_old_hares	Germany	EVENT	ALTE HASEN	老兔子
+card_event_order_of_the_day	Finland	EVENT	ORDER OF THE DAY	动员令
+card_event_orp_blyskawica	Poland	EVENT	ORP BŁYSKAWICA	ORP 闪电号
+card_event_orp_general_haller	Poland	EVENT	ORP GENERAŁ HALLER	ORP 哈勒将军号
+card_event_orp_orzel	Poland	EVENT	ORP ORZEŁ	ORP 鹰号
+card_event_overcast	USA	EVENT	OVERCAST	阴云密布
+card_event_overrun	Britain	EVENT	OVERRUN	横扫千军
+card_event_overwhelming_force	USA	EVENT	OVERWHELMING FORCE	势不可挡
+card_event_pact_of_steel	Italy	EVENT	PATTO D’ACCIAIO	钢铁条约
+card_event_pams	Britain	EVENT	PAMS	警察辅助信使队
+card_event_parachute_assault	USA	EVENT	PARACHUTE ASSAULT	伞降突袭
+card_event_partnership	Britain	EVENT	PARTNERSHIP	合作关系
+card_event_patriotic_zeal	USA	EVENT	PATRIOTIC ZEAL	爱国热忱
+card_event_patrol	USA	EVENT	PATROL	巡逻队
+card_event_patton	USA	EVENT	PATTON	巴顿
+card_event_penicillin	USA	EVENT	PENICILLIN	青霉素
+card_event_phoney_war	France	EVENT	DRÔLE DE GUERRE	假战
+card_event_pilot_escape	Poland	EVENT	EWAKUACJA PILOTA	异乡之翼
+card_event_plan	Neutral	EVENT	PLAN	计划
+card_event_plan_d	France	EVENT	PLAN DYLE	迪勒计划
+card_event_plan_west	Poland	EVENT	PLAN ZACHÓD	西线计划
+card_event_planned_attack	Britain	EVENT	PLANNED ATTACK	预定攻势
+card_event_pontoon_bridge	USA	EVENT	PONTOON BRIDGE	浮桥
+card_event_pound	Britain	EVENT	POUND	重击
+card_event_pressurized_cabin	USA	EVENT	PRESSURIZED CABIN	加压舱
+card_event_prinz_eugen	Germany	EVENT	KM PRINZ EUGEN	KM 欧根亲王号
+card_event_production	Neutral	EVENT	PRODUCTION	生产
+card_event_production_order	USA	EVENT	PRODUCTION ORDER	生产令
+card_event_prolonged_siege	Finland	EVENT	PROLONGED SIEGE	长久围困
+card_event_propaganda	Germany	EVENT	PROPAGANDA	战争宣传
+card_event_protect_the_pocket	Germany	EVENT	SCHÜTZT DEN KESSEL	困兽犹斗
+card_event_protected_convoy	Britain	EVENT	PROTECTED CONVOY	护送航运
+card_event_provence_landing	France	EVENT	DÉBARQUEMENT DE PROVENCE	普罗旺斯登陆
+card_event_pummel	Germany	EVENT	SPERRFEUER	炮火连击
+card_event_punish	Poland	EVENT	WYMIERZYĆ KARĘ	严惩
+card_event_pursuit	Germany	EVENT	VERFOLGUNG	追击
+card_event_quinine	USA	EVENT	QUININE	奎宁
+card_event_radar	Britain	EVENT	RADAR	雷达
+card_event_radar_alert	Britain	EVENT	RADAR ALERT	雷达警报
+card_event_raid	Britain	EVENT	RAID	奇袭
+card_event_rain1_mist	Neutral	EVENT	MIST	薄雾
+card_event_rain2_deluge	Neutral	EVENT	DELUGE	暴雨
+card_event_rain2_deluge2	Neutral	EVENT	DELUGE	暴雨
+card_event_rain2_deluge3	Neutral	EVENT	DELUGE	暴雨
+card_event_rain3_torrential_rain	Neutral	EVENT	TORRENTIAL RAIN	骤雨
+card_event_rain3_torrential_rain2	Neutral	EVENT	TORRENTIAL RAIN	骤雨
+card_event_rain3_torrential_rain3	Neutral	EVENT	TORRENTIAL RAIN	骤雨
+card_event_rain4_monsoon_rain	Neutral	EVENT	MONSOON RAIN	季风雨
+card_event_rain4_monsoon_rain2	Neutral	EVENT	MONSOON RAIN	季风雨
+card_event_rain4_monsoon_rain3	Neutral	EVENT	MONSOON RAIN	季风雨
+card_event_rally	Germany	EVENT	VERSAMMELN	重整旗鼓
+card_event_rally_caledonia	France	EVENT	RALLIER LA NOUVELLE-CALÉDONIE	喀里多尼亚归附
+card_event_rapid_engagement	Germany	EVENT	SCHNELLER ANGRIFF	迅速交战
+card_event_rapid_response	Poland	EVENT	SZYBKA ODPOWIEDŹ	迅速响应
+card_event_rationing	USA	EVENT	RATIONING	配给制
+card_event_recuperation	Germany	EVENT	REKUPERATION	休养
+card_event_refit_bia	Britain	EVENT	REFIT	整修
+card_event_regia_aeronautica	Italy	EVENT	REGIA AERONAUTICA	意大利皇家空军
+card_event_regia_marina	Italy	EVENT	REGIA MARINA	意大利皇家海军
+card_event_reich_defenders	Germany	EVENT	AFRIKAKORPS	非洲军团
+card_event_reich_research	Germany	EVENT	REICHSFORSCHUNG	德意志帝国研发
+card_event_reichsbank	Germany	EVENT	REICHSBANK	德意志帝国银行
+card_event_reinforcements	Germany	EVENT	VERSTÄRKUNG	增援
+card_event_reinforcements_cam1	Germany	EVENT	VERSTÄRKUNG	增援
+card_event_repel_the_attack	ANZAC	EVENT	REPEL THE ATTACK	击退进攻
+card_event_rescue_mission	Britain	EVENT	RESCUE MISSION	营救任务
+card_event_resistance	France	EVENT	RÉSISTANCE	抵抗
+card_event_resistance_new	France	EVENT	RÉSISTANCE	抵抗
+card_event_resolute_defense	Britain	EVENT	RESOLUTE DEFENSE	坚决守护
+card_event_resourcefulness	Britain	EVENT	RESOURCEFULNESS	足智多谋
+card_event_retaliation	Germany	EVENT	VERGELTUNG	复仇
+card_event_retribution	USA	EVENT	OUTRAGE	激怒
+card_event_retribution1	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution10	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution12	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution13	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution2	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution3	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution4	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution5	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution6	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution7	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution8	USA	EVENT	RETRIBUTION	惩戒
+card_event_retribution9	USA	EVENT	RETRIBUTION	惩戒
+card_event_ride_of_the_valkyries	Germany	EVENT	RITT DER WALKÜREN	女武神的骑行
+card_event_rm_bersaglieri	Italy	EVENT	RM BERSAGLIERE	RM 神射手号
+card_event_rm_roma	Italy	EVENT	RM ROMA	RM 罗马号
+card_event_romanian_bridgehead	Poland	EVENT	PRZEDMOŚCIE RUMUŃSKIE	罗马尼亚桥头堡
+card_event_root_out_the_enemy	Germany	EVENT	DEN FEIND AUSMERZEN	斩草除根
+card_event_rout	Germany	EVENT	AUSLÖSCHEN	溃敌
+card_event_royal_research	Britain	EVENT	ROYAL RESEARCH	皇家研发
+card_event_rule_britannia	Britain	EVENT	RULE BRITANNIA	统治吧！不列颠尼亚！
+card_event_run_the_battlefield	Germany	EVENT	DAS SCHLACHTFELD BEHERRSCHEN	掌控战场
+card_event_rush_production	Germany	EVENT	EILPRODUKTION	加急生产
+card_event_saar_probe	France	EVENT	OFFENSIVE DE LA SARRE	萨尔攻势
+card_event_sabotage	France	EVENT	SABOTAGE	毁坏
+card_event_sally	France	EVENT	CHASSE	出动
+card_event_salpa_line	Finland	EVENT	SALPA LINE	萨尔帕防线
+card_event_scatter_tactics	Germany	EVENT	STREUTAKTIK	分散战术
+card_event_scrap_metal	Finland	EVENT	SCRAP METAL	金属废料
+card_event_screening_force	USA	EVENT	SCREENING FORCE	掩护部队
+card_event_sea_embargo	Britain	EVENT	SEA EMBARGO	海运禁令
+card_event_sea_hunters	Germany	EVENT	NACHTJÄGER	暗夜猎手
+card_event_sea_patrol	Britain	EVENT	SEA PATROL	海上巡逻
+card_event_seaborne_invasion	USA	EVENT	SEABORNE INVASION	海上入侵
+card_event_seac	Britain	EVENT	SEAC	东南亚司令部
+card_event_second_chance	Britain	EVENT	SECOND CHANCE	第二次机会
+card_event_second_front	Germany	EVENT	ZWEITE FRONT	第二战线
+card_event_secret_operatives	Britain	EVENT	SECRET OPERATIVES	秘密特工
+card_event_section_ii	Poland	EVENT	SEKCJA II	总参二局
+card_event_semper_fi	USA	EVENT	SEMPER FI	永远忠诚
+card_event_shelling	Britain	EVENT	SHELLING	炮击
+card_event_shifting_attack	Germany	EVENT	ANGRIFF VERSCHIEBEN	转变攻击
+card_event_shore_bombardment	USA	EVENT	SHORE BOMBARDMENT	对岸轰炸
+card_event_sincerely_yours	Britain	EVENT	SINCERELY YOURS	诚挚问候
+card_event_sisu	Finland	EVENT	SISU	西苏精神
+card_event_ski_troops	Finland	EVENT	SKI TROOPS	滑雪部队
+card_event_sky_barons	Germany	EVENT	HIMMELSBARONE	空中男爵
+card_event_sniped	USA	EVENT	SNIPED	阻击
+card_event_sortie	France	EVENT	SORTIE	出击
+card_event_spars	USA	EVENT	SPARS	妇女预备队
+card_event_special_assignment	USA	EVENT	SPECIAL ASSIGNMENT	特别任务
+card_event_special_delivery_us	USA	EVENT	SPECIAL DELIVERY	特快专递
+card_event_spirit_of_rome	Italy	EVENT	SPIRITO DI ROMA	罗马精神
+card_event_spoils_of_war	Germany	EVENT	KRIEGSBEUTE	战利品
+card_event_spring_offensive	Italy	EVENT	OFFENSIVA DI PRIMAVERA	春季攻势
+card_event_stars_n_stripes	USA	EVENT	STARS & STRIPES	星条旗
+card_event_stiff_upper_lip	Britain	EVENT	STIFF UPPER LIP	咬紧牙关
+card_event_storm1_gale	Neutral	EVENT	GALE	狂风
+card_event_storm2_thunderstorm	Neutral	EVENT	THUNDERSTORM	雷暴
+card_event_storm2_thunderstorm2	Neutral	EVENT	THUNDERSTORM	雷暴
+card_event_storm2_thunderstorm3	Neutral	EVENT	THUNDERSTORM	雷暴
+card_event_storm3_tropical_storm	Neutral	EVENT	TROPICAL STORM	热带风暴
+card_event_storm3_tropical_storm2	Neutral	EVENT	TROPICAL STORM	热带风暴
+card_event_storm3_tropical_storm3	Neutral	EVENT	TROPICAL STORM	热带风暴
+card_event_storm4_cyclone	Neutral	EVENT	CYCLONE	旋风
+card_event_storm4_cyclone2	Neutral	EVENT	CYCLONE	旋风
+card_event_storm4_cyclone3	Neutral	EVENT	CYCLONE	旋风
+card_event_strafing	USA	EVENT	STRAFING	低空扫射
+card_event_stranglehold	Germany	EVENT	WÜRGEGRIFF	截断
+card_event_strategic_bombing	USA	EVENT	STRATEGIC BOMBING	战略轰炸
+card_event_strategic_planning	USA	EVENT	STRATEGIC PLANNING	战略规划
+card_event_stretch_the_line	Poland	EVENT	ROZCIĄGNĄĆ LINIĘ	延长战线
+card_event_strike_from_the_forest	Finland	EVENT	STRIKE FROM THE WOODS	林间袭击
+card_event_strike_group	USA	EVENT	STRIKE GROUP	航母打击群
+card_event_strong_bond	Britain	EVENT	STRONG BOND	戮力同心
+card_event_stubborn_defense	Poland	EVENT	NIEUSTĘPLIWA OBRONA	殊死防守
+card_event_sudden_strike	Germany	EVENT	PLÖTZLICHER LUFTSCHLAG	突然袭击
+card_event_sunny1_blue_sky	Neutral	EVENT	BLUE SKY	蓝天
+card_event_sunny2_heatwave	Neutral	EVENT	HEATWAVE	热浪
+card_event_sunny2_heatwave2	Neutral	EVENT	HEATWAVE	热浪
+card_event_sunny2_heatwave3	Neutral	EVENT	HEATWAVE	热浪
+card_event_sunny3_jungle_fever	Neutral	EVENT	JUNGLE FEVER	丛林热
+card_event_sunny3_jungle_fever2	Neutral	EVENT	JUNGLE FEVER	丛林热
+card_event_sunny3_jungle_fever3	Neutral	EVENT	JUNGLE FEVER	丛林热
+card_event_sunny4_scorching_sun	Neutral	EVENT	SCORCHING SUN	骄阳
+card_event_sunny4_scorching_sun2	Neutral	EVENT	SCORCHING SUN	骄阳
+card_event_sunny4_scorching_sun3	Neutral	EVENT		
+card_event_supply_chain	USA	EVENT	SUPPLY CHAIN	供应链
+card_event_supply_drop	Britain	EVENT	SUPPLY DROP	空投补给
+card_event_supply_front	USA	EVENT	SUPPLY FRONT	前线补给
+card_event_supply_priorities	USA	EVENT	SUPPLY PRIORITIES	补给优先
+card_event_supply_shipment	USA	EVENT	SUPPLY SHIPMENT	运输补给
+card_event_supply_shipment_cam1	USA	EVENT	SUPPLY SHIPMENT	运输补给
+card_event_supply_shortage	Britain	EVENT	SUPPLY SHORTAGE	物资短缺
+card_event_support_column	Germany	EVENT	NACHSCHUBKOLONNE	支援纵队
+card_event_suppression_fire	Germany	EVENT	UNTERSTÜTZUNG	抑制
+card_event_surging_power	USA	EVENT	SURGING POWER	澎湃力量
+card_event_surprise_engagement	USA	EVENT	SURPRISE ENGAGEMENT	突发交战
+card_event_sustained_pressure	Germany	EVENT	ANHALTENDER DRUCK	持续施压
+card_event_swift_response	USA	EVENT	SWIFT RESPONSE	快速响应
+card_event_synthetic_oil	Germany	EVENT	SYNTHETIKÖL	合成机油
+card_event_synthetic_rubber	Britain	EVENT	SYNTHETIC RUBBER	合成橡胶
+card_event_tactical_retreat	Germany	EVENT	GEORDNETER RÜCKZUG	暂避锋芒
+card_event_tactical_strike	Germany	EVENT	TAKTISCHER LUFTSCHLAG	战术打击
+card_event_tactical_withdrawal	Britain	EVENT	TACTICAL WITHDRAWAL	战术撤退
+card_event_tank_frieda	Germany	EVENT	PANZERMANÖVER	坦克机动
+card_event_tank_wedge	Germany	EVENT	PANZERKEIL	装甲楔形阵
+card_event_task_force_44	ANZAC	EVENT	TASK FORCE 44	第 44 特混舰队
+card_event_test_resistance2	France	EVENT	VIVE LA RÉSISTANCE !	抵抗万岁！
+card_event_the_alliance	USA	EVENT	THE ALLIANCE	同盟国
+card_event_the_big_three	USA	EVENT	THE BIG THREE	三巨头
+card_event_the_commonwealth	Britain	EVENT	THE COMMONWEALTH	英联邦
+card_event_the_double_sunrise	ANZAC	EVENT	THE DOUBLE SUNRISE	双日出航线
+card_event_the_empire	Britain	EVENT	THE EMPIRE STRIKES	帝国进击
+card_event_the_land_girls	Britain	EVENT	THE LAND GIRLS	土地女孩
+card_event_the_rock_of_gibraltar	Britain	EVENT	THE ROCK OF GIBRALTAR	直布罗陀巨岩
+card_event_the_war_machine	USA	EVENT	THE WAR MACHINE	战争机器
+card_event_through_the_breach	Germany	EVENT	DURCH DIE BRESCHE	乘虚而入
+card_event_through_the_ice	Finland	EVENT	THROUGH THE ICE	步履薄冰
+card_event_timely_supplies	Britain	EVENT	TIMELY SUPPLIES	及时补给
+card_event_tip_of_the_spear	Germany	EVENT	SPITZE DES SPEERS	矛尖
+card_event_tirpitz	Germany	EVENT	KM TIRPITZ	KM 提尔皮茨号
+card_event_torpedo_attack	USA	EVENT	TORPEDO ATTACK	鱼雷攻击
+card_event_type_xxi_boat	Germany	EVENT	U-BOOT-KLASSE XXI	XXI 级 U 型潜艇
+card_event_u_16	Germany	EVENT	U-16	U-16
+card_event_u_375	Germany	EVENT	U-375	U-375
+card_event_u_99	Germany	EVENT	U-48	U-48
+card_event_ultra	Britain	EVENT	ULTRA	ULTRA
+card_event_uncle_sam	USA	EVENT	UNCLE SAM	山姆大叔
+card_event_underground_state	Poland	EVENT	PAŃSTWO PODZIEMNE	地下国
+card_event_unexpected_resistance	Britain	EVENT	UNEXPECTED RESISTANCE	意外反抗
+card_event_united_we_stand	USA	EVENT	UNITED WE STAND	团结则存
+card_event_unity_is_strength	USA	EVENT	UNITY IS STRENGTH	团结就是力量
+card_event_unity_is_strength_cam1	USA	EVENT	UNITY IS STRENGTH	团结就是力量
+card_event_uprising	Poland	EVENT	POWSTANIE	起义
+card_event_uranium_club	Germany	EVENT	URANPROJEKT	铀工程
+card_event_us_military_research	USA	EVENT	US MILITARY RESEARCH	美国军事研发
+card_event_us_weather_bureau	USA	EVENT	US WEATHER BUREAU	美国气象局
+card_event_usaaf	USA	EVENT	USAAF	美国陆军航空队
+card_event_usace	USA	EVENT	USACE	陆军工程兵团
+card_event_uss_arcfish	USA	EVENT	USS ARCHERFISH	USS 射水鱼号
+card_event_uss_fitch	USA	EVENT	USS FITCH	USS 菲奇号
+card_event_uss_missouri	USA	EVENT	USS MISSOURI	USS 密苏里号
+card_event_uss_sullivans	USA	EVENT	USS THE SULLIVANS	USS 沙利文兄弟号
+card_event_uss_yorktown	USA	EVENT	USS YORKTOWN	USS 约克城号
+card_event_v1_flying_bomb	Germany	EVENT	FLIEGENDE BOMBE V1	V-1 飞行炸弹
+card_event_vanguard_ita	Italy	EVENT	AVANGUARDIA	先峰
+card_event_vicious_salvo	USA	EVENT	VICIOUS SALVO	激烈齐射
+card_event_victory_garden	USA	EVENT	VICTORY GARDEN	胜利花园
+card_event_victory_march	USA	EVENT	VICTORY MARCH	胜利进军
+card_event_war_bonds	USA	EVENT	WAR BONDS	战争债券
+card_event_wave_after_wave	Britain	EVENT	WAVE AFTER WAVE	高潮迭起
+card_event_we_can_do_it	USA	EVENT	WE CAN DO IT!	我们能做到！
+card_event_white_death	Finland	EVENT	THE WHITE DEATH	白色死神
+card_event_wolfpack	Germany	EVENT	RUDELTAKTIK	狼群战术
+card_event_women_at_work	USA	EVENT	WOMEN AT WORK	半边天
+card_event_yank_the_army_weekly	USA	EVENT	YANK	洋基周刊
+card_event_your_courage	Britain	EVENT	YOUR COURAGE	你的勇气
+card_event_z_special_unit	ANZAC	EVENT	Z SPECIAL UNIT	Z 队
+card_event_zamosc_uprising	Poland	EVENT	POWSTANIE ZAMOJSKIE	扎莫希奇起义
+card_location_ai_german_unlock1	Germany	LOCATION		
+card_location_ai_german_unlock1_tut	Germany	LOCATION		
+card_location_ai_german_unlock2	Germany	LOCATION		
+card_location_ai_german_unlock2_tut	Germany	LOCATION		
+card_location_ai_german_unlock3	Germany	LOCATION		
+card_location_ai_german_unlock3_tut	Germany	LOCATION		
+card_location_ai_german_unlock4	Germany	LOCATION		
+card_location_ai_german_unlock4_tut	Germany	LOCATION		
+card_location_ai_german_unlock5	Germany	LOCATION		
+card_location_ai_german_unlock5_tut	Germany	LOCATION		
+card_location_ai_german_unlock6	Germany	LOCATION		
+card_location_ai_german_unlock6_tut	Germany	LOCATION		
+card_location_ai_german_unlock7	Germany	LOCATION		
+card_location_ai_german_unlock7_tut	Germany	LOCATION		
+card_location_alam_el_halfa	Britain	LOCATION	ALAM EL HALFA	阿拉姆哈勒法
+card_location_alexandria_unlock1	Britain	LOCATION		
+card_location_alexandria_unlock2	Britain	LOCATION		
+card_location_alexandria_unlock3	Britain	LOCATION		
+card_location_alexandria_unlock4	Britain	LOCATION		
+card_location_alexandria_unlock5	Britain	LOCATION		
+card_location_alexandria_unlock6	Britain	LOCATION		
+card_location_alexandria_unlock7	Britain	LOCATION		
+card_location_ardennes_waw	Germany	LOCATION	ARDENNEN	阿登
+card_location_ardennes_waw_event	Germany	LOCATION	ARDENNEN	阿登
+card_location_arnhem	Germany	LOCATION	ARNHEIM	阿纳姆
+card_location_arnhem_unlock1	USA	LOCATION		
+card_location_arnhem_unlock2	USA	LOCATION		
+card_location_arnhem_unlock3	USA	LOCATION		
+card_location_arnhem_unlock4	USA	LOCATION		
+card_location_arnhem_unlock5	USA	LOCATION		
+card_location_arnhem_unlock6	USA	LOCATION		
+card_location_arnhem_unlock7	USA	LOCATION		
+card_location_arnhem_usa_base_unlock1	USA	LOCATION		
+card_location_arnhem_usa_base_unlock2	USA	LOCATION		
+card_location_arnhem_usa_base_unlock3	USA	LOCATION		
+card_location_arnhem_usa_base_unlock4	USA	LOCATION		
+card_location_arnhem_usa_base_unlock5	USA	LOCATION		
+card_location_arnhem_usa_base_unlock6	USA	LOCATION		
+card_location_arnhem_usa_base_unlock7	USA	LOCATION		
+card_location_arracourt	USA	LOCATION	ARRACOURT	阿拉库尔
+card_location_bastogne_waw_event	USA	LOCATION		
+card_location_berlin	Germany	LOCATION	DANZIG	但泽
+card_location_berlin_unlock1	Germany	LOCATION		
+card_location_berlin_unlock1_tut	Germany	LOCATION		
+card_location_berlin_unlock2	Germany	LOCATION		
+card_location_berlin_unlock2_tut	Germany	LOCATION		
+card_location_berlin_unlock3	Germany	LOCATION		
+card_location_berlin_unlock3_tut	Germany	LOCATION		
+card_location_berlin_unlock4	Germany	LOCATION		
+card_location_berlin_unlock4_tut	Germany	LOCATION		
+card_location_berlin_unlock5	Germany	LOCATION		
+card_location_berlin_unlock5_tut	Germany	LOCATION		
+card_location_berlin_unlock6	Germany	LOCATION		
+card_location_berlin_unlock6_tut	Germany	LOCATION		
+card_location_berlin_unlock7	Germany	LOCATION		
+card_location_berlin_unlock7_tut	Germany	LOCATION		
+card_location_british_scen1	Britain	LOCATION	DJEBEL ABIOD	杰贝尔阿比奥德
+card_location_british_scen1_ai	Germany	LOCATION	TEBOURBA	泰布尔拜
+card_location_british_scen2	Britain	LOCATION	MEDJEZ EL BAB	迈贾兹巴卜
+card_location_british_scen2_ai	Germany	LOCATION	DJEDEIDA	朱代伊德
+card_location_british_scen3	Britain	LOCATION	THALA	塔拉
+card_location_british_scen3_ai	Germany	LOCATION	KASSERINE	凯赛林
+card_location_british_scen4	Britain	LOCATION	MEDJEZ EL BAB	迈贾兹巴卜
+card_location_british_scen4_ai	Germany	LOCATION	MATEUR	马特尔
+card_location_british_scen5	Britain	LOCATION	MEDJEZ EL BAB	迈贾兹巴卜
+card_location_british_scen5_ai	Germany	LOCATION	TUNIS	突尼斯市
+card_location_cherbourg	USA	LOCATION	CHERBOURG	瑟堡
+card_location_cherbourg_unlock1	USA	LOCATION		
+card_location_cherbourg_unlock2	USA	LOCATION		
+card_location_cherbourg_unlock3	USA	LOCATION		
+card_location_cherbourg_unlock4	USA	LOCATION		
+card_location_cherbourg_unlock5	USA	LOCATION		
+card_location_cherbourg_unlock6	USA	LOCATION		
+card_location_cherbourg_unlock7	USA	LOCATION		
+card_location_cherbourg_usa_base_unlock1	USA	LOCATION		
+card_location_cherbourg_usa_base_unlock2	USA	LOCATION		
+card_location_cherbourg_usa_base_unlock3	USA	LOCATION		
+card_location_cherbourg_usa_base_unlock4	USA	LOCATION		
+card_location_cherbourg_usa_base_unlock5	USA	LOCATION		
+card_location_cherbourg_usa_base_unlock6	USA	LOCATION		
+card_location_cherbourg_usa_base_unlock7	USA	LOCATION		
+card_location_concrete_bunker_neutral	Neutral	LOCATION	BUNKER	地堡
+card_location_danzig_unlock1	Britain	LOCATION		
+card_location_danzig_unlock2	Britain	LOCATION		
+card_location_danzig_unlock3	Britain	LOCATION		
+card_location_danzig_unlock4	Britain	LOCATION		
+card_location_danzig_unlock5	Britain	LOCATION		
+card_location_danzig_unlock6	Britain	LOCATION		
+card_location_danzig_unlock7	Britain	LOCATION		
+card_location_el_alamein	Germany	LOCATION	EL ALAMEIN	阿莱曼
+card_location_flotilla_neutral	Neutral	LOCATION	FLOTILLA	舰队
+card_location_fortress_darwin_neutral	Neutral	LOCATION	FORTRESS DARWIN	达尔文要塞
+card_location_german_scen1	Germany	LOCATION	DERNA	德尔纳
+card_location_german_scen1_ai	Britain	LOCATION	GAZALA	加查拉
+card_location_german_scen2	Germany	LOCATION		
+card_location_german_scen2_ai	Britain	LOCATION	MERSA MATRUH	梅尔沙马特鲁布港
+card_location_german_scen3	Germany	LOCATION	TOBRUK	图卜鲁格
+card_location_german_scen3_ai	Britain	LOCATION	EL ALAMEIN	阿莱曼
+card_location_german_scen4	Germany	LOCATION	TOBRUK	图卜鲁格
+card_location_german_scen4_ai	Britain	LOCATION	EL ALAMEIN	阿莱曼
+card_location_german_scen5	Germany	LOCATION	TOBRUK	图卜鲁格
+card_location_german_scen5_ai	Britain	LOCATION	EL ALAMEIN	阿莱曼
+card_location_guadalcanal	USA	LOCATION	GUADALCANAL	瓜达尔卡纳尔
+card_location_iwo_jima_neutral	Neutral	LOCATION	IWO JIMA	硫磺岛
+card_location_japan_scen1_ai	USA	LOCATION	ROSARIO	罗萨里奥
+card_location_japan_scen2_ai	USA	LOCATION	The town of Layac controls entry into the Bataan Peninsula.	拉雅克镇控制着巴丹半岛的入口。
+card_location_japan_scen3_ai	USA	LOCATION		
+card_location_japan_scen4_ai	USA	LOCATION	BATAAN	巴丹
+card_location_japan_scen5_ai	USA	LOCATION	CORREGIDOR	科雷吉多
+card_location_london	Britain	LOCATION	ALEXANDRIA	亚历山大港
+card_location_london_waw	Britain	LOCATION	LONDON	伦敦
+card_location_soviet_scen1_ai	Germany	LOCATION	SMOLENSK	斯摩棱斯克
+card_location_soviet_scen2_ai	Germany	LOCATION	SMOLENSK	斯摩棱斯克
+card_location_soviet_scen3_ai	Germany	LOCATION	KALININ	加里宁
+card_location_soviet_scen4_ai	Germany	LOCATION	KALININ	加里宁
+card_location_soviet_scen5_ai	Germany	LOCATION	TULA	图拉
+card_location_special_event	Britain	LOCATION		
+card_location_supply_train_neutral	Neutral	LOCATION	SUPPLY TRAIN	补给列车
+card_location_tunis_city	Britain	LOCATION	TUNIS CITY	突尼斯市
+card_location_usa_scen1	USA	LOCATION	HENDERSON FIELD	亨德森机场
+card_location_usa_scen2	USA	LOCATION	HENDERSON FIELD	亨德森机场
+card_location_usa_scen3	USA	LOCATION	HENDERSON FIELD	亨德森机场
+card_location_usa_scen4	USA	LOCATION	HENDERSON FIELD	亨德森机场
+card_location_usa_scen5	USA	LOCATION	HENDERSON FIELD	亨德森机场
+card_location_villers_bocage	Germany	LOCATION	VILLERS-BOCAGE	维莱博卡日
+card_location_washington_waw	USA	LOCATION	WASHINGTON	华盛顿
+card_unit_101_infantry_regiment	Germany	UNIT	101. Infanterieregiment	第 101 步兵团
+card_unit_101st_airborne	USA	UNIT	101st AIRBORNE	第 101 空降师
+card_unit_102_grenadier	Germany	UNIT	102. GRENADIER	第 102 掷弹兵团
+card_unit_102_grenadier_vet	Germany	UNIT	102. GRENADIER	第 102 掷弹兵团
+card_unit_103rd_cavalry_recon	USA	UNIT	103rd CAVALRY RECON	第 103 骑兵侦察小队
+card_unit_104_panzergrenadier	Germany	UNIT	104. PANZERGRENADIER	第 104 装甲掷弹兵团
+card_unit_104th_infantry_regiment	USA	UNIT	104th INFANTRY REGIMENT	第 104 步兵团
+card_unit_106th_quartermasters	USA	UNIT	106th QUARTERMASTERS	第 106 军需连
+card_unit_108_panzergrenadier	Germany	UNIT	108. PANZERGRENADIER	第 108 装甲掷弹兵团
+card_unit_1097_volksgrenadier	Germany	UNIT	1097. VOLKSGRENADIER	第 1097 国民掷弹兵团
+card_unit_109th_combat_engineers	USA	UNIT	109th COMBAT ENGINEERS	第 109 战斗工兵营
+card_unit_10_5_cm_lefh	Germany	UNIT	10,5-cm-leFH	105 毫米轻型榴弹炮
+card_unit_10th_engineering_battalion	USA	UNIT	10th ENGINEERS BATTALION	第 10 工兵营
+card_unit_10th_para_battalion	Britain	UNIT	10th PARA BATTALION	第 10 伞兵营
+card_unit_110_panzergrenadier	Germany	UNIT	110. PANZERGRENADIER	第 110 装甲掷弹兵团
+card_unit_110e_regiment_motorize	France	UNIT	110e RÉGIMENT MOTORISÉ	第 110 摩托化步兵团
+card_unit_111th_indian_brigade	Britain	UNIT	111th INDIAN BRIGADE	第 111 印度旅
+card_unit_112th_infantry_regiment	USA	UNIT	112th INFANTRY REGIMENT	第 112 步兵团
+card_unit_113_schutzen	Germany	UNIT	113. SCHÜTZEN	第 113 步枪兵团
+card_unit_116th_infantry_regiment	USA	UNIT	116th INFANTRY REGIMENT	第 116 步兵团
+card_unit_119_grenadier	Germany	UNIT	119. GRENADIER	第 119 掷弹兵团
+card_unit_119_grenadier_vet	Germany	UNIT	119. GRENADIER	第 119 掷弹兵团
+card_unit_11th_infantry_regiment	USA	UNIT	11th INFANTRY REGIMENT	第 11 流浪者步兵团
+card_unit_120mm_m1_gun	USA	UNIT	120mm M1 GUN	120 毫米高射炮
+card_unit_121st_infantry_regiment	USA	UNIT	121st INFANTRY REGIMENT	第 121 步兵团
+card_unit_125th_la_spezia	Italy	UNIT	125° LA SPEZIA	拉斯佩齐亚第 125 团
+card_unit_12th_infantry_regiment	USA	UNIT	12th INFANTRY REGIMENT	第 12 步兵团
+card_unit_12th_ulan	Poland	UNIT	12 PUŁK UŁANÓW	第 12 乌兰骑兵团
+card_unit_133rd_ironman	USA	UNIT	133rd IRONMAN	第 133 铁人步兵团
+card_unit_136_gebirgsjager	Germany	UNIT	136. GEBIRGSJÄGER	第 136 山地猎兵团
+card_unit_139_gebirgsjager	Germany	UNIT	139. GEBIRGSJÄGER	第 139 山地猎兵团
+card_unit_13_gebirgsjager	Germany	UNIT	13. GEBIRGSJÄGER	第 13 山地猎兵团
+card_unit_13e_dragons	France	UNIT	13e DRAGONS	第 13 龙骑兵团
+card_unit_13th_engineers_battalion	USA	UNIT	13th ENGINEERS BATTALION	第 13 工兵营
+card_unit_141_gebirgsjager	Germany	UNIT	141. GEBIRGSJÄGER	第 141 山地猎兵团
+card_unit_142nd_infantry_regiment	USA	UNIT	142nd INFANTRY REGIMENT	第 142 步兵团
+card_unit_14_panzergrenadier	Germany	UNIT	14. PANZERGRENADIER	第 14 装甲掷弹兵团
+card_unit_14_panzergrenadier_vet	Germany	UNIT	14. PANZERGRENADIER	第 14 装甲掷弹兵团
+card_unit_14th_brigade_nz	ANZAC	UNIT	14th BRIGADE NZ	新西兰第 14 旅
+card_unit_152e_regiment	France	UNIT	152e RÉGIMENT	第 152 团
+card_unit_155_c_model_1917	France	UNIT	155 C MODÈLE 1917	155 毫米榴弹炮 1917
+card_unit_158_nachschub	Germany	UNIT	158. NACHSCHUB	第 158 补给营
+card_unit_158th_bushmasters	USA	UNIT	158th BUSHMASTERS	第 158 蝮蛇步兵团
+card_unit_15_aufklarungs	Germany	UNIT	15. AUFKLÄRUNG	第 15 侦察营
+card_unit_15_cm_autokanone	Germany	UNIT	15-cm-AUTOKANONE	150 毫米榴弹炮
+card_unit_15th_engineers	USA	UNIT	15th ENGINEERS	第 15 工兵营
+card_unit_15th_recon_regiment	Britain	UNIT	15th RECCE	第 15 侦察团
+card_unit_15th_wolves_regiment	Poland	UNIT	15 PUŁK PIECHOTY WILKÓW	第 15 狼步兵团
+card_unit_162nd_regiment	USA	UNIT	162nd REGIMENT	第 162 步兵团
+card_unit_164th_infantry_regiment	USA	UNIT	164th INFANTRY REGIMENT	第 164 步兵团
+card_unit_164th_infantry_regiment_cam1	USA	UNIT	164th INFANTRY REGIMENT	第 164 步兵团
+card_unit_169_grenadiers	Germany	UNIT	169. GRENADIER	第 169 掷弹兵团
+card_unit_16th_infantry_brigade	ANZAC	UNIT	16th INFANTRY BRIGADE	第 16 步兵旅
+card_unit_16th_infantry_brigade_vet	ANZAC	UNIT	16th INFANTRY BRIGADE	第 16 步兵旅
+card_unit_16th_tarnow_regiment	Poland	UNIT	16 PUŁK PIECHOTY ZIEMI TARNOWSKIEJ	塔尔努夫第 16 步兵团
+card_unit_171_infantry_regiment	Germany	UNIT	171. INFANTERIEREGIMENT	第 171 步兵团
+card_unit_175th_infantry_regiment	USA	UNIT	175th INFANTRY REGIMENT	第 175 步兵团
+card_unit_179th_tomahawks	USA	UNIT	179th TOMAHAWKS	第 179 战斧步兵团
+card_unit_179th_tomahawks_vet	USA	UNIT	179th TOMAHAWKS	第 179 战斧步兵团
+card_unit_17_pounder	Britain	UNIT	17 POUNDER	17 磅炮
+card_unit_17th_infantry_brigade	ANZAC	UNIT	17th INFANTRY BRIGADE	第 17 步兵旅
+card_unit_17th_infantry_regiment	USA	UNIT	17th INFANTRY REGIMENT	第 17 步兵团
+card_unit_182_landwehr	Germany	UNIT	182. LANDWEHR	第 182 国土防卫团
+card_unit_182_landwehr_vet	Germany	UNIT	182. LANDWEHR	第 182 国土防卫团
+card_unit_185th_brigade	Britain	UNIT	185th BRIGADE	第 185 步兵旅
+card_unit_185th_folgore	Italy	UNIT	186ª FOLGORE	第 186 雷电伞兵团
+card_unit_185th_folgore_cov	Italy	UNIT	185° FOLGORE	第 185 雷电伞兵团
+card_unit_18_infantry_regiment	Germany	UNIT	18. INFANTERIEREGIMENT	第 18 步兵团
+card_unit_18e_regiment	France	UNIT	18e RÉGIMENT	第 18 团
+card_unit_18th_bersaglieri	Italy	UNIT	18° BERSAGLIERI	第 18 神射手团
+card_unit_1918_155mm	USA	UNIT	155mm 1918 MODEL	155 毫米榴弹炮 1918
+card_unit_1e_bfl	France	UNIT	1re BFL	第 1 旅
+card_unit_1er_bcp	France	UNIT	1er BCP	第 1 猎兵营
+card_unit_1er_hussards	France	UNIT	1er HUSSARDS	第 1 骠骑兵团
+card_unit_1er_marins_commandos	France	UNIT	COMMANDOS KIEFFER	基弗突击队
+card_unit_1er_regiment_etranger	France	UNIT	1er RÉGIMENT ÉTRANGER	外籍第 1 步兵团
+card_unit_1st_airborne	Britain	UNIT	1st AIRBORNE	第 1 伞兵旅
+card_unit_1st_airlanding_brigade	Britain	UNIT	1st AIRLANDING BRIGADE	第 1 空降旅
+card_unit_1st_cavalry_troop	USA	UNIT	1st CAVALRY TROOP	第 1 骑兵侦察小队
+card_unit_1st_defense_battalion	USA	UNIT	1st DEFENSE BATTALION	第 1 防卫营
+card_unit_1st_florida	USA	UNIT	1st FLORIDA	第 1 佛罗里达州步兵团
+card_unit_1st_grenadier_regiment	Poland	UNIT	1 PUŁK GRENADIERÓW	第 1 掷弹兵团
+card_unit_1st_gurkha_rifles	Britain	UNIT	1st GURKHA RIFLES	第 1 廓尔喀团
+card_unit_1st_infantry_regiment	Germany	UNIT	1. INFANTERIEREGIMENT	第 1 步兵团
+card_unit_1st_infantry_regiment_cam1	Germany	UNIT	155. LEICHTES REGIMENT	第 155 轻步兵团
+card_unit_1st_infantry_regiment_us	USA	UNIT	1st INFANTRY REGIMENT	永先者团
+card_unit_1st_london_brigade	Britain	UNIT	1st LONDON BRIGADE	第 1 伦敦旅
+card_unit_1st_marines	USA	UNIT	1st MARINES	第 1 陆战团
+card_unit_1st_san_marco	Italy	UNIT	1° SAN MARCO	圣马可第 1 团
+card_unit_1st_texas_infantry	USA	UNIT	1st TEXAS INFANTRY	德州第 1 步兵团
+card_unit_20_panzergrenadier	Germany	UNIT	20. PANZERGRENADIER	第 20 装甲掷弹兵团
+card_unit_22_infantry	Germany	UNIT	22. INFANTERIEREGIMENT	第 22 步兵团
+card_unit_22nd_guards_brigade	Britain	UNIT	22nd GUARDS BRIGADE	第 22 卫队旅
+card_unit_22nd_guards_brigade_vet	Britain	UNIT	22nd GUARDS BRIGADE	第 22 卫队旅
+card_unit_22nd_marines	USA	UNIT	22nd MARINES	第 22 陆战团
+card_unit_22nd_marines_vet	USA	UNIT	22nd MARINES	第 22 陆战团
+card_unit_24th_uhlan	Poland	UNIT	24 PUŁK UŁANÓW	第 24 乌兰骑兵团
+card_unit_25_panzergrenadier	Germany	UNIT	25. PANZERGRENADIER-DIVISION	第 25 装甲掷弹兵团
+card_unit_25_pounder	Britain	UNIT	25 POUNDER	25 磅炮
+card_unit_26th_infantry_regiment	USA	UNIT	26th INFANTRY REGIMENT	第 26 步兵团
+card_unit_27_fusiliers	Germany	UNIT	27. FÜSSILIERE	第 27 燧发枪兵团
+card_unit_27e_dia	France	UNIT	27e DIA	阿尔卑斯第 27 师
+card_unit_27th_mg_battalion	ANZAC	UNIT	27th MG BATTALION	第 27 机枪营
+card_unit_28_jager_regiment	Germany	UNIT	28. JÄGERREGIMENT	第 28 猎兵团
+card_unit_28th_infantry_regiment	Poland	UNIT	28 PUŁK PIECHOTY	第 28 步兵团
+card_unit_2_2nd_pioneers	ANZAC	UNIT	2/2nd PIONEERS	第 2/2 先锋营
+card_unit_2_5_marines	USA	UNIT	2/5 MARINES	第 5 陆战团 2 营
+card_unit_2_marine_division	Germany	UNIT	2. MARINE-DIVISION	第 2 海军步兵师
+card_unit_2_pounder	Britain	UNIT	2 POUNDER	2 磅炮
+card_unit_2e_brigade	France	UNIT	2e BRIGADE	第 2 旅
+card_unit_2e_rima	France	UNIT	2e RIMa	第 2 陆战团
+card_unit_2e_zouaves	France	UNIT	2e ZOUAVES	第 2 佐阿夫团
+card_unit_2nd_alpini	Italy	UNIT	2° REG. ALPINI	第 2 山地团
+card_unit_2nd_california	USA	UNIT	2nd CALIFORNIA	加州第 2 步兵团
+card_unit_2nd_infantry_regiment	Poland	UNIT	2 PUŁK PIECHOTY	步兵第 2 团
+card_unit_2nd_michigan	USA	UNIT	2nd MICHIGAN	第 2 密歇根州步兵团
+card_unit_2nd_para_c	Britain	UNIT	2nd PARA C	第 2 伞兵营 C 连
+card_unit_2nd_parachute	Britain	UNIT	2nd PARACHUTE	第 2 伞兵旅
+card_unit_2nd_west_africa	Britain	UNIT	2nd WEST AFRICA	第 2 西非旅
+card_unit_304_panzergrenadier	Germany	UNIT	304. PANZERGRENADIER	第 304 装甲掷弹兵团
+card_unit_306th_regiment	USA	UNIT	306th REGIMENT	第 306 步兵团
+card_unit_30_infantry_regiment	Germany	UNIT	30. INFANTERIEREGIMENT	第 30 步兵团
+card_unit_30th_regiment	USA	UNIT	30th REGIMENT	旧金山属团
+card_unit_30th_regiment_cam1	USA	UNIT	5th MARINE REGIMENT	第 5 陆战团
+card_unit_31e_algiers	France	UNIT	31e RTA	阿尔及利亚第 31 散兵团
+card_unit_327th_pathfinders	USA	UNIT	327th PATHFINDERS	第 327 探路者步兵团
+card_unit_327th_pathfinders_vet	USA	UNIT	327th PATHFINDERS	第 327 探路者步兵团
+card_unit_32nd_infantry_regiment	USA	UNIT	32nd INFANTRY REGIMENT	第 32 步兵团
+card_unit_332nd_engineers	USA	UNIT	332nd ENGINEER REGIMENT	第 332 工兵团
+card_unit_33_panzergrenadier	Germany	UNIT	33. PANZERGRENADIER	第 33 装甲掷弹兵团
+card_unit_33rd_livorno	Italy	UNIT	33° REG. LIVORNO	利沃诺第 33 团
+card_unit_33rd_livorno_cam1	Italy	UNIT	65ª BRIGATA VALTELLINA	瓦尔泰利纳第 65 团
+card_unit_342_fusiliers	Germany	UNIT	342. FÜSSILIERE	第 342 燧发枪兵营
+card_unit_35_grenadier	Germany	UNIT	35. GRENADIER	第 35 掷弹兵团
+card_unit_35_grenadier_vet	Germany	UNIT	35. GRENADIER	第 35 掷弹兵团
+card_unit_35th_infantry_regiment	Poland	UNIT	35 PUŁK PIECHOTY	第 35 步兵团
+card_unit_361_light_regiment	Germany	UNIT	361. AFRIKA-REGIMENT	第 361 非洲兵团
+card_unit_361_light_regiment_cam1	Germany	UNIT	361. AFRIKA-REGIMENT	第 361 非洲兵团
+card_unit_36_kradschutzen	Germany	UNIT	36. KRADSCHÜTZEN	第 36 摩托化步兵营
+card_unit_37mm_bofors_gun	Poland	UNIT	ARMATA PRZECIWPANCERNA WZ. 36	博福斯 37 毫米炮
+card_unit_37mm_m1_aa_gun	USA	UNIT	37mm M1 AA GUN	37 毫米 M1 高射炮
+card_unit_394th_infantry_regiment	USA	UNIT	394th INFANTRY REGIMENT	第 394 步兵团
+card_unit_39_panzergrenadier	Germany	UNIT	39. PANZERGRENADIER	第 39 装甲掷弹兵团
+card_unit_39th_bologna	Italy	UNIT	39° REG. BOLOGNA	博洛尼亚第 39 团
+card_unit_39th_infantry_regiment	USA	UNIT		
+card_unit_3_7_inch_aa_gun	Britain	UNIT	3.7” ANTI-AIR GUN	3.7 英寸高射炮
+card_unit_3_7_inch_mountain_howitzer	ANZAC	UNIT	3.7 inch MOUNTAIN HOWITZER	3.7 英寸山地榴弹炮
+card_unit_3_fallschirmjager	Germany	UNIT	3. FALLSCHIRMJÄGERREGIMENT	第 3 空降猎兵团
+card_unit_3_fallschirmjager_cam1	Germany	UNIT	125. PANZERGRENADIER	第 125 装甲掷弹兵团
+card_unit_3_inch_m5	USA	UNIT	3-inch M5	M5 3 英寸反坦克炮
+card_unit_3_panzergrenadier	Germany	UNIT	3. PANZERGRENADIER	第 3 装甲掷弹兵团
+card_unit_3rd_alpini	Italy	UNIT	3° REG. ALPINI	第 3 山地团
+card_unit_3rd_canadian_division	Britain	UNIT	3rd CANADIAN DIVISION	第 3 加拿大师
+card_unit_3rd_carpathian	Poland	UNIT	3 Batalion Strzelców Karpackich	喀尔巴阡第 3 步兵营
+card_unit_40_panzergrenadier	Germany	UNIT	40. PANZERGRENADIER	第 40 装甲掷弹兵团
+card_unit_40_royal_marine	Britain	UNIT	40 ROYAL MARINE	第 40 突击队
+card_unit_41st_infantry_regiment	USA	UNIT	41st INFANTRY REGIMENT	第 41 步兵团
+card_unit_432_infantry_regiment	Germany	UNIT	432. INFANTERIEREGIMENT	第 432 步兵团
+card_unit_43_infantry_regiment	Germany	UNIT	43. INFANTERIEREGIMENT	第 43 步兵团
+card_unit_43e_regiment_motorise	France	UNIT	43e RÉGIMENT MOTORISÉ	第 43 摩托化步兵团
+card_unit_442nd_infantry_regiment	USA	UNIT	442nd INFANTRY REGIMENT	第 442 步兵团
+card_unit_463rd_battalion	USA	UNIT	463rd BATTALION	第 463 空降炮兵营
+card_unit_46th_indian_brigade	Britain	UNIT	46th INDIAN BRIGADE	第 46 印度旅
+card_unit_47th_infantry_regiment	USA	UNIT	47th INFANTRY REGIMENT	第 47 步兵团
+card_unit_47th_infantry_regiment_vet	USA	UNIT	47th INFANTRY REGIMENT	第 47 步兵团
+card_unit_48e_regiment	France	UNIT	48e RÉGIMENT D’INFANTERIE	第 48 团
+card_unit_48e_regiment_cam1	France	UNIT	3e RÉGIMENT DE ZOUAVES	祖阿夫第 3 步兵团
+card_unit_48th_armored_infantry	USA	UNIT	48th ARMORED INFANTRY	第 48 装甲步兵团
+card_unit_49th_infantry_regiment	Italy	UNIT	49° REG. FANTERIA	第 49 步兵团
+card_unit_4_5_inch_medium_gun	Britain	UNIT	"BL 4.5"" MEDIUM GUN"	4.5 英寸中型火炮
+card_unit_4_fallschirmjager	Germany	UNIT	4. FALLSCHIRMJÄGER	第 4 空降猎兵团
+card_unit_4_pioneer	Germany	UNIT	4. PIONIERBATAILLON	第 4 先锋营
+card_unit_4e_brigade	France	UNIT	4e BRIGADE	第 4 旅
+card_unit_4th_alabama	USA	UNIT	4th ALABAMA	第 4 阿拉巴马州步兵团
+card_unit_4th_alpini_regiment	Italy	UNIT	4° REG. ALPINI	第 4 山地团
+card_unit_4th_brigade_nz	ANZAC	UNIT	4th BRIGADE NZ	新西兰第 4 旅
+card_unit_4th_marines	USA	UNIT	4th MARINES	第 4 陆战团
+card_unit_4tp	Poland	UNIT	4TP	4TP
+card_unit_506th_airborne	USA	UNIT	506th AIRBORNE	第 506 空降步兵团
+card_unit_507th_pir	USA	UNIT	507th PIR	第 507 空降步兵团
+card_unit_50_infantry_regiment	Germany	UNIT	50. INFANTERIEREGIMENT	第 50 步兵团
+card_unit_50_infantry_regiment_vet	Germany	UNIT	50. INFANTERIEREGIMENT	第 50 步兵团
+card_unit_511th_airborne	USA	UNIT	511th AIRBORNE	第 511 空降步兵团
+card_unit_51e_regiment	France	UNIT	51e RÉGIMENT	第 51 团
+card_unit_54_jager_regiment	Germany	UNIT	56. JÄGER-REGIMENT	第 56 猎兵团
+card_unit_5_panzergrenadier	Germany	UNIT	5. PANZERGRENADIERE	第 5 装甲掷弹兵团
+card_unit_5e_cuirassier	France	UNIT	5e CUIRASSIERS	第 5 胸甲骑兵团
+card_unit_5r_chasseurs	France	UNIT	5e CHASSEURS PORTÉS	第 5 猎兵营
+card_unit_5th_bersaglieri	Italy	UNIT	5° BERSAGLIERI	第 5 神射手团
+card_unit_5th_brigade	Britain	UNIT	5th BRIGADE	第 5 步兵旅
+card_unit_5th_brigade_blank	Britain	UNIT		
+card_unit_5th_legions_regiment	Poland	UNIT	5 PUŁK PIECHOTY LEGIONÓW	第 5 军团步兵团
+card_unit_5th_medical_battalion	USA	UNIT	5th MEDICAL BATTALION	第 5 医疗营
+card_unit_5th_parachute_brigade	Britain	UNIT	5th PARACHUTE BRIGADE	第 5 伞兵旅
+card_unit_5th_rangers	USA	UNIT	5th RANGERS	第 5 游骑兵营
+card_unit_5th_wilno_regiment	Poland	UNIT	5 WILEŃSKA BRYGADA PIECHOTY	维尔纽斯第 5 步兵旅
+card_unit_60th_infantry_regiment	USA	UNIT	60th INFANTRY REGIMENT	第 60 步兵团
+card_unit_62_infantry_regiment	Germany	UNIT	62. INFANTERIEREGIMENT	第 62 步兵团
+card_unit_62nd_armored_infantry	USA	UNIT	62nd ARMORED INFANTRY	第 62 装甲步兵团
+card_unit_64_panzergrenadier	Germany	UNIT	64. PANZERGRENADIER	第 64 装甲掷弹兵团
+card_unit_64_panzergrenadier_vet	Germany	UNIT		
+card_unit_6_pounder	Britain	UNIT	6 POUNDER	6 磅炮
+card_unit_6th_airlanding_brigade	Britain	UNIT	6th AIRLANDING BRIGADE	第 6 空降旅
+card_unit_6th_alpini_regiment	Italy	UNIT	6° REG. ALPINI	第 6 山地团
+card_unit_6th_brigade_nz	ANZAC	UNIT	6th BRIGADE NZ	新西兰第 6 旅
+card_unit_6th_brigade_nz_vet	ANZAC	UNIT	6th BRIGADE NZ	新西兰第 6 旅
+card_unit_6th_infantry_brigade	Poland	UNIT	6 BRYGADA PIECHOTY	第 6 步兵旅
+card_unit_6th_infantry_regiment_usa	USA	UNIT	THE REGULARS	正规军装甲步兵团
+card_unit_6th_infantry_regiment_usa_vet	USA	UNIT	THE REGULARS	正规军装甲步兵团
+card_unit_6th_marine_regiment	USA	UNIT	6th MARINE REGIMENT	第 6 陆战团
+card_unit_70th_brigade	Britain	UNIT	70th BRIGADE	第 70 步兵旅
+card_unit_738_jager_regiment	Germany	UNIT	738. JÄGERREGIMENT	第 738 猎兵团
+card_unit_73e_regiment_infanterie	France	UNIT	73e RÉGIMENT D'INFANTERIE	第 73 团
+card_unit_74_panzergrenadier	Germany	UNIT	74. PANZERGRENADIER	第 74 装甲掷弹兵团
+card_unit_74th_silesian_regiment	Poland	UNIT	74 GÓRNOŚLĄSKI PUŁK PIECHOTY	西里西亚第 74 步兵团
+card_unit_75_mm_pack_howitzer	USA	UNIT	75mm PACK HOWITZER	75 毫米驮载榴弹炮
+card_unit_75th_rangers	USA	UNIT	75th RANGERS	第 75 游骑兵团
+card_unit_76th_napoli	Italy	UNIT	76° NAPOLI	那不勒斯第 76 团
+card_unit_78th_steel_regiment	Poland	UNIT	78 PUŁK PIECHOTY	第 78 钢铁步兵团
+card_unit_7_schutzen	Germany	UNIT	7. SCHÜTZEN	第 7 步枪兵团
+card_unit_7_schutzen_vet	Germany	UNIT	7. SCHÜTZEN	第 7 步枪兵团
+card_unit_7th_alpini	Italy	UNIT	7° REG. ALPINI	第 7 山地团
+card_unit_7th_brigade_anzac	ANZAC	UNIT	7th BRIGADE	第 7 旅
+card_unit_7th_brigade_anzac_vet	ANZAC	UNIT	7th BRIGADE	第 7 旅
+card_unit_7th_regiment	USA	UNIT	7th REGIMENT	第 7 步兵团
+card_unit_7th_regiment_cam1	USA	UNIT	132nd REGIMENT	第 132 步兵团
+card_unit_7th_scottish_borderers	Britain	UNIT	7th SCOTTISH BORDERERS	苏格兰边民团第 7 营
+card_unit_7tp	Poland	UNIT	7TP	7TP
+card_unit_80th_pasubio	Italy	UNIT	80° PASUBIO	帕苏比奥第 80 团
+card_unit_81_infanterie_regiment	Germany	UNIT	81. INFANTERIE-REGIMENT	第 81 步兵团
+card_unit_85_pioneer_company	Britain	UNIT	85 PIONEER COMPANY	第 85 先锋连
+card_unit_87_grenadier	Germany	UNIT	87. GRENADIERE	第 87 掷弹兵团
+card_unit_88_mm_flak	Germany	UNIT	88-mm-FLAK	88 毫米高射炮
+card_unit_8e_tirailleurs_marocains	France	UNIT	8e RTM	摩洛哥第 8 散兵团
+card_unit_8th_cavalry_regiment	USA	UNIT	8th CAVALRY REGIMENT	第 8 骑兵团
+card_unit_8th_cavalry_regiment_blank	USA	UNIT		
+card_unit_8th_marines	USA	UNIT	8th MARINES	第 8 陆战团
+card_unit_92_infantry_regiment	Germany	UNIT	92. INFANTERIEREGIMENT	第 92 步兵团
+card_unit_93rd_messina	Italy	UNIT	93° MESSINA	墨西拿第 93 团
+card_unit_957_volksgrenadier	Germany	UNIT	957. VOLKSGRENADIER	第 957 国民掷弹兵团
+card_unit_96_infantry_regiment	Germany	UNIT	96. INFANTERIEREGIMENT	第 96 步兵团
+card_unit_989_infantry_regiment	Germany	UNIT	989. INFANTERIEREGIMENT	第 989 步兵团
+card_unit_99th_infantry	USA	UNIT	99th INFANTRY BATTALION	第 99 步兵营
+card_unit_9th_bersaglieri	Italy	UNIT	9° BERSAGLIERI	第 9 神射手团
+card_unit_a20_havoc	USA	UNIT	A-20 HAVOC	A-20 浩劫
+card_unit_a26_invader	USA	UNIT	A-26 INVADER	A-26 入侵者
+card_unit_a_24_banshee	USA	UNIT	A-24 BANSHEE	A-24 女妖
+card_unit_a_36_apache	USA	UNIT	A-36 APACHE	A-36 阿帕齐
+card_unit_ace_of_spades	Germany	UNIT	PIK ASS	黑桃 A 师
+card_unit_ace_of_spades_vet	Germany	UNIT	PIK ASS	黑桃 A 师
+card_unit_adler_command_vehicle	Germany	UNIT	GREIF	狮鹫指挥车
+card_unit_albacore	Britain	UNIT	ALBACORE Mk I	青花鱼 Mk I
+card_unit_anzac_hurricane_ii_c_trop	ANZAC	UNIT	RAAF HURRICANE TROP	RAAF 飓风 热带型
+card_unit_arado_ar_196	Germany	UNIT	ARADO AR 196	Ar 196
+card_unit_argyllshire_highlanders	Britain	UNIT	ARGYLLSHIRE HIGHLANDERS	阿盖尔和萨瑟兰高地人团
+card_unit_armored_car_home	Germany	UNIT	Sd. Kfz. 250/9	Sd Kfz 250/9
+card_unit_avro_anson1	Britain	UNIT	AVRO ANSON	安森
+card_unit_b_17	USA	UNIT	B-17 FLYING FORTRESS	B-17 飞行堡垒
+card_unit_b_17_f	USA	UNIT	B-17F	B-17F
+card_unit_b_24	USA	UNIT	B-24 LIBERATOR	B-24 解放者
+card_unit_b_24_d	USA	UNIT	B-24D	B-24D
+card_unit_b_24_j	USA	UNIT	B-24J	B-24J
+card_unit_b_25_mitchell	USA	UNIT	B-25 MITCHELL	B-25 米切尔
+card_unit_b_25h	USA	UNIT	B-25 H	B-25 H
+card_unit_b_25h_cam1	USA	UNIT	B-25 H	B-25 H
+card_unit_b_26_bretagne	France	UNIT	B-26 GROUPE BRETAGNE	B-26 布列塔尼大队
+card_unit_b_26_marauder	USA	UNIT	B-26 MARAUDER	B-26 掠夺者
+card_unit_b_29_super_fortress	USA	UNIT	B-29 SUPERFORTRESS	B-29 超级堡垒
+card_unit_baltimore_mk_iii	Britain	UNIT	BALTIMORE Mk III	巴尔的摩 Mk III
+card_unit_baluch_regiment	Britain	UNIT	BALUCH REGIMENT	俾路支团
+card_unit_barracuda_21	Britain	UNIT	BARRACUDA	梭鱼
+card_unit_beaufighter_tf_mk_x	Britain	UNIT	BEAUFIGHTER TF Mk X	英俊战士 TF Mk X
+card_unit_beaufighter_vi_f	Britain	UNIT	BEAUFIGHTER VI F	英俊战士 Mk VI F
+card_unit_bergmann_battalion	Germany	UNIT	BERGMANN BATAILLON	山地人营
+card_unit_big_red_one	USA	UNIT	BIG RED ONE	大红一师
+card_unit_black_prince	Britain	UNIT	BLACK PRINCE	A43 黑王子
+card_unit_black_watch	Britain	UNIT	BLACK WATCH	黑卫士兵团
+card_unit_blenheim_mk_i	Britain	UNIT	BLENHEIM Mk I	布伦亨 Mk I
+card_unit_blenheim_mk_iv	Britain	UNIT	BLENHEIM Mk IV	布伦亨 Mk IV
+card_unit_bloch_mb_150	France	UNIT	Bloch MB.152	布洛克 MB.152
+card_unit_bloody_eleventh	Britain	UNIT	BLOODY ELEVENTH	血腥第十一团
+card_unit_bloom_and_voss	Germany	UNIT	BLOHM & VOSS BV 138	Bv 138 海龙
+card_unit_blue_and_gray	USA	UNIT	BLUE AND GRAY	蓝灰师
+card_unit_blue_legion	Germany	UNIT	BLAUE LEGION	蓝色军团
+card_unit_breda_ba_65	Italy	UNIT	BREDA Ba.65	布雷达 Ba.65
+card_unit_brewster_f2a	USA	UNIT	BREWSTER F2A	F2A 水牛
+card_unit_britain_25_pounder_home	Britain	UNIT	25 POUNDER Mk I	25 磅炮 Mk I
+card_unit_british_buffalo	Britain	UNIT	RAF BUFFALO Mk I	RAF 水牛 Mk I
+card_unit_british_sherman_firefly	Britain	UNIT	M4 FIREFLY	M4 萤火虫
+card_unit_buffs	Britain	UNIT	BUFFS	米色团
+card_unit_c47_skytrain	USA	UNIT	C-47 SKYTRAIN	C-47 空中列车
+card_unit_calliope	USA	UNIT	CALLIOPE	T34 风琴
+card_unit_cameronians	Britain	UNIT	CAMERONIANS	卡梅伦团
+card_unit_cannone_da_47	Italy	UNIT	CANNONE DA 47/32	47 毫米反坦克炮
+card_unit_caproni_ca_133	Italy	UNIT	CAPRONI CA.133	卡普罗尼 Ca.133
+card_unit_char_b1_bis	France	UNIT	CHAR B1 bis	B1 重型坦克 II 型
+card_unit_chesire_regiment	Britain	UNIT	CHESHIRE REGIMENT	柴郡团
+card_unit_churchill	Britain	UNIT	CHURCHILL Mk IV	丘吉尔 Mk IV
+card_unit_churchill_mk_iii_avre	Britain	UNIT	CHURCHILL Mk III AVRE	丘吉尔 Mk III AVRE
+card_unit_coastal_battalion_7	Finland	UNIT	COASTAL BATTALION 7	第 7 海岸步兵营
+card_unit_coastal_gun	Britain	UNIT	9.2” COASTAL GUN	9.2 英寸岸防炮
+card_unit_coastwatchers	ANZAC	UNIT	COASTWATCHERS	海岸观察员
+card_unit_coldstream_guards	Britain	UNIT	COLDSTREAM GUARDS	冷溪卫队
+card_unit_comet	Germany	UNIT	KOMET	Me 163 彗星
+card_unit_comet1	Britain	UNIT	A34 COMET	A34 彗星
+card_unit_commandos	Britain	UNIT	No. 10 COMMANDO	第 10 突击队
+card_unit_commandos_cam1	Britain	UNIT		
+card_unit_corsair_f4u	USA	UNIT	CORSAIR F4U-1C	F4U-1C 海盗
+card_unit_corsair_f4u_1d	USA	UNIT	CORSAIR F4U-1D	F4U-1D 海盗
+card_unit_cromwell_mk_iv	Britain	UNIT	CROMWELL Mk IV	克伦威尔 Mk IV
+card_unit_cruiser_mk_iii	Britain	UNIT	CRUISER Mk III	巡航坦克 Mk III
+card_unit_crusader_mk_ii	Britain	UNIT	CRUSADER Mk II	十字军 Mk II
+card_unit_cyclone_division	USA	UNIT	CYCLONE DIVISION	龙卷师
+card_unit_cyclone_division_vet	USA	UNIT	CYCLONE DIVISION	龙卷师
+card_unit_daimler_mk_ii	Britain	UNIT	HUMBER Mk II	亨伯 Mk II
+card_unit_daimler_mk_ii_cam1	Britain	UNIT	HUMBER Mk II	亨伯 Mk II
+card_unit_danuta	Poland	UNIT	DANUTA	达努塔装甲列车
+card_unit_defiant_mk_i	Britain	UNIT	DEFIANT Mk I	无畏 Mk I
+card_unit_detached_battalion_4	Finland	UNIT	DETACHED BATTALION 4	第 4 独立大队
+card_unit_devils_brigade	USA	UNIT	DEVIL'S BRIGADE	魔鬼旅
+card_unit_dewoitine_520	France	UNIT	DEWOITINE D.520	地瓦丁 D.520
+card_unit_dingo_armored_car	ANZAC	UNIT	DINGO	丁格犬侦察车
+card_unit_dornier_do_17	Germany	UNIT	DORNIER DO 17Z	Do 17 Z
+card_unit_dornier_do_18g	Germany	UNIT	DORNIER DO 18G	Do 18 G
+card_unit_dornier_do_217	Germany	UNIT	DORNIER DO 217	Do 217
+card_unit_duck_us	USA	UNIT	DUCK	J2F 鸭式
+card_unit_east_surray_regiment	Britain	UNIT	EAST SURREY REGIMENT	东萨里团
+card_unit_east_surray_regiment_cam1	Britain	UNIT	EAST SURREY REGIMENT	东萨里团
+card_unit_f4f_3_wildcat	USA	UNIT	F4F-3 WILDCAT	F4F-3 野猫
+card_unit_f4f_3_wildcat_cam1	USA	UNIT	F4F-3 WILDCAT	F4F-3 野猫
+card_unit_f4f_wildcat	USA	UNIT	F4F-4 WILDCAT	F4F-4 野猫
+card_unit_f4f_wildcat_cam1	USA	UNIT	F4F-4 WILDCAT	F4F-4 野猫
+card_unit_f6f_hellcat_home	USA	UNIT	F6F-5 HELLCAT	F6F-5 地狱猫
+card_unit_fairey_battle_elit	Poland	UNIT	BATTLE Mk I PL	巴特尔 Mk I PL
+card_unit_fallschirmjager	Germany	UNIT	8. FALLSCHIRMJÄGER	第 8 空降猎兵团
+card_unit_farman_222	France	UNIT	FARMAN F.222	法尔芒 F.222
+card_unit_feldhernhalle_rifles	Germany	UNIT	SCHÜTZENREGIMENT FELDHERRNHALLE	统帅堂装甲掷弹兵师
+card_unit_fiat_br_20	Italy	UNIT	FIAT BR.20	菲亚特 BR.20
+card_unit_fiat_cr_32	Italy	UNIT	FIAT C.R.32	菲亚特 C.R.32
+card_unit_fiat_cr_42	Italy	UNIT	FIAT C.R.42	菲亚特 C.R.42
+card_unit_fiat_g50	Italy	UNIT	FIAT G.50	菲亚特 G.50
+card_unit_fiat_g55	Italy	UNIT	FIAT G.55	菲亚特 G.55
+card_unit_fiat_g_50_fi	Finland	UNIT	FIAT G.50 FI	菲亚特 G.50 FI
+card_unit_fieseler_156	Germany	UNIT	FIESELER FI 156	Fi 156 鹳式
+card_unit_fifth_ohio	USA	UNIT	FIFTH OHIO	俄亥俄州第 5 步兵团
+card_unit_finnish_boys	Finland	UNIT	FINNISH BOYS	芬兰男孩步兵团
+card_unit_flak_37_spg	Germany	UNIT	3,7-cm-FLAK 37	自行高炮 37 型
+card_unit_flaming_matilda_anzac	ANZAC	UNIT	MATILDA FROG	玛蒂尔达 蛙式
+card_unit_flammpanzer	Germany	UNIT	FLAMMPANZER	喷火坦克
+card_unit_fokker_finland	Finland	UNIT	FOKKER D.XXI	福克 D.XXI
+card_unit_french_75	France	UNIT	CANON DE 75 mm	75 毫米野战炮
+card_unit_french_expedition	France	UNIT	CORPS EXPÉDITIONNAIRE	远征军
+card_unit_french_expedition_campaign	France	UNIT		
+card_unit_french_p_36	France	UNIT	H75-C1	柯蒂斯 H75-C1
+card_unit_frontier_force	Britain	UNIT	FRONTIER FORCE	边防团
+card_unit_fw189	Germany	UNIT	FW 189	Fw 189 鸮鹰
+card_unit_fw_190	Germany	UNIT	FW 190 A	Fw 190 A 百舌鸟
+card_unit_fw_190_f	Germany	UNIT	FW 190 JAGDBOMBER	Fw 190 A-3/U3
+card_unit_fw_190_f8	Germany	UNIT	FW 190 F-9	Fw 190 F-9
+card_unit_fw_190_ta_152	Germany	UNIT	FW 190 TA 152	Ta 152
+card_unit_fw_190_ta_152_vet	Germany	UNIT	FW 190 TA 152	Ta 152
+card_unit_fw_200_condor	Germany	UNIT	FW 200 CONDOR	Fw 200 秃鹰
+card_unit_garrison	Britain	UNIT	GARRISON	卫戍
+card_unit_gebirger_pionier_95	Germany	UNIT	GEBIRGS-PIONIER 95	第 95 山地工兵营
+card_unit_gladiator	Britain	UNIT	GLADIATOR Mk I	角斗士 Mk I
+card_unit_gladiator_escort	Britain	UNIT	GLADIATOR ESCORT	角斗士护航机
+card_unit_gordon_highlanders	Britain	UNIT	GORDON HIGHLANDERS	戈登高地人团
+card_unit_green_howards	Britain	UNIT	GREEN HOWARDS	绿色霍华德团
+card_unit_grenadier_245	Germany	UNIT	980. VOLKSGRENADIER-REGIMENT	第 980 国民掷弹兵团
+card_unit_grenadier_245_blank	Germany	UNIT		
+card_unit_grenadier_guards	Britain	UNIT	GRENADIER GUARDS	掷弹兵卫队
+card_unit_grumman_goose	USA	UNIT	GRUMMAN GOOSE	G-21 鹅式
+card_unit_grumman_hellcat2	USA	UNIT	F6F-3 HELLCAT	F6F-3 地狱猫
+card_unit_h39_swg	Germany	UNIT	H39 sWG	H39 sWG
+card_unit_halifax	Britain	UNIT	HALIFAX B Mk I	哈利法克斯 B Mk I
+card_unit_hampden	Britain	UNIT	HAMPDEN Mk I	汉普敦 Mk I
+card_unit_hampshire_regiment	Britain	UNIT	HAMPSHIRE REGIMENT	汉普郡团
+card_unit_heinkel_he_111_waw	Germany	UNIT	HEINKEL HE 111	He 111
+card_unit_heinkel_he_115_inv	Germany	UNIT	HEINKEL HE 115	He 115
+card_unit_heinkel_he_219	Germany	UNIT	HEINKEL HE 219	He 219 夜枭
+card_unit_heinkel_he_59	Germany	UNIT	HEINKEL HE 59	He 59
+card_unit_henschel_he_129	Germany	UNIT	HENSCHEL HS 129	Hs 129
+card_unit_henschel_hs_123	Germany	UNIT	HENSCHEL HS 123	Hs 123
+card_unit_henschel_hs_126	Germany	UNIT	HENSCHEL HS 126	Hs 126
+card_unit_hotchkiss_35	France	UNIT	HOTCHKISS H35	哈奇开斯 H35
+card_unit_hudson	Britain	UNIT	HUDSON Mk III	哈德逊 Mk III
+card_unit_humber_mk_iv	Britain	UNIT	HUMBER Mk IV	亨伯 Mk IV
+card_unit_hummel	Germany	UNIT	HUMMEL	野蜂式自行火炮
+card_unit_hurricane	Britain	UNIT	HURRICANE Mk I	飓风 Mk I
+card_unit_hurricane_mk_ii_c_trop	Britain	UNIT	HURRICANE Mk II-C TROP	飓风 Mk IIc 热带型
+card_unit_hurricane_mk_ii_c_trop_vet	Britain	UNIT	HURRICANE Mk II-C TROP	飓风 Mk IIc 热带型
+card_unit_hurricane_vs2	Britain	UNIT	HURRICANE Mk IIA	飓风 Mk IIa
+card_unit_i_stridsgruppan	Finland	UNIT	I. STRIDSGRUPPEN	第 1 战斗群
+card_unit_ii_rmt	France	UNIT	2e RMT	乍得行进团
+card_unit_infantry_regiment_11	Finland	UNIT	INFANTRY REGIMENT 11	第 11 步兵团
+card_unit_infantry_regiment_13	Finland	UNIT	INFANTRY REGIMENT 13	第 13 步兵团
+card_unit_infantry_regiment_2	Finland	UNIT	INFANTRY REGIMENT 2	第 2 步兵团
+card_unit_infantry_regiment_25	Finland	UNIT	INFANTRY REGIMENT 25	第 25 步兵团
+card_unit_infantry_regiment_36	Finland	UNIT	INFANTRY REGIMENT 36	第 36 步兵团
+card_unit_infantry_regiment_56	Finland	UNIT	INFANTRY REGIMENT 56	第 56 步兵团
+card_unit_infantry_regiment_61	Finland	UNIT	INFANTRY REGIMENT 61	第 61 步兵团
+card_unit_intel_fusiliers	Britain	UNIT	INNISKILLING FUSILIERS	因尼斯基林燧发枪兵团
+card_unit_irish_guards	Britain	UNIT	IRISH GUARDS	爱尔兰卫队
+card_unit_iron_division	Poland	UNIT	ŻELAZNA DYWIZJA	钢铁师
+card_unit_italian_cavalry	Italy	UNIT	CAVALLERIA SAVOIA	萨沃亚骑兵团
+card_unit_jagdpanther	Germany	UNIT	JAGDPANTHER	猎豹
+card_unit_jagdpanzer_iv	Germany	UNIT	JAGDPANZER IV	四号坦克歼击车
+card_unit_jager_battalion_2	Finland	UNIT	JÄGER BATTALION 2	第 2 猎兵营
+card_unit_jazz_band	USA	UNIT		
+card_unit_jet_protoype_a	Germany	UNIT	JET-PROTOTYP	喷气机原型机
+card_unit_ju_87_b2	Germany	UNIT	Ju 87 B2	Ju 87 B-2 斯图卡
+card_unit_ju_87_stuka	Germany	UNIT	JU 87 B STUKA	Ju 87 B 斯图卡
+card_unit_ju_88_g6	Germany	UNIT	JU 88 G6	Ju 88 G-6
+card_unit_junkers_ju_188	Germany	UNIT	JUNKERS JU 188 E	Ju 188 E 复仇者
+card_unit_junkers_ju_88	Germany	UNIT	JUNKERS JU 88 A	Ju 88 A
+card_unit_katzmann	Germany	UNIT	KATZMANN-REGIMENT	卡茨曼团
+card_unit_king_tiger_ii	Germany	UNIT	KÖNIGSTIGER	虎王坦克
+card_unit_kingfisher_us	USA	UNIT	KINGFISHER	OS2U 翠鸟
+card_unit_kings_african_rifles	Britain	UNIT	KING'S AFRICAN RIFLES	英王非洲步枪兵团
+card_unit_kings_own_scottish	Britain	UNIT	KING'S OWN SCOTTISH	英王直属苏格兰边民团
+card_unit_kurmark_aufklarungs	Germany	UNIT	KURMARK AUFKLÄRUNGSREGIMENT	库尔马克侦察营
+card_unit_l4_grasshopper	USA	UNIT	L-4 GRASSHOPPER	L-4 蚱蜢
+card_unit_l6_40	Italy	UNIT	L6/40	L6/40
+card_unit_la_decima	Italy	UNIT	DECIMA MAS	第 10 快艇支队
+card_unit_la_division_leclerc	France	UNIT	DIVISION LECLERC	勒克莱尔师
+card_unit_lancashire_fusiliers	Britain	UNIT	LANCASHIRE FUSILIERS	兰开夏燧发枪兵团
+card_unit_lancashire_fusiliers_cam1	Britain	UNIT	LANCASHIRE FUSILIERS	兰开夏燧发枪兵团
+card_unit_lancaster	Britain	UNIT	LANCASTER Mk I	兰开斯特 Mk I
+card_unit_lancaster_biii	Britain	UNIT	LANCASTER B.III	兰开斯特 B.III
+card_unit_layforce	Britain	UNIT	LAYFORCE	莱福斯突击队
+card_unit_legion_pol	Poland	UNIT	LEGIONY	军团
+card_unit_les_terribles	USA	UNIT	LES TERRIBLES	骇人步兵团
+card_unit_light_detachment_15	Finland	UNIT	LIGHT DETACHMENT 15	第 15 轻步兵支队
+card_unit_list_regiment	Germany	UNIT	LIST REGIMENT	利斯特步兵团
+card_unit_london_irish_rifles	Britain	UNIT	LONDON IRISH RIFLES	伦敦爱尔兰步枪兵团
+card_unit_lovat_scouts	Britain	UNIT	LOVAT SCOUTS	洛瓦特侦察兵团
+card_unit_lublin_r_xiii	Poland	UNIT	LUBLIN R-XIII	卢布林 R-XIII
+card_unit_m10_a1	USA	UNIT	M10A1	M10A1
+card_unit_m10_destroyer	USA	UNIT	M10 WOLVERINE	M10 狼獾
+card_unit_m13_40	Italy	UNIT	M13/40	M13/40
+card_unit_m16_halftrack	USA	UNIT	M16 HALF-TRACK	M16 半履带防空车
+card_unit_m18_hellcat	USA	UNIT	M18 HELLCAT	M18 地狱猫
+card_unit_m1_155mm_long_tom	USA	UNIT	LONG TOM	长腿汤姆
+card_unit_m20_scout_car	USA	UNIT	M20 SCOUT CAR	M20 侦察车
+card_unit_m24_chaffee	USA	UNIT	M24 CHAFFEE	M24 霞飞
+card_unit_m26_pershing	USA	UNIT	M26 PERSHING	M26 潘兴
+card_unit_m2a4	USA	UNIT	M2A4	M2A4
+card_unit_m36_destroyer	USA	UNIT	M36 JACKSON	M36 杰克逊
+card_unit_m3_grant_brit	Britain	UNIT	M3 GRANT	M3 格兰特
+card_unit_m3_lee_home	USA	UNIT	M3 LEE	M3 李
+card_unit_m3_stuart	USA	UNIT	M5 STUART	M5 斯图亚特
+card_unit_m3_stuart_cam1	USA	UNIT	M5 STUART	M5 斯图亚特
+card_unit_m3a3_honey_desert	Britain	UNIT	M3A3 HONEY	M3A3 甜心
+card_unit_m4_sherman	USA	UNIT	M4 SHERMAN	M4 谢尔曼
+card_unit_m4_sherman_flam	USA	UNIT	M4A3R3 ZIPPO	M4A3R3 打火机
+card_unit_m4a1	USA	UNIT	M4A1	M4A1
+card_unit_m4a2	USA	UNIT	M4A2	M4A2
+card_unit_m6	USA	UNIT	M6	M6
+card_unit_m7_priest	USA	UNIT	M7 PRIEST	M7 牧师
+card_unit_m8_greyhound	USA	UNIT	M8 GREYHOUND	M8 灰狗
+card_unit_m8_howitzer	USA	UNIT	M8 HOWITZER	M8 榴弹炮
+card_unit_macchi_c202	Italy	UNIT	MACCHI C.202	马基 C.202
+card_unit_macchi_c205	Italy	UNIT	MACCHI C.205	马基 C.205
+card_unit_macchi_c_200	Italy	UNIT	MACCHI C.200	马基 C.200
+card_unit_magnificent_seven	USA	UNIT	MAGNIFICENT SEVENTH	第 7 陆战团
+card_unit_manchester_ia	Britain	UNIT	MANCHESTER IA	曼彻斯特 Mk Ia
+card_unit_maori_battalion	ANZAC	UNIT	MAORI BATTALION	毛利营
+card_unit_marder_iii_h	Germany	UNIT	MARDER III H	黄鼠狼 III H 型
+card_unit_marines	USA	UNIT	3rd MARINE REGIMENT	第 3 陆战团
+card_unit_marines_cam1	USA	UNIT	7th MARINE REGIMENT	第 7 陆战团
+card_unit_mathilda_mk_ii	Britain	UNIT	MATILDA Mk II	玛蒂尔达 Mk II
+card_unit_matilda_mk_iv	Britain	UNIT	MATILDA Mk IV	玛蒂尔达 Mk IV
+card_unit_matilda_mk_iv_vet	Britain	UNIT	MATILDA Mk IV	玛蒂尔达 Mk IV
+card_unit_maus	Germany	UNIT	MAUS	鼠式坦克
+card_unit_me_262_schwalbe	Germany	UNIT	ME 262A SCHWALBE	Me 262 A 飞燕
+card_unit_me_410_hornisse	Germany	UNIT	ME 410 HORNISSE	Me 410 大黄蜂
+card_unit_me_bf_109_brothers	Germany	UNIT	ME BF 109 G	Bf 109 G
+card_unit_me_bf_109_fin	Finland	UNIT	ME BF 109 G FI	Bf 109 G FI
+card_unit_me_bf_109_g	Germany	UNIT	ME BF 109 E	Bf 109 E
+card_unit_me_bf_109_v2	Germany	UNIT	BF 109E-7 TROP	Bf 109 E-7 热带型
+card_unit_me_bf_110	Germany	UNIT	ME BF 110	Bf 110
+card_unit_me_bf_110_brothers	Germany	UNIT	ME BF 110 E	Bf 110 E
+card_unit_me_bf_110_waw	Germany	UNIT	BF 110 C ZERSTÖRER	Bf 110 C
+card_unit_meteor	Britain	UNIT	METEOR	流星
+card_unit_middlesex_regiment	Britain	UNIT	MIDDLESEX REGIMENT	米德尔塞克斯团
+card_unit_mosquito	Britain	UNIT	MOSQUITO FB Mk VI	蚊式 FB Mk VI
+card_unit_mosquito_bomber	Britain	UNIT	MOSQUITO B Mk IV	蚊式 B Mk IV
+card_unit_mosquito_fighter	Britain	UNIT	MOSQUITO F Mk II	蚊式 F Mk II
+card_unit_motorized_infantry	USA	UNIT	5th INFANTRY REGIMENT	第 5 步兵团
+card_unit_ms_460	France	UNIT	MS.406	莫拉纳-索尼耶 M.S.406
+card_unit_nebelwerfer	Germany	UNIT	NEBELWERFER 42	喷烟者 42 型
+card_unit_no1_commando	Britain	UNIT	No. 1 COMMANDO	第 1 突击队
+card_unit_no43_commando	Britain	UNIT	No. 43 COMMANDO	第 43 突击队
+card_unit_no_3_commando	Britain	UNIT	No. 3 COMMANDO	第 3 突击队
+card_unit_no_46_commando	Britain	UNIT	No. 46 COMMANDO	第 46 突击队
+card_unit_no_9_commando	Britain	UNIT	No. 9 COMMANDO	第 9 突击队
+card_unit_obice_da_75_13	Italy	UNIT	OBICE da 75/13	75/13 式山炮
+card_unit_ox_and_bucks	Britain	UNIT	OX AND BUCKS	牛津郡和白金汉郡轻步兵团
+card_unit_oxford	Britain	UNIT	OXFORD	牛津
+card_unit_p37los	Poland	UNIT	PZL.37 ŁOŚ	PZL.37 麋鹿
+card_unit_p38_lightning	USA	UNIT	P-38D LIGHTNING	P-38D 闪电
+card_unit_p38_lightning_raf	Britain	UNIT	RAAF LIGHTNING F-4	RAAF 闪电 F-4
+card_unit_p39_airacobra	USA	UNIT	P-39 AIRACOBRA	P-39 飞蛇
+card_unit_p40_kittyhawk	Britain	UNIT	P-40 KITTYHAWK	P-40 小鹰
+card_unit_p40_warhawk	USA	UNIT	P-40 WARHAWK	P-40 战鹰
+card_unit_p40n	USA	UNIT	P-40 N-5	P-40 N-5
+card_unit_p47d_25_waw	USA	UNIT	P-47D-25-RE	P-47D-25-RE
+card_unit_p47d_thunderbolt	USA	UNIT	P-47D THUNDERBOLT	P-47D 雷电
+card_unit_p51_b	USA	UNIT	P-51 B	P-51 B
+card_unit_p51_mustang	USA	UNIT	P-51 MUSTANG	P-51 野马
+card_unit_p_38_lightning_home	USA	UNIT	P-38H LIGHTNING	P-38H 闪电
+card_unit_p_40_k	USA	UNIT	P-40 K	P-40 K
+card_unit_p_61_black_widow	USA	UNIT	P-61 BLACK WIDOW	P-61 黑寡妇
+card_unit_pak_36	Germany	UNIT	PAK 36	Pak 36 反坦克炮
+card_unit_pak_36_fl	Finland	UNIT	PAK 36 FI	Pak 36 反坦克炮 FI
+card_unit_pak_38_vs_2	Germany	UNIT	PAK 38	Pak 38 反坦克炮
+card_unit_pak_40	Germany	UNIT	PAK 40	Pak 40 反坦克炮
+card_unit_panther	Germany	UNIT	PANTHER G	豹式坦克 G 型
+card_unit_panther_a	Germany	UNIT	PANTHER A	豹式坦克 A 型
+card_unit_panther_a_zimm	Germany	UNIT	PANTHER A ZIMMERIT	豹式坦克 A 型 防磁装甲型
+card_unit_panther_d_winter	Germany	UNIT	PANTHER D	豹式坦克 D 型
+card_unit_panzer_35_t	Germany	UNIT	PANZER 35(t)	35(t) 坦克
+card_unit_panzer_35_t_cam1	Germany	UNIT	PANZER 35(t)	35(t)坦克
+card_unit_panzer_35t_commander	Germany	UNIT	PANZERBEFEHLSWAGEN 35t	35(t) 指挥车
+card_unit_panzer_38_t	Germany	UNIT	PANZER 38(t)	38(t) 坦克
+card_unit_panzer_i_a	Germany	UNIT	PANZER I-A	一号坦克 A 型
+card_unit_panzer_i_brothers	Germany	UNIT	PANZER I-B	一号坦克 B 型
+card_unit_panzer_i_brothers_vet	Germany	UNIT	PANZER I-B	一号坦克 B 型
+card_unit_panzer_i_dak	Germany	UNIT	PANZER I DAK	一号坦克 DAK
+card_unit_panzer_ii_a	Germany	UNIT	PANZER II-A	二号坦克 A 型
+card_unit_panzer_ii_a_cam1	Germany	UNIT	PANZER II-A	二号坦克 A 型
+card_unit_panzer_ii_c	Germany	UNIT	PANZER II-C	二号坦克 C 型
+card_unit_panzer_iii_e	Germany	UNIT	PANZER III-L	三号坦克 L 型
+card_unit_panzer_iii_f	Germany	UNIT	PANZER III-F	三号坦克 F 型
+card_unit_panzer_iii_g_desert	Germany	UNIT	PANZER III-G	三号坦克 G 型
+card_unit_panzer_iii_h	Germany	UNIT	PANZER III-H	三号坦克 H 型
+card_unit_panzer_iii_j	Germany	UNIT	PANZER III-J	三号坦克 J 型
+card_unit_panzer_iii_j_early	Germany	UNIT		
+card_unit_panzer_iii_j_late	Germany	UNIT	PANZER III-J Spät	三号坦克 J 型 晚期型
+card_unit_panzer_iii_j_late_vet	Germany	UNIT	PANZER III-J Spät	三号坦克 J 型 晚期型
+card_unit_panzer_iii_l	Germany	UNIT	PANZER III-E	三号坦克 E 型
+card_unit_panzer_iv_f2	Germany	UNIT	PANZER IV F2	四号坦克 F2 型
+card_unit_panzer_iv_g	Germany	UNIT	PANZER IV-G	四号坦克 G 型
+card_unit_panzer_iv_g_cam1	Germany	UNIT	PANZER IV-G	四号坦克 G 型
+card_unit_panzer_iv_h	Germany	UNIT	PANZER IV-H	四号坦克 H 型
+card_unit_panzer_iv_h_vet	Germany	UNIT	PANZER IV-H	四号坦克 H 型
+card_unit_panzer_iv_home	Germany	UNIT	PANZER IV-J	四号坦克 J 型
+card_unit_panzergrenadier	Germany	UNIT	59. PANZERGRENADIER-DIVISION	第 59 装甲掷弹兵团
+card_unit_panzerzug_6	Germany	UNIT	PANZERZUG 61 BP42	BP-42 装甲列车
+card_unit_pb2y_coronado	USA	UNIT	PB2Y CORONADO	PB2Y 科罗纳多
+card_unit_pb4y_2_privateer	USA	UNIT	PB4Y-2 PRIVATEER	PB4Y-2 私掠船
+card_unit_pby_catalina	USA	UNIT	PBY CATALINA	PBY 卡特琳娜
+card_unit_polish_hurricane	Poland	UNIT	HURRICANE PL	飓风 PL
+card_unit_polish_sherman	Poland	UNIT	M4 SHERMAN PL	M4 谢尔曼 PL
+card_unit_potez_63_11	France	UNIT	POTEZ 63.11	波泰 63.11
+card_unit_pzl_11	Poland	UNIT	PZL P.11	PZL P.11
+card_unit_pzl_23_karas	Poland	UNIT	PZL.23 KARAŚ	PZL.23 卡拉斯
+card_unit_pzl_7	Poland	UNIT	PZL P.7	PZL P.7
+card_unit_qf_40mm_mk_iii	Britain	UNIT	QF 40mm Mk III	40 毫米高射炮 Mk III
+card_unit_queens_own	Britain	UNIT	QUEEN'S OWN	女王直属卡梅伦高地人团
+card_unit_raaf_walrus	ANZAC	UNIT	RAAF WALRUS	RAAF 海象
+card_unit_raaf_walrus_vet	ANZAC	UNIT	RAAF WALRUS	RAAF 海象
+card_unit_raf_ground_crew	Britain	UNIT	RAF GROUND CREW	皇家空军地勤
+card_unit_raf_mitchell	Britain	UNIT	RAF MITCHELL	RAF 米切尔
+card_unit_raf_mustang	Britain	UNIT	RAF MUSTANG	RAF 野马
+card_unit_railway_gun_leopold	Germany	UNIT	LEOPOLD	利奥波德
+card_unit_red_bull	USA	UNIT	RED BULL	红牛师
+card_unit_red_devils	USA	UNIT	RED DEVILS	红魔空降步兵团
+card_unit_rnzaf_kittyhawk	Britain	UNIT	RNZAF KITTYHAWK	RNZAF 小鹰
+card_unit_routed_troops	Neutral	UNIT	ROUTED TROOPS	溃军
+card_unit_royal_engineers	Britain	UNIT	26 ENGINEER REGIMENT	第 26 工兵团
+card_unit_royal_fusiliers	Britain	UNIT	ROYAL FUSILIERS	皇家燧发枪兵团
+card_unit_royal_scots	Britain	UNIT	ROYAL SCOTS	皇家苏格兰团
+card_unit_royal_sussex_regiment	Britain	UNIT	ROYAL SUSSEX REGIMENT	皇家萨塞克斯团
+card_unit_royal_ulster_rifles	Britain	UNIT	ROYAL ULSTER RIFLES	皇家阿尔斯特步枪兵团
+card_unit_royal_west_kents	Britain	UNIT	ROYAL WEST KENTS	皇家西肯特郡团
+card_unit_ruffians	USA	UNIT	RUFFIANS	恶汉团
+card_unit_ryhma_susi	Finland	UNIT	RYHMÄ SUSI	苏西战斗群
+card_unit_salamander	Germany	UNIT	SALAMANDER	He 162 蝾螈
+card_unit_sb2c_helldiver	USA	UNIT	SB2C HELLDIVER	SB2C 地狱俯冲者
+card_unit_sbd3_dauntless	USA	UNIT	SBD 3 DAUNTLESS	SBD 3 无畏
+card_unit_sbd3_dauntless_cam1	USA	UNIT	SBD 3 DAUNTLESS	SBD 3 无畏
+card_unit_sd_kfz222x	Germany	UNIT	Sd. Kfz. 222	Sd KFz 222
+card_unit_sd_kfz_10_38	Germany	UNIT	Sd. Kfz. 10 PAK 38	Sd Kfz 10 PaK 38
+card_unit_sdf	Britain	UNIT	SDF	苏丹防卫军
+card_unit_seabees	USA	UNIT	SEABEES	海蜂队
+card_unit_seaforth_highlanders	Britain	UNIT	SEAFORTH HIGHLANDERS	锡福斯高地人团
+card_unit_seagull	USA	UNIT	SEAGULL	SO3C 海鸥
+card_unit_seahawk	USA	UNIT	SEAHAWK	SC 海鹰
+card_unit_semovente_75_18	Italy	UNIT	SEMOVENTE DA 75/18	75/18 式自走炮
+card_unit_sexton	Britain	UNIT	SEXTON	司事火炮
+card_unit_shark_mk_iii	Britain	UNIT	SHARK Mk III	鲨鱼 Mk III
+card_unit_sherman_firefly_pl	Poland	UNIT	M4 FIREFLY PL	M4 萤火虫 PL
+card_unit_sherwood_foresters	Britain	UNIT	SHERWOOD FORESTERS	舍伍德森林人团
+card_unit_short_sunderland	Britain	UNIT	SUNDERLAND Mk V	桑德兰 Mk V
+card_unit_short_wellington	Britain	UNIT	WELLINGTON	威灵顿
+card_unit_sissi	Finland	UNIT	SISSI	游击队员
+card_unit_sissiosasto_5d	Finland	UNIT	SISSIOSASTO 5.D	第 5 师独立游击支队
+card_unit_skua_mk_ii	Britain	UNIT	BLACKBURN SKUA Mk II	贼鸥 Mk II
+card_unit_slashers	Britain	UNIT	SLASHERS	砍杀者团
+card_unit_sm_79	Italy	UNIT	SAVOIA-MARCHETTI SM.79	萨沃亚-马尔凯蒂 SM.79
+card_unit_somoa_s35	France	UNIT	SOMUA S35	索玛 S35
+card_unit_spitfire	Britain	UNIT	SPITFIRE Mk Ia	喷火 Mk Ia
+card_unit_spitfire_mk_ii	Britain	UNIT	SPITFIRE Mk II	喷火 Mk II
+card_unit_spitfire_mk_iia	Britain	UNIT	SPITFIRE Mk IIa	喷火 Mk IIa
+card_unit_spitfire_mk_v_pol	Poland	UNIT	SPITFIRE Mk V PL	喷火 Mk V PL
+card_unit_spitfire_v	Britain	UNIT	SPITFIRE Mk V	喷火 Mk V
+card_unit_stirling	Britain	UNIT	STIRLING Mk I S3	斯特林 Mk I S3
+card_unit_stirling_mk_iii	Britain	UNIT	STIRLING Mk III	斯特林 Mk III
+card_unit_stug_iii	Germany	UNIT	STUG III-F	三号突击炮 F 型
+card_unit_stug_iii_g	Germany	UNIT	STUG III-G	三号突击炮 G 型
+card_unit_stug_iii_g_fin	Finland	UNIT	STURMI	三号突击炮 FI
+card_unit_stug_iii_g_schurzen	Germany	UNIT	STUG-III-G-SCHÜRZEN	三号突击炮 G 型 裙甲型
+card_unit_stug_iv	Germany	UNIT	STUG IV	四号突击炮
+card_unit_stuka_brothers	Germany	UNIT	STUKA 87G	Ju 87 G 斯图卡
+card_unit_stuka_brothers_vet	Germany	UNIT	STUKA 87G	Ju 87 G 斯图卡
+card_unit_sturm_brigade_rhodos	Germany	UNIT	STURM-BRIGADE RHODOS	罗得突击旅
+card_unit_sturmovik_pol	Poland	UNIT	IŁ-2M PL	伊尔-2M PL
+card_unit_superman	USA	UNIT		
+card_unit_swordfish	Britain	UNIT	SWORDFISH Mk I	剑鱼 Mk I
+card_unit_sykes_regulars	USA	UNIT	SYKES REGULARS	赛克斯正规军
+card_unit_t19_howitzer	USA	UNIT	T19 HOWITZER	T19 榴弹炮
+card_unit_t19_howitzer_cam1	USA	UNIT	T19 HOWITZER	T19 榴弹炮
+card_unit_t_26_fl	Finland	UNIT	T-26 FI	T-26 FI
+card_unit_t_34_pol	Poland	UNIT	T-34 76 PL	T-34-76 PL
+card_unit_tbf_avanger	USA	UNIT	TBF-1 AVENGER	TBF-1 复仇者
+card_unit_tempest_mk_v	Britain	UNIT	TEMPEST Mk V	暴风 Mk V
+card_unit_the_123s	USA	UNIT	123s	第 123 步兵团
+card_unit_the_american_guard	USA	UNIT	THE AMERICAN GUARD	美国人卫队
+card_unit_the_biscuit_boys	Britain	UNIT	THE BISCUIT BOYS	饼干男孩步兵团
+card_unit_the_bleeders	Britain	UNIT	THE BLEEDERS	流血者团
+card_unit_the_deuce	USA	UNIT	THE DEUCE	杜斯团
+card_unit_the_glamour_boys	Britain	UNIT	THE GLAMOUR BOYS	魅力男孩高地人团
+card_unit_the_holy_boys	Britain	UNIT	THE HOLY BOYS	神圣男孩步兵团
+card_unit_the_polar_bears	Britain	UNIT	THE POLAR BEARS	北极熊师
+card_unit_the_pompadours	Britain	UNIT	THE POMPADOURS	蓬帕杜团
+card_unit_the_professionals	USA	UNIT	THE PROFESSIONALS	专家步兵团
+card_unit_the_rangers	Britain	UNIT	THE RANGERS	游骑兵营
+card_unit_the_silent_seventh	ANZAC	UNIT	THE SILENT SEVENTH	沉默七师
+card_unit_the_silent_seventh_vet	ANZAC	UNIT	THE SILENT SEVENTH	沉默七师
+card_unit_the_tigers	Britain	UNIT	THE TIGERS	老虎团
+card_unit_thunderbolt	USA	UNIT	THUNDERBOLT	霹雳师
+card_unit_tiger_i	Germany	UNIT	TIGER I-H	虎式坦克 H 型
+card_unit_tiger_i_e	Germany	UNIT	TIGER I-E	虎式坦克 E 型
+card_unit_tiger_moth	Britain	UNIT	TIGER MOTH	虎蛾
+card_unit_tigercat	USA	UNIT	TIGERCAT	F7F 虎猫
+card_unit_tks	Poland	UNIT	TKS	TKS
+card_unit_trento_division	Italy	UNIT	DIVISIONE TRENTO	特伦托师
+card_unit_tropic_lightning	USA	UNIT	TROPIC LIGHTNING	热带闪电师
+card_unit_tropic_lightning_vet	USA	UNIT	TROPIC LIGHTNING	热带闪电师
+card_unit_typhoon_mk_ib	Britain	UNIT	TYPHOON Mk IB	台风 Mk Ib
+card_unit_universal_carrier	Britain	UNIT	UNIVERSAL CARRIER	通用载具
+card_unit_us_signal_corps	USA	UNIT	593rd JASCO	第 593 联合通信连
+card_unit_usaaf_spitfire_ix	USA	UNIT	USAAF SPITFIRE IX	USAAF 喷火 IX
+card_unit_uusimaa_regiment	Finland	UNIT	UUSIMAA REGIMENT	新地团
+card_unit_valentine_mk_ii	Britain	UNIT	VALENTINE Mk II	瓦伦丁 Mk II
+card_unit_valentine_mk_iii	Britain	UNIT	VALENTINE Mk III	瓦伦丁 Mk III
+card_unit_valentine_mk_iii_cam1	Britain	UNIT	VALENTINE Mk III	瓦伦丁 Mk III
+card_unit_vildebeest	Britain	UNIT	VILDEBEEST	牛羚
+card_unit_welsh_guards	Britain	UNIT	WELSH GUARDS	威尔士卫队
+card_unit_welsh_regiment	Britain	UNIT	WELCH REGIMENT	威尔奇团
+card_unit_wespe_desert	Germany	UNIT	WESPE	黄蜂式自行火炮
+card_unit_whirlwind	Britain	UNIT	WHIRLWIND	旋风
+card_unit_white_guard	Finland	UNIT	WHITE GUARD	白卫队
+card_unit_windhund_division	Germany	UNIT	WINDHUND-DIVISION	灰猎犬师
+card_unit_wirbelwind	Germany	UNIT	WIRBELWIND	旋风防空坦克
+card_unit_wolfhounds	USA	UNIT	WOLFHOUNDS	猎狼犬团
+card_unit_wolfhounds_vet	USA	UNIT	WOLFHOUNDS	猎狼犬团
+card_unit_wolves_of_tuscany	Italy	UNIT	LUPI DI TOSCANA	托斯卡纳之狼步兵师
+card_unit_yak_9_pl	Poland	UNIT	JAK-9 PL	雅克-9 PL
+card_unit_zaza_division	Poland	UNIT	DYWIZJA KAWALERII ZAZA	扎扎师

@@ -1,5 +1,6 @@
-bin/
+﻿bin/
 obj/
-Debug/
-Data/detection.json
-Data/Templates/
+artifacts/
+.vs/
+*.user
+*.suo

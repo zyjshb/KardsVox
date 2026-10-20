@@ -1,0 +1,11 @@
+{
+  "source": "C:\\Users\\djnio\\Desktop\\芬兰.wav",
+  "source_sha256": "acb54d011a50a8ee630fdc2105b558eb3b863ee86ea1173301ab400dc5653cd2",
+  "start_seconds": 23.92,
+  "end_seconds": 32.08,
+  "seconds": 8.16,
+  "reference_sha256": "be04f2c9158dbedcde7d3fb0b23647a5bdc3ed16b559e3b1cac8eb69a03e38dc",
+  "sample_rate": 44100,
+  "processing": "mono, 8 ms edge fades; no pitch/tempo change",
+  "transcript": "Liikkeelle, vauhtia, eteenpäin! Eteenpäin, vauhtia, eteenpäin, vauhtia, vauhtia."
+}

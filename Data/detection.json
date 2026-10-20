@@ -1,0 +1,23 @@
+{
+  "AutoEnabled": true,
+  "SubtitlesEnabled": true,
+  "SelectedVoicePack": "Germany",
+  "PollMilliseconds": 400,
+  "BoardThreshold": 0.92,
+  "LobbyThreshold": 0.92,
+  "BoardConfirmFrames": 3,
+  "LobbyConfirmFrames": 3,
+  "OutsideArmFrames": 6,
+  "BoardRoi": {
+    "X": 0.42,
+    "Y": 0.08,
+    "Width": 0.16,
+    "Height": 0.12
+  },
+  "LobbyRoi": {
+    "X": 0.4,
+    "Y": 0.08,
+    "Width": 0.2,
+    "Height": 0.16
+  }
+}

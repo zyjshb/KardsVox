@@ -1,0 +1,21 @@
+asset_path	resource	folder	game_title_namespace	game_title_zh	namespace_references	reason
+BrawlCards/card_event_heroes_of_the_soviet_union_skirm.uasset	card_event_heroes_of_the_soviet_union_skirm	BrawlCards			Soviet	brawl namespace
+BrawlCards/card_event_heroism_skirm.uasset	card_event_heroism_skirm	BrawlCards			Soviet	brawl namespace
+BrawlCards/card_event_lost_cause_skirm.uasset	card_event_lost_cause_skirm	BrawlCards			Soviet	brawl namespace
+BrawlCards/card_event_red_skies_skirm.uasset	card_event_red_skies_skirm	BrawlCards			Japan	brawl namespace
+BrawlCards/card_event_soul_of_old_japan_skirm.uasset	card_event_soul_of_old_japan_skirm	BrawlCards			Japan	brawl namespace
+BrawlCards/card_event_the_end_is_near_skirm.uasset	card_event_the_end_is_near_skirm	BrawlCards			Japan	brawl namespace
+Germany/specialCards/card_location_soviet_scen1_ai.uasset	card_location_soviet_scen1_ai	Germany				name only; nationality unverified
+Germany/specialCards/card_location_soviet_scen2_ai.uasset	card_location_soviet_scen2_ai	Germany				name only; nationality unverified
+Germany/specialCards/card_location_soviet_scen3_ai.uasset	card_location_soviet_scen3_ai	Germany				name only; nationality unverified
+Germany/specialCards/card_location_soviet_scen4_ai.uasset	card_location_soviet_scen4_ai	Germany				name only; nationality unverified
+Germany/specialCards/card_location_soviet_scen5_ai.uasset	card_location_soviet_scen5_ai	Germany				name only; nationality unverified
+PromoCards/card_event_flank_attack_sov.uasset	card_event_flank_attack_sov	PromoCards				name only; nationality unverified
+PromoCards/card_event_soviet_promo3.uasset	card_event_soviet_promo3	PromoCards				name only; nationality unverified
+PromoCards/card_unit_japan_promo1.uasset	card_unit_japan_promo1	PromoCards				name only; nationality unverified
+PromoCards/card_unit_soviet_promo1.uasset	card_unit_soviet_promo1	PromoCards				name only; nationality unverified
+USA/specialCards/card_location_japan_scen1_ai.uasset	card_location_japan_scen1_ai	USA				name only; nationality unverified
+USA/specialCards/card_location_japan_scen2_ai.uasset	card_location_japan_scen2_ai	USA				name only; nationality unverified
+USA/specialCards/card_location_japan_scen3_ai.uasset	card_location_japan_scen3_ai	USA	card_japan	巴加克	Japan	localized nation title
+USA/specialCards/card_location_japan_scen4_ai.uasset	card_location_japan_scen4_ai	USA				name only; nationality unverified
+USA/specialCards/card_location_japan_scen5_ai.uasset	card_location_japan_scen5_ai	USA				name only; nationality unverified

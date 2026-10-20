@@ -1,0 +1,116 @@
+resource	original	chinese
+card_event_admiral_hipper	Hipper greift ein. Feindlichen Nachschub unterbrechen!	希佩尔号介入。切断敌军补给！
+card_event_advanced_reich_research	Die nächste Versuchsreihe ist bereit. Auftrag auswählen!	下一轮试验已准备就绪。选择项目！
+card_event_air_blitz	Feindliches Hauptquartier voraus. Angriff aus der Luft!	前方是敌军总部。发动空袭！
+card_event_air_blitz_tut	Ziel ist das Hauptquartier. Bomben ab!	目标是总部。投弹！
+card_event_airstrike_new	Den Anmarsch aus der Luft zerschlagen!	从空中打散来敌！
+card_event_alpenfestung	Rückzug in die Bergstellung. Das Hauptquartier wird gesichert!	撤入山地阵地。确保总部安全！
+card_event_annihilation	Feindliche Stellung ausschalten und ihre Befehle abfangen!	摧毁敌军阵地，截获他们的命令！
+card_event_aunt_frieda	Infanterie einweisen. Die Panzer folgen nach!	指导步兵行动。坦克随后跟进！
+card_event_bismarck	Bismarck an Feuerleitung. Hauptquartier unter Beschuss nehmen!	俾斯麦号呼叫火控。炮击敌军总部！
+card_event_blackout	Lichter aus! Der Feind verliert sein Ziel.	熄灯！让敌机失去目标。
+card_event_blitz_doctrine	Leichte Panzer anfordern. Wir brauchen Tempo!	请求轻型坦克。我们需要速度！
+card_event_blitzkrieg	Alle Kräfte an der Front: Jetzt durchstoßen!	前线全体部队：立即突击！
+card_event_breakthrough	Die Stellung aufbrechen! Dann sofort nachsetzen!	打穿阵地！随后立即跟进！
+card_event_bridge_too_far	Den Übergang vorbereiten. Panzer stehen in Bereitschaft.	做好渡越准备。坦克待命。
+card_event_buzz_bomb	Flugbombe auf Kurs. Zielanflug läuft!	飞行炸弹航向正确。正在接近目标！
+card_event_bypass	Panzer an der Front: Durch zum Hauptquartier!	前线坦克：直插敌军总部！
+card_event_campaign_alamein1_flanking_maneuver	Seitlich ansetzen! Den Gegner von der Flanke treffen!	从侧面展开！打击敌军侧翼！
+card_event_campaign_alamein1_iron_fist	Den Gegner zurückdrängen. Danach Fahrzeuge instand setzen!	击退敌军。随后整修车辆！
+card_event_campaign_alamein3_head_to_head	Unsere Panzer bündeln das Feuer auf den Feindpanzer!	我方坦克集中火力，打击敌方坦克！
+card_event_campaign_alamein3_riding_the_storm	Köpfe hoch! Alle Trupps wieder kampfbereit!	抬起头来！各队恢复战备！
+card_event_capitulation	Ihre Ordnung bricht zusammen. Den Widerstand brechen!	他们的队形崩溃了。击垮残余抵抗！
+card_event_careless_talk	Ihre Ankunft ist bekannt. Feuerüberfall vorbereiten!	已经掌握他们的到达时间。准备火力伏击！
+card_event_case_blue	Schwere Kräfte bereit. Angriff auf das bezeichnete Ziel!	重兵已就绪。攻击指定目标！
+card_event_case_yellow	Erster Schlag! Alle Verbände rücken geschlossen nach!	先发制人！各部协同跟进！
+card_event_claim_objective	Der Vormarsch zeigt Wirkung. Angriff weiter verstärken!	推进已有成效。继续加强攻势！
+card_event_combined_arms	Alle Waffengattungen unterstützen die Panzer!	各兵种支援坦克！
+card_event_combined_arms_cam1	Infanterie und Geschütze: Mit den Panzern zusammenwirken!	步兵和炮兵：配合坦克行动！
+card_event_contest_doctrine	Schwere Panzer bereitstellen. Jede Besatzung wird verstärkt!	准备重型坦克。加强各车组战力！
+card_event_crossfire	Kreuzfeuer eröffnen! Den nächsten Trupp gleich mitfassen!	展开交叉火力！接着打击下一队敌军！
+card_event_detailed_recon	Meldungen vom Vormarsch auswerten. Neue Lage liegt vor!	分析推进情报。最新战况已收到！
+card_event_dive_bombing	Im Sturzflug angreifen! Den Gegner niederhalten!	俯冲攻击！压住敌军！
+card_event_eagle_claws	Feindliche Reservestellung erfasst. Flächenangriff!	已锁定敌军后方阵地。展开覆盖攻击！
+card_event_eagle_day	Startfreigabe erteilt. Angreifen und zurück zur Basis!	准许起飞。攻击后返回基地！
+card_event_encirclement	Zweiter Trupp nach vorn! Den Ring schließen!	第二队向前！合拢包围圈！
+card_event_enemy_sighted	Feind gesichtet. Kleinen Verband sofort ausschalten!	发现敌军。立即消灭这支小部队！
+card_event_enigma	Funksprüche entschlüsselt. Die Lage wird klarer.	电文已破译。战况正在明朗。
+card_event_entrapment	Sobald sie angreifen, schnappt die Falle zu!	他们一进攻，圈套就收网！
+card_event_envelop	Warten, bis sie vorrücken. Dann die Front abriegeln!	等他们推进。然后封死前线！
+card_event_expanded_reich_research	Forschung ausweiten. Treibstoff oder nächste Entwicklungsstufe?	扩大研发。选择燃料还是下一阶段？
+card_event_exploit_the_gap	Die Lücke ist offen. Frische Kräfte sofort durchschicken!	缺口已经打开。立即投入生力军！
+card_event_fast_heinz	Panzerverbände verstärken! Der Vormarsch geht weiter!	加强装甲部队！继续推进！
+card_event_fighter_frieda	Jägerstaffel verstärken. Luftraum sichern!	加强战斗机中队。控制空域！
+card_event_fliegerfuhrer_atlantik	Atlantikaufklärung meldet. Marineeinsatz vorbereiten!	大西洋侦察回报。准备海军行动！
+card_event_focused_attack_ger	Alle Waffen wirken zusammen. Fußtruppen und Panzer vor!	各兵种协同出击。步兵和坦克前进！
+card_event_foiled_plans	Feindlichen Befehl abgefangen. Schlag gegen ihre Führung!	截获敌军命令。打击敌方指挥部！
+card_event_from_the_deep	Unter Wasser in Stellung. Ihr Auftauchen ist unser Signal!	水下就位。敌军出现便是攻击信号！
+card_event_front_and_homeland	Die Heimat liefert nach. Material schneller an die Front!	后方补给跟上了。加速向前线输送物资！
+card_event_gathering_storm	Infanterie, Panzer, Geschütze und Jäger anfordern!	请求步兵、坦克、火炮和战斗机！
+card_event_german_counterattack	Veteranen nach vorn! Den Gegenstoß gemeinsam führen!	老兵向前！协同发动反击！
+card_event_glide_bombing	Im Gleitflug ran! Ihr Feuer zum Schweigen bringen!	滑翔接近！让敌军火力停下来！
+card_event_happy_time	Feindliche Pläne sichern. Eine Abschrift geht an die Führung.	获取敌方计划。将副本送交指挥部。
+card_event_harass	Den Gegner aus der Stellung jagen! Keine Ruhe lassen!	把敌军赶出阵地！别让他们喘息！
+card_event_hit_the_drop_point	Landepunkt erfasst. Den ankommenden Trupp festsetzen!	已掌握落点。压住刚到的敌军！
+card_event_iron_from_the_north	Die Front hält. Eisennachschub aus dem Norden freigeben!	前线稳住了。放行北方铁矿补给！
+card_event_joint_operation	Ziel bestätigt. Alle verfügbaren Waffen einsetzen!	目标确认。投入所有可用兵器！
+card_event_joint_operation_cam1	Gemeinsames Ziel! Alle Truppengattungen eröffnen das Feuer!	目标一致！各兵种同时开火！
+card_event_kettenkrad_home	Meldekrad zur Truppe! Neue Angriffsbefehle für alle!	传令摩托车出发！向全军传达新的攻击命令！
+card_event_kriegsmarine	Marineleitung meldet: Ihre Zentrale steht unter Feuer!	海军指挥部回报：敌方指挥中心正遭炮击！
+card_event_lightning_strike	Sobald die Meldung eintrifft: Schlag gegen ihr Hauptquartier!	一收到情报，就打击敌军总部！
+card_event_lost_convoy	Ihre Versorgung ist getroffen. Der Nachschub bleibt aus!	敌军补给遭到打击。后续供应中断了！
+card_event_lurking_danger	Abwehrmaßnahmen bereitlegen. Wir erwarten ihren nächsten Zug.	准备反制措施。等他们下一步行动。
+card_event_maelstrom	Schweres Feuer über die ganze Stellung!	重火力覆盖整片阵地！
+card_event_minor_nation_conquest	Alle Truppengattungen melden. Lageberichte zusammentragen!	各兵种报告。汇总战况情报！
+card_event_missing	Den vorrückenden Trupp abfangen. Keiner kommt durch!	截住推进的敌军。一个也别放过！
+card_event_momentum	Die Front ist frei. Zwei leichte Panzer vorziehen!	前线畅通。两辆轻型坦克上前！
+card_event_mountain_offense	Gebirgstruppen sammeln sich. Verstärkung trifft ein!	山地部队正在集结。援军抵达！
+card_event_night_attack	Im Dunkeln zuschlagen. Danach sofort zurückziehen!	趁夜突击。随后立即撤回！
+card_event_old_hares	Erfahrene Männer an die Spitze. Jetzt kräftig zuschlagen!	让老兵打头阵。现在全力出击！
+card_event_precision_strike_tut	Ziel genau erfasst. Gezielten Schlag ausführen!	已精确锁定目标。实施定点打击！
+card_event_prinz_eugen	Prinz Eugen greift ein. Den feindlichen Aufmarsch zurückwerfen!	欧根亲王号介入。击退正在集结的敌军！
+card_event_propaganda	Meldung herausgeben! Ihre Führung soll den Druck spüren!	发布通告！让敌方指挥部感受压力！
+card_event_protect_the_pocket	Verbindung zum Kessel halten. Neue Befehle kommen durch!	保持与包围圈内的联系。新命令正在传入！
+card_event_pummel	Feuer auf diesen Trupp! Keine Gegenwehr zulassen!	向这支部队开火！不给他们还击机会！
+card_event_pursuit	Sie weichen zurück. Alle Kräfte hinterher!	他们正在后退。全军追上去！
+card_event_rally	Wieder sammeln! Niedergehaltene Trupps, zum Angriff bereit!	重新集结！受压制的各队，准备进攻！
+card_event_rapid_engagement	Neu ansetzen! Sofort wieder ins Gefecht!	重新展开！立即重返战斗！
+card_event_recuperation	Kurze Verschnaufpause. Dann greifen wir wieder an!	短暂休整。随后再次进攻！
+card_event_reich_defenders	Afrikakorps meldet sich. Welche Einheit wird gebraucht?	非洲军团报到。需要哪支部队？
+card_event_reich_research	Entwicklung aufnehmen. Flugkörper oder weitere Forschung?	开始研发。选择飞行炸弹还是继续研究？
+card_event_reichsbank	Mittel für den nächsten Einsatz bereitstellen!	为下一次行动备妥资金！
+card_event_reinforcements	Nachschub ist da. Verwundete versorgen, Fahrzeuge reparieren!	补给到了。救治伤员，修复车辆！
+card_event_reinforcements_cam1	Versorgungstrupps eingetroffen. Alle Einheiten wiederherstellen!	补给队已经抵达。整修全部单位！
+card_event_retaliation	Treffer im Hauptquartier! Mit gleicher Stärke zurückschlagen!	总部中弹！以同等火力还击！
+card_event_ride_of_the_valkyries	Feindliche Reserven in Alarmbereitschaft. Angriffe genau abstimmen!	敌军预备队已进入戒备。协调好各轮攻击！
+card_event_root_out_the_enemy	Das ganze Gelände bestreichen. Eigene Trupps in Deckung!	扫射整片区域。我军各队隐蔽！
+card_event_rout	Ihre kleine Stellung bricht. Den Trupp auseinandertreiben!	敌军小股阵地动摇了。打散他们！
+card_event_run_the_battlefield	Starke Verbände übernehmen. Versorgung und Befehle nachführen!	强力部队接手。补给和命令随后跟上！
+card_event_rush_production	Fertigung beschleunigen! Die Front braucht sofort Verstärkung!	加快生产！前线急需增援！
+card_event_scatter_tactics	Ausschwärmen! Ihren Angriff ins Leere laufen lassen!	散开！让敌军的攻击落空！
+card_event_sea_hunters	Ziel läuft ein. Torpedos los, Ergebnis melden!	目标进入射界。发射鱼雷，报告战果！
+card_event_second_front	Verband verlegen. An der zweiten Front gemeinsam antreten!	调动部队。在第二战线协同展开！
+card_event_shifting_attack	Zurücknehmen und neu ansetzen. Noch einmal zuschlagen!	收拢部队，重新展开。再打一次！
+card_event_sky_barons	Feindmaschine im Visier. Abschuss melden!	敌机进入瞄准线。报告击落！
+card_event_spoils_of_war	Beute sichten. Das Brauchbare nach vorn geben!	检查战利品。把有用的送往前线！
+card_event_stranglehold	Ihre Kräfte sind gebunden. Weitere Einsätze unterbinden!	敌军兵力已被牵制。阻止后续行动！
+card_event_strike_at_the_heart_skirm	Direkt auf ihre Zentrale! Den entscheidenden Treffer setzen!	直击敌方指挥中心！打出关键一击！
+card_event_sudden_strike	Kleines Ziel erkannt. Zuschlagen, bevor sie reagieren!	发现小股敌军。抢在他们反应前出击！
+card_event_support_column	Versorgungskolonne vor! Die Nachbareinheiten unterstützen!	补给纵队向前！支援相邻部队！
+card_event_suppression_fire	Feindliche Stellung niederhalten! Beobachter, dranbleiben!	压住敌军阵地！观察员，持续监视！
+card_event_sustained_pressure	Den Angriff fortsetzen. Feuer auf das Widerstandsnest!	继续进攻。向敌军据点开火！
+card_event_synthetic_oil	Treibstofflieferung bestätigt. Nächsten Einsatz vorbereiten!	燃料供应已确认。准备下一次行动！
+card_event_tactical_retreat	Feind greift an. Sofort aus der Schusslinie!	敌军来袭。立即撤出射界！
+card_event_tactical_strike	Feindliche Stellung erfasst. Schwerpunkt im Hinterland!	已锁定敌军阵地。重点打击后方！
+card_event_tank_frieda	Panzer neu ausrichten. Luftunterstützung ist angefordert!	调整坦克队形。已请求空中支援！
+card_event_tank_wedge	Keil bilden! Nachbartrupps an den Panzer anschließen!	组成楔形阵！相邻部队靠拢坦克！
+card_event_through_the_breach	Durch die Bresche feuern! Auch die Reserven erfassen!	向缺口内开火！一并打击后方部队！
+card_event_tip_of_the_spear	Spähtrupp hat sie entdeckt. Stoßtrupp, Ziel ausschalten!	侦察队发现了他们。突击队，消灭目标！
+card_event_tirpitz	Tirpitz eröffnet das Feuer. Feindlichen Aufmarsch blockieren!	提尔皮茨号开火。封锁敌军集结！
+card_event_type_xxi_boat	Boot in Angriffsposition. Ziel versenken, Versorgung zerschlagen!	潜艇进入攻击位置。击沉目标，摧毁补给！
+card_event_u_16	U 16 meldet: Gegner abgedrängt. Verbindung zur Flotte halten!	U-16 回报：敌军已被逼退。保持与舰队的联系！
+card_event_u_375	U 375 meldet: Feindlicher Nachschub abgefangen!	U-375 回报：已截断敌军补给！
+card_event_u_99	U 48 in Stellung. Feindliche Zufahrt sperren!	U-48 已就位。封锁敌军通道！
+card_event_uranium_club	Sonderwaffe freigegeben. Alle feindlichen Stellungen ausschalten!	准许使用特种武器。摧毁敌军全部阵地！
+card_event_v1_flying_bomb	V 1 startklar. Festgelegtes Ziel angreifen!	V-1 准备发射。攻击指定目标！
+card_event_wolfpack	Boote gemeinsam vor! Den Gegner abdrängen und Nachschub abfangen!	潜艇群协同前出！逼退敌军，截断补给！

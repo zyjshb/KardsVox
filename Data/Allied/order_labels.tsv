@@ -1,0 +1,511 @@
+resource	origin	japanese_title	russian_title	chinese_title	chinese_effect
+card_event_a_few_good_men	USA	ア・フュー・グッドメン	НЕСКОЛЬКО ХОРОШИХ ПАРНЕЙ	好人寥寥	从 3 张随机美国精英单位中选择 1 张加入手牌。
+card_event_aa_barrage	Britain	対空弾幕	ЗЕНИТНЫЙ ОГОНЬ	防空弹幕	使 1 个空军撤退，使友方总部获得 +2 防御力。
+card_event_aans	ANZAC	NZANS	NZANS	新西兰陆军护理队	使友方总部获得 +3 防御力。额外获得 1 个指挥点槽。
+card_event_act_on_the_intel	Poland	情報に基づき	ПО ДАННЫМ РАЗВЕДКИ	见机行事	对 1 个敌方目标造成等同于敌方明牌数量的伤害。
+card_event_active_sonar	Britain	アクティブソナー	АКТИВНЫЙ СОНАР	主动声呐	压制所有敌方单位，使对手手牌获得 +3 花费。
+card_event_admiral_hipper	Germany	KM アドミラル・ヒッパー	КМ АДМИРАЛ ХИППЕР	KM 希佩尔海军上将号	将 1 个单位返回手牌。下个敌方回合开始时，敌方无法增加指挥点槽或抽牌。
+card_event_advanced_reich_research	Germany	高度帝国軍事研究	ПРОДВИНУТЫЕ ИССЛЕДОВАНИЯ РЕЙХА	高级德意志帝国研发	抉择：将 1 张“XXI 级 U 型潜艇” 或 1 张“铀工程”加入手牌。
+card_event_advanced_royal_research	Britain	高度イギリス軍事研究	ПРОДВИНУТЫЕ КОРОЛЕВСКИЕ ИССЛЕДОВАНИЯ	高级皇家研发	抉择：将 1 张“主动声纳” 或 1 张“布莱切利庄园”加入手牌。
+card_event_advanced_us_research	USA	高度アメリカ軍事研究	ПРОДВИНУТЫЕ ИССЛЕДОВАНИЯ США	高级美国研发	抉择：将 1 张“青霉素” 或 2 张“曼哈顿计划”加入手牌。
+card_event_aerial_reconaissance	Britain	空中偵察	ВОЗДУШНАЯ РАЗВЕДКА	空中侦察	敌方部署单位时，使友方手牌中的指令获得 -1 花费，花费至少为 1。
+card_event_against_the_odds	Britain	逆境	НЕСМОТРЯ НИ НА ЧТО	迎难而上	单位攻击后，将其压制。抽 1 张牌。
+card_event_agency_africa	Poland	アフリカ機関	АФРИКАНСКОЕ АГЕНТСТВО	非洲情报局	随机将 1 张敌方明牌的复制加入手牌。
+card_event_air_blitz	Germany	空襲	АВИАНАЛЁТ	空中闪击	对 1 个总部造成 3 点伤害。
+card_event_air_corps_ferrying	USA	王立防空軍団フェリー	ВОЗДУШНОЕ СООБЩЕНИЕ	航空兵团运输	使 1 个友方单位获得 +1+1。若剩余指挥点数不小于 5，改为使所有友方单位获得 +1+1。
+card_event_air_cover_us	USA	空中支援	ВОЗДУШНОЕ ПРИКРЫТИЕ	空中掩护	将 2 个“F2A 水牛”加入战场，若可能，加入前线。
+card_event_air_defense	USA	防空	ВОЗДУШНАЯ ЗАЩИТА	防空	单位攻击时，对其造成 3 点伤害。若是空军，改为将其消灭。
+card_event_air_escort	Italy	空軍エスコート	ВОЗДУШНОЕ СОПРОВОЖДЕНИЕ	空中护航	触发所有友方单位的非指向部署。
+card_event_air_power	Britain	空軍力	ВОЕННО-ВОЗДУШНЫЕ СИЛЫ	空军力量	抉择：消灭 1 个坦克 或 对 1 个敌方目标造成 2 点伤害。
+card_event_air_strips	Italy	仮設滑走路	ВЗЛЁТНЫЕ ПОЛОСЫ	跑道	将 1 张“布雷达 Ba.65”加入手中，将 1 张“RM 罗马号”置于卡组顶。
+card_event_airdrop	Britain	空中投下	ДЕСАНТИРОВАНИЕ	空降	使前线 1 个敌方单位撤退。然后若前线没有单位，将 2 个“第 2 伞兵旅”加入前线。
+card_event_airstrike_new	Germany	空爆	УДАР С ВОЗДУХА	空袭	敌方单位部署时，将其返回手牌。敌方随机弃 1 张牌。
+card_event_allied_research_effort	USA	連合軍合同研究	СОЮЗНЫЕ ИССЛЕДОВАНИЯ	盟军研发成果	抉择：随机将 1 张花费不小于 7 的美国或英国指令 或 单位加入手牌。
+card_event_alpenfestung	Germany	ALPENFESTUNG	ALPENFESTUNG	阿尔卑斯要塞	使友方总部的防御力为 25。从卡组顶移除 10 张牌。
+card_event_ambush	France	烈火のごとく	ПЛАМЕННАЯ ЗАСАДА	猛烈伏击	对 1 个单位造成 3 点伤害。然后若没有敌方单位，对敌方总部造成 3 点伤害。
+card_event_america_goes_to_war	USA	戦時アメリカ	АМЕРИКА НА ТРОПЕ ВОЙНЫ	战时美利坚	额外获得 1 个指挥点槽。若剩余指挥点数不小于 2，抽 1 张牌。
+card_event_anders_army	Poland	アンダースの軍隊	АРМИЯ АНДЕРСА	安德斯军团	抽 2 张牌。对友方总部造成 2 点伤害。
+card_event_annihilation	Germany	消滅	АННИГИЛЯЦИЯ	歼灭	消灭 1 个花费不大于 5 的敌方单位，敌方随机弃 1 张牌。
+card_event_anzac_spirit	ANZAC	アンザックの精神	ДУХ АНЗАКА	澳新军团精神	对所有敌方目标造成 2 点伤害。抽 2 张牌。额外获得 2 个指挥点槽。
+card_event_area_bombardment	Britain	面爆撃	БОМБАРДИРОВКА ПО ПЛОЩАДЯМ	区域轰炸	将 1 个“兰开斯特 Mk I”加入支援阵线。回合结束时，将其洗入卡组。
+card_event_armaments_eg	Britain	軍備	ВООРУЖЕНИЕ	军备	对 1 个目标造成 4 点伤害。若在卡组中的回合数不小于 4，改为造成 8 点伤害。
+card_event_arming_resistance	France	武装蜂起	ВООРУЖЕНИЕ СОПРОТИВЛЕНИЯ	武装抵抗	对 1 个单位造成 5 点伤害。将等同于溢出伤害的“抵抗”加入敌方卡组。
+card_event_asw_patrol	USA	対潜パトロール	ПРОТИВОЛОДОЧНЫЙ ПАТРУЛЬ	反潜巡逻	额外获得 3 个指挥点槽。若美国是盟国，随机消灭 1 个敌方单位。
+card_event_atlantic_convoy	Britain	大西洋船団	АТЛАНТИЧЕСКИЙ КОНВОЙ	大西洋护航队	分别随机将 1 个花费不大于 3 的美国单位加入支援阵线和手牌。
+card_event_ats	Britain	ATS	ATS	女子辅助军	使敌方总部获得：“每回合，累计受到的伤害不小于 3 时，抽 1 张牌。”
+card_event_attack_in_the_colonies	Italy	植民地での攻撃	КОЛОНИАЛЬНАЯ АТАКА	进攻殖民地	对 1 个敌方目标造成 3 点伤害。使友方总部获得 +5 防御力。
+card_event_attrition	USA	損耗	ИСТОЩЕНИЕ	消耗战	对 1 个单位造成 2 点伤害。若是老兵，使其撤退。
+card_event_aunt_frieda	Germany	フリーダおばさん	AUNT FRIEDA	弗里达阿姨手册	使 1 个友方步兵获得 +1+1。将 1 张“坦克机动”加入手中。
+card_event_awoken_giant	USA	覚醒した巨人	ПРОБУДИВШИЙСЯ ГИГАНТ	巨人苏醒	对前线 1 个敌方单位造成 2 点伤害。若将其消灭，抽 1 张牌。
+card_event_baker_street_irregulars	Britain	ベイカー街遊撃隊	ОПОЛЧЕНЦЫ БЕЙКЕР-СТРИТ	贝克街分队	开发 1 张英国特种单位。若有友方突击队，额外开发 1 张英国指令。
+card_event_battery	USA	集中砲火	БАТАРЕЯ	炮火支援	对 1 个单位造成 4 点伤害，溢出伤害转移到敌方总部。
+card_event_battle_valor	USA	士気向上	ДОБЛЕСТЬ	勇气迸发	若可能，将目标单位升为老兵，使其获得 +2+4。
+card_event_betasom	Italy	ベタソム	BETASOM	波尔多潜艇指挥部	开发 1 张海军牌。使卡组顶的牌算作是海军，直到下个友方回合结束。
+card_event_bismarck	Germany	KM ビスマルク	КМ БИСМАРК	KM 俾斯麦号	对 1 个总部造成 8 点伤害。
+card_event_blackout	Germany	灯火管制	СВЕТОМАСКИРОВКА	灯火管制	压制 1 个敌方空军，抽 1 张牌。
+card_event_blast	Neutral	爆破	ВЗРЫВ	爆破	对 1 个单位造成 1 点伤害。
+card_event_bletchley_park	Britain	ブレッチリー・パーク	БЛЕТЧЛИ-ПАРК	布莱切利庄园	将敌方手中和场上所有花费不大于 5 的卡牌返回其卡组顶。
+card_event_blitz_doctrine	Germany	電撃戦ドクトリン	БЛИЦ-ДОКТРИНА	闪击战法	开发 1 张德国轻型坦克。将 1 张“竞争战法”加入手牌。
+card_event_blitzkrieg	Germany	電撃戦	БЛИЦКРИГ	闪电战	使前线所有友方单位获得 +3 攻击力和 -1 行动花费，直到回合结束。
+card_event_blockade	Britain	封鎖	БЛОКАДА	封锁	对所有敌方单位造成 2 点伤害。若卡组顶是海军牌，改为造成 3 点伤害。
+card_event_bocage_warfare	USA	ボカージュ戦闘	БОКАЖ	篱墙之战	使支援阵线 1 个友方单位获得：“移至前线时，获得 +2+2。”
+card_event_bolster_the_ranks	USA	増強	УСИЛИТЬ РЯДЫ	激励部队	使 1 个单位获得等同于其行动花费的攻击力和防御力，使其行动花费为 0。
+card_event_bomber_mafia	USA	ボマーマフィア	БОМБАРДИРОВОЧНАЯ МАФИЯ	轰炸机黑手党	开发 1 张美国轰炸机。若剩余指挥点数不小于 5，对所有敌方单位造成 2 点伤害。
+card_event_bomber_run_brit	Britain	爆撃開始	ЗАХОД НА ЦЕЛЬ	轰炸航路	对 1 个单位造成 2 点伤害。若有攻击力不小于 5 的友方轰炸机，改为造成 5 点伤害。
+card_event_bpf	Britain	BPF	БРИТАНСКИЙ ТИХООКЕАНСКИЙ ФЛОТ	英国太平洋舰队	从“爆破”、“计划”和“生产”中开发 1 张，开发 1 张英国海军牌。
+card_event_breaking_point	Finland	極限	ПЕРЕЛОМНЫЙ МОМЕНТ	临界点	消灭 1 个被抑制或被压制的单位。
+card_event_breakout	Britain	強行	ВЫХОД ИЗ ОКРУЖЕНИЯ	突围	使 1 个老兵单位获得奋战和冲击。
+card_event_breakthrough	Germany	大躍進	ПРОРЫВ	突破	对 1 个单位造成 3 点伤害。若其被消灭，使所有友方单位具有 -1 行动花费，直到回合结束。
+card_event_bridge_too_far	Germany	遠すぎた橋	МОСТ СЛИШКОМ ДАЛЕКО	遥远的桥	敌方回合结束时，若可能，将 1 个“三号坦克 J 型”加入前线。否则，消灭前线所有单位。
+card_event_brute_force	Italy	力ずく	ГРУБАЯ СИЛА	蛮力	对 1 个敌方目标造成等同于友方比敌方多控制单位数量的伤害。
+card_event_buzz_bomb	Germany	ブンブン爆弾	ФАУ-1	嗡嗡炸弹	对 1 个敌方目标造成 1 点伤害。若是总部，抽 1 张牌。
+card_event_bypass	Germany	バイパス	ОБХОД	迂回	对 1 个总部造成等同于前线所有友方德国坦克花费之和的伤害。
+card_event_cadet_nurse_corps	USA	士官候補生看護隊	КУРСЫ МЕДСЕСТЁР	军校护士团	完全修复所有友方单位，使其获得 +1+1。
+card_event_call_to_the_colonies	France	植民地招集	ОБРАЩЕНИЕ К КОЛОНИЯМ	呼叫殖民地	抉择：使友方总部获得 +8 防御力 或 抽 2 张牌。
+card_event_campaign_alamein1_flanking_maneuver	Germany	側面攻撃	ФЛАНГОВЫЙ МАНЁВР	侧翼机动	对 1 个敌方单位造成 2 点伤害。
+card_event_campaign_alamein1_through_the_wire	Italy	ワイヤーを通じて	ПРОРЕЗЬ В «КОЛЮЧКЕ»	突破阵线	使 1 个敌方单位失去守护。使所有友方意大利单位获得 +1+1。
+card_event_campaign_alamein3_head_to_head	Germany	真っ向勝負	ЛИЦОМ К ЛИЦУ	硬碰硬	对 1 个敌方坦克造成等同于友方坦克数的伤害。抽取等同于造成伤害的卡牌。
+card_event_campaign_alamein3_riding_the_storm	Germany	嵐に乗って	ОСЕДЛАВШИЕ БУРЮ	乘风破浪	使所有友方单位失去压制，本回合其无法被压制。
+card_event_campaign_alamein3_spring_the_reserves	Italy	予備兵出撃	БЫСТРЫЕ РЕЗЕРВЫ	迅速储备	使手牌中的所有意大利单位花费为 0，直到回合结束。
+card_event_campaign_guadalcanal2_base_defense	USA	本部強化	ЗАЩИТА БАЗЫ	基地防御	使友方总部获得 +4 防御力。使友方总部具有烟幕，直到下个友方回合开始。
+card_event_campaign_guadalcanal2_coastal_raid	USA	沿岸襲撃	БЕРЕГОВОЙ РЕЙД	沿海突袭	对 1 个单位造成 3 点伤害。
+card_event_campaign_guadalcanal2_naval_patrol	USA	海軍パトロール	ФЛОТСКИЕ ПАТРУЛИ	海军巡逻	本局对战，此后敌方单位具有 +1 花费。
+card_event_campaign_guadalcanal4_bomber_runway	USA	爆撃機滑走路	ВПП ДЛЯ БОМБАРДИРОВЩИКОВ	轰炸机跑道	抽 1 张“SBD 3 无畏”，使其获得 -1 花费。
+card_event_campaign_guadalcanal4_marine_patrols	USA	海上パトロール	МОРСКИЕ ПАТРУЛИ	海陆巡逻	本局对战，此后敌方单位具有 +1 行动花费。
+card_event_campaign_guadalcanal4_naval_blockade	USA	海上封鎖	МОРСКАЯ БЛОКАДА	海军封锁	敌方弃掉所有单位。
+card_event_campaign_trail	USA	行軍	КУРС КАМПАНИИ	战役路线	本回合，所有友方单位具有 -2 行动花费，回合结束时，将其完全修复。
+card_event_campaign_tunis1_blade_force_arrives	USA	ブレードフォース到着	ПРИБЫТИЕ ОТРЯДА «БЛЕЙД»	刀锋武力	对所有敌方空军造成 2 点伤害。
+card_event_campaign_tunis1_commando_raid	Britain	コマンド襲撃	НАЛЁТ КОММАНДОС	突击队袭击	压制所有敌方单位。敌方随机将 1 张手牌放回卡组顶。
+card_event_campaign_tunis1_french_reinforcement	France	フランス軍増強	ФРАНЦУЗСКОЕ ПОДКРЕПЛЕНИЕ	法国援军	将 1 张花费为 5 的“乍得行进团”加入手牌。
+card_event_campaign_tunis3_counterattack	USA	カウンター攻撃	КОНТРАТАКА	反击	随机消灭前线 1 个敌方单位。
+card_event_campaign_tunis3_french_artillery	France	フランス砲兵	ФРАНЦУЗСКАЯ АРТИЛЛЕРИЯ	法国火炮	将 1 个具有闪击的“75 毫米野战炮”加入支援阵线。
+card_event_campaign_tunis3_supply_intercepted	Britain	補給の阻止	ПЕРЕХВАТ ПРИПАСОВ	截获补给	敌方无法抽牌，持续 3 回合。
+card_event_capitulation	Germany	降伏	КАПИТУЛЯЦИЯ	一触即溃	将所有敌方单位转换为“溃军”。
+card_event_careless_talk	Germany	軽率なおしゃべり	БОЛТУН — НАХОДКА ДЛЯ ШПИОНА	无心漫谈	敌方单位部署时，对其造成 3 点伤害。
+card_event_carpet_bombing	Britain	絨毯爆撃	КОВРОВАЯ БОМБАРДИРОВКА	地毯式轰炸	对所有敌方单位造成 3 点伤害。
+card_event_carrier_cover	USA	空母支援	ПРИКРЫТИЕ С АВИАНОСЦА	航母掩护	抉择：使所有友方战斗机获得 +1+1 或 移至前线。
+card_event_case_blue	Germany	青作戦	ПЛАН БЛАУ	蓝色方案	每有 1 个攻击力不小于 4 的友方单位，对 1 个敌方目标造成 4 点伤害。
+card_event_case_yellow	Germany	マンシュタイン計画	ПЛАН ГЕЛЬБ	黄色方案	造成 1 点伤害。使所有友方单位获得 +1+0。敌方随机弃 1 张牌。
+card_event_chain_home	Britain	チェーンホーム	ЧЕЙН ХОУМ	本土链	使 1 个友方单位的攻击力等同于其防御力。使其随机与 1 个敌方单位战斗。
+card_event_chasing_shadows	France	影追い	В ПОГОНЕ ЗА ТЕНЬЮ	捕风捉影	指向 1 个单位，使其移至前线。
+card_event_claim_objective	Germany	目標を確保せよ	ЦЕЛЬ ПРЕТЕНЗИИ	夺取目标	本回合，单位行动每花费过 1 个指挥点，使所有友方单位获得一次 +1 攻击力。
+card_event_close_air_support	Britain	近接航空支援	АВИАПОДДЕРЖКА	近距离空中支援	使 1 个友方英国空军和其相邻单位获得 +1+1。
+card_event_close_call	Britain	危機一髪	НА ВОЛОСКЕ	千钧一发	指令或部署指向友方单位时，将其反制。
+card_event_cobelligerents	Britain	共同参戦国	СОУЧАСТИЕ	战时盟国	将 1 个敌方单位洗入友方卡组。
+card_event_cold_trap	Finland	冬の罠	ЛЕДЯНОЙ КАПКАН	极寒陷阱	敌方单位攻击时，加入 1 张“游击队员”，使其成为攻击目标。
+card_event_colonial_dreams	Italy	植民地の夢	МЕЧТЫ КОЛОНИСТА	殖民梦	手牌中单位数最多的玩家抽 2 张牌。
+card_event_colossus	Britain	コロッサス	COLOSSUS	巨人计算机	随机将敌方卡组中的 3 张指令的复制洗入友方卡组。使其获得：“抽 1 张牌。”
+card_event_combined_arms	Germany	カンプフグルッペ	ОБЩЕВОЙСКОВОЙ БОЙ	协同作战	友方单位每有一种单位类型，使 1 个友方坦克获得一次 +1+1。
+card_event_combined_arms_cam1	Germany	カンプフグルッペ	ОБЩЕВОЙСКОВОЙ БОЙ	协同作战	友方单位每有一种单位类型，使 1 个友方坦克获得一次 +1+1。
+card_event_combined_chiefs_of_staff	Britain	連合参謀本部	ОБЪЕДИНЁННЫЙ КОМИТЕТ НАЧАЛЬНИКОВ ШТАБОВ	参谋长联席会议	使所有友方英国和美国单位获得 +2+3。
+card_event_commando_raid	Britain	コマンドー襲撃	РЕЙД КОММАНДОС	突击队突击	造成 1 点伤害。将 2 个“第 10 突击队”加入支援阵线。
+card_event_committed_crew	Britain	献身的なクルー	УСЕРДНЫЙ ПЕРСОНАЛ	恪尽职守	直到回合结束，所有喷火花费为 0，使其部署时获得 +3+3。
+card_event_compromise	France	妥協	КОМПРОМИСС	妥协	抉择：抽 1 张牌，使总部获得 +3 防御力 或 双方进行两次。
+card_event_contest_doctrine	Germany	コンテストドクトリン	СОРЕВНОВАТЕЛЬНАЯ ДОКТРИНА	竞争战法	开发 1 张德国中型或重型坦克。使友方总部获得：“友方坦克部署时，使其获得 +1+1。”
+card_event_convoy_175	Britain	HX175船団	КОНВОЙ HX-175	HX 175 护航队	抽 2 张牌。
+card_event_convoy_attack	Italy	船団攻撃	НАПАДЕНИЕ НА КОНВОЙ	护航攻击	对 1 个目标造成 0-2 点伤害。
+card_event_corps_command	ANZAC	軍団司令部	КОМАНДОВАНИЕ КОРПУСА	军司令部	使最左侧和最右侧手牌获得：“使用时，随机消灭 1 个敌方单位。”
+card_event_counter_strike	USA	反撃	ОТВЕТНЫЙ УДАР	反袭	敌方单位攻击友方总部时，将其消灭。
+card_event_creeping_barrage	Britain	移動弾幕射撃	ОГНЕВОЙ ВАЛ	徐进弹幕	压制 1 个单位。压制移除时，使其撤退。
+card_event_critical_damage	Britain	クリティカルダメージ	КРИТИЧЕСКИЙ УРОН	致命伤害	对 1 个单位造成 1 点伤害。若其没有相邻单位，改为造成 2 点伤害。
+card_event_cross_of_lorraine	France	ロレーヌ十字	ЛОТАРИНГСКИЙ КРЕСТ	洛林十字	敌方每有 1 张手牌，具有 -1 花费。对 1 个敌方目标造成 3 点伤害。
+card_event_crossfire	Germany	十字砲火	ПЕРЕКРЁСТНЫЙ ОГОНЬ	交叉火力	对所有敌方单位造成 1 点伤害。若有单位被消灭，重复此效果。
+card_event_cup_of_tea	Britain	一杯の紅茶	ЧАШКА ЧАЯ	一杯茶	使所有友方英国单位获得 +2 防御力。
+card_event_cup_of_tea_cam1	Britain	一杯の紅茶	ЧАШКА ЧАЯ	一杯茶	使所有友方英国单位获得 +2 防御力。
+card_event_dagger_has_struck	Italy	短剣の一撃	КИНЖАЛ НАНОСИТ УДАР	单刀直入	压制 1 个单位，若其具有唯一最高的攻击力，将其消灭。
+card_event_daring_strike	Poland	大胆な一撃	ДЕРЗКИЙ УДАР	英勇一击	每有 1 个友方流亡单位，具有 -2 花费。对 1 个目标造成 2 点伤害。
+card_event_dark_deeds	Finland	ダーク・ディーズ	ТЁМНЫЕ ДЕЯНИЯ	阴谋	将 1 个“游击队员”加入支援阵线。抽 1 张牌。下个友方回合结束时，将其弃掉。
+card_event_daylight_bombing	Britain	昼間爆撃	ДНЕВНАЯ БОМБАРДИРОВКА	日间轰炸	对 1 个目标造成 2 点伤害，敌方失去 1 个指挥点槽。
+card_event_death_from_above	USA	上空からの死	СМЕРТЬ С НЕБЕС	死神降临	随机消灭 1 个敌方单位。
+card_event_decisive_defense	Italy	決定的防御	РЕШИТЕЛЬНАЯ ОБОРОНА	关键防御	单位攻击友方总部时，将 1 个“第 6 山地团”加入总部相邻处，使其成为攻击目标。
+card_event_decoy_tactics	Finland	おとり戦術	ТАКТИКА ПРИМАНКИ	诱饵战术	使 1 个单位获得伏击和冲击，且：“被敌方指向或攻击时，敌方随机弃 1 张牌。”
+card_event_defend_in_depth	France	徹底抗戦	ГЛУБОКАЯ ОБОРОНА	纵深防御	对 1 个单位造成等同于敌方手牌数的伤害。
+card_event_defend_the_empire	France	国を守る	ЗАЩИТА НАЦИИ	保家卫国	抽取卡组顶的非法国牌，洗切卡组。
+card_event_delaying_tactics	Britain	遅延戦術	ТАКТИКА ЗАТЯГИВАНИЯ	拖延战术	使前线所有单位撤退。
+card_event_depot_raid	Finland	補給廠襲撃	НАЛЁТ НА СКЛАД	劫营	将 1 个敌方单位返回手牌。将 1 张被收缴的复制加入友方手牌。
+card_event_depth_charges	USA	爆雷	ГЛУБИННЫЕ БОМБЫ	深水炸弹	额外获得 1 个指挥点槽。使友方总部具有烟幕，直到下个友方回合开始。
+card_event_desert_dust	Britain	砂漠の塵	ПЫЛЬ ПУСТЫНИ	沙尘满目	压制 1 个单位。将 2 个“卫戍”加入支援阵线。
+card_event_desert_push	Italy	砂漠への侵攻	ПУСТЫННЫЙ НАТИСК	沙漠推进	完全修复 1 个陆军。若其被压制，移除压制。
+card_event_desert_push_cam1	Italy	砂漠への侵攻	ПУСТЫННЫЙ НАТИСК	沙漠推进	完全修复 1 个陆军。若其被压制，移除压制。
+card_event_desert_raid	Britain	砂漠での襲撃	ПУСТЫННЫЙ РЕЙД	沙漠突袭	所有单位造成的对战伤害为 1，直到下个友方回合开始。
+card_event_desert_rats	Britain	砂漠の鼠	ПУСТЫННЫЕ КРЫСЫ	沙漠之鼠	对 1 个敌方单位造成 1 点伤害，将其压制。
+card_event_desert_rats_cam1	Britain	砂漠の鼠	ПУСТЫННЫЕ КРЫСЫ	沙漠之鼠	对 1 个敌方单位造成 1 点伤害，将其压制。
+card_event_detailed_recon	Germany	細部偵察	ДЕТАЛЬНАЯ РАЗВЕДКА	周密侦察	降低等同于本回合单位行动花费的指挥点的花费。抽 1 张牌，使其降低同等花费。
+card_event_dilemma	Britain	ジレンマ	ДИЛЕММА	两难困境	将 1 个单位的攻击力和行动花费交换。
+card_event_direct_hit	USA	直撃	ПРЯМОЕ ПОПАДАНИЕ	直接命中	对 1 个单位造成 1 点伤害。若其行动花费为 0，改为将其消灭。
+card_event_dive_bombing	Germany	急降下爆撃	БОМБАРДИРОВКА ИЗ ПИКИРОВАНИЯ	俯冲轰炸	对 1 个敌方单位造成 1 点伤害。使其攻击力为 0，直到下个友方回合开始。
+card_event_double_strength	Britain	二倍強化	С УДВОЕННОЙ СИЛОЙ	双倍力量	随机将手牌中的 1 张指令的复制洗入卡组。
+card_event_dowding_system	Britain	ダウディング・システム	СИСТЕМА ДАУДИНГА	道丁系统	敌方使用花费不小于 4 的指令时，将其反制。
+card_event_duress	USA	強迫	СУРОВЫЕ УСЛОВИЯ	胁迫	抑制 1 个单位。
+card_event_eagle_claws	Germany	鷲の一薙ぎ	ОРЛИНАЯ ХВАТКА	鹰爪	对敌方支援阵线所有单位造成 2 点伤害。
+card_event_eagle_day	Germany	鷲作戦	АДЛЕРТАГ	鹰日计划	选择手牌中的 1 张德国空军，将其加入战场并使其获得闪击。回合结束时，将其返回手牌。
+card_event_eastern_front	Italy	東部戦線行き	НА ВОСТОЧНЫЙ ФРОНТ	东线边界	使所有友方山地单位获得 +1+1，抽 1 张山地单位。
+card_event_echelon	Britain	エシェロン	ЭШЕЛОН	梯队	使所有友方单位获得：“其他友方单位被攻击时，本单位获得 +1+1。“
+card_event_embargo	USA	禁輸	ЭМБАРГО	禁止通商	下个回合，敌方失去 2 个指挥点。
+card_event_emergency_measures	Britain	緊急対策	ЧРЕЗВЫЧАЙНЫЕ МЕРЫ	紧急措施	选择并弃 1 张喷火，将 1 个“皇家空军地勤”加入支援阵线。
+card_event_encirclement	Germany	包囲	ОКРУЖЕНИЕ	包围	将前线 1 个花费不大于 3 的友方单位的复制加入同一阵线，使其获得闪击。
+card_event_enemy_contact	Britain	接敵	КОНТАКТ	逢敌	压制 1 个单位。抽 1 张牌。
+card_event_enemy_sighted	Germany	敵は射程内	ПРОТИВНИК ЗАМЕЧЕН	目击敌人	消灭 1 个花费不大于 3 的单位，抽 1 张牌。
+card_event_enemy_spotted	USA	敵を発見	ВРАГ ОБНАРУЖЕН	发现敌人	敌方占领前线时，抽 3 张牌。
+card_event_enigma	Germany	エニグマ	ЭНИГМА	恩尼格玛	抽数张牌，直到友方手牌数与敌方相同。
+card_event_entanglement	Britain	障害物	ЗАГРАЖДЕНИЕ	障碍	友方单位被攻击时，使其在伤害造成前获得 +2 防御力。将 1 个“卫戍”加入支援阵线。
+card_event_entrapment	Germany	罠	КАПКАН	圈套	单位攻击时，将其消灭。使所有友方单位获得 +1+1。
+card_event_entrenched	Britain	塹壕戦	ОКОПАТЬСЯ	深沟固垒	使 1 个友方守护单位获得 +3 攻击力、奋战和收缴。
+card_event_envelop	Germany	待ち伏せ	ОХВАТ	合围	单位移至前线时，消灭前线所有单位。
+card_event_escaut_plan	France	エスコー計画	ПЛАН ЭСКОТ	埃斯科计划	指向 1 个单位，使其移至前线。若是本回合使用的第一张指令，使其获得伏击。
+card_event_escort_group	Britain	エスコート船団	ГРУППА СОПРОВОЖДЕНИЯ	护航船队	抉择：将 1 张“原料” 或 1 张“军备”洗入卡组。
+card_event_evasive_action	Britain	回避行動	МАНЁВР УКЛОНЕНИЯ	规避动作	敌方部署单位部署时，反制其部署。
+card_event_exiled_forces	Poland	亡命軍	ИЗГНАННЫЕ СИЛЫ	流亡部队	将 1 个单位的复制加入友方支援阵线。三回合后，将其消灭。
+card_event_expanded_reich_research	Germany	拡大帝国軍事研究	РАСШИРЕННЫЕ ИССЛЕДОВАНИЯ РЕЙХА	扩展德意志帝国研发	抉择：将 1 张“合成机油” 或 1 张“高级德意志帝国研发”加入手牌。
+card_event_expanded_royal_research	Britain	拡張イギリス軍事研究	РАСШИРЕННЫЕ КОРОЛЕВСКИЕ ИССЛЕДОВАНИЯ	扩展皇家研发	抉择：将 1 张“合成橡胶” 或 1 张“高级皇家研发”加入手牌。
+card_event_expanded_us_research	USA	拡大アメリカ軍事研究	РАСШИРЕННЫЕ ИССЛЕДОВАНИЯ США	扩展美国研发	抉择：将 1 张“加压舱” 或 1 张“高级美国研发”加入手牌。
+card_event_exploit_the_gap	Germany	隙を突け	ПРОРЫВ	扩大优势	若前线有友方单位，从卡组顶 3 张单位中选择 1 张，使其获得闪击且花费为 0，将其余 2 张置于卡组底。
+card_event_fast_heinz	Germany	ファスト・ハインツ	БЫСТРОХОДНЫЙ ГЕЙНЦ	古德里安	使所有友方德国坦克获得 +2+1。
+card_event_field_hospital	USA	野戦病院	ПОЛЕВОЙ ГОСПИТАЛЬ	野战医院	完全修复所有友方单位。每修复 1 个，抽 1 张牌。
+card_event_fighter_frieda	Germany	航空支援	АВИАПОДДЕРЖКА	空中支援	使 1 个友方战斗机获得 +2+2。
+card_event_finest_hour	Britain	最高の時	ЗВЁЗДНЫЙ ЧАС	最光辉的时刻	使 1 个空军获得 +1+1 和闪击。
+card_event_firebomb	USA	ファイアーボム	ЗАЖИГАТЕЛЬНЫЕ БОМБЫ	燃烧弹	对 1 个单位造成 5 点伤害，若剩余指挥点数不小于 2，随机将溢出的伤害分配至所有敌方目标。
+card_event_firewall	USA	防火壁	ОГНЕВОЙ РУБЕЖ	防火墙	使 1 个单位获得：“无法攻击敌方总部”。
+card_event_first_responders	Britain	ファーストレスポンダー	БЫСТРОЕ РЕАГИРОВАНИЕ	第一响应	敌方回合结束时，将 1 个“第 5 步兵旅”加入支援阵线。若敌方单位数不小于 3，使其获得 +3+3。
+card_event_first_to_fight	Poland	先陣を切れ	ПЕРВЫМ В БОЙ	冲锋在前	使 1 个友方单位获得：“本单位交战并存活后，将 1 个“军团”加入支援阵线。”
+card_event_fliegerfuhrer_atlantik	Germany	大西洋コマンド	ФЛИГЕРФЮРЕР АТЛАНТИК	大西洋航空指挥部	随机将卡组中的 2 张海军卡牌移到卡组顶。
+card_event_focused_attack_ger	Germany	集中攻撃	СОСРЕДОТОЧЕННАЯ АТАКА	集中攻击	友方单位每有一种单位类型，使所有友方步兵和坦克获得一次 +1+1。
+card_event_fog_of_war	Britain	戦争の霧	ТУМАН ВОЙНЫ	战争迷雾	移除 1 个单位。将 2 张复制置于所有者卡组顶。
+card_event_foiled_plans	Germany	失敗した計画	СОРВАННЫЕ ПЛАНЫ	轻虑浅谋	敌方指令使用时，对敌方总部造成等同于其花费的伤害。
+card_event_for_freedom	USA	自由のために	ЗА СВОБОДУ	为了自由	使 1 个单位获得 +1+1，抽 1 张牌。
+card_event_for_precision_bombing	Britain	精密爆撃	ПРИЦЕЛЬНОЕ БОМБОМЕТАНИЕ	精准轰炸	降低等同于友方轰炸机最高攻击力的花费。消灭 1 个敌方单位。
+card_event_for_the_king	Britain	王のために	ЗА КОРОЛЯ	为了国王	对 1 个敌方坦克造成 5 点伤害。
+card_event_fortification	Britain	要塞化	ФОРТИФИКАЦИЯ	防御工事	使友方总部获得 +7 防御力。
+card_event_fortified_position	France	要塞化	УКРЕПЛЁННАЯ ПОЗИЦИЯ	加固阵地	压制 1 个敌方单位。若在前线，使其撤退。
+card_event_fortified_position_cam1	France	要塞化	УКРЕПЛЁННАЯ ПОЗИЦИЯ	加固阵地	压制 1 个单位，使其获得 +2 行动花费。
+card_event_fortunes_of_war	USA	戦争の命運	НАСЛЕДИЕ ВОЙНЫ	战争财	触发 1 个单位的亡计，视为由友方触发，若是敌方单位，再使其失去亡计。
+card_event_forward_base_anzac	ANZAC	前線基地	ПЕРЕДОВАЯ БАЗА	前沿基地	弃掉最左侧手牌。对 1 个单位造成等同于其花费的伤害。
+card_event_forward_observers	Britain	前線観測員	ПЕРЕДОВЫЕ АРТИЛЛЕРИЙСКИЕ НАБЛЮДАТЕЛИ	前进观察员	对所有敌方单位造成 2 点伤害。若上回合友方部署过英国步兵，抽 1 张牌。
+card_event_frappe	France	フラッぺ	УДАРНЫЕ СИЛЫ	攻击	若有友方动员单位，消灭 1 个防御力不大于 3 的单位。
+card_event_free_french_navy	France	自由フランス海軍	ВМФ СВОБОДНОЙ ФРАНЦИИ	自由法国海军	抽取卡组顶行动花费为 3 的单位。使友方总部获得 +3 防御力。
+card_event_french_alliance	France	西の同盟	ЗАПАДНЫЕ СОЮЗНИКИ	西方盟友	将卡组顶的 1 张非法国单位加入支援阵线。
+card_event_fresh_recruits	USA	新兵	СВЕЖИЕ РЕКРУТЫ	新兵入伍	友方单位被消灭时，随机使 1 个友方单位获得 +2+3。
+card_event_friendly_fire_fin	Finland	同士討ち	ДРУЖЕСТВЕННЫЙ ОГОНЬ	误伤	敌方单位攻击时，随机将攻击伤害转移至 1 个其他敌方目标。
+card_event_from_the_deep	Germany	深みから	ИЗ ГЛУБИН МОРСКИХ	来自深处	敌方单位部署时，将其消灭。
+card_event_front_and_homeland	Germany	前線と祖国	ФРОНТ И РОДИНА	前线与家乡	在第四回合抽取。 使卡组中的所有奇数花费的德国卡牌获得 -1 花费。
+card_event_frontal_defense	Poland	正面防衛	ЛОБОВАЯ ЗАЩИТА	正面防御	使 1 个友方单位获得：“友方回合结束时，对所有单位造成 1 点伤害。”
+card_event_frozen_assets	Finland	凍り付く戦力	ЗАМОРОЗКА АКТИВОВ	强制冻结	将 1 个“游击队员”加入 1 个友方单位相邻处。使其具有闪击和收缴。
+card_event_furor	USA	フュアロ	ФУРОР	狂怒	完全修复 1 个受伤的友方单位。将 1 张“激怒”加入手牌。
+card_event_gathering_storm	Germany	迫る嵐	НАДВИГАЮЩАЯСЯ БУРЯ	风暴前夕	抽 1 张步兵，坦克，炮兵和战斗机。
+card_event_german_counterattack	Germany	逆襲	КОНТРАТАКА	反击	使所有友方老兵单位获得 +2+2。使每个友方单位随机与 1 个敌方单位战斗。
+card_event_glide_bombing	Germany	滑空爆撃	ПЛАНИРУЮЩЕЕ БОМБОМЕТАНИЕ	滑翔轰炸	使 1 个单位的攻击力为 0，直到下个友方回合开始。若其本回合被消灭，抽 1 张牌。
+card_event_grim_day	USA	グリム・デイ	МРАЧНЫЙ ДЕНЬ	朝不保夕	直到下个友方回合开始，敌方指向或攻击友方单位时，+2 花费。
+card_event_grounded	Britain	離陸不能	С НЕБЕС НА ЗЕМЛЮ	停飞	将 1 个单位返回其所有者卡组顶。
+card_event_guerilla_warfare_school	ANZAC	ゲリラ戦学校	ШКОЛА ПАРТИЗАНСКОЙ ВОЙНЫ	游击战学校	若是最右侧手牌，具有 -1 花费。随机使 1 个敌方单位撤退。
+card_event_gunship	USA	ガンシップミッション	БОЕВОЙ ВЫЛЕТ	炮艇任务	对敌方支援阵线 1 个目标造成 2 点伤害。使友方总部获得 +2 防御力。
+card_event_hammer_home	Poland	力説	ДОРОГА ДОМОЙ	捷报传乡	将 1 个友方流亡单位的复制加入同一阵线，使两者获得 +1+1 和 -1 行动花费。
+card_event_happy_time	Germany	ハッピータイム	СЧАСТЛИВЫЕ ВРЕМЕНА	美好时光	从敌方 3 张手牌中选择 1 张。将 1 张复制加入手中，将两者转换为“计划”。
+card_event_harass	Germany	嫌がらせ	ИЗНУРЕНИЕ	侵扰	将 1 个单位返回手牌。若有友方空军，随机将其转换为 1 个花费相同的单位。
+card_event_heartland_defense	Finland	ハートランド防衛	ЗАЩИТА ЦЕНТРА	腹地防御	友方总部受到伤害时，将 1 个“游击队员”加入支援阵线。使其获得同等的攻击力和防御力。
+card_event_hel	Poland	ヘル要塞地帯	ХЕЛЬ	海尔要塞	使 1 个“军团”获得 +6 防御力，且：“友方总部具有免疫。”
+card_event_hell_on_wheels	USA	車輪付きの地獄	АД НА КОЛЁСАХ	地狱之轮	复制 1 个友方坦克，使其获得 -2 行动花费。若是谢尔曼，使其攻击力翻倍。
+card_event_hidden_plans	USA	秘密の計画	ТАЙНЫЕ ПЛАНЫ	保密计划	抉择：抽 1 张隐蔽单位 或 揭示 1 个隐蔽单位，使其获得 +1+1。
+card_event_high_altitude_bombing	USA	高高度爆撃	ВЫСОТНАЯ БОМБАРДИРОВКА	高空轰炸	随机消灭 2 个敌方单位。
+card_event_his_majesty_chosen	Britain	陛下のご選択	ИЗБРАННЫЕ ЕГО ВЕЛИЧЕСТВА	皇家旨意	从 3 张随机英国精英单位中选择 1 张加入手牌。
+card_event_hit_the_drop_point	Germany	降下地点で迎え撃て	ОБСТРЕЛ ЗОНЫ ВЫСАДКИ	袭击落点	敌方单位部署时，将其抑制。可影响隐蔽单位。
+card_event_hmas_warramunga	ANZAC	HMAS ワラムンガ	HMAS WARRAMUNGA	HMAS 瓦拉孟加号	选择 1 张手牌。将其移至最左侧。若是澳新军团牌，使其获得 -1 花费。
+card_event_hms_belfast	Britain	HMSベルファスト	HMS БЕЛФАСТ	HMS 贝尔法斯特号	将 1 个单位返回其所有者卡组顶。若友方卡组顶是海军牌，洗切其所有者卡组。
+card_event_hms_formidable	Britain	HMSオーディダブル	HMS ФОРМИДЕБЛ	HMS 可畏号	使 1 个友方单位的攻击力等同于其防御力。使其以随机顺序与所有敌方单位战斗。
+card_event_hms_hermes	Britain	HMS ハーミーズ	HMS ГЕРМЕС	HMS 竞技神号	将数个“剑鱼 Mk I”加入支援阵线，直到已满。
+card_event_hms_illustrious	Britain	HMSイラストリアス	HMS ИЛЛАСТРИЕС	HMS 光辉号	将 2 个“剑鱼 Mk I”加入支援阵线，使其获得闪击。
+card_event_hms_spectre	Britain	HMSセプター	HMS СКЕПТР	HMS 权杖号	敌方使用指令时，将其反制，转换为“计划”并返回手牌。
+card_event_hms_talbot	Britain	HMSタルボット	HMS TALBOT	HMS 塔尔伯特	友方总部即将受到致命伤害时，先获得 +6 防御力。
+card_event_hold_the_line	Poland	境界線を維持せよ	ДЕРЖАТЬ ОБОРОНУ	坚守阵线	敌方单位移至前线时，压制前线所有单位并对他们造成 1 点伤害。
+card_event_home_guard	Britain	ホームガード	ДОМАШНЯЯ ГВАРДИЯ	国土警卫队	对 1 个单位造成 2 点伤害。将 1 张“卫戍”加入手牌。
+card_event_honor_and_loyalty	France	誇りと忠誠心	ЧЕСТЬ И ВЕРНОСТЬ	荣誉与忠诚	将 1 个友方单位洗入卡组，抽 2 张牌。
+card_event_in_hour_of_need	USA	有事	В ЧАС НУЖДЫ	战争需要	额外获得 2 个指挥点槽。
+card_event_in_the_navy	USA	海軍所属	НА ФЛОТЕ	海军服役	友方单位被攻击时，使其在伤害造成前获得 +1+2。
+card_event_industrial_might	USA	産業力	ПРОМЫШЛЕННАЯ МОЩЬ	工业力量	本回合，此前友方每部署或加入过 1 个单位，抽 1 张牌。
+card_event_infiltrate	Britain	潜入	ПРОНИКНОВЕНИЕ	渗透	每个友方突击队随机对 1 个敌方目标造成等同于敌方明牌数的伤害。
+card_event_ingenuity	Britain	独創性	ИЗОБРЕТАТЕЛЬНОСТЬ	革新	开发 1 张英国或美国轰炸机。
+card_event_interception	Britain	妨害	ПЕРЕХВАТ	拦截	敌方指令指向友方目标时，将其反制。
+card_event_iron_from_the_north	Germany	北部からの鉄鋼	СЕВЕРНОЕ ЖЕЛЕЗО	北方铁矿	若前线有友方单位，获得 3 个指挥点。
+card_event_island_hopping_elit	USA	蛙飛び	ОСТРОВНАЯ КАМПАНИЯ	跳岛战术	使敌方总部获得：“每回合，累计受到的伤害不小于 3 时，随机使 1 个友方单位获得 +2+2。”
+card_event_italian_human_torpedo	Italy	マイアーレ	ПИЛОТИРУЕМАЯ ТОРПЕДА	人控鱼雷	消灭敌方支援阵线 1 个单位。
+card_event_joint_operation	Germany	共同作戦	СОВМЕСТНАЯ ОПЕРАЦИЯ	联合行动	对 1 个单位造成等同于友方单位类型数 +1 的伤害。
+card_event_joint_operation_cam1	Germany	共同作戦	СОВМЕСТНАЯ ОПЕРАЦИЯ	联合行动	对 1 个敌方目标造成等同于友方单位类型数量 +1 的伤害。
+card_event_kangaroo_transport	Britain	カンガルー輸送	БТР КЕНГУРУ	袋鼠运输	使 1 个英国步兵获得闪击和 +1 重甲。
+card_event_kettenkrad_home	Germany	ケッテンクラート	КЕТТЕНКРАД	轻型履带摩托车	将 1 个友方单位返回手牌。使手牌，卡组和场上所有友方德国单位获得 +1 攻击力。
+card_event_kriegsmarine	Germany	ドイツ国防軍海軍	КРИГСМАРИНЕ	战争海军	对敌方总部造成等同于其手牌数的伤害，敌方随机弃 1 张牌。
+card_event_land_of_the_free	USA	自由の国	СТРАНА СВОБОДНЫХ	自由之地	使 1 个单位的行动花费为 0。
+card_event_lend_lease	Britain	レンドリース	ЛЕНД-ЛИЗ	租借法案	抽 4 张牌。
+card_event_liberation	France	解放	ОСВОБОЖДЕНИЕ	解放	将 3 张“抵抗”加入敌方卡组。使友方总部获得 +6 防御力。
+card_event_lightning_strike	Germany	稲妻のごとく	МОЛНИЕНОСНЫЙ УДАР	闪电袭击	敌方额外抽 1 张牌时，对其总部造成 4 点伤害。
+card_event_lion_for_a_day	Italy	一夜の獅子	ЛЕВ НА ОДИН ДЕНЬ	一日之狮	消灭 1 个攻击力不小于 4 的单位。
+card_event_long_range_desert_group	Britain	長距離砂漠挺身隊	ГРУППА ДАЛЬНЕЙ ПУСТЫННОЙ РАЗВЕДКИ	长距离沙漠群	使友方单位获得：“消灭受到本单位伤害的单位。”
+card_event_lost_convoy	Germany	船団喪失	ПРОПАВШИЙ КОНВОЙ	护航覆灭	敌方单位部署时，使其获得 -2 攻击力。
+card_event_lotta_svard	Finland	LOTTA SVÄRD	LOTTA SVÄRD	洛塔组织	使所有友方单位获得 +1 防御力和 -1 行动花费。
+card_event_lure	Britain	おびき寄せ	ПРИМАНКА	诱敌	敌方使用本回合的第二张指令时，将其反制。
+card_event_lurking_danger	Germany	潜む危険	ПОДСТЕРЕГАЮЩАЯ ОПАСНОСТЬ	潜在危险	抽 2 张反制。
+card_event_lysander_pl	Poland	ライサンダー PL	LYSANDER PL	莱桑德 PL	敌方使用明牌时，对其总部造成 1 点伤害。
+card_event_maelstrom	Germany	大混乱	ВИХРЬ	大混战	对所有非老兵单位造成 4 点伤害。
+card_event_magic	USA	魔法	ВОЛШЕБСТВО	魔法	抉择：完全修复 1 个单位 或 使 1 个单位失去守护、伏击和烟幕。
+card_event_maginot_line	France	マジノ線	ЛИНИЯ МАЖИНО	马奇诺防线	使 1 个陆军获得 +3+4，且：“无法撤退或被抑制。”
+card_event_manhattan_project	USA	マンハッタン計画	ПРОЕКТ МАНХЭТТЕН	曼哈顿计划	对所有敌方目标造成 6 点伤害。
+card_event_manpower	USA	労働力	ЖИВАЯ СИЛА	人力	完全修复 1 个受伤的友方单位。将 1 个复制加入支援阵线。
+card_event_mare_nostrum	Italy	我らが海	MARE NOSTRUM	我们的海	对 1 个单位造成 1 点伤害。若友方总部防御力大于敌方总部，改为造成 3 点伤害。
+card_event_mass_deployment	USA	大量配備	МАССОВОЕ РАЗВЁРТЫВАНИЕ	大规模部署	随机将总花费等同于指挥点槽数的 3 个美国单位加入支援阵线。
+card_event_materials_eg	Britain	物資	МАТЕРИАЛЫ	原料	抽 4 张牌。若在卡组中的回合数不小于 4，改为抽 8 张牌。
+card_event_mayhem	USA	メイヘム	НЕРАЗБЕРИХА	骚乱	选择手中的 1 张单位。将其与场上 1 个友方单位交换。
+card_event_med_raid	Italy	地中海襲撃	СРЕДИЗЕМНОМОРСКИЙ РЕЙД	地中海突袭	对 1 个单位造成 2 点伤害。若友方单位数大于敌方单位，改为造成 4 点伤害。
+card_event_merchant_navy	Britain	商船隊	ТОРГОВЫЙ ФЛОТ	商船队	敌方单位攻击时，使其撤退。
+card_event_mi_5	Britain	MI5	MI5	军情五处	敌方随机将 1 张手牌放回卡组顶，友方抽 1 张牌。
+card_event_minor_nation_conquest	Germany	征服	ЗАВОЕВАНИЕ	征服	
+card_event_missing	Germany	行方不明	ПРОПАВШИЙ БЕЗ ВЕСТИ	失踪	单位移至前线时，将其消灭。
+card_event_mobilization	USA	動員	МОБИЛИЗАЦИЯ	动员	抽 2 张单位。回合结束时弃掉。
+card_event_molotov_cocktail_fin	Finland	モロトフカクテル	КОКТЕЙЛЬ МОЛОТОВА	莫洛托夫鸡尾酒	造成 2 点伤害。敌方随机弃 1 张牌。友方回合结束时，弃掉此牌。
+card_event_momentum	Germany	契機	МОМЕНТУМ	破竹之势	若前线没有敌方单位，将 2 个“一号坦克 B 型”加入前线。
+card_event_monsoon_rot	Britain	モンスーン・ロット	ГНИЛЬ	季风侵袭	使所有敌方单位的防御力为 1。
+card_event_monty	Britain	モンティ	МОНТИ	蒙哥马利	压制 1 个单位和其相邻单位。抽 1 张牌。
+card_event_motti_tactic	Finland	モッティ戦術	ТАКТИКА MOTTI	柴堆战术	消灭 1 个单位。将 1 张此单位的复制加入手中。
+card_event_mountain_offense	Germany	山岳攻勢	ГОРНОЕ НАСТУПЛЕНИЕ	山地攻势	随机将花费为 1，2 和 3 的山地单位各 1 个加入支援阵线。
+card_event_national_fire_service	Britain	国立消防局	ГОСУДАРСТВЕННАЯ ПРОТИВОПОЖАРНАЯ СЛУЖБА	国家消防局	本回合，每次友方总部受到的伤害至多为 1。
+card_event_national_resistance_council	France	レジスタンス評議会	СОВЕТ СОПРОТИВЛЕНИЯ	全国抵抗委员会	压制 1 个单位。对敌方总部造成 1 点伤害。将 1 张“抵抗”加入敌方卡组。
+card_event_national_service_home	Britain	国家奉仕	НАЦИОНАЛЬНАЯ СЛУЖБА	国民服役	使卡组中所有英国单位获得 +2 防御力，使卡组中所有英国指令和反制获得 -1 花费。
+card_event_naval_battle	USA	海戦	МОРСКОЕ СРАЖЕНИЕ	海战	抉择：消灭所有奇数花费 或 所有偶数花费的单位。
+card_event_naval_bombardment	USA	海軍砲撃	ОБСТРЕЛ С МОРЯ	海军轰炸	将 1 个单位返回手牌。若前线有敌方单位，具有 -2 花费。
+card_event_naval_bombardment_cam1	USA	海軍砲撃	ОБСТРЕЛ С МОРЯ	海军轰炸	将 1 个单位返回手牌。若前线有敌方单位，具有 -2 花费。
+card_event_naval_engagement	Italy	海戦	МОРСКОЙ БОЙ	海军交战	完全修复友方支援阵线所有单位。消灭敌方支援阵线所有单位。
+card_event_naval_power	Britain	海軍力	ВОЕННО-МОРСКИЕ СИЛЫ	海军力量	压制 1 个敌方单位。使友方总部获得 +3 防御力。
+card_event_naval_support	Britain	海軍支援	ПОДДЕРЖКА С МОРЯ	海军支援	使 1 个单位的攻击力等同于其防御力。
+card_event_naval_task_force	USA	海軍タスクフォース	ОПЕРАТИВНОЕ СОЕДИНЕНИЕ ВМС	海军特遣队	抉择：将 1 张“海军轰炸” 或 1 张“运输补给”加入手牌。
+card_event_night_attack	Germany	夜襲	НОЧНАЯ АТАКА	夜间攻击	移除 1 个单位，然后将其返回并使其获得闪击和冲击。回合结束时，将其返回手牌。
+card_event_night_bombing	USA	夜間爆撃	НОЧНАЯ БОМБАРДИРОВКА	夜间轰炸	消灭 1 个未受伤单位，随机排列所有敌方单位。
+card_event_night_patrol	USA	夜間パトロール	НОЧНОЙ ПАТРУЛЬ	黑夜巡视	抽 2 张牌。选择 1 张手牌并将其返回卡组顶。
+card_event_night_raid	Britain	夜襲	НОЧНОЙ РЕЙД	夜袭	随机将敌方卡组中的 1 张指令的复制加入手中，将 1 个“第 10 突击队”加入支援阵线。
+card_event_observer_corps	Britain	王立防空監視軍団	НАБЛЮДАТЕЛЬНЫЙ КОРПУС	观察团	选择 1 张花费不小于 5 的手牌，使其获得 -2 花费。
+card_event_old_hares	Germany	古ウサギ	СТРЕЛЯНЫЕ ВОРОБЬИ	老兔子	使 1 个步兵或坦克具有 +5 攻击力，直到回合结束。
+card_event_order_of_the_day	Finland	同日	ПОВЕСТКА ДНЯ	动员令	将 2 个“游击队员”加入支援阵线。使所有友方“游击队员”获得：“敌方指向或攻击本单位时，+1 花费。”
+card_event_orp_blyskawica	Poland	ORP ブリスカヴィカ	ORP BŁYSKAWICA	ORP 闪电号	随机复制敌方卡组中的 1 张指令，使友方总部获得等同于其花费的防御力。
+card_event_orp_general_haller	Poland	ORP ジェネラウ・ハレル	ORP GENERAL HALLER	ORP 哈勒将军号	将 1 个单位和其相邻单位转换为“溃军”。
+card_event_orp_orzel	Poland	ORP オジェウ	ORP ORZEŁ	ORP 鹰号	使 1 张敌方明牌获得 +2 花费。
+card_event_overcast	USA	曇天	НЕПОГОДА	阴云密布	预报。使双方总部获得 +2 防御力。双方额外获得 1 个指挥点槽，抽 1 张牌。
+card_event_overrun	Britain	オーバーラン	ЗАХЛЁСТ	横扫千军	本回合，陆军攻击时，造成等同于其防御力的伤害。
+card_event_overwhelming_force	USA	圧倒的軍事力	СОКРУШИТЕЛЬНАЯ МОЩЬ	势不可挡	选择并弃 1 张单位。使 1 个友方步兵或坦克获得其攻击力和防御力。
+card_event_pact_of_steel	Italy	鋼鉄協約	СТАЛЬНОЙ ПАКТ	钢铁条约	双方玩家抽 1 张牌，弃掉花费更低的那张，再重复三次。
+card_event_pams	Britain	PAMS	PAMS	警察辅助信使队	开发 1 张花费不大于 4 的英国指令。将其加入卡组，使其花费为 0。
+card_event_parachute_assault	USA	パラシュート攻撃	ПАРАШЮТНЫЙ ДЕСАНТ	伞降突袭	将数个“第 506 空降步兵团”加入支援阵线，直到已满。使其获得闪击和冲击。
+card_event_partnership	Britain	パートナーシップ	ПАРТНЁРСТВО	合作关系	随机将 1 个美国精英单位加入支援阵线。
+card_event_patriotic_zeal	USA	愛国心	ПАТРИОТИЧЕСКОЕ РВЕНИЕ	爱国热忱	将 1 个友方单位的攻击力和防御力翻倍。
+card_event_patrol	USA	偵察隊	ПАТРУЛЬ	巡逻队	使 1 个敌方单位失去守护、烟幕和亡计，对其造成 2 点伤害。
+card_event_patton	USA	パットン	ПАТТОН	巴顿	本回合，手牌中的所有单位具有 -1 花费，部署后具有闪击。
+card_event_penicillin	USA	ペニシリン	ПЕНИЦИЛЛИН	青霉素	使所有友方单位和总部获得 +6 防御力，抽 4 张牌。
+card_event_phoney_war	France	まやかし戦争	СТРАННАЯ ВОЙНА	假战	双方抽数张牌，直到手牌数为 8。
+card_event_pilot_escape	Poland	パイロット脱出	СПАСШИЙСЯ ПИЛОТ	异乡之翼	开发 1 张主国空军。 使其获得 -1 花费和 -1 行动花费。
+card_event_plan	Neutral	計画	ПЛАН	计划	抽 1 张牌。
+card_event_plan_d	France	ディール計画	ПЛАН Д	迪勒计划	抉择：使所有友方单位本回合具有 +2 攻击力 或 获得 +2 防御力。
+card_event_plan_west	Poland	西方計画	ПЛАН ЗАПАД	西线计划	将 2 个“军团”加入支援阵线。
+card_event_planned_attack	Britain	計画された攻撃	ЗАПЛАНИРОВАННОЕ НАПАДЕНИЕ	预定攻势	抉择：造成 2 点伤害并将 1 张“计划”加入手中 或 抽 1 张牌并将 1 张“爆破”加入手中。
+card_event_pontoon_bridge	USA	浮桟橋	ПОНТОННЫЙ МОСТ	浮桥	使 1 个友方单位获得 +1+2。若此前其攻击力不小于 4，使其行动花费为 0。
+card_event_pound	Britain	ポンド	ВОЗДУШНАЯ СИЛА	重击	对 1 个陆军造成等同于所有友方空军攻击力之和的伤害。
+card_event_pressurized_cabin	USA	与圧キャビン	ГЕРМЕТИЗИРОВАННАЯ КАБИНА	加压舱	将 1 张“B-29 超级堡垒”加入手牌。随机消灭 1 个敌方单位。
+card_event_prinz_eugen	Germany	KM プリンツ・オイゲン	КМ ПРИНЦ ОЙГЕН	KM 欧根亲王号	敌方单位部署时，将其返回卡组顶并转换为“生产”。
+card_event_production	Neutral	生産	ПРОИЗВОДСТВО	生产	获得 1 个指挥点。
+card_event_production_order	USA	生産指示	ПРОИЗВОДСТВЕННЫЙ ЗАКАЗ	生产令	抉择：将 1 张“B-24D” 或 1 张“B-24J”加入手牌。
+card_event_prolonged_siege	Finland	長期包囲戦	ДЛИТЕЛЬНАЯ ОСАДА	长久围困	抽 4 张牌。下个友方回合结束时，将其弃掉。
+card_event_propaganda	Germany	プロパガンダ	ПРОПАГАНДА	战争宣传	选择并弃 1 张反制，对敌方总部造成 3 点伤害。
+card_event_protect_the_pocket	Germany	要所を守れ	В ОСАДЕ	困兽犹斗	抽 4 张牌。若友方钳击单位数不小于 4，立即结束下个敌方回合。
+card_event_protected_convoy	Britain	護衛付き輸送船団	КОНВОЙ ПОД ПРИКРЫТИЕМ	护送航运	将 1 张“生产”和 1 张“计划”加入手中。
+card_event_provence_landing	France	プロヴァンス上陸	ВЫСАДКА В ПРОВАНСЕ	普罗旺斯登陆	本回合，友方单位部署时，移至前线。
+card_event_pummel	Germany	パンメル	НЕПРЕРЫВНЫЙ ОБСТРЕЛ	炮火连击	抑制 1 个单位，若其花费不大于 3，将其消灭。
+card_event_punish	Poland	懲罰	НАКАЗАНИЕ	严惩	敌方随机弃 1 张牌。若是明牌，友方抽 1 张牌。
+card_event_pursuit	Germany	追撃	ПРЕСЛЕДОВАНИЕ	追击	使 1 个单位撤退。本回合，使所有友方单位具有 -1 行动花费。
+card_event_quinine	USA	キニン	ХИНИН	奎宁	使 1 个步兵获得 +1+2 和 -1 行动花费。
+card_event_radar	Britain	レーダー	РАДАР	雷达	抽 1 张牌。使友方总部获得 +4 防御力。
+card_event_radar_alert	Britain	レーダー警報	РАДИОЛОКАЦИЯ	雷达警报	敌方单位部署时，随机将 1 个与其花费相近的英国空军加入战场。
+card_event_raid	Britain	襲撃	НАЛЁТ	奇袭	下个敌方回合中，敌方手牌具有 +2 花费。
+card_event_rain1_mist	Neutral	霧	ТУМАН	薄雾	即将降雨。
+card_event_rain2_deluge	Neutral	大洪水	ПОТОП	暴雨	增加 6 点防御力，随机分配至所有友方目标。
+card_event_rain2_deluge2	Neutral	大洪水	ПОТОП	暴雨	使所有敌方单位获得 -1 攻击力。
+card_event_rain2_deluge3	Neutral	大洪水	ПОТОП	暴雨	抑制 1 个单位，抽 1 张牌。
+card_event_rain3_torrential_rain	Neutral	豪雨	ПРОЛИВНОЙ ДОЖДЬ	骤雨	使所有友方步兵和总部获得 +3 防御力，使其他友方单位获得 +2 防御力。
+card_event_rain3_torrential_rain2	Neutral	豪雨	ПРОЛИВНОЙ ДОЖДЬ	骤雨	压制所有敌方单位。
+card_event_rain3_torrential_rain3	Neutral	豪雨	ПРОЛИВНОЙ ДОЖДЬ	骤雨	抽 3 张牌，选择并弃 1 张牌。
+card_event_rain4_monsoon_rain	Neutral	モンスーン雨	МУССОННЫЙ ДОЖДЬ	季风雨	双方移除手中和/或场上 2 张花费最高的卡牌。
+card_event_rain4_monsoon_rain2	Neutral	モンスーン雨	МУССОННЫЙ ДОЖДЬ	季风雨	使所有单位的攻击力、防御力和行动花费为 2。
+card_event_rain4_monsoon_rain3	Neutral	モンスーン雨	МУССОННЫЙ ДОЖДЬ	季风雨	使所有友方步兵获得 +2+2 并能再次行动。
+card_event_rally	Germany	結集	ВООДУШЕВЛЕНИЕ	重整旗鼓	使所有友方单位具有 +1 攻击力，直到回合结束。移除其压制。抽 1 张牌。
+card_event_rally_caledonia	France	カレドニア結集	ВООДУШЕВЛЕНИЕ КАЛЕДОНИИ	喀里多尼亚归附	将 1 个具有闪击的“溃军”加入支援阵线，每有 1 个敌方单位，使其获得一次 +1+1。
+card_event_rapid_engagement	Germany	迅速な対応	СТРЕМИТЕЛЬНОЕ НАСТУПЛЕНИЕ	迅速交战	移除 1 个友方单位，然后将其返回并使其获得闪击。
+card_event_rapid_response	Poland	迅速な対応	ОПЕРАТИВНОЕ РЕАГИРОВАНИЕ	迅速响应	前线每有 1 个敌方单位，将 1 个“军团”加入支援阵线。
+card_event_rationing	USA	配給	НОРМИРОВАНИЕ	配给制	抉择：使所有友方手牌失去协力 或 使友方总部获得 +4 防御力。
+card_event_recuperation	Germany	回復	РЕКУПЕРАЦИЯ	休养	使 1 个单位获得 +2 攻击力。若其被压制，改为移除压制并使其获得 +4 攻击力。
+card_event_refit_bia	Britain	再装備	ПЕРЕОБОРУДОВАНИЕ	整修	抉择：抽 1 张喷火 或 使 1 个喷火获得闪击。
+card_event_regia_aeronautica	Italy	レジア・エアロノーティカ	REGIA AERONAUTICA	意大利皇家空军	对所有敌方目标造成等同于友方空军数的伤害。
+card_event_regia_marina	Italy	レジア・マリーナ	REGIA MARINA	意大利皇家海军	抽取花费最高的卡牌。若是构筑之外的牌，重复一次。
+card_event_reich_defenders	Germany	ドイツアフリカ軍団	АФРИКАНСКИЙ КОРПУС	非洲军团	从 3 张随机德军精英单位中选择 1 张加入手牌。
+card_event_reich_research	Germany	帝国軍事研究	ИССЛЕДОВАНИЯ РЕЙХА	德意志帝国研发	抉择：将 1 张“V-1 飞行炸弹” 或 1 张“扩展德意志帝国研发”加入手牌。
+card_event_reichsbank	Germany	ドイツ帝国銀行	РЕЙХСБАНК	德意志帝国银行	下个友方回合，获得 5 个指挥点，无法使用指令。
+card_event_reinforcements	Germany	援軍	ПОДКРЕПЛЕНИЕ	增援	完全修复所有友方单位，抽 1 张牌。
+card_event_reinforcements_cam1	Germany	援軍	ПОДКРЕПЛЕНИЕ	增援	完全修复所有友方单位，抽 1 张牌。
+card_event_repel_the_attack	ANZAC	攻撃を撃退する	ОТРАЗИТЬ АТАКУ	击退进攻	使所有敌方单位撤退。若不是最右侧手牌，结束回合。
+card_event_rescue_mission	Britain	救助ミッション	СПАСАТЕЛЬНАЯ ОПЕРАЦИЯ	营救任务	友方单位被消灭时，将 2 张复制加入手牌。
+card_event_resistance	France	レジスタンス	СОПРОТИВЛЕНИЕ	抵抗	抉择：对友方总部造成 1 点伤害 或 移除卡组顶的 1 张牌。
+card_event_resistance_new	France	レジスタンス	СОПРОТИВЛЕНИЕ	抵抗	抽取：使用。失去 1 个指挥点。对友方总部造成 1 点伤害。压制 1 个友方单位。抽 1 张牌。
+card_event_resolute_defense	Britain	断固たる防御	КРЕПКАЯ ОБОРОНА	坚决守护	使 1 个守护单位获得 +1+3。
+card_event_resourcefulness	Britain	臨機応変	НАХОДЧИВОСТЬ	足智多谋	抽 1 张突击队。
+card_event_retaliation	Germany	報復	ОТВЕТНЫЙ УДАР	复仇	友方总部受到伤害后，对敌方总部造成同等伤害。
+card_event_retribution	USA	アウトレイジ	ГНЕВ	激怒	开发 1 张“惩戒”。
+card_event_retribution1	USA	報復	ВОЗМЕЗДИЕ	惩戒	对 1 个单位造成 5 点伤害。
+card_event_retribution10	USA	報復	ВОЗМЕЗДИЕ	惩戒	对 1 个单位造成 2 点伤害。
+card_event_retribution12	USA	報復	ВОЗМЕЗДИЕ	惩戒	使 1 个友方单位造成等同于其攻击力的伤害，随机分配至所有敌方目标。
+card_event_retribution13	USA	報復	ВОЗМЕЗДИЕ	惩戒	使 1 个友方单位获得 +2+2 和闪击。
+card_event_retribution2	USA	報復	ВОЗМЕЗДИЕ	惩戒	对 1 个单位造成 2 点伤害。抽 1 张牌。
+card_event_retribution3	USA	報復	ВОЗМЕЗДИЕ	惩戒	对敌方支援阵线 1 个目标造成 4 点伤害。使友方总部获得 +2 防御力。
+card_event_retribution4	USA	報復	ВОЗМЕЗДИЕ	惩戒	开发 2 张“惩戒”。
+card_event_retribution5	USA	報復	ВОЗМЕЗДИЕ	惩戒	对所有敌方单位造成 2 点伤害。
+card_event_retribution6	USA	報復	ВОЗМЕЗДИЕ	惩戒	造成 3 点伤害。抽 3 张牌。额外获得 3 个指挥点槽。使所有友方单位获得 +3+3。
+card_event_retribution7	USA	報復	ВОЗМЕЗДИЕ	惩戒	使 1 个友方单位获得：“亡计：将 1 张复制加入所有者手牌。”
+card_event_retribution8	USA	報復	ВОЗМЕЗДИЕ	惩戒	使 1 个单位获得 +1+1。使其行动花费为 0 。
+card_event_retribution9	USA	報復	ВОЗМЕЗДИЕ	惩戒	友方单位被消灭时，随机消灭 1 个敌方单位。
+card_event_ride_of_the_valkyries	Germany	ワルキューレの騎行	ПОЛЕТ ВАЛЬКИРИЙ	女武神的骑行	使敌方总部获得：“每回合，累计受到的伤害不小于 3 时，获得 2 个指挥点。”
+card_event_rm_bersaglieri	Italy	RMベルサリエール	RM BERSAGLIERE	RM 神射手号	抽 1 张构筑之外的牌。使友方总部获得等同于其花费的防御力。
+card_event_rm_roma	Italy	RMローマ	RM ROMA	RM 罗马号	对 1 个敌方目标造成 4 点伤害。使卡组顶的牌算作是海军，直到下个友方回合结束。
+card_event_romanian_bridgehead	Poland	ルーマニア橋頭堡	РУМЫНСКИЙ ПЛАЦДАРМ	罗马尼亚桥头堡	使 1 个单位获得 +2+2 和闪击。两回合后，将其消灭。
+card_event_root_out_the_enemy	Germany	敵を一掃しろ	ИСКОРЕНИТЬ ВРАГА	斩草除根	使所有单位获得 -1-2。
+card_event_rout	Germany	圧勝	РАЗГРОМ	溃敌	将 1 个花费不大于 2 的单位转换为“溃军”。
+card_event_royal_research	Britain	イギリス軍事研究	КОРОЛЕВСКИЕ ИССЛЕДОВАНИЯ	皇家研发	抉择：将 1 张“雷达” 或 1 张“扩展皇家研发”加入手牌。
+card_event_rule_britannia	Britain	ルール・ブリタニア	ПРАВЬ, БРИТАНИЯ	统治吧！不列颠尼亚！	使所有友方英国单位获得 +2 防御力，使其攻击力等同于其防御力。
+card_event_run_the_battlefield	Germany	戦場を駆ける	ОПЕРАТИВНОЕ КОМАНДОВАНИЕ	掌控战场	每个攻击力不小于 4 的友方单位随机触发一项：获得 3 个指挥点，获得 +2+2 或抽 1 张牌。
+card_event_rush_production	Germany	戦時設計	СРОЧНОЕ ПРОИЗВОДСТВО	加急生产	本回合，友方德国单位部署时，使其获得 +2-1。
+card_event_saar_probe	France	ザール攻勢	СААРСКОЕ НАСТУПЛЕНИЕ	萨尔攻势	对 1 个单位造成 7 点伤害。若是本回合使用的第一张指令，将 1 张“洛林十字”加入手牌。
+card_event_sabotage	France	サボタージュ	САБОТАЖ	毁坏	从敌方 3 张手牌中选择 1 张并弃掉，将 1 张复制加入友方手牌。
+card_event_sally	France	サリー	ПОГОНЯ	出动	指向 1 个单位。若是坦克，将其压制；若是步兵，将其抑制；若是炮兵，将其消灭；若是空军，使其撤退。
+card_event_salpa_line	Finland	サルパ線	ЛИНИЯ САЛПА	萨尔帕防线	将 1 个“游击队员”加入支援阵线，使所有友方“游击队员”获得 +3 防御力。
+card_event_scatter_tactics	Germany	分散戦術	ТАКТИКА РАССЕИВАНИЯ	分散战术	单位攻击时，使所有敌方单位获得 -2 攻击力，直到回合结束。
+card_event_scrap_metal	Finland	屑鉄	МЕТАЛЛОЛОМ	金属废料	选择并弃 1 张单位以抽 1 张牌。若是被收缴单位，获得 4 个指挥点。
+card_event_screening_force	USA	斥候部隊	ГРУППА ПРИКРЫТИЯ	掩护部队	每有 1 个友方“F2A 水牛”，具有 -1 花费。将 2 个“SBD 3 无畏”加入支援阵线，使其获得闪击。
+card_event_sea_embargo	Britain	禁輸	МОРСКОЕ ЭМБАРГО	海运禁令	使 1 个单位获得 +1+1。若是空军，开发 1 张攻击力不大于 2 的英国空军。
+card_event_sea_hunters	Germany	夜の狩人	НОЧНЫЕ ОХОТНИКИ	暗夜猎手	敌方单位部署时，将其消灭。抽 1 张牌。
+card_event_sea_patrol	Britain	海上パトロール	МОРСКОЙ ПАТРУЛЬ	海上巡逻	对 1 个敌方目标造成 3 点伤害。每有 1 个友方空军，具有 -1 花费。
+card_event_seaborne_invasion	USA	海上侵略	ВТОРЖЕНИЕ С МОРЯ	海上入侵	使前线所有敌方单位撤退，随机将 2 个攻击力之和为 6 的美国步兵加入前线。
+card_event_seac	Britain	SEAC	SEAC	东南亚司令部	抽 1 张构筑之外的牌。将 1 张复制加入手中。
+card_event_second_chance	Britain	セカンドチャンス	ВТОРОЙ ШАНС	第二次机会	抽 2 张指令。
+card_event_second_front	Germany	第2の戦線	ВТОРОЙ ФРОНТ	第二战线	移除 1 个德国陆军。下个敌方回合结束时，将其返回并复制。
+card_event_secret_operatives	Britain	秘密工作員	ТАЙНЫЕ АГЕНТЫ	秘密特工	敌方指令指向友方单位时，将其反制，使被指向单位获得 +2 防御力。
+card_event_section_ii	Poland	セクションII	ОТДЕЛ II	总参二局	抽 1 张牌。
+card_event_semper_fi	USA	常に忠実	SEMPER FI	永远忠诚	将卡组顶的前 8 张牌中的 4 张转换为“第 22 陆战团”。使其算作是海军。
+card_event_shelling	Britain	砲撃	АРТОБСТРЕЛ	炮击	压制所有敌方单位，对其造成 1 点伤害。敌方失去 1 个指挥点槽。
+card_event_shifting_attack	Germany	交代攻撃	СМЕЩАЮЩАЯСЯ АТАКА	转变攻击	将 1 个友方单位返回手牌。使其花费为 0，直到回合结束。
+card_event_shore_bombardment	USA	海岸砲撃	МОРСКОЙ ОБСТРЕЛ	对岸轰炸	抉择：对 1 个单位造成 3 点伤害 或 使 1 个单位获得 +2+3。
+card_event_sincerely_yours	Britain	敬具	ИСКРЕННЕ ВАША	诚挚问候	使友方总部获得 +6 防御力。抽 2 张牌。
+card_event_sisu	Finland	SISU	SISU	西苏精神	友方总部受到伤害时，改为由敌方总部承受。
+card_event_ski_troops	Finland	スキー部隊	ЛЫЖНЫЕ ВОЙСКА	滑雪部队	敌方单位部署时，将其抑制，然后将 1 个“游击队员”加入支援阵线。
+card_event_sky_barons	Germany	空の脅威	КОРОЛИ НЕБА	空中男爵	消灭 1 个空军，抽 1 张牌。
+card_event_sniped	USA	狙撃	ХОЛОДНЫЙ РАСЧЁТ	阻击	敌方单位攻击时，将其变为 2/2。
+card_event_sortie	France	奇襲	ВЫЛАЗКА	出击	抉择：使 1 个友方单位获得动员 或 将 1 张“攻击”加入手牌。
+card_event_spars	USA	スパーズ	SPARS	妇女预备队	抉择：抽取卡组顶的单位 或 使其获得伏击和冲击。
+card_event_special_assignment	USA	特殊任務	СПЕЦЗАДАНИЕ	特别任务	选择手中的 1 张单位，将其加入战场。
+card_event_special_delivery_us	USA	特別配達	ОСОБАЯ ДОСТАВКА	特快专递	弃掉手牌中所有花费不大于 2 的牌，抽 2 张牌。
+card_event_spirit_of_rome	Italy	ローマの精神	РИМСКИЙ ДУХ	罗马精神	友方总部防御力每大于敌方总部 1 点，使 1 个友方步兵获得一次 +1+1。
+card_event_spoils_of_war	Germany	戦利品	БОЕВЫЕ ТРОФЕИ	战利品	从卡组顶 3 张牌中选择 1 张并抽取，将其余 2 张置于卡组底。
+card_event_spring_offensive	Italy	春季攻勢	ВЕСЕННЕЕ НАСТУПЛЕНИЕ	春季攻势	抽 2 张牌。每抽到 1 张攻击力不小于 4 的单位，获得 2 个指挥点。
+card_event_stars_n_stripes	USA	星条旗	ЗВЁЗДЫ И ПОЛОСЫ	星条旗	对敌方支援阵线所有单位造成等同于该阵线单位数的伤害。
+card_event_stiff_upper_lip	Britain	不屈の精神	СТИСНУВ ЗУБЫ	咬紧牙关	抽 1 张牌。若有友方守护单位，额外抽 1 张牌。
+card_event_storm1_gale	Neutral	強風	БУРЯ	狂风	风暴将至。
+card_event_storm2_thunderstorm	Neutral	雷雨	ГРОЗА	雷暴	造成 3 点伤害，随机分配至所有敌方目标。
+card_event_storm2_thunderstorm2	Neutral	雷雨	ГРОЗА	雷暴	随机使 1 张敌方手牌获得 +1 花费，随机使 1 张友方卡牌获得 -1 花费。
+card_event_storm2_thunderstorm3	Neutral	雷雨	ГРОЗА	雷暴	随机对 1 个敌方单位造成 5 点伤害。
+card_event_storm3_tropical_storm	Neutral	熱帯嵐	ТРОПИЧЕСКИЙ ШТОРМ	热带风暴	双方将所有手牌洗入卡组，抽取等同于最大洗入数量的卡牌。
+card_event_storm3_tropical_storm2	Neutral	熱帯嵐	ТРОПИЧЕСКИЙ ШТОРМ	热带风暴	随机使 1 个敌方单位撤退，然后随机消灭 1 个敌方单位。
+card_event_storm3_tropical_storm3	Neutral	熱帯嵐	ТРОПИЧЕСКИЙ ШТОРМ	热带风暴	对 1 个敌方目标造成 3 点伤害。随机对敌方单位重复 2 次，每次造成的伤害 -1。
+card_event_storm4_cyclone	Neutral	サイクロン	ЦИКЛОН	旋风	抽 3 张牌，对友方总部造成等同于手牌数的伤害。
+card_event_storm4_cyclone2	Neutral	サイクロン	ЦИКЛОН	旋风	使所有单位撤退。
+card_event_storm4_cyclone3	Neutral	サイクロン	ЦИКЛОН	旋风	对 1 个敌方单位造成 6 点伤害，对相邻目标造成 2 点伤害。
+card_event_strafing	USA	機銃掃射	БРЕЮЩИЙ ПОЛЁТ	低空扫射	抉择：消灭 1 个炮兵 或 压制前线所有单位。
+card_event_stranglehold	Germany	抑圧	БЕЗВЫХОДНОЕ ПОЛОЖЕНИЕ	截断	敌方部署单位时，失去剩余指挥点。
+card_event_strategic_bombing	USA	戦略爆撃	СТРАТЕГИЧЕСКАЯ БОМБАРДИРОВКА	战略轰炸	对敌方支援阵线所有目标造成 3 点伤害。敌方失去 1 个指挥点槽。
+card_event_strategic_planning	USA	戦略計画	СТРАТЕГИЧЕСКОЕ ПЛАНИРОВАНИЕ	战略规划	将所有友方单位的攻击力和防御力翻倍。
+card_event_stretch_the_line	Poland	境界線を伸ばせ	РАСТЯГИВАНИЕ ФРОНТА	延长战线	将 1 个“军团”加入支援阵线，触发等同于友方“军团”数量的情报。
+card_event_strike_from_the_forest	Finland	林中からの一撃	УДАР ИЗ ЛЕСА	林间袭击	压制 1 个单位。将 1 个“游击队员”加入支援阵线。
+card_event_strike_group	USA	打撃群	АВИАНОСНАЯ УДАРНАЯ ГРУППА	航母打击群	抽取：抽 1 张空军。 使所有友方空军获得 +1+1。
+card_event_strong_bond	Britain	強力な結束	ПРОЧНАЯ СВЯЗЬ	戮力同心	使 1 个友方陆军获得守护，且：“友方回合开始时，将 1 个花费为 3 的美国单位加入支援阵线。”
+card_event_stubborn_defense	Poland	頑強な防衛	УПОРНАЯ ЗАЩИТА	殊死防守	友方单位被攻击时，使其在伤害造成前获得 +1 防御力。若其存活，抽 1 张牌。
+card_event_sudden_strike	Germany	奇襲	ВНЕЗАПНЫЙ УДАР	突然袭击	消灭 1 个花费不大于 2 的单位。
+card_event_sunny1_blue_sky	Neutral	青空	СИНЕЕ НЕБО	蓝天	将是晴天。
+card_event_sunny2_heatwave	Neutral	熱波	АНОМАЛЬНАЯ ЖАРА	热浪	使所有陆军具有 +2 攻击力，空军具有 +3 攻击力，直到回合结束。
+card_event_sunny2_heatwave2	Neutral	熱波	АНОМАЛЬНАЯ ЖАРА	热浪	使所有友方单位具有 +1 攻击力和 -1 行动花费，直到回合结束。
+card_event_sunny2_heatwave3	Neutral	熱波	АНОМАЛЬНАЯ ЖАРА	热浪	本回合，友方单位部署时，使其随机对 1 个敌方目标造成等同于其攻击力的伤害。
+card_event_sunny3_jungle_fever	Neutral	ジャングル熱	ТРОПИЧЕСКАЯ ЛИХОРАДКА	丛林热	本回合，所有单位具有 +3 攻击力。回合结束时，压制未攻击的友方单位。
+card_event_sunny3_jungle_fever2	Neutral	ジャングル熱	ТРОПИЧЕСКАЯ ЛИХОРАДКА	丛林热	将 1 个友方单位的复制加入支援阵线。将其压制，直到回合结束。
+card_event_sunny3_jungle_fever3	Neutral	ジャングル熱	ТРОПИЧЕСКАЯ ЛИХОРАДКА	丛林热	本回合，友方单位部署或加入时，使其获得 +2 攻击力和闪击。
+card_event_sunny4_scorching_sun	Neutral	灼熱	ПАЛЯЩЕЕ СОЛНЦЕ	骄阳	将手中所有单位加入战场。将其压制，直到回合结束。
+card_event_sunny4_scorching_sun2	Neutral	灼熱	ПАЛЯЩЕЕ СОЛНЦЕ	骄阳	使所有友方单位获得 +3+2。
+card_event_supply_chain	USA	サプライチェーン	СЕТЬ ПОСТАВОК	供应链	抽 1 张牌。被弃掉时，将 2 张花费为 1 的复制加入手牌。
+card_event_supply_drop	Britain	物資補給	ВЫБРОСКА ГРУЗОВ	空投补给	使 1 个坦克或步兵获得 +4 防御力和守护，失去烟幕。
+card_event_supply_front	USA	補給線	ПОДДЕРЖКА ФРОНТА	前线补给	完全修复前线所有单位，使其获得 +1+2。
+card_event_supply_priorities	USA	優先事項	ПРИОРИТЕТ ПОСТАВОК	补给优先	抉择：对所有单位造成 1 点伤害 或 完全修复所有单位。
+card_event_supply_shipment	USA	補給物資	ПОСТАВКА ПРИПАСОВ	运输补给	使前线 1 个单位获得 +2+3。
+card_event_supply_shipment_cam1	USA	補給物資	ПОСТАВКА ПРИПАСОВ	运输补给	使前线 1 个单位获得 +2+3。
+card_event_supply_shortage	Britain	供給不足	НЕХВАТКА ПРИПАСОВ	物资短缺	使所有敌方单位获得：“本单位所有者回合开始时，对本单位造成 1 点伤害。”
+card_event_support_column	Germany	補給線	КОЛОННА ПОДДЕРЖКИ	支援纵队	使 1 个单位获得：“相邻陆军具有 +1 攻击力和 -1 行动花费。”
+card_event_suppression_fire	Germany	鎮圧	ПОДАВЛЕНИЕ	抑制	抑制 1 个单位。若有友方空军，抽 1 张牌。
+card_event_surging_power	USA	湧き上がる力	СВЕРХВЫСОКАЯ МОЩНОСТЬ	澎湃力量	使卡组顶的前 4 张单位依次获得 +1+1、+2+2、+3+3 和 +4+4。
+card_event_surprise_engagement	USA	突然の接敵	ВНЕЗАПНАЯ СТЫЧКА	突发交战	若本回合使用过降雨牌，具有 -2 花费。随机消灭 1 个敌方单位。抽 1 张卡组顶的单位。
+card_event_sustained_pressure	Germany	持続的な圧力	НЕОСЛАБЕВАЮЩИЙ НАЖИМ	持续施压	对 1 个单位造成等同于本回合单位行动花费的指挥点数的伤害。
+card_event_swift_response	USA	迅速な対応	ОПЕРАТИВНЫЙ ОТКЛИК	快速响应	友方单位被消灭时，使所有友方单位获得 +1+1 和冲击。
+card_event_synthetic_oil	Germany	合成石油	СИНТЕТИЧЕСКОЕ ТОПЛИВО	合成机油	下个回合开始时，获得 10 个指挥点并抽 1 张牌。
+card_event_synthetic_rubber	Britain	合成ゴム	СИНТЕТИЧЕСКАЯ РЕЗИНА	合成橡胶	使 1 个单位获得 +4 防御力，使其攻击力等同于其防御力。
+card_event_tactical_retreat	Germany	戦術的撤退	ТАКТИЧЕСКИЙ ОТХОД	暂避锋芒	友方单位被攻击时，在伤害造成前将其返回手中。
+card_event_tactical_strike	Germany	戦術的攻撃	ТАКТИЧЕСКИЙ УДАР	战术打击	对 1 个单位造成 2 点伤害。若其在支援阵线，改为造成 4 点伤害。
+card_event_tactical_withdrawal	Britain	戦術的離脱	ТАКТИЧЕСКОЕ ОТСТУПЛЕНИЕ	战术撤退	使前线 1 个友方单位撤退，将其完全修复。本回合此单位能再次行动。
+card_event_tank_frieda	Germany	戦車機動	ТАНКОВЫЙ МАНЁВР	坦克机动	使 1 个友方坦克获得 +2+1。将 1 张“空中支援”加入手中。
+card_event_tank_wedge	Germany	戦車楔	ТАНКОВЫЙ КЛИН	装甲楔形阵	使 1 个友方德国坦克和其相邻单位获得 +1+1。
+card_event_task_force_44	ANZAC	タスクフォース44	ОПЕРАТИВНАЯ ГРУППА 44	第 44 特混舰队	预报。对 1 个单位造成 2 点伤害。若从手中最左侧使用，改为造成 3 点伤害。
+card_event_test_resistance2	France	レジスタンス万歳！	VIVE LA RESISTANCE!	抵抗万岁！	将 2 张“抵抗”加入敌方卡组。抽 1 张牌。
+card_event_the_alliance	USA	同盟	АЛЬЯНС	同盟国	使所有友方非美国单位获得 +2+2。
+card_event_the_big_three	USA	ビッグスリー	БОЛЬШАЯ ТРОЙКА	三巨头	使所有友方单位每有 1 个不同国家的友方单位，获得一次 +1+1。
+card_event_the_commonwealth	Britain	コモンウェルス	СОДРУЖЕСТВО	英联邦	若友方总部防御力不小于 30，对 1 个总部造成 20 点伤害。抽 4 张牌。
+card_event_the_double_sunrise	ANZAC	ダブルサンライズ	ДВОЙНОЙ ВОСХОД	双日出航线	随机使场上和手中的 1 个友方单位获得 +2+1。
+card_event_the_empire	Britain	帝国の逆襲	ИМПЕРИЯ НАНОСИТ УДАР	帝国进击	对所有敌方目标造成等同于友方轰炸机数 +1 的伤害。
+card_event_the_land_girls	Britain	ランドガールズ	THE LAND GIRLS	土地女孩	抽 2 张牌。
+card_event_the_rock_of_gibraltar	Britain	ジブラルタルの岩	ГИБРАЛТАРСКАЯ СКАЛА	直布罗陀巨岩	开发 1 张敌方卡组中的牌，然后开发 1 张友方卡组中的牌。
+card_event_the_war_machine	USA	戦闘機械	ВОЕННАЯ МАШИНА	战争机器	额外获得 1 个指挥点槽。
+card_event_through_the_breach	Germany	突破口	СКВОЗЬ БРЕШЬ	乘虚而入	对 1 个单位造成 1 点伤害。若其在支援阵线，改为造成 2 点伤害。
+card_event_through_the_ice	Finland	氷上	СКВОЗЬ ЛЁД	步履薄冰	对 1 个单位和其他同名单位造成 2 点伤害。
+card_event_timely_supplies	Britain	絶好のタイミング	СВОЕВРЕМЕННЫЕ ПОСТАВКИ	及时补给	抽 1 张牌，使其具有 -2 花费，直到回合结束。
+card_event_tip_of_the_spear	Germany	槍の先端	ОСТРИЕ КОПЬЯ	矛尖	消灭 1 个花费不大于 3 的单位。可以指向隐蔽单位。
+card_event_tirpitz	Germany	KM ティルピッツ	КМ ТИРПИЦ	KM 提尔皮茨号	对敌方总部造成 4 点伤害。下个敌方回合中，敌方无法部署单位。
+card_event_torpedo_attack	USA	魚雷攻撃	ТОРПЕДНАЯ АТАКА	鱼雷攻击	消灭前线 1 个敌方单位。
+card_event_type_xxi_boat	Germany	UボートXXI型	ПОДЛОДКА ТИП XXI	XXI 级 U 型潜艇	消灭 1 个单位，敌方随机弃 2 张牌。
+card_event_u_16	Germany	U-16	U-16	U-16	使 1 个单位撤退。若卡组顶是海军牌，抽 1 张牌。
+card_event_u_375	Germany	U-375	U-375	U-375	敌方随机弃掉 1 张花费不大于 5 的手牌。
+card_event_u_99	Germany	U-48	U-48	U-48	下个敌方回合中，敌方无法部署单位。
+card_event_ultra	Britain	ウルトラ	УЛЬТРА	ULTRA	敌方使用指令时，将其反制，抽 1 张牌。
+card_event_uncle_sam	USA	アンクルサム	ДЯДЯ СЭМ	山姆大叔	随机复制手牌中的 1 张单位。
+card_event_underground_state	Poland	ポーランド地下国家	ПОДПОЛЬНОЕ ГОСУДАРСТВО	地下国	使 1 个敌方单位撤退。将 1 个“军团”加入支援阵线。
+card_event_unexpected_resistance	Britain	予期せぬ抵抗	НЕОЖИДАННОЕ СОПРОТИВЛЕНИЕ	意外反抗	单位移至前线时，将其压制。若其具有闪击，改为将其消灭。
+card_event_united_we_stand	USA	団結	ВМЕСТЕ МЫ ВЫСТОИМ	团结则存	对 1 个单位造成 2 点伤害。若将其消灭，双方额外获得 1 个指挥点槽。
+card_event_unity_is_strength	USA	団結は力なり	СИЛА В ЕДИНСТВЕ	团结就是力量	每有 1 个友方步兵，使 1 个友方步兵获得一次 +1+1。
+card_event_unity_is_strength_cam1	USA	団結は力なり	СИЛА В ЕДИНСТВЕ	团结就是力量	每有 1 个友方步兵，使 1 个友方步兵获得一次 +1+1。
+card_event_uprising	Poland	反乱	ВОССТАНИЕ	起义	对所有单位造成等同于本局对战此前被消灭的波兰单位数的伤害。
+card_event_uranium_club	Germany	ウランプロジェクト	URANPROJEKT	铀工程	消灭所有敌方单位。每消灭 1 个单位，获得 1 个指挥点。
+card_event_us_military_research	USA	アメリカ軍事研究	ВОЕННЫЕ ИССЛЕДОВАНИЯ США	美国军事研发	抉择：将 1 张“深水炸弹” 或 1 张“扩展美国研发”加入手牌。
+card_event_us_weather_bureau	USA	米国気象局	БЮРО ПОГОДЫ США	美国气象局	抉择：预报 或 抽 1 张牌。
+card_event_usaaf	USA	アメリカ空軍	USAAF	美国陆军航空队	抽 1 张美国轰炸机和 1 张美国战斗机。
+card_event_usace	USA	アメリカ陸軍工兵隊	USACE	陆军工程兵团	使 1 个坦克或步兵获得 +1+1。
+card_event_uss_arcfish	USA	USS アーチャーフィッシュ	USS АРЧЕРФИШ	USS 射水鱼号	随机消灭 1 个敌方单位。若卡组顶是海军牌，重复一次。
+card_event_uss_fitch	USA	USS フィッチ	USS ФИТЧ	USS 菲奇号	使所有友方单位获得 +1+1。若卡组顶是海军牌，改为获得 +2+2。
+card_event_uss_missouri	USA	USS ミズーリ	USS МИССУРИ	USS 密苏里号	消灭前线 1 个单位。使相邻单位撤退。
+card_event_uss_sullivans	USA	USSザ・サリヴァンズ	USS САЛЛИВАНС	USS 沙利文兄弟号	使 1 个单位和卡组顶的单位获得 +1+1。抽 1 张牌。
+card_event_uss_yorktown	USA	USS ヨークタウン	USS ЙОРКТАУН	USS 约克城号	将 4 个“F2A 水牛”加入战场，若可能，加入前线。
+card_event_v1_flying_bomb	Germany	V1飛行爆弾	РАКЕТА ФАУ-1	V-1 飞行炸弹	消灭 1 个花费不大于 3 的单位。
+card_event_vanguard_ita	Italy	バンガード	АВАНГАРД	先峰	使 1 个友方山地单位获得闪击，且：“本单位造成伤害时，使友方总部获得同等防御力。”
+card_event_vicious_salvo	USA	悪意を込めた斉射	СВИРЕПЫЙ ЗАЛП	激烈齐射	对 1 个单位造成 3 点伤害。抑制其相邻单位。
+card_event_victory_garden	USA	ビクトリーガーデン	САД ПОБЕДЫ	胜利花园	使卡组中的所有美国单位获得：“亡计：使卡组顶的单位获得 +1+1。”
+card_event_victory_march	USA	凱旋	ПОБЕДНЫЙ МАРШ	胜利进军	使所有友方单位的行动花费为 0。使友方总部获得等同于降低的行动花费总和的防御力。
+card_event_war_bonds	USA	戦時債券	ВОЕННЫЕ ОБЛИГАЦИИ	战争债券	额外获得 2 个指挥点槽。下个友方回合开始时，额外抽 1 张牌。
+card_event_wave_after_wave	Britain	波に次ぐ波	ВОЛНА ЗА ВОЛНОЙ	高潮迭起	对所有敌方单位造成 2 点伤害。若是本回合使用的第二张指令，改为造成 4 点伤害。
+card_event_we_can_do_it	USA	我々ならできる！	WE CAN DO IT!	我们能做到！	所有友方单位和总部获得 +3 防御力，抽 1 张牌。
+card_event_white_death	Finland	白い死神	БЕЛАЯ СМЕРТЬ	白色死神	抑制所有敌方单位。将 1 个具有闪击的“游击队员”加入支援阵线。
+card_event_wolfpack	Germany	ウルフパック	ВОЛЧЬЯ СТАЯ	狼群战术	将 1 个单位返回手牌。敌方随机弃 1 张牌。
+card_event_women_at_work	USA	働く女性	ЖЕНЩИНЫ ЗА РАБОТОЙ	半边天	选择手中 1 张美国单位。使其失去等同于其行动花费的花费。
+card_event_yank_the_army_weekly	USA	ヤンク	ЯНКИ	洋基周刊	使友方总部获得：“每回合，友方首次开发时，再开发 1 张“惩戒”。”
+card_event_your_courage	Britain	あなたの勇気	ВАШЕ МУЖЕСТВО	你的勇气	使手中的协力牌获得 -1 花费。使手中、卡组和场上的所有友方协力单位获得 +1+1。
+card_event_z_special_unit	ANZAC	Z特殊部隊	СПЕЦПОДРАЗДЕЛЕНИЕ Z	Z 队	对 1 个单位造成 4 点伤害。若从手中最左侧使用，使友方总部获得 +5 防御力。
+card_event_zamosc_uprising	Poland	ザモシチ蜂起	ЗАМОЙСКОЕ ВОССТАНИЕ	扎莫希奇起义	使 1 个单位撤退。

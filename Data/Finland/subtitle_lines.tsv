@@ -1,0 +1,61 @@
+category	trigger	speaker	original	text
+CMD	INTRO_1	芬兰指挥官	Suomen sotilaat! Vihollinen tahtoo viedä meiltä kotimme!	芬兰的士兵们！敌人妄想夺走我们的家园！
+CMD	INTRO_2	芬兰指挥官	Näyttäkää heille, ettei tämä maa antaudu!	让他们明白，芬兰绝不投降！
+CMD	INTRO_3	芬兰指挥官	Jokaisessa metsässä, jokaisella tiellä pysäytämme heidät!	在每一片森林、每一条道路上，我们都会挡住他们！
+CMD	INTRO_4	芬兰指挥官	Lyökää heidät takaisin! Taistelkaa vapautemme puolesta!	把他们打回去！为我们的自由而战！
+CMD	INTRO_5	芬兰指挥官	Suomen puolesta! Kaikki eteenpäin!	为了芬兰——全军前进！
+CMD	HQ_LOW	芬兰指挥官	Esikunta on tulen alla. Asemat lujiksi!	总部遭到炮火袭击。巩固阵地！
+CMD	HQ_CRITICAL	芬兰指挥官	Esikunta vaarassa! Viimeiset reservit tänne!	总部危急！最后的预备队来这里！
+CMD	ENEMY_HQ_LOW	芬兰指挥官	Vihollisen esikunta horjuu. Jatkakaa hyökkäystä!	敌方总部已经动摇。继续进攻！
+INFANTRY	DEPLOY	芬兰步兵	Osasto valmiina. Odotamme käskyä.	分队准备就绪。等待命令。
+INFANTRY	DEPLOY_2	芬兰步兵	Asemat miehitetty. Pidämme tämän kohdan.	阵地已经占领。我们守住这里。
+INFANTRY	DEPLOY_3	芬兰步兵	Ryhmä paikalla. Aseet ovat valmiina.	小队到位。武器已经准备好。
+INFANTRY	DEPLOY_4	芬兰步兵	Metsänreuna varmistettu. Tänne ei tulla.	林缘已经控制。敌人别想过来。
+INFANTRY	DEPLOY_5	芬兰步兵	Miehet ovat asemissa. Voimme aloittaa.	弟兄们已进入阵地。可以开始了。
+INFANTRY	ATTACK	芬兰步兵	Aseet valmiina! Avataan tuli!	武器准备！开火！
+INFANTRY	ATTACK_2	芬兰步兵	Vihollinen tähtäimessä. Ammumme!	敌人进入准星。射击！
+INFANTRY	ATTACK_3	芬兰步兵	Nyt isketään! Eteenpäin!	现在出击！前进！
+INFANTRY	HURT	芬兰步兵	Suojaan! Meitä tulitetaan!	隐蔽！我们遭到射击！
+INFANTRY	HURT_2	芬兰步兵	Pysykää suojassa!	待在掩体里！
+INFANTRY	HURT_3	芬兰步兵	Osumia asemissa! Pidetään asemat!	阵地遭到命中！守住阵地！
+INFANTRY	MOVE	芬兰步兵	Liikkeelle! Pysykää yhdessä!	行动！保持队形！
+INFANTRY	MOVE_2	芬兰步兵	Eteenpäin, metsän suojaan!	前进，到林中隐蔽！
+ARTILLERY	DEPLOY	芬兰炮兵	Ammukset valmiina. Tykki on asemissa.	弹药就绪。火炮已经就位。
+ARTILLERY	DEPLOY_2	芬兰炮兵	Tuliasema valmis. Odotamme maalia.	炮位准备完毕。等待目标。
+ARTILLERY	DEPLOY_3	芬兰炮兵	Tähtäin säädetty. Antakaa maali.	瞄具调整完毕。请指示目标。
+ARTILLERY	DEPLOY_4	芬兰炮兵	Miehistö paikalla. Putki kohti tietä.	炮组到位。炮口对准道路。
+ARTILLERY	DEPLOY_5	芬兰炮兵	Tykki suunnattu. Olemme valmiina.	火炮已瞄准。我们准备好了。
+ARTILLERY	ATTACK	芬兰炮兵	Panssari näkyvissä! Avataan tuli!	发现装甲目标！开火！
+ARTILLERY	ATTACK_2	芬兰炮兵	Tähtäys valmis! Avataan tuli!	瞄准完毕！开火！
+ARTILLERY	ATTACK_3	芬兰炮兵	Suoraan maaliin! Avataan tuli!	直击目标！开火！
+ARTILLERY	HURT	芬兰炮兵	Tykkiasemaan osui! Suojaan!	炮位被击中了！隐蔽！
+ARTILLERY	HURT_2	芬兰炮兵	Miehistö suojaan!	炮组隐蔽！
+ARTILLERY	HURT_3	芬兰炮兵	Tulta asemissamme! Pysykää matalana!	敌人正向炮位开火！压低身体！
+ARTILLERY	MOVE	芬兰炮兵	Siirretään tykki eteen!	把火炮向前移动！
+ARTILLERY	MOVE_2	芬兰炮兵	Uuteen tuliasemaan!	转移到新炮位！
+TANK	DEPLOY	芬兰装甲部队	Vaunu valmiina. Odotamme lähtökäskyä.	战车准备就绪。等待出发命令。
+TANK	DEPLOY_2	芬兰装甲部队	Moottori käy. Ammukset mukana.	引擎运转。弹药已装车。
+TANK	DEPLOY_3	芬兰装甲部队	Miehistö paikoillaan. Voimme lähteä.	乘员全部到位。可以出发。
+TANK	DEPLOY_4	芬兰装甲部队	Panssari etulinjaan. Näyttäkää suunta.	装甲部队开赴前线。请指示方向。
+TANK	DEPLOY_5	芬兰装甲部队	Tähtäin kunnossa. Tykki ladattu.	瞄具正常。火炮装填完毕。
+TANK	ATTACK	芬兰装甲部队	Vihollinen edessä! Avataan tuli!	敌人在前方！开火！
+TANK	ATTACK_2	芬兰装甲部队	Tykki kohti vihollista!	炮口对准敌人！
+TANK	ATTACK_3	芬兰装甲部队	Laukaus! Jatkakaa hyökkäystä!	开炮！继续进攻！
+TANK	HURT	芬兰装甲部队	Osuma panssariin!	装甲被击中了！
+TANK	HURT_2	芬兰装甲部队	Meihin osui! Pitäkää kiinni!	我们被击中了！抓稳！
+TANK	HURT_3	芬兰装甲部队	Sivustalta tulitetaan!	侧翼遭到射击！
+TANK	MOVE	芬兰装甲部队	Vaunu eteenpäin!	战车前进！
+TANK	MOVE_2	芬兰装甲部队	Kohti etulinjaa. Liikkeelle!	向前线进发。行动！
+AIR	DEPLOY	芬兰航空队	Parvi ilmassa. Odotamme käskyä.	机群已经升空。等待命令。
+AIR	DEPLOY_2	芬兰航空队	Nousu valmis. Suunta kohti rintamaa.	爬升完成。航向前线。
+AIR	DEPLOY_3	芬兰航空队	Aseet ladattu. Taivas on tarkkailussa.	武器装填完毕。正在监视空域。
+AIR	DEPLOY_4	芬兰航空队	Kone valmiina. Moottori käy tasaisesti.	飞机准备就绪。引擎运转平稳。
+AIR	DEPLOY_5	芬兰航空队	Lennämme korkealla. Maali näkyvissä.	我们在高空飞行。目标已经可见。
+AIR	ATTACK	芬兰航空队	Lähestymme maalia. Avataan tuli!	正在接近目标。开火！
+AIR	ATTACK_2	芬兰航空队	Vihollinen edessä. Hyökkään!	敌人在前方。我来攻击！
+AIR	ATTACK_3	芬兰航空队	Syöksyyn! Avaan tulen!	俯冲！我开始射击！
+AIR	HURT	芬兰航空队	Koneeseen osui!	飞机被击中了！
+AIR	HURT_2	芬兰航空队	Vihollinen takana! Väistä!	后方有敌机！规避！
+AIR	HURT_3	芬兰航空队	Siipi vaurioitui! Pysyn ilmassa!	机翼受损！我还能飞！
+AIR	MOVE	芬兰航空队	Kohti etulinjaa!	飞向前线！
+AIR	MOVE_2	芬兰航空队	Vaihdetaan lentosuuntaa!	改变航向！

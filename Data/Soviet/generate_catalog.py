@@ -23,6 +23,13 @@ ARMOR = (
     "a20_", "armored_train", "bt_", "iosef_stalin_", "is_i", "isu_",
     "kv_", "su_", "t_28_", "t_34", "t_35_", "t_60", "t_70", "t_80",
 )
+ARTILLERY = {
+    "152mm_howitzer_gun", "45mm_anti_tank_gun", "52_k", "57mm_m1943",
+    "76mm_howitzer_1939", "85mm_d44", "b4_203mm_howitzer",
+    "bm_13n_us6", "katyusha", "katyusha_cam1",
+    "light_anti_air_battery", "stz_5_katyusha",
+}
+CAVALRY = {"36th_cavalry", "60th_cavalry_regiment", "cossack_cavalry"}
 
 
 def category(name: str) -> str:
@@ -33,11 +40,14 @@ def category(name: str) -> str:
     if not name.startswith("card_unit_"):
         raise ValueError(f"Unknown card asset: {name}")
     unit = name.removeprefix("card_unit_")
+    if unit in ARTILLERY:
+        return "ARTILLERY"
+    if unit in CAVALRY:
+        return "CAVALRY"
     if unit.startswith(AIRCRAFT):
         return "AIR"
     if unit.startswith(ARMOR):
         return "TANK"
-    # Infantry and artillery use the same deployment pool as in the Japan pack.
     return "INFANTRY"
 
 
@@ -65,7 +75,7 @@ def main() -> None:
     (HERE / "sets.tsv").write_text(
         "set\tunit\torder\tlocation\ttotal\n"
         + "".join(
-            f"{set_name}\t{count['INFANTRY'] + count['TANK'] + count['AIR']}"
+            f"{set_name}\t{sum(count[k] for k in ('INFANTRY', 'ARTILLERY', 'CAVALRY', 'TANK', 'AIR'))}"
             f"\t{count['ORDER']}\t{count['LOCATION']}\t{sum(count.values())}\n"
             for set_name, count in sorted(sets.items())
         ),

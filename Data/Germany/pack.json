@@ -1,0 +1,11 @@
+{
+  "Id": "Germany",
+  "Name": "德国",
+  "EnglishName": "GERMANY",
+  "Description": "德中字幕 · 德语语音",
+  "CardCount": 345,
+  "Playable": true,
+  "Language": "de",
+  "AudioPrefix": "DE",
+  "FileBased": true
+}

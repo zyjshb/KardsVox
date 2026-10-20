@@ -1,0 +1,45 @@
+resource	english_title	web_card_id	reserved	web_image	match
+card_event_breaking_point	BREAKING POINT	breaking_point	True	https://www.kards.com/images/card/v53/en-EN/breaking_point.avif	exact_title
+card_event_cold_trap	COLD TRAP	cold_trap	False	https://www.kards.com/images/card/v53/en-EN/cold_trap.avif	exact_title
+card_event_dark_deeds	DARK DEEDS	dark_deeds	False	https://www.kards.com/images/card/v53/en-EN/dark_deeds.avif	exact_title
+card_event_decoy_tactics	DECOY TACTICS	decoy_tactics	False	https://www.kards.com/images/card/v53/en-EN/decoy_tactics.avif	exact_title
+card_event_depot_raid	DEPOT RAID	depot_raid	False	https://www.kards.com/images/card/v53/en-EN/depot_raid.avif	exact_title
+card_event_friendly_fire_fin	FRIENDLY FIRE	friendly_fire	False	https://www.kards.com/images/card/v53/en-EN/friendly_fire.avif	exact_title
+card_event_frozen_assets	FROZEN ASSETS	frozen_assets	True	https://www.kards.com/images/card/v53/en-EN/frozen_assets.avif	exact_title
+card_event_heartland_defense	HEARTLAND DEFENSE	heartland_defense	False	https://www.kards.com/images/card/v53/en-EN/heartland_defense.avif	exact_title
+card_event_lotta_svard	LOTTA SVÄRD	lotta_svrd	False	https://www.kards.com/images/card/v53/en-EN/lotta_svrd.avif	exact_title
+card_event_molotov_cocktail_fin	MOLOTOV COCKTAIL	molotov_cocktail	False	https://www.kards.com/images/card/v53/en-EN/molotov_cocktail.avif	exact_title
+card_event_motti_tactic	MOTTI TACTIC	motti_tactic	False	https://www.kards.com/images/card/v53/en-EN/motti_tactic.avif	exact_title
+card_event_order_of_the_day	ORDER OF THE DAY	order_of_the_day	False	https://www.kards.com/images/card/v53/en-EN/order_of_the_day.avif	exact_title
+card_event_prolonged_siege	PROLONGED SIEGE	prolonged_siege	False	https://www.kards.com/images/card/v53/en-EN/prolonged_siege.avif	exact_title
+card_event_salpa_line	SALPA LINE	salpa_line	False	https://www.kards.com/images/card/v53/en-EN/salpa_line.avif	exact_title
+card_event_scrap_metal	SCRAP METAL	scrap_metal	True	https://www.kards.com/images/card/v53/en-EN/scrap_metal.avif	exact_title
+card_event_sisu	SISU	sisu	False	https://www.kards.com/images/card/v53/en-EN/sisu.avif	exact_title
+card_event_ski_troops	SKI TROOPS	ski_troops	False	https://www.kards.com/images/card/v53/en-EN/ski_troops.avif	exact_title
+card_event_strike_from_the_forest	STRIKE FROM THE WOODS	strike_from_the_woods	True	https://www.kards.com/images/card/v53/en-EN/strike_from_the_woods.avif	exact_title
+card_event_through_the_ice	THROUGH THE ICE	through_the_ice	True	https://www.kards.com/images/card/v53/en-EN/through_the_ice.avif	exact_title
+card_event_white_death	THE WHITE DEATH	the_white_death	False	https://www.kards.com/images/card/v53/en-EN/the_white_death.avif	exact_title
+card_unit_coastal_battalion_7	COASTAL BATTALION 7	coastal_battalion_7	False	https://www.kards.com/images/card/v53/en-EN/coastal_battalion_7.avif	exact_title
+card_unit_detached_battalion_4	DETACHED BATTALION 4	detached_battalion_4	True	https://www.kards.com/images/card/v53/en-EN/detached_battalion_4.avif	exact_title
+card_unit_fiat_g_50_fi	FIAT G.50 FI	fiat_g_50_fi	True	https://www.kards.com/images/card/v53/en-EN/fiat_g_50_fi.avif	exact_title
+card_unit_finnish_boys	FINNISH BOYS	finnish_boys	False	https://www.kards.com/images/card/v53/en-EN/finnish_boys.avif	exact_title
+card_unit_fokker_finland	FOKKER D.XXI	fokker_d_xxi	False	https://www.kards.com/images/card/v53/en-EN/fokker_d_xxi.avif	exact_title
+card_unit_i_stridsgruppan	I. STRIDSGRUPPEN	i_stridsgruppen	True	https://www.kards.com/images/card/v53/en-EN/i_stridsgruppen.avif	exact_title
+card_unit_infantry_regiment_11	INFANTRY REGIMENT 11	infantry_regiment_11	True	https://www.kards.com/images/card/v53/en-EN/infantry_regiment_11.avif	exact_title
+card_unit_infantry_regiment_13	INFANTRY REGIMENT 13	infantry_regiment_13	False	https://www.kards.com/images/card/v53/en-EN/infantry_regiment_13.avif	exact_title
+card_unit_infantry_regiment_2	INFANTRY REGIMENT 2	infantry_regiment_2	False	https://www.kards.com/images/card/v53/en-EN/infantry_regiment_2.avif	exact_title
+card_unit_infantry_regiment_25	INFANTRY REGIMENT 25	infantry_regiment_25	False	https://www.kards.com/images/card/v53/en-EN/infantry_regiment_25.avif	exact_title
+card_unit_infantry_regiment_36	INFANTRY REGIMENT 36	infantry_regiment_36	False	https://www.kards.com/images/card/v53/en-EN/infantry_regiment_36.avif	exact_title
+card_unit_infantry_regiment_56	INFANTRY REGIMENT 56	infantry_regiment_56	False	https://www.kards.com/images/card/v53/en-EN/infantry_regiment_56.avif	exact_title
+card_unit_infantry_regiment_61	INFANTRY REGIMENT 61	infantry_regiment_61	True	https://www.kards.com/images/card/v53/en-EN/infantry_regiment_61.avif	exact_title
+card_unit_jager_battalion_2	JÄGER BATTALION 2	jger_battalion_2	False	https://www.kards.com/images/card/v53/en-EN/jger_battalion_2.avif	exact_title
+card_unit_light_detachment_15	LIGHT DETACHMENT 15	light_detachment_15	False	https://www.kards.com/images/card/v53/en-EN/light_detachment_15.avif	exact_title
+card_unit_me_bf_109_fin	ME BF 109 G FI	me_bf_109_g_fi	False	https://www.kards.com/images/card/v53/en-EN/me_bf_109_g_fi.avif	exact_title
+card_unit_pak_36_fl	PAK 36 FI	pak_36_fi	False	https://www.kards.com/images/card/v53/en-EN/pak_36_fi.avif	exact_title
+card_unit_ryhma_susi	RYHMÄ SUSI	ryhm_susi	False	https://www.kards.com/images/card/v53/en-EN/ryhm_susi.avif	exact_title
+card_unit_sissi	SISSI	sissi	False	https://www.kards.com/images/card/v53/en-EN/sissi.avif	exact_title
+card_unit_sissiosasto_5d	SISSIOSASTO 5.D	sissiosasto_5_d	True	https://www.kards.com/images/card/v53/en-EN/sissiosasto_5_d.avif	exact_title
+card_unit_stug_iii_g_fin	STURMI	sturmi	False	https://www.kards.com/images/card/v53/en-EN/sturmi.avif	exact_title
+card_unit_t_26_fl	T-26 FI	t26_fi	False	https://www.kards.com/images/card/v53/en-EN/t26_fi.avif	exact_title
+card_unit_uusimaa_regiment	UUSIMAA REGIMENT	uusimaa_regiment	False	https://www.kards.com/images/card/v53/en-EN/uusimaa_regiment.avif	exact_title
+card_unit_white_guard	WHITE GUARD	white_guard	False	https://www.kards.com/images/card/v53/en-EN/white_guard.avif	exact_title

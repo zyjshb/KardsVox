@@ -1,0 +1,11 @@
+{
+  "source": "C:\\Users\\djnio\\Desktop\\芬兰.wav",
+  "source_sha256": "acb54d011a50a8ee630fdc2105b558eb3b863ee86ea1173301ab400dc5653cd2",
+  "start_seconds": 14.2,
+  "end_seconds": 23.94,
+  "seconds": 9.74,
+  "reference_sha256": "03186a1892f82d3124d5ea0a7795738620d413456917051d394a6f76c4f63a4c",
+  "sample_rate": 44100,
+  "processing": "mono, 8 ms edge fades; no pitch/tempo change",
+  "transcript": "Herra upseeri! Käskystä! Selvä! Valmiina! Liikkeelle, vauhtia, eteenpäin! Perääntykää! Perääntykää!"
+}

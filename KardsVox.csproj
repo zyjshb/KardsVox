@@ -1,5 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows</TargetFramework>
@@ -7,24 +6,48 @@
     <UseAppHost>true</UseAppHost>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>KardsVox</AssemblyName>
+    <Version>1.7.28</Version>
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="Data\Finland\**\*" Exclude="Data\Finland\**\__pycache__\**" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Audio\Finland\*.wav" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Audio\Finland\README.md" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Germany\**\*" Exclude="Data\Germany\**\__pycache__\**" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Audio\Germany\*.wav" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Audio\Germany\README.md" CopyToOutputDirectory="PreserveNewest" />
+    <Compile Remove="ApplicationConfiguration.cs" />
+    <Compile Remove="Properties\AssemblyInfo.cs" />
     <PackageReference Include="NAudio" Version="2.2.1" />
     <Content Include="Audio\Japan\*.wav" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Audio\Soviet\*.wav" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Audio\Soviet\README.md" CopyToOutputDirectory="PreserveNewest" />
-    <Content Include="Audio\Sfx\Hurt\*.mp3" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Audio\Test\intro.wav" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Data\Japan\voice_lines.tsv" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Data\Japan\order_profiles.json" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Data\Japan\card_catalog.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Japan\card_titles.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Japan\order_lines.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Japan\order_originals.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Japan\README.md" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Data\Soviet\card_catalog.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Soviet\card_titles.tsv" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Data\Soviet\sets.tsv" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Data\Soviet\voice_lines.tsv" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Data\Soviet\voice_plan.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Soviet\voice_generation_manifest.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Soviet\subtitle_lines.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Soviet\order_lines.tsv" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Data\Soviet\README.md" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Allied\order_labels.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Allied\card_labels.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Audit\*.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Audit\README.md" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\detection.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="README.md" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="THIRD_PARTY_NOTICES.md" CopyToOutputDirectory="PreserveNewest" />
-    <Content Include="Data\detection.json" CopyToOutputDirectory="PreserveNewest" Condition="Exists('Data\detection.json')" />
   </ItemGroup>
-
 </Project>

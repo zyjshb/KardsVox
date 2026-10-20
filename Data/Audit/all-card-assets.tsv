@@ -1,0 +1,2054 @@
+asset_path	resource	folder	game_title_namespace	game_title_zh
+ANZAC/events/card_event_aans.uasset	card_event_aans	ANZAC		
+ANZAC/events/card_event_anzac_spirit.uasset	card_event_anzac_spirit	ANZAC		
+ANZAC/events/card_event_corps_command.uasset	card_event_corps_command	ANZAC		
+ANZAC/events/card_event_forward_base_anzac.uasset	card_event_forward_base_anzac	ANZAC		
+ANZAC/events/card_event_guerilla_warfare_school.uasset	card_event_guerilla_warfare_school	ANZAC		
+ANZAC/events/card_event_hmas_warramunga.uasset	card_event_hmas_warramunga	ANZAC		
+ANZAC/events/card_event_repel_the_attack.uasset	card_event_repel_the_attack	ANZAC		
+ANZAC/events/card_event_task_force_44.uasset	card_event_task_force_44	ANZAC		
+ANZAC/events/card_event_the_double_sunrise.uasset	card_event_the_double_sunrise	ANZAC		
+ANZAC/events/card_event_z_special_unit.uasset	card_event_z_special_unit	ANZAC		
+ANZAC/specialCards/card_unit_16th_infantry_brigade_vet.uasset	card_unit_16th_infantry_brigade_vet	ANZAC		
+ANZAC/specialCards/card_unit_6th_brigade_nz_vet.uasset	card_unit_6th_brigade_nz_vet	ANZAC		
+ANZAC/specialCards/card_unit_7th_brigade_anzac_vet.uasset	card_unit_7th_brigade_anzac_vet	ANZAC		
+ANZAC/specialCards/card_unit_raaf_walrus_vet.uasset	card_unit_raaf_walrus_vet	ANZAC		
+ANZAC/specialCards/card_unit_the_silent_seventh_vet.uasset	card_unit_the_silent_seventh_vet	ANZAC		
+ANZAC/units/card_unit_14th_brigade_nz.uasset	card_unit_14th_brigade_nz	ANZAC		
+ANZAC/units/card_unit_16th_infantry_brigade.uasset	card_unit_16th_infantry_brigade	ANZAC		
+ANZAC/units/card_unit_17th_infantry_brigade.uasset	card_unit_17th_infantry_brigade	ANZAC		
+ANZAC/units/card_unit_27th_mg_battalion.uasset	card_unit_27th_mg_battalion	ANZAC		
+ANZAC/units/card_unit_2_2nd_pioneers.uasset	card_unit_2_2nd_pioneers	ANZAC		
+ANZAC/units/card_unit_3_7_inch_mountain_howitzer.uasset	card_unit_3_7_inch_mountain_howitzer	ANZAC		
+ANZAC/units/card_unit_4th_brigade_nz.uasset	card_unit_4th_brigade_nz	ANZAC		
+ANZAC/units/card_unit_6th_brigade_nz.uasset	card_unit_6th_brigade_nz	ANZAC		
+ANZAC/units/card_unit_7th_brigade_anzac.uasset	card_unit_7th_brigade_anzac	ANZAC		
+ANZAC/units/card_unit_anzac_hurricane_ii_c_trop.uasset	card_unit_anzac_hurricane_ii_c_trop	ANZAC		
+ANZAC/units/card_unit_coastwatchers.uasset	card_unit_coastwatchers	ANZAC		
+ANZAC/units/card_unit_dingo_armored_car.uasset	card_unit_dingo_armored_car	ANZAC		
+ANZAC/units/card_unit_flaming_matilda_anzac.uasset	card_unit_flaming_matilda_anzac	ANZAC		
+ANZAC/units/card_unit_maori_battalion.uasset	card_unit_maori_battalion	ANZAC		
+ANZAC/units/card_unit_raaf_walrus.uasset	card_unit_raaf_walrus	ANZAC		
+ANZAC/units/card_unit_the_silent_seventh.uasset	card_unit_the_silent_seventh	ANZAC		
+BP_BaseCard.uasset	BP_BaseCard	BP_BaseCard.uasset		
+BP_BoardCard.uasset	BP_BoardCard	BP_BoardCard.uasset		
+BP_BoardCardWidget.uasset	BP_BoardCardWidget	BP_BoardCardWidget.uasset		
+BP_CardFunctions.uasset	BP_CardFunctions	BP_CardFunctions.uasset		
+BP_CardHelp.uasset	BP_CardHelp	BP_CardHelp.uasset		
+BP_CardRenderer.uasset	BP_CardRenderer	BP_CardRenderer.uasset		
+BP_ChooseCardToDraw.uasset	BP_ChooseCardToDraw	BP_ChooseCardToDraw.uasset		
+BP_ChooseCardToSpawn.uasset	BP_ChooseCardToSpawn	BP_ChooseCardToSpawn.uasset		
+BP_ChooseOneCard.uasset	BP_ChooseOneCard	BP_ChooseOneCard.uasset		
+BP_DraftingCard.uasset	BP_DraftingCard	BP_DraftingCard.uasset		
+BP_EffectBar.uasset	BP_EffectBar	BP_EffectBar.uasset		
+BP_EffectBarIcon.uasset	BP_EffectBarIcon	BP_EffectBarIcon.uasset		
+BP_HandCard.uasset	BP_HandCard	BP_HandCard.uasset		
+BP_HandCardLook.uasset	BP_HandCardLook	BP_HandCardLook.uasset		
+BP_HandCardLookUnlit.uasset	BP_HandCardLookUnlit	BP_HandCardLookUnlit.uasset		
+BP_HandCardOutline.uasset	BP_HandCardOutline	BP_HandCardOutline.uasset		
+BP_HistoryCard.uasset	BP_HistoryCard	BP_HistoryCard.uasset		
+BP_OpenPackCard.uasset	BP_OpenPackCard	BP_OpenPackCard.uasset		
+BP_RewardCard.uasset	BP_RewardCard	BP_RewardCard.uasset		
+BP_RewardCardback.uasset	BP_RewardCardback	BP_RewardCardback.uasset		
+BP_ShowcaseBoardCard.uasset	BP_ShowcaseBoardCard	BP_ShowcaseBoardCard.uasset		
+BP_Widget_EffectBar_Mobile.uasset	BP_Widget_EffectBar_Mobile	BP_Widget_EffectBar_Mobile.uasset		
+BP_Widget_EffectBarIcon.uasset	BP_Widget_EffectBarIcon	BP_Widget_EffectBarIcon.uasset		
+BPI_CardRendererTarget.uasset	BPI_CardRendererTarget	BPI_CardRendererTarget.uasset		
+BrawlCards/card_brawl_history_card.uasset	card_brawl_history_card	BrawlCards		
+BrawlCards/card_brawl_test1.uasset	card_brawl_test1	BrawlCards		
+BrawlCards/card_event_burning_fields_skirm.uasset	card_event_burning_fields_skirm	BrawlCards		
+BrawlCards/card_event_espionage_skirm.uasset	card_event_espionage_skirm	BrawlCards		
+BrawlCards/card_event_firestorm_skirm.uasset	card_event_firestorm_skirm	BrawlCards		
+BrawlCards/card_event_foreign_support_skirm.uasset	card_event_foreign_support_skirm	BrawlCards		
+BrawlCards/card_event_fortunes_of_war_skirm.uasset	card_event_fortunes_of_war_skirm	BrawlCards		
+BrawlCards/card_event_heroes_of_the_soviet_union_skirm.uasset	card_event_heroes_of_the_soviet_union_skirm	BrawlCards		
+BrawlCards/card_event_heroism_skirm.uasset	card_event_heroism_skirm	BrawlCards		
+BrawlCards/card_event_lost_cause_skirm.uasset	card_event_lost_cause_skirm	BrawlCards		
+BrawlCards/card_event_red_skies_skirm.uasset	card_event_red_skies_skirm	BrawlCards		
+BrawlCards/card_event_soul_of_old_japan_skirm.uasset	card_event_soul_of_old_japan_skirm	BrawlCards		
+BrawlCards/card_event_strike_at_the_heart_skirm.uasset	card_event_strike_at_the_heart_skirm	BrawlCards		
+BrawlCards/card_event_the_end_is_near_skirm.uasset	card_event_the_end_is_near_skirm	BrawlCards		
+Britain/Allegiance/events/card_event_aerial_reconaissance.uasset	card_event_aerial_reconaissance	Britain		
+Britain/Allegiance/events/card_event_grounded.uasset	card_event_grounded	Britain		
+Britain/Allegiance/events/card_event_lend_lease.uasset	card_event_lend_lease	Britain		
+Britain/Allegiance/events/card_event_merchant_navy.uasset	card_event_merchant_navy	Britain		
+Britain/Allegiance/events/card_event_raid.uasset	card_event_raid	Britain		
+Britain/Allegiance/events/card_event_resolute_defense.uasset	card_event_resolute_defense	Britain		
+Britain/Allegiance/events/card_event_secret_operatives.uasset	card_event_secret_operatives	Britain		
+Britain/Allegiance/events/card_event_shelling.uasset	card_event_shelling	Britain		
+Britain/Allegiance/units/card_unit_111th_indian_brigade.uasset	card_unit_111th_indian_brigade	Britain		
+Britain/Allegiance/units/card_unit_1st_airborne.uasset	card_unit_1st_airborne	Britain		
+Britain/Allegiance/units/card_unit_4_5_inch_medium_gun.uasset	card_unit_4_5_inch_medium_gun	Britain		
+Britain/Allegiance/units/card_unit_blenheim_mk_iv.uasset	card_unit_blenheim_mk_iv	Britain		
+Britain/Allegiance/units/card_unit_coldstream_guards.uasset	card_unit_coldstream_guards	Britain		
+Britain/Allegiance/units/card_unit_cromwell_mk_iv.uasset	card_unit_cromwell_mk_iv	Britain		
+Britain/Allegiance/units/card_unit_lancashire_fusiliers.uasset	card_unit_lancashire_fusiliers	Britain		
+Britain/Allegiance/units/card_unit_manchester_ia.uasset	card_unit_manchester_ia	Britain		
+Britain/Allegiance/units/card_unit_no43_commando.uasset	card_unit_no43_commando	Britain		
+Britain/Allegiance/units/card_unit_qf_40mm_mk_iii.uasset	card_unit_qf_40mm_mk_iii	Britain		
+Britain/Allegiance/units/card_unit_royal_ulster_rifles.uasset	card_unit_royal_ulster_rifles	Britain		
+Britain/Allegiance/units/card_unit_tempest_mk_v.uasset	card_unit_tempest_mk_v	Britain		
+Britain/Allegiance/units/card_unit_typhoon_mk_ib.uasset	card_unit_typhoon_mk_ib	Britain		
+Britain/Allegiance/units/card_unit_valentine_mk_iii.uasset	card_unit_valentine_mk_iii	Britain		
+Britain/Allegiance/units/card_unit_welsh_guards.uasset	card_unit_welsh_guards	Britain		
+Britain/Base/events/card_event_aa_barrage.uasset	card_event_aa_barrage	Britain		
+Britain/Base/events/card_event_atlantic_convoy.uasset	card_event_atlantic_convoy	Britain		
+Britain/Base/events/card_event_blockade.uasset	card_event_blockade	Britain		
+Britain/Base/events/card_event_carpet_bombing.uasset	card_event_carpet_bombing	Britain		
+Britain/Base/events/card_event_close_air_support.uasset	card_event_close_air_support	Britain		
+Britain/Base/events/card_event_convoy_175.uasset	card_event_convoy_175	Britain		
+Britain/Base/events/card_event_cup_of_tea.uasset	card_event_cup_of_tea	Britain		
+Britain/Base/events/card_event_daylight_bombing.uasset	card_event_daylight_bombing	Britain		
+Britain/Base/events/card_event_desert_rats.uasset	card_event_desert_rats	Britain		
+Britain/Base/events/card_event_finest_hour.uasset	card_event_finest_hour	Britain		
+Britain/Base/events/card_event_for_precision_bombing.uasset	card_event_for_precision_bombing	Britain		
+Britain/Base/events/card_event_for_the_king.uasset	card_event_for_the_king	Britain		
+Britain/Base/events/card_event_fortification.uasset	card_event_fortification	Britain		
+Britain/Base/events/card_event_hms_illustrious.uasset	card_event_hms_illustrious	Britain		
+Britain/Base/events/card_event_interception.uasset	card_event_interception	Britain		
+Britain/Base/events/card_event_mi_5.uasset	card_event_mi_5	Britain		
+Britain/Base/events/card_event_monty.uasset	card_event_monty	Britain		
+Britain/Base/events/card_event_national_fire_service.uasset	card_event_national_fire_service	Britain		
+Britain/Base/events/card_event_naval_power.uasset	card_event_naval_power	Britain		
+Britain/Base/events/card_event_naval_support.uasset	card_event_naval_support	Britain		
+Britain/Base/events/card_event_night_raid.uasset	card_event_night_raid	Britain		
+Britain/Base/events/card_event_radar_alert.uasset	card_event_radar_alert	Britain		
+Britain/Base/events/card_event_rescue_mission.uasset	card_event_rescue_mission	Britain		
+Britain/Base/events/card_event_supply_drop.uasset	card_event_supply_drop	Britain		
+Britain/Base/events/card_event_tactical_withdrawal.uasset	card_event_tactical_withdrawal	Britain		
+Britain/Base/events/card_event_the_commonwealth.uasset	card_event_the_commonwealth	Britain		
+Britain/Base/events/card_event_the_empire.uasset	card_event_the_empire	Britain		
+Britain/Base/events/card_event_ultra.uasset	card_event_ultra	Britain		
+Britain/Base/events/card_event_unexpected_resistance.uasset	card_event_unexpected_resistance	Britain		
+Britain/Base/units/card_unit_17_pounder.uasset	card_unit_17_pounder	Britain		
+Britain/Base/units/card_unit_1st_airlanding_brigade.uasset	card_unit_1st_airlanding_brigade	Britain		
+Britain/Base/units/card_unit_22nd_guards_brigade.uasset	card_unit_22nd_guards_brigade	Britain		
+Britain/Base/units/card_unit_25_pounder.uasset	card_unit_25_pounder	Britain		
+Britain/Base/units/card_unit_2_pounder.uasset	card_unit_2_pounder	Britain		
+Britain/Base/units/card_unit_3_7_inch_aa_gun.uasset	card_unit_3_7_inch_aa_gun	Britain		
+Britain/Base/units/card_unit_5th_brigade.uasset	card_unit_5th_brigade	Britain		
+Britain/Base/units/card_unit_6_pounder.uasset	card_unit_6_pounder	Britain		
+Britain/Base/units/card_unit_85_pioneer_company.uasset	card_unit_85_pioneer_company	Britain		
+Britain/Base/units/card_unit_albacore.uasset	card_unit_albacore	Britain		
+Britain/Base/units/card_unit_argyllshire_highlanders.uasset	card_unit_argyllshire_highlanders	Britain		
+Britain/Base/units/card_unit_baluch_regiment.uasset	card_unit_baluch_regiment	Britain		
+Britain/Base/units/card_unit_black_watch.uasset	card_unit_black_watch	Britain		
+Britain/Base/units/card_unit_british_sherman_firefly.uasset	card_unit_british_sherman_firefly	Britain		
+Britain/Base/units/card_unit_churchill.uasset	card_unit_churchill	Britain		
+Britain/Base/units/card_unit_coastal_gun.uasset	card_unit_coastal_gun	Britain		
+Britain/Base/units/card_unit_comet1.uasset	card_unit_comet1	Britain		
+Britain/Base/units/card_unit_commandos.uasset	card_unit_commandos	Britain		
+Britain/Base/units/card_unit_crusader_mk_ii.uasset	card_unit_crusader_mk_ii	Britain		
+Britain/Base/units/card_unit_daimler_mk_ii.uasset	card_unit_daimler_mk_ii	Britain		
+Britain/Base/units/card_unit_gladiator.uasset	card_unit_gladiator	Britain		
+Britain/Base/units/card_unit_gladiator_escort.uasset	card_unit_gladiator_escort	Britain		
+Britain/Base/units/card_unit_grenadier_guards.uasset	card_unit_grenadier_guards	Britain		
+Britain/Base/units/card_unit_hampden.uasset	card_unit_hampden	Britain		
+Britain/Base/units/card_unit_hudson.uasset	card_unit_hudson	Britain		
+Britain/Base/units/card_unit_hurricane.uasset	card_unit_hurricane	Britain		
+Britain/Base/units/card_unit_hurricane_vs2.uasset	card_unit_hurricane_vs2	Britain		
+Britain/Base/units/card_unit_lancaster.uasset	card_unit_lancaster	Britain		
+Britain/Base/units/card_unit_lancaster_biii.uasset	card_unit_lancaster_biii	Britain		
+Britain/Base/units/card_unit_mathilda_mk_ii.uasset	card_unit_mathilda_mk_ii	Britain		
+Britain/Base/units/card_unit_mosquito.uasset	card_unit_mosquito	Britain		
+Britain/Base/units/card_unit_p38_lightning_raf.uasset	card_unit_p38_lightning_raf	Britain		
+Britain/Base/units/card_unit_p40_kittyhawk.uasset	card_unit_p40_kittyhawk	Britain		
+Britain/Base/units/card_unit_royal_engineers.uasset	card_unit_royal_engineers	Britain		
+Britain/Base/units/card_unit_royal_west_kents.uasset	card_unit_royal_west_kents	Britain		
+Britain/Base/units/card_unit_sexton.uasset	card_unit_sexton	Britain		
+Britain/Base/units/card_unit_skua_mk_ii.uasset	card_unit_skua_mk_ii	Britain		
+Britain/Base/units/card_unit_spitfire.uasset	card_unit_spitfire	Britain		
+Britain/Base/units/card_unit_spitfire_v.uasset	card_unit_spitfire_v	Britain		
+Britain/Base/units/card_unit_stirling.uasset	card_unit_stirling	Britain		
+Britain/Base/units/card_unit_swordfish.uasset	card_unit_swordfish	Britain		
+Britain/BloodIron/events/card_event_breakout.uasset	card_event_breakout	Britain		
+Britain/BloodIron/events/card_event_creeping_barrage.uasset	card_event_creeping_barrage	Britain		
+Britain/BloodIron/events/card_event_desert_dust.uasset	card_event_desert_dust	Britain		
+Britain/BloodIron/events/card_event_echelon.uasset	card_event_echelon	Britain		
+Britain/BloodIron/events/card_event_entanglement.uasset	card_event_entanglement	Britain		
+Britain/BloodIron/events/card_event_kangaroo_transport.uasset	card_event_kangaroo_transport	Britain		
+Britain/BloodIron/units/card_unit_70th_brigade.uasset	card_unit_70th_brigade	Britain		
+Britain/BloodIron/units/card_unit_black_prince.uasset	card_unit_black_prince	Britain		
+Britain/BloodIron/units/card_unit_bloody_eleventh.uasset	card_unit_bloody_eleventh	Britain		
+Britain/BloodIron/units/card_unit_chesire_regiment.uasset	card_unit_chesire_regiment	Britain		
+Britain/BloodIron/units/card_unit_frontier_force.uasset	card_unit_frontier_force	Britain		
+Britain/BloodIron/units/card_unit_garrison.uasset	card_unit_garrison	Britain		
+Britain/BloodIron/units/card_unit_humber_mk_iv.uasset	card_unit_humber_mk_iv	Britain		
+Britain/BloodIron/units/card_unit_matilda_mk_iv.uasset	card_unit_matilda_mk_iv	Britain		
+Britain/BloodIron/units/card_unit_slashers.uasset	card_unit_slashers	Britain		
+Britain/BloodIron/units/card_unit_the_rangers.uasset	card_unit_the_rangers	Britain		
+Britain/Breakthrough/events/card_event_active_sonar.uasset	card_event_active_sonar	Britain		
+Britain/Breakthrough/events/card_event_advanced_royal_research.uasset	card_event_advanced_royal_research	Britain		
+Britain/Breakthrough/events/card_event_airdrop.uasset	card_event_airdrop	Britain		
+Britain/Breakthrough/events/card_event_bletchley_park.uasset	card_event_bletchley_park	Britain		
+Britain/Breakthrough/events/card_event_critical_damage.uasset	card_event_critical_damage	Britain		
+Britain/Breakthrough/events/card_event_dowding_system.uasset	card_event_dowding_system	Britain		
+Britain/Breakthrough/events/card_event_evasive_action.uasset	card_event_evasive_action	Britain		
+Britain/Breakthrough/events/card_event_expanded_royal_research.uasset	card_event_expanded_royal_research	Britain		
+Britain/Breakthrough/events/card_event_fog_of_war.uasset	card_event_fog_of_war	Britain		
+Britain/Breakthrough/events/card_event_long_range_desert_group.uasset	card_event_long_range_desert_group	Britain		
+Britain/Breakthrough/events/card_event_radar.uasset	card_event_radar	Britain		
+Britain/Breakthrough/events/card_event_royal_research.uasset	card_event_royal_research	Britain		
+Britain/Breakthrough/events/card_event_sea_patrol.uasset	card_event_sea_patrol	Britain		
+Britain/Breakthrough/events/card_event_second_chance.uasset	card_event_second_chance	Britain		
+Britain/Breakthrough/events/card_event_synthetic_rubber.uasset	card_event_synthetic_rubber	Britain		
+Britain/Breakthrough/units/card_unit_2nd_parachute.uasset	card_unit_2nd_parachute	Britain		
+Britain/Breakthrough/units/card_unit_avro_anson1.uasset	card_unit_avro_anson1	Britain		
+Britain/Breakthrough/units/card_unit_cruiser_mk_iii.uasset	card_unit_cruiser_mk_iii	Britain		
+Britain/Breakthrough/units/card_unit_irish_guards.uasset	card_unit_irish_guards	Britain		
+Britain/Breakthrough/units/card_unit_no_3_commando.uasset	card_unit_no_3_commando	Britain		
+Britain/Breakthrough/units/card_unit_raf_ground_crew.uasset	card_unit_raf_ground_crew	Britain		
+Britain/Breakthrough/units/card_unit_royal_scots.uasset	card_unit_royal_scots	Britain		
+Britain/Breakthrough/units/card_unit_seaforth_highlanders.uasset	card_unit_seaforth_highlanders	Britain		
+Britain/Breakthrough/units/card_unit_short_sunderland.uasset	card_unit_short_sunderland	Britain		
+Britain/Breakthrough/units/card_unit_short_wellington.uasset	card_unit_short_wellington	Britain		
+Britain/Breakthrough/units/card_unit_spitfire_mk_ii.uasset	card_unit_spitfire_mk_ii	Britain		
+Britain/BrothersInArms/events/card_event_close_call.uasset	card_event_close_call	Britain		
+Britain/BrothersInArms/events/card_event_committed_crew.uasset	card_event_committed_crew	Britain		
+Britain/BrothersInArms/events/card_event_desert_raid.uasset	card_event_desert_raid	Britain		
+Britain/BrothersInArms/events/card_event_escort_group.uasset	card_event_escort_group	Britain		
+Britain/BrothersInArms/events/card_event_hms_hermes.uasset	card_event_hms_hermes	Britain		
+Britain/BrothersInArms/events/card_event_partnership.uasset	card_event_partnership	Britain		
+Britain/BrothersInArms/events/card_event_refit_bia.uasset	card_event_refit_bia	Britain		
+Britain/BrothersInArms/events/card_event_sincerely_yours.uasset	card_event_sincerely_yours	Britain		
+Britain/BrothersInArms/events/card_event_stiff_upper_lip.uasset	card_event_stiff_upper_lip	Britain		
+Britain/BrothersInArms/events/card_event_strong_bond.uasset	card_event_strong_bond	Britain		
+Britain/BrothersInArms/units/card_unit_185th_brigade.uasset	card_unit_185th_brigade	Britain		
+Britain/BrothersInArms/units/card_unit_6th_airlanding_brigade.uasset	card_unit_6th_airlanding_brigade	Britain		
+Britain/BrothersInArms/units/card_unit_blenheim_mk_i.uasset	card_unit_blenheim_mk_i	Britain		
+Britain/BrothersInArms/units/card_unit_green_howards.uasset	card_unit_green_howards	Britain		
+Britain/BrothersInArms/units/card_unit_hurricane_mk_ii_c_trop.uasset	card_unit_hurricane_mk_ii_c_trop	Britain		
+Britain/BrothersInArms/units/card_unit_kings_own_scottish.uasset	card_unit_kings_own_scottish	Britain		
+Britain/BrothersInArms/units/card_unit_vildebeest.uasset	card_unit_vildebeest	Britain		
+Britain/CovertOp/events/card_event_baker_street_irregulars.uasset	card_event_baker_street_irregulars	Britain		
+Britain/CovertOp/events/card_event_commando_raid.uasset	card_event_commando_raid	Britain		
+Britain/CovertOp/events/card_event_first_responders.uasset	card_event_first_responders	Britain		
+Britain/CovertOp/events/card_event_hms_talbot.uasset	card_event_hms_talbot	Britain		
+Britain/CovertOp/events/card_event_infiltrate.uasset	card_event_infiltrate	Britain		
+Britain/CovertOp/events/card_event_lure.uasset	card_event_lure	Britain		
+Britain/CovertOp/events/card_event_sea_embargo.uasset	card_event_sea_embargo	Britain		
+Britain/CovertOp/events/card_event_wave_after_wave.uasset	card_event_wave_after_wave	Britain		
+Britain/CovertOp/units/card_unit_10th_para_battalion.uasset	card_unit_10th_para_battalion	Britain		
+Britain/CovertOp/units/card_unit_15th_recon_regiment.uasset	card_unit_15th_recon_regiment	Britain		
+Britain/CovertOp/units/card_unit_7th_scottish_borderers.uasset	card_unit_7th_scottish_borderers	Britain		
+Britain/CovertOp/units/card_unit_beaufighter_vi_f.uasset	card_unit_beaufighter_vi_f	Britain		
+Britain/CovertOp/units/card_unit_cameronians.uasset	card_unit_cameronians	Britain		
+Britain/CovertOp/units/card_unit_no_9_commando.uasset	card_unit_no_9_commando	Britain		
+Britain/CovertOp/units/card_unit_shark_mk_iii.uasset	card_unit_shark_mk_iii	Britain		
+Britain/Homefront/events/card_event_combined_chiefs_of_staff.uasset	card_event_combined_chiefs_of_staff	Britain		
+Britain/Homefront/events/card_event_forward_observers.uasset	card_event_forward_observers	Britain		
+Britain/Homefront/events/card_event_home_guard.uasset	card_event_home_guard	Britain		
+Britain/Homefront/events/card_event_national_service_home.uasset	card_event_national_service_home	Britain		
+Britain/Homefront/events/card_event_the_land_girls.uasset	card_event_the_land_girls	Britain		
+Britain/Homefront/events/card_event_your_courage.uasset	card_event_your_courage	Britain		
+Britain/Homefront/units/card_unit_baltimore_mk_iii.uasset	card_unit_baltimore_mk_iii	Britain		
+Britain/Homefront/units/card_unit_britain_25_pounder_home.uasset	card_unit_britain_25_pounder_home	Britain		
+Britain/Homefront/units/card_unit_defiant_mk_i.uasset	card_unit_defiant_mk_i	Britain		
+Britain/Homefront/units/card_unit_hampshire_regiment.uasset	card_unit_hampshire_regiment	Britain		
+Britain/Homefront/units/card_unit_kings_african_rifles.uasset	card_unit_kings_african_rifles	Britain		
+Britain/Homefront/units/card_unit_layforce.uasset	card_unit_layforce	Britain		
+Britain/Homefront/units/card_unit_london_irish_rifles.uasset	card_unit_london_irish_rifles	Britain		
+Britain/Homefront/units/card_unit_middlesex_regiment.uasset	card_unit_middlesex_regiment	Britain		
+Britain/Homefront/units/card_unit_raf_mustang.uasset	card_unit_raf_mustang	Britain		
+Britain/Homefront/units/card_unit_the_bleeders.uasset	card_unit_the_bleeders	Britain		
+Britain/Homefront/units/card_unit_the_polar_bears.uasset	card_unit_the_polar_bears	Britain		
+Britain/Homefront/units/card_unit_the_pompadours.uasset	card_unit_the_pompadours	Britain		
+Britain/Homefront/units/card_unit_valentine_mk_ii.uasset	card_unit_valentine_mk_ii	Britain		
+Britain/Legions/events/card_event_against_the_odds.uasset	card_event_against_the_odds	Britain		
+Britain/Legions/events/card_event_ats.uasset	card_event_ats	Britain		
+Britain/Legions/events/card_event_double_strength.uasset	card_event_double_strength	Britain		
+Britain/Legions/events/card_event_emergency_measures.uasset	card_event_emergency_measures	Britain		
+Britain/Legions/events/card_event_overrun.uasset	card_event_overrun	Britain		
+Britain/Legions/events/card_event_resourcefulness.uasset	card_event_resourcefulness	Britain		
+Britain/Legions/events/card_event_timely_supplies.uasset	card_event_timely_supplies	Britain		
+Britain/Legions/units/card_unit_1st_gurkha_rifles.uasset	card_unit_1st_gurkha_rifles	Britain		
+Britain/Legions/units/card_unit_5th_parachute_brigade.uasset	card_unit_5th_parachute_brigade	Britain		
+Britain/Legions/units/card_unit_barracuda_21.uasset	card_unit_barracuda_21	Britain		
+Britain/Legions/units/card_unit_beaufighter_tf_mk_x.uasset	card_unit_beaufighter_tf_mk_x	Britain		
+Britain/Legions/units/card_unit_british_buffalo.uasset	card_unit_british_buffalo	Britain		
+Britain/Legions/units/card_unit_churchill_mk_iii_avre.uasset	card_unit_churchill_mk_iii_avre	Britain		
+Britain/Legions/units/card_unit_intel_fusiliers.uasset	card_unit_intel_fusiliers	Britain		
+Britain/Legions/units/card_unit_m3_grant_brit.uasset	card_unit_m3_grant_brit	Britain		
+Britain/locations/Britishunlock/card_location_alexandria_unlock1.uasset	card_location_alexandria_unlock1	Britain		
+Britain/locations/Britishunlock/card_location_alexandria_unlock2.uasset	card_location_alexandria_unlock2	Britain		
+Britain/locations/Britishunlock/card_location_alexandria_unlock3.uasset	card_location_alexandria_unlock3	Britain		
+Britain/locations/Britishunlock/card_location_alexandria_unlock4.uasset	card_location_alexandria_unlock4	Britain		
+Britain/locations/Britishunlock/card_location_alexandria_unlock5.uasset	card_location_alexandria_unlock5	Britain		
+Britain/locations/Britishunlock/card_location_alexandria_unlock6.uasset	card_location_alexandria_unlock6	Britain		
+Britain/locations/Britishunlock/card_location_alexandria_unlock7.uasset	card_location_alexandria_unlock7	Britain		
+Britain/locations/Britishunlock/card_location_danzig_unlock1.uasset	card_location_danzig_unlock1	Britain		
+Britain/locations/Britishunlock/card_location_danzig_unlock2.uasset	card_location_danzig_unlock2	Britain		
+Britain/locations/Britishunlock/card_location_danzig_unlock3.uasset	card_location_danzig_unlock3	Britain		
+Britain/locations/Britishunlock/card_location_danzig_unlock4.uasset	card_location_danzig_unlock4	Britain		
+Britain/locations/Britishunlock/card_location_danzig_unlock5.uasset	card_location_danzig_unlock5	Britain		
+Britain/locations/Britishunlock/card_location_danzig_unlock6.uasset	card_location_danzig_unlock6	Britain		
+Britain/locations/Britishunlock/card_location_danzig_unlock7.uasset	card_location_danzig_unlock7	Britain		
+Britain/locations/card_location_alam_el_halfa.uasset	card_location_alam_el_halfa	Britain		
+Britain/locations/card_location_london.uasset	card_location_london	Britain		
+Britain/locations/card_location_london_waw.uasset	card_location_london_waw	Britain		
+Britain/locations/card_location_special_event.uasset	card_location_special_event	Britain		
+Britain/locations/card_location_tunis_city.uasset	card_location_tunis_city	Britain		
+Britain/NavalWarfare/events/card_event_bpf.uasset	card_event_bpf	Britain		
+Britain/NavalWarfare/events/card_event_chain_home.uasset	card_event_chain_home	Britain		
+Britain/NavalWarfare/events/card_event_dilemma.uasset	card_event_dilemma	Britain		
+Britain/NavalWarfare/events/card_event_hms_belfast.uasset	card_event_hms_belfast	Britain		
+Britain/NavalWarfare/events/card_event_hms_formidable.uasset	card_event_hms_formidable	Britain		
+Britain/NavalWarfare/events/card_event_hms_spectre.uasset	card_event_hms_spectre	Britain		
+Britain/NavalWarfare/events/card_event_protected_convoy.uasset	card_event_protected_convoy	Britain		
+Britain/NavalWarfare/units/card_unit_40_royal_marine.uasset	card_unit_40_royal_marine	Britain		
+Britain/NavalWarfare/units/card_unit_buffs.uasset	card_unit_buffs	Britain		
+Britain/NavalWarfare/units/card_unit_gordon_highlanders.uasset	card_unit_gordon_highlanders	Britain		
+Britain/NavalWarfare/units/card_unit_lovat_scouts.uasset	card_unit_lovat_scouts	Britain		
+Britain/NavalWarfare/units/card_unit_mosquito_bomber.uasset	card_unit_mosquito_bomber	Britain		
+Britain/NavalWarfare/units/card_unit_mosquito_fighter.uasset	card_unit_mosquito_fighter	Britain		
+Britain/NavalWarfare/units/card_unit_queens_own.uasset	card_unit_queens_own	Britain		
+Britain/NavalWarfare/units/card_unit_royal_fusiliers.uasset	card_unit_royal_fusiliers	Britain		
+Britain/NavalWarfare/units/card_unit_sherwood_foresters.uasset	card_unit_sherwood_foresters	Britain		
+Britain/OceaniaStorm/events/card_event_area_bombardment.uasset	card_event_area_bombardment	Britain		
+Britain/OceaniaStorm/events/card_event_colossus.uasset	card_event_colossus	Britain		
+Britain/OceaniaStorm/events/card_event_pams.uasset	card_event_pams	Britain		
+Britain/OceaniaStorm/events/card_event_planned_attack.uasset	card_event_planned_attack	Britain		
+Britain/OceaniaStorm/events/card_event_seac.uasset	card_event_seac	Britain		
+Britain/OceaniaStorm/events/card_event_the_rock_of_gibraltar.uasset	card_event_the_rock_of_gibraltar	Britain		
+Britain/OceaniaStorm/units/card_unit_2nd_west_africa.uasset	card_unit_2nd_west_africa	Britain		
+Britain/OceaniaStorm/units/card_unit_46th_indian_brigade.uasset	card_unit_46th_indian_brigade	Britain		
+Britain/OceaniaStorm/units/card_unit_meteor.uasset	card_unit_meteor	Britain		
+Britain/OceaniaStorm/units/card_unit_no_46_commando.uasset	card_unit_no_46_commando	Britain		
+Britain/OceaniaStorm/units/card_unit_royal_sussex_regiment.uasset	card_unit_royal_sussex_regiment	Britain		
+Britain/OceaniaStorm/units/card_unit_stirling_mk_iii.uasset	card_unit_stirling_mk_iii	Britain		
+Britain/OceaniaStorm/units/card_unit_the_biscuit_boys.uasset	card_unit_the_biscuit_boys	Britain		
+Britain/OceaniaStorm/units/card_unit_the_holy_boys.uasset	card_unit_the_holy_boys	Britain		
+Britain/OceaniaStorm/units/card_unit_the_tigers.uasset	card_unit_the_tigers	Britain		
+Britain/OceaniaStorm/units/card_unit_universal_carrier.uasset	card_unit_universal_carrier	Britain		
+Britain/specialCards/card_event_armaments_eg.uasset	card_event_armaments_eg	Britain		
+Britain/specialCards/card_event_campaign_tunis1_commando_raid.uasset	card_event_campaign_tunis1_commando_raid	Britain		
+Britain/specialCards/card_event_campaign_tunis3_supply_intercepted.uasset	card_event_campaign_tunis3_supply_intercepted	Britain		
+Britain/specialCards/card_event_cup_of_tea_cam1.uasset	card_event_cup_of_tea_cam1	Britain		
+Britain/specialCards/card_event_desert_rats_cam1.uasset	card_event_desert_rats_cam1	Britain		
+Britain/specialCards/card_event_materials_eg.uasset	card_event_materials_eg	Britain		
+Britain/specialCards/card_location_british_scen1.uasset	card_location_british_scen1	Britain		
+Britain/specialCards/card_location_british_scen2.uasset	card_location_british_scen2	Britain		
+Britain/specialCards/card_location_british_scen3.uasset	card_location_british_scen3	Britain		
+Britain/specialCards/card_location_british_scen4.uasset	card_location_british_scen4	Britain		
+Britain/specialCards/card_location_british_scen5.uasset	card_location_british_scen5	Britain		
+Britain/specialCards/card_location_german_scen1_ai.uasset	card_location_german_scen1_ai	Britain		
+Britain/specialCards/card_location_german_scen2_ai.uasset	card_location_german_scen2_ai	Britain		
+Britain/specialCards/card_location_german_scen3_ai.uasset	card_location_german_scen3_ai	Britain		
+Britain/specialCards/card_location_german_scen4_ai.uasset	card_location_german_scen4_ai	Britain		
+Britain/specialCards/card_location_german_scen5_ai.uasset	card_location_german_scen5_ai	Britain		
+Britain/specialCards/card_unit_22nd_guards_brigade_vet.uasset	card_unit_22nd_guards_brigade_vet	Britain		
+Britain/specialCards/card_unit_5th_brigade_blank.uasset	card_unit_5th_brigade_blank	Britain		
+Britain/specialCards/card_unit_commandos_cam1.uasset	card_unit_commandos_cam1	Britain		
+Britain/specialCards/card_unit_daimler_mk_ii_cam1.uasset	card_unit_daimler_mk_ii_cam1	Britain		
+Britain/specialCards/card_unit_east_surray_regiment_cam1.uasset	card_unit_east_surray_regiment_cam1	Britain		
+Britain/specialCards/card_unit_hurricane_mk_ii_c_trop_vet.uasset	card_unit_hurricane_mk_ii_c_trop_vet	Britain		
+Britain/specialCards/card_unit_lancashire_fusiliers_cam1.uasset	card_unit_lancashire_fusiliers_cam1	Britain		
+Britain/specialCards/card_unit_matilda_mk_iv_vet.uasset	card_unit_matilda_mk_iv_vet	Britain		
+Britain/specialCards/card_unit_valentine_mk_iii_cam1.uasset	card_unit_valentine_mk_iii_cam1	Britain		
+Britain/ToW/events/card_event_air_power.uasset	card_event_air_power	Britain		
+Britain/ToW/events/card_event_delaying_tactics.uasset	card_event_delaying_tactics	Britain		
+Britain/ToW/events/card_event_his_majesty_chosen.uasset	card_event_his_majesty_chosen	Britain		
+Britain/ToW/events/card_event_rule_britannia.uasset	card_event_rule_britannia	Britain		
+Britain/ToW/units/card_unit_east_surray_regiment.uasset	card_unit_east_surray_regiment	Britain		
+Britain/ToW/units/card_unit_m3a3_honey_desert.uasset	card_unit_m3a3_honey_desert	Britain		
+Britain/ToW/units/card_unit_no1_commando.uasset	card_unit_no1_commando	Britain		
+Britain/WinterWar/events/card_event_bomber_run_brit.uasset	card_event_bomber_run_brit	Britain		
+Britain/WinterWar/events/card_event_cobelligerents.uasset	card_event_cobelligerents	Britain		
+Britain/WinterWar/events/card_event_enemy_contact.uasset	card_event_enemy_contact	Britain		
+Britain/WinterWar/events/card_event_entrenched.uasset	card_event_entrenched	Britain		
+Britain/WinterWar/events/card_event_ingenuity.uasset	card_event_ingenuity	Britain		
+Britain/WinterWar/units/card_unit_3rd_canadian_division.uasset	card_unit_3rd_canadian_division	Britain		
+Britain/WinterWar/units/card_unit_halifax.uasset	card_unit_halifax	Britain		
+Britain/WinterWar/units/card_unit_ox_and_bucks.uasset	card_unit_ox_and_bucks	Britain		
+Britain/WinterWar/units/card_unit_raf_mitchell.uasset	card_unit_raf_mitchell	Britain		
+Britain/WinterWar/units/card_unit_sdf.uasset	card_unit_sdf	Britain		
+Britain/WinterWar/units/card_unit_the_glamour_boys.uasset	card_unit_the_glamour_boys	Britain		
+Britain/WinterWar/units/card_unit_welsh_regiment.uasset	card_unit_welsh_regiment	Britain		
+Britain/WorldAtWar/events/card_event_monsoon_rot.uasset	card_event_monsoon_rot	Britain		
+Britain/WorldAtWar/events/card_event_observer_corps.uasset	card_event_observer_corps	Britain		
+Britain/WorldAtWar/events/card_event_pound.uasset	card_event_pound	Britain		
+Britain/WorldAtWar/events/card_event_supply_shortage.uasset	card_event_supply_shortage	Britain		
+Britain/WorldAtWar/units/card_unit_1st_london_brigade.uasset	card_unit_1st_london_brigade	Britain		
+Britain/WorldAtWar/units/card_unit_2nd_para_c.uasset	card_unit_2nd_para_c	Britain		
+Britain/WorldAtWar/units/card_unit_oxford.uasset	card_unit_oxford	Britain		
+Britain/WorldAtWar/units/card_unit_rnzaf_kittyhawk.uasset	card_unit_rnzaf_kittyhawk	Britain		
+Britain/WorldAtWar/units/card_unit_spitfire_mk_iia.uasset	card_unit_spitfire_mk_iia	Britain		
+Britain/WorldAtWar/units/card_unit_tiger_moth.uasset	card_unit_tiger_moth	Britain		
+Britain/WorldAtWar/units/card_unit_whirlwind.uasset	card_unit_whirlwind	Britain		
+card_display_elite_gold.uasset	card_display_elite_gold	card_display_elite_gold.uasset		
+card_display_limited_gold.uasset	card_display_limited_gold	card_display_limited_gold.uasset		
+card_display_special_gold.uasset	card_display_special_gold	card_display_special_gold.uasset		
+card_display_standard_gold.uasset	card_display_standard_gold	card_display_standard_gold.uasset		
+createCard_NUI_Widget.uasset	createCard_NUI_Widget	createCard_NUI_Widget.uasset		
+Finland/events/card_event_breaking_point.uasset	card_event_breaking_point	Finland		
+Finland/events/card_event_cold_trap.uasset	card_event_cold_trap	Finland		
+Finland/events/card_event_dark_deeds.uasset	card_event_dark_deeds	Finland		
+Finland/events/card_event_decoy_tactics.uasset	card_event_decoy_tactics	Finland		
+Finland/events/card_event_depot_raid.uasset	card_event_depot_raid	Finland		
+Finland/events/card_event_friendly_fire_fin.uasset	card_event_friendly_fire_fin	Finland		
+Finland/events/card_event_frozen_assets.uasset	card_event_frozen_assets	Finland		
+Finland/events/card_event_heartland_defense.uasset	card_event_heartland_defense	Finland		
+Finland/events/card_event_lotta_svard.uasset	card_event_lotta_svard	Finland		
+Finland/events/card_event_molotov_cocktail_fin.uasset	card_event_molotov_cocktail_fin	Finland		
+Finland/events/card_event_motti_tactic.uasset	card_event_motti_tactic	Finland		
+Finland/events/card_event_order_of_the_day.uasset	card_event_order_of_the_day	Finland		
+Finland/events/card_event_prolonged_siege.uasset	card_event_prolonged_siege	Finland		
+Finland/events/card_event_salpa_line.uasset	card_event_salpa_line	Finland		
+Finland/events/card_event_scrap_metal.uasset	card_event_scrap_metal	Finland		
+Finland/events/card_event_sisu.uasset	card_event_sisu	Finland		
+Finland/events/card_event_ski_troops.uasset	card_event_ski_troops	Finland		
+Finland/events/card_event_strike_from_the_forest.uasset	card_event_strike_from_the_forest	Finland		
+Finland/events/card_event_through_the_ice.uasset	card_event_through_the_ice	Finland		
+Finland/events/card_event_white_death.uasset	card_event_white_death	Finland		
+Finland/specialCards/card_unit_sissi.uasset	card_unit_sissi	Finland		
+Finland/units/card_unit_coastal_battalion_7.uasset	card_unit_coastal_battalion_7	Finland		
+Finland/units/card_unit_detached_battalion_4.uasset	card_unit_detached_battalion_4	Finland		
+Finland/units/card_unit_fiat_g_50_fi.uasset	card_unit_fiat_g_50_fi	Finland		
+Finland/units/card_unit_finnish_boys.uasset	card_unit_finnish_boys	Finland		
+Finland/units/card_unit_fokker_finland.uasset	card_unit_fokker_finland	Finland		
+Finland/units/card_unit_i_stridsgruppan.uasset	card_unit_i_stridsgruppan	Finland		
+Finland/units/card_unit_infantry_regiment_11.uasset	card_unit_infantry_regiment_11	Finland		
+Finland/units/card_unit_infantry_regiment_13.uasset	card_unit_infantry_regiment_13	Finland		
+Finland/units/card_unit_infantry_regiment_2.uasset	card_unit_infantry_regiment_2	Finland		
+Finland/units/card_unit_infantry_regiment_25.uasset	card_unit_infantry_regiment_25	Finland		
+Finland/units/card_unit_infantry_regiment_36.uasset	card_unit_infantry_regiment_36	Finland		
+Finland/units/card_unit_infantry_regiment_56.uasset	card_unit_infantry_regiment_56	Finland		
+Finland/units/card_unit_infantry_regiment_61.uasset	card_unit_infantry_regiment_61	Finland		
+Finland/units/card_unit_jager_battalion_2.uasset	card_unit_jager_battalion_2	Finland		
+Finland/units/card_unit_light_detachment_15.uasset	card_unit_light_detachment_15	Finland		
+Finland/units/card_unit_me_bf_109_fin.uasset	card_unit_me_bf_109_fin	Finland		
+Finland/units/card_unit_pak_36_fl.uasset	card_unit_pak_36_fl	Finland		
+Finland/units/card_unit_ryhma_susi.uasset	card_unit_ryhma_susi	Finland		
+Finland/units/card_unit_sissiosasto_5d.uasset	card_unit_sissiosasto_5d	Finland		
+Finland/units/card_unit_stug_iii_g_fin.uasset	card_unit_stug_iii_g_fin	Finland		
+Finland/units/card_unit_t_26_fl.uasset	card_unit_t_26_fl	Finland		
+Finland/units/card_unit_uusimaa_regiment.uasset	card_unit_uusimaa_regiment	Finland		
+Finland/units/card_unit_white_guard.uasset	card_unit_white_guard	Finland		
+France/events/card_event_ambush.uasset	card_event_ambush	France		
+France/events/card_event_arming_resistance.uasset	card_event_arming_resistance	France		
+France/events/card_event_call_to_the_colonies.uasset	card_event_call_to_the_colonies	France		
+France/events/card_event_chasing_shadows.uasset	card_event_chasing_shadows	France		
+France/events/card_event_compromise.uasset	card_event_compromise	France		
+France/events/card_event_cross_of_lorraine.uasset	card_event_cross_of_lorraine	France		
+France/events/card_event_defend_in_depth.uasset	card_event_defend_in_depth	France		
+France/events/card_event_defend_the_empire.uasset	card_event_defend_the_empire	France		
+France/events/card_event_escaut_plan.uasset	card_event_escaut_plan	France		
+France/events/card_event_fortified_position.uasset	card_event_fortified_position	France		
+France/events/card_event_frappe.uasset	card_event_frappe	France		
+France/events/card_event_free_french_navy.uasset	card_event_free_french_navy	France		
+France/events/card_event_french_alliance.uasset	card_event_french_alliance	France		
+France/events/card_event_honor_and_loyalty.uasset	card_event_honor_and_loyalty	France		
+France/events/card_event_liberation.uasset	card_event_liberation	France		
+France/events/card_event_maginot_line.uasset	card_event_maginot_line	France		
+France/events/card_event_national_resistance_council.uasset	card_event_national_resistance_council	France		
+France/events/card_event_phoney_war.uasset	card_event_phoney_war	France		
+France/events/card_event_plan_d.uasset	card_event_plan_d	France		
+France/events/card_event_provence_landing.uasset	card_event_provence_landing	France		
+France/events/card_event_rally_caledonia.uasset	card_event_rally_caledonia	France		
+France/events/card_event_resistance.uasset	card_event_resistance	France		
+France/events/card_event_saar_probe.uasset	card_event_saar_probe	France		
+France/events/card_event_sabotage.uasset	card_event_sabotage	France		
+France/events/card_event_sally.uasset	card_event_sally	France		
+France/events/card_event_sortie.uasset	card_event_sortie	France		
+France/events/card_event_test_resistance2.uasset	card_event_test_resistance2	France		
+France/specialCards/card_event_campaign_tunis1_french_reinforcement.uasset	card_event_campaign_tunis1_french_reinforcement	France		
+France/specialCards/card_event_campaign_tunis3_french_artillery.uasset	card_event_campaign_tunis3_french_artillery	France		
+France/specialCards/card_event_fortified_position_cam1.uasset	card_event_fortified_position_cam1	France		
+France/specialCards/card_event_resistance_new.uasset	card_event_resistance_new	France		
+France/specialCards/card_unit_48e_regiment_cam1.uasset	card_unit_48e_regiment_cam1	France		
+France/specialCards/card_unit_french_expedition_campaign.uasset	card_unit_french_expedition_campaign	France		
+France/units/card_unit_110e_regiment_motorize.uasset	card_unit_110e_regiment_motorize	France		
+France/units/card_unit_13e_dragons.uasset	card_unit_13e_dragons	France		
+France/units/card_unit_152e_regiment.uasset	card_unit_152e_regiment	France		
+France/units/card_unit_155_c_model_1917.uasset	card_unit_155_c_model_1917	France		
+France/units/card_unit_18e_regiment.uasset	card_unit_18e_regiment	France		
+France/units/card_unit_1e_bfl.uasset	card_unit_1e_bfl	France		
+France/units/card_unit_1er_bcp.uasset	card_unit_1er_bcp	France		
+France/units/card_unit_1er_hussards.uasset	card_unit_1er_hussards	France		
+France/units/card_unit_1er_marins_commandos.uasset	card_unit_1er_marins_commandos	France		
+France/units/card_unit_1er_regiment_etranger.uasset	card_unit_1er_regiment_etranger	France		
+France/units/card_unit_27e_dia.uasset	card_unit_27e_dia	France		
+France/units/card_unit_2e_brigade.uasset	card_unit_2e_brigade	France		
+France/units/card_unit_2e_rima.uasset	card_unit_2e_rima	France		
+France/units/card_unit_2e_zouaves.uasset	card_unit_2e_zouaves	France		
+France/units/card_unit_31e_algiers.uasset	card_unit_31e_algiers	France		
+France/units/card_unit_43e_regiment_motorise.uasset	card_unit_43e_regiment_motorise	France		
+France/units/card_unit_48e_regiment.uasset	card_unit_48e_regiment	France		
+France/units/card_unit_4e_brigade.uasset	card_unit_4e_brigade	France		
+France/units/card_unit_51e_regiment.uasset	card_unit_51e_regiment	France		
+France/units/card_unit_5e_cuirassier.uasset	card_unit_5e_cuirassier	France		
+France/units/card_unit_5r_chasseurs.uasset	card_unit_5r_chasseurs	France		
+France/units/card_unit_73e_regiment_infanterie.uasset	card_unit_73e_regiment_infanterie	France		
+France/units/card_unit_8e_tirailleurs_marocains.uasset	card_unit_8e_tirailleurs_marocains	France		
+France/units/card_unit_b_26_bretagne.uasset	card_unit_b_26_bretagne	France		
+France/units/card_unit_bloch_mb_150.uasset	card_unit_bloch_mb_150	France		
+France/units/card_unit_char_b1_bis.uasset	card_unit_char_b1_bis	France		
+France/units/card_unit_dewoitine_520.uasset	card_unit_dewoitine_520	France		
+France/units/card_unit_farman_222.uasset	card_unit_farman_222	France		
+France/units/card_unit_french_75.uasset	card_unit_french_75	France		
+France/units/card_unit_french_expedition.uasset	card_unit_french_expedition	France		
+France/units/card_unit_french_p_36.uasset	card_unit_french_p_36	France		
+France/units/card_unit_hotchkiss_35.uasset	card_unit_hotchkiss_35	France		
+France/units/card_unit_ii_rmt.uasset	card_unit_ii_rmt	France		
+France/units/card_unit_la_division_leclerc.uasset	card_unit_la_division_leclerc	France		
+France/units/card_unit_ms_460.uasset	card_unit_ms_460	France		
+France/units/card_unit_potez_63_11.uasset	card_unit_potez_63_11	France		
+France/units/card_unit_somoa_s35.uasset	card_unit_somoa_s35	France		
+Germany/Allegiance/events/card_event_joint_operation.uasset	card_event_joint_operation	Germany		
+Germany/Allegiance/events/card_event_kriegsmarine.uasset	card_event_kriegsmarine	Germany		
+Germany/Allegiance/events/card_event_lurking_danger.uasset	card_event_lurking_danger	Germany		
+Germany/Allegiance/events/card_event_retaliation.uasset	card_event_retaliation	Germany		
+Germany/Allegiance/events/card_event_rush_production.uasset	card_event_rush_production	Germany		
+Germany/Allegiance/events/card_event_spoils_of_war.uasset	card_event_spoils_of_war	Germany		
+Germany/Allegiance/events/card_event_stranglehold.uasset	card_event_stranglehold	Germany		
+Germany/Allegiance/events/card_event_suppression_fire.uasset	card_event_suppression_fire	Germany		
+Germany/Allegiance/events/card_event_u_99.uasset	card_event_u_99	Germany		
+Germany/Allegiance/units/card_unit_141_gebirgsjager.uasset	card_unit_141_gebirgsjager	Germany		
+Germany/Allegiance/units/card_unit_25_panzergrenadier.uasset	card_unit_25_panzergrenadier	Germany		
+Germany/Allegiance/units/card_unit_adler_command_vehicle.uasset	card_unit_adler_command_vehicle	Germany		
+Germany/Allegiance/units/card_unit_flammpanzer.uasset	card_unit_flammpanzer	Germany		
+Germany/Allegiance/units/card_unit_heinkel_he_219.uasset	card_unit_heinkel_he_219	Germany		
+Germany/Allegiance/units/card_unit_henschel_hs_126.uasset	card_unit_henschel_hs_126	Germany		
+Germany/Allegiance/units/card_unit_hummel.uasset	card_unit_hummel	Germany		
+Germany/Allegiance/units/card_unit_ju_87_b2.uasset	card_unit_ju_87_b2	Germany		
+Germany/Allegiance/units/card_unit_panther_a.uasset	card_unit_panther_a	Germany		
+Germany/Allegiance/units/card_unit_panzer_ii_c.uasset	card_unit_panzer_ii_c	Germany		
+Germany/Allegiance/units/card_unit_panzer_iii_h.uasset	card_unit_panzer_iii_h	Germany		
+Germany/Allegiance/units/card_unit_stug_iii_g.uasset	card_unit_stug_iii_g	Germany		
+Germany/Allegiance/units/card_unit_tiger_i_e.uasset	card_unit_tiger_i_e	Germany		
+Germany/Base/events/card_event_admiral_hipper.uasset	card_event_admiral_hipper	Germany		
+Germany/Base/events/card_event_air_blitz.uasset	card_event_air_blitz	Germany		
+Germany/Base/events/card_event_airstrike_new.uasset	card_event_airstrike_new	Germany		
+Germany/Base/events/card_event_annihilation.uasset	card_event_annihilation	Germany		
+Germany/Base/events/card_event_bismarck.uasset	card_event_bismarck	Germany		
+Germany/Base/events/card_event_blackout.uasset	card_event_blackout	Germany		
+Germany/Base/events/card_event_blitzkrieg.uasset	card_event_blitzkrieg	Germany		
+Germany/Base/events/card_event_breakthrough.uasset	card_event_breakthrough	Germany		
+Germany/Base/events/card_event_careless_talk.uasset	card_event_careless_talk	Germany		
+Germany/Base/events/card_event_combined_arms.uasset	card_event_combined_arms	Germany		
+Germany/Base/events/card_event_dive_bombing.uasset	card_event_dive_bombing	Germany		
+Germany/Base/events/card_event_eagle_claws.uasset	card_event_eagle_claws	Germany		
+Germany/Base/events/card_event_encirclement.uasset	card_event_encirclement	Germany		
+Germany/Base/events/card_event_enigma.uasset	card_event_enigma	Germany		
+Germany/Base/events/card_event_fast_heinz.uasset	card_event_fast_heinz	Germany		
+Germany/Base/events/card_event_from_the_deep.uasset	card_event_from_the_deep	Germany		
+Germany/Base/events/card_event_iron_from_the_north.uasset	card_event_iron_from_the_north	Germany		
+Germany/Base/events/card_event_missing.uasset	card_event_missing	Germany		
+Germany/Base/events/card_event_reichsbank.uasset	card_event_reichsbank	Germany		
+Germany/Base/events/card_event_reinforcements.uasset	card_event_reinforcements	Germany		
+Germany/Base/events/card_event_sky_barons.uasset	card_event_sky_barons	Germany		
+Germany/Base/events/card_event_sudden_strike.uasset	card_event_sudden_strike	Germany		
+Germany/Base/events/card_event_tactical_strike.uasset	card_event_tactical_strike	Germany		
+Germany/Base/events/card_event_u_375.uasset	card_event_u_375	Germany		
+Germany/Base/events/card_event_wolfpack.uasset	card_event_wolfpack	Germany		
+Germany/Base/units/card_unit_10_5_cm_lefh.uasset	card_unit_10_5_cm_lefh	Germany		
+Germany/Base/units/card_unit_158_nachschub.uasset	card_unit_158_nachschub	Germany		
+Germany/Base/units/card_unit_15_cm_autokanone.uasset	card_unit_15_cm_autokanone	Germany		
+Germany/Base/units/card_unit_1st_infantry_regiment.uasset	card_unit_1st_infantry_regiment	Germany		
+Germany/Base/units/card_unit_22_infantry.uasset	card_unit_22_infantry	Germany		
+Germany/Base/units/card_unit_33_panzergrenadier.uasset	card_unit_33_panzergrenadier	Germany		
+Germany/Base/units/card_unit_3_fallschirmjager.uasset	card_unit_3_fallschirmjager	Germany		
+Germany/Base/units/card_unit_4_pioneer.uasset	card_unit_4_pioneer	Germany		
+Germany/Base/units/card_unit_88_mm_flak.uasset	card_unit_88_mm_flak	Germany		
+Germany/Base/units/card_unit_arado_ar_196.uasset	card_unit_arado_ar_196	Germany		
+Germany/Base/units/card_unit_comet.uasset	card_unit_comet	Germany		
+Germany/Base/units/card_unit_dornier_do_217.uasset	card_unit_dornier_do_217	Germany		
+Germany/Base/units/card_unit_fallschirmjager.uasset	card_unit_fallschirmjager	Germany		
+Germany/Base/units/card_unit_flak_37_spg.uasset	card_unit_flak_37_spg	Germany		
+Germany/Base/units/card_unit_fw_190.uasset	card_unit_fw_190	Germany		
+Germany/Base/units/card_unit_grenadier_245.uasset	card_unit_grenadier_245	Germany		
+Germany/Base/units/card_unit_henschel_hs_123.uasset	card_unit_henschel_hs_123	Germany		
+Germany/Base/units/card_unit_jagdpanther.uasset	card_unit_jagdpanther	Germany		
+Germany/Base/units/card_unit_ju_87_stuka.uasset	card_unit_ju_87_stuka	Germany		
+Germany/Base/units/card_unit_junkers_ju_188.uasset	card_unit_junkers_ju_188	Germany		
+Germany/Base/units/card_unit_junkers_ju_88.uasset	card_unit_junkers_ju_88	Germany		
+Germany/Base/units/card_unit_marder_iii_h.uasset	card_unit_marder_iii_h	Germany		
+Germany/Base/units/card_unit_me_262_schwalbe.uasset	card_unit_me_262_schwalbe	Germany		
+Germany/Base/units/card_unit_me_bf_109_g.uasset	card_unit_me_bf_109_g	Germany		
+Germany/Base/units/card_unit_me_bf_110.uasset	card_unit_me_bf_110	Germany		
+Germany/Base/units/card_unit_nebelwerfer.uasset	card_unit_nebelwerfer	Germany		
+Germany/Base/units/card_unit_pak_36.uasset	card_unit_pak_36	Germany		
+Germany/Base/units/card_unit_pak_38_vs_2.uasset	card_unit_pak_38_vs_2	Germany		
+Germany/Base/units/card_unit_panther.uasset	card_unit_panther	Germany		
+Germany/Base/units/card_unit_panzer_35_t.uasset	card_unit_panzer_35_t	Germany		
+Germany/Base/units/card_unit_panzer_38_t.uasset	card_unit_panzer_38_t	Germany		
+Germany/Base/units/card_unit_panzer_ii_a.uasset	card_unit_panzer_ii_a	Germany		
+Germany/Base/units/card_unit_panzer_iii_e.uasset	card_unit_panzer_iii_e	Germany		
+Germany/Base/units/card_unit_panzer_iii_j.uasset	card_unit_panzer_iii_j	Germany		
+Germany/Base/units/card_unit_panzer_iii_l.uasset	card_unit_panzer_iii_l	Germany		
+Germany/Base/units/card_unit_panzer_iv_f2.uasset	card_unit_panzer_iv_f2	Germany		
+Germany/Base/units/card_unit_panzer_iv_g.uasset	card_unit_panzer_iv_g	Germany		
+Germany/Base/units/card_unit_panzergrenadier.uasset	card_unit_panzergrenadier	Germany		
+Germany/Base/units/card_unit_panzerzug_6.uasset	card_unit_panzerzug_6	Germany		
+Germany/Base/units/card_unit_railway_gun_leopold.uasset	card_unit_railway_gun_leopold	Germany		
+Germany/Base/units/card_unit_sd_kfz222x.uasset	card_unit_sd_kfz222x	Germany		
+Germany/Base/units/card_unit_stug_iii.uasset	card_unit_stug_iii	Germany		
+Germany/Base/units/card_unit_stug_iv.uasset	card_unit_stug_iv	Germany		
+Germany/Base/units/card_unit_tiger_i.uasset	card_unit_tiger_i	Germany		
+Germany/Base/units/card_unit_wirbelwind.uasset	card_unit_wirbelwind	Germany		
+Germany/BloodIron/events/card_event_aunt_frieda.uasset	card_event_aunt_frieda	Germany		
+Germany/BloodIron/events/card_event_buzz_bomb.uasset	card_event_buzz_bomb	Germany		
+Germany/BloodIron/events/card_event_case_blue.uasset	card_event_case_blue	Germany		
+Germany/BloodIron/events/card_event_crossfire.uasset	card_event_crossfire	Germany		
+Germany/BloodIron/events/card_event_fighter_frieda.uasset	card_event_fighter_frieda	Germany		
+Germany/BloodIron/events/card_event_glide_bombing.uasset	card_event_glide_bombing	Germany		
+Germany/BloodIron/events/card_event_run_the_battlefield.uasset	card_event_run_the_battlefield	Germany		
+Germany/BloodIron/events/card_event_tank_frieda.uasset	card_event_tank_frieda	Germany		
+Germany/BloodIron/units/card_unit_110_panzergrenadier.uasset	card_unit_110_panzergrenadier	Germany		
+Germany/BloodIron/units/card_unit_113_schutzen.uasset	card_unit_113_schutzen	Germany		
+Germany/BloodIron/units/card_unit_304_panzergrenadier.uasset	card_unit_304_panzergrenadier	Germany		
+Germany/BloodIron/units/card_unit_62_infantry_regiment.uasset	card_unit_62_infantry_regiment	Germany		
+Germany/BloodIron/units/card_unit_feldhernhalle_rifles.uasset	card_unit_feldhernhalle_rifles	Germany		
+Germany/BloodIron/units/card_unit_maus.uasset	card_unit_maus	Germany		
+Germany/BloodIron/units/card_unit_panzer_i_dak.uasset	card_unit_panzer_i_dak	Germany		
+Germany/BloodIron/units/card_unit_panzer_iii_j_late.uasset	card_unit_panzer_iii_j_late	Germany		
+Germany/BloodIron/units/card_unit_panzer_iv_h.uasset	card_unit_panzer_iv_h	Germany		
+Germany/Breakthrough/events/card_event_advanced_reich_research.uasset	card_event_advanced_reich_research	Germany		
+Germany/Breakthrough/events/card_event_entrapment.uasset	card_event_entrapment	Germany		
+Germany/Breakthrough/events/card_event_expanded_reich_research.uasset	card_event_expanded_reich_research	Germany		
+Germany/Breakthrough/events/card_event_lightning_strike.uasset	card_event_lightning_strike	Germany		
+Germany/Breakthrough/events/card_event_rally.uasset	card_event_rally	Germany		
+Germany/Breakthrough/events/card_event_rapid_engagement.uasset	card_event_rapid_engagement	Germany		
+Germany/Breakthrough/events/card_event_reich_research.uasset	card_event_reich_research	Germany		
+Germany/Breakthrough/events/card_event_sea_hunters.uasset	card_event_sea_hunters	Germany		
+Germany/Breakthrough/events/card_event_synthetic_oil.uasset	card_event_synthetic_oil	Germany		
+Germany/Breakthrough/events/card_event_type_xxi_boat.uasset	card_event_type_xxi_boat	Germany		
+Germany/Breakthrough/events/card_event_u_16.uasset	card_event_u_16	Germany		
+Germany/Breakthrough/events/card_event_uranium_club.uasset	card_event_uranium_club	Germany		
+Germany/Breakthrough/events/card_event_v1_flying_bomb.uasset	card_event_v1_flying_bomb	Germany		
+Germany/Breakthrough/units/card_unit_54_jager_regiment.uasset	card_unit_54_jager_regiment	Germany		
+Germany/Breakthrough/units/card_unit_5_panzergrenadier.uasset	card_unit_5_panzergrenadier	Germany		
+Germany/Breakthrough/units/card_unit_81_infanterie_regiment.uasset	card_unit_81_infanterie_regiment	Germany		
+Germany/Breakthrough/units/card_unit_87_grenadier.uasset	card_unit_87_grenadier	Germany		
+Germany/Breakthrough/units/card_unit_bloom_and_voss.uasset	card_unit_bloom_and_voss	Germany		
+Germany/Breakthrough/units/card_unit_fw_190_f.uasset	card_unit_fw_190_f	Germany		
+Germany/Breakthrough/units/card_unit_fw_200_condor.uasset	card_unit_fw_200_condor	Germany		
+Germany/Breakthrough/units/card_unit_me_410_hornisse.uasset	card_unit_me_410_hornisse	Germany		
+Germany/Breakthrough/units/card_unit_pak_40.uasset	card_unit_pak_40	Germany		
+Germany/Breakthrough/units/card_unit_panzer_35t_commander.uasset	card_unit_panzer_35t_commander	Germany		
+Germany/Breakthrough/units/card_unit_panzer_iii_f.uasset	card_unit_panzer_iii_f	Germany		
+Germany/Breakthrough/units/card_unit_stug_iii_g_schurzen.uasset	card_unit_stug_iii_g_schurzen	Germany		
+Germany/BrothersInArms/events/card_event_maelstrom.uasset	card_event_maelstrom	Germany		
+Germany/BrothersInArms/events/card_event_momentum.uasset	card_event_momentum	Germany		
+Germany/BrothersInArms/events/card_event_protect_the_pocket.uasset	card_event_protect_the_pocket	Germany		
+Germany/BrothersInArms/events/card_event_rout.uasset	card_event_rout	Germany		
+Germany/BrothersInArms/events/card_event_support_column.uasset	card_event_support_column	Germany		
+Germany/BrothersInArms/units/card_unit_101_infantry_regiment.uasset	card_unit_101_infantry_regiment	Germany		
+Germany/BrothersInArms/units/card_unit_119_grenadier.uasset	card_unit_119_grenadier	Germany		
+Germany/BrothersInArms/units/card_unit_35_grenadier.uasset	card_unit_35_grenadier	Germany		
+Germany/BrothersInArms/units/card_unit_39_panzergrenadier.uasset	card_unit_39_panzergrenadier	Germany		
+Germany/BrothersInArms/units/card_unit_50_infantry_regiment.uasset	card_unit_50_infantry_regiment	Germany		
+Germany/BrothersInArms/units/card_unit_7_schutzen.uasset	card_unit_7_schutzen	Germany		
+Germany/BrothersInArms/units/card_unit_list_regiment.uasset	card_unit_list_regiment	Germany		
+Germany/BrothersInArms/units/card_unit_me_bf_109_brothers.uasset	card_unit_me_bf_109_brothers	Germany		
+Germany/BrothersInArms/units/card_unit_me_bf_110_brothers.uasset	card_unit_me_bf_110_brothers	Germany		
+Germany/BrothersInArms/units/card_unit_panzer_i_brothers.uasset	card_unit_panzer_i_brothers	Germany		
+Germany/BrothersInArms/units/card_unit_stuka_brothers.uasset	card_unit_stuka_brothers	Germany		
+Germany/CovertOp/events/card_event_blitz_doctrine.uasset	card_event_blitz_doctrine	Germany		
+Germany/CovertOp/events/card_event_bridge_too_far.uasset	card_event_bridge_too_far	Germany		
+Germany/CovertOp/events/card_event_contest_doctrine.uasset	card_event_contest_doctrine	Germany		
+Germany/CovertOp/events/card_event_foiled_plans.uasset	card_event_foiled_plans	Germany		
+Germany/CovertOp/events/card_event_hit_the_drop_point.uasset	card_event_hit_the_drop_point	Germany		
+Germany/CovertOp/events/card_event_recuperation.uasset	card_event_recuperation	Germany		
+Germany/CovertOp/events/card_event_shifting_attack.uasset	card_event_shifting_attack	Germany		
+Germany/CovertOp/events/card_event_tip_of_the_spear.uasset	card_event_tip_of_the_spear	Germany		
+Germany/CovertOp/units/card_unit_15_aufklarungs.uasset	card_unit_15_aufklarungs	Germany		
+Germany/CovertOp/units/card_unit_171_infantry_regiment.uasset	card_unit_171_infantry_regiment	Germany		
+Germany/CovertOp/units/card_unit_342_fusiliers.uasset	card_unit_342_fusiliers	Germany		
+Germany/CovertOp/units/card_unit_738_jager_regiment.uasset	card_unit_738_jager_regiment	Germany		
+Germany/CovertOp/units/card_unit_96_infantry_regiment.uasset	card_unit_96_infantry_regiment	Germany		
+Germany/CovertOp/units/card_unit_dornier_do_18g.uasset	card_unit_dornier_do_18g	Germany		
+Germany/CovertOp/units/card_unit_kurmark_aufklarungs.uasset	card_unit_kurmark_aufklarungs	Germany		
+Germany/CovertOp/units/card_unit_sturm_brigade_rhodos.uasset	card_unit_sturm_brigade_rhodos	Germany		
+Germany/Homefront/events/card_event_front_and_homeland.uasset	card_event_front_and_homeland	Germany		
+Germany/Homefront/events/card_event_kettenkrad_home.uasset	card_event_kettenkrad_home	Germany		
+Germany/Homefront/events/card_event_minor_nation_conquest.uasset	card_event_minor_nation_conquest	Germany		
+Germany/Homefront/events/card_event_night_attack.uasset	card_event_night_attack	Germany		
+Germany/Homefront/events/card_event_second_front.uasset	card_event_second_front	Germany		
+Germany/Homefront/events/card_event_tactical_retreat.uasset	card_event_tactical_retreat	Germany		
+Germany/Homefront/units/card_unit_169_grenadiers.uasset	card_unit_169_grenadiers	Germany		
+Germany/Homefront/units/card_unit_18_infantry_regiment.uasset	card_unit_18_infantry_regiment	Germany		
+Germany/Homefront/units/card_unit_27_fusiliers.uasset	card_unit_27_fusiliers	Germany		
+Germany/Homefront/units/card_unit_36_kradschutzen.uasset	card_unit_36_kradschutzen	Germany		
+Germany/Homefront/units/card_unit_40_panzergrenadier.uasset	card_unit_40_panzergrenadier	Germany		
+Germany/Homefront/units/card_unit_43_infantry_regiment.uasset	card_unit_43_infantry_regiment	Germany		
+Germany/Homefront/units/card_unit_74_panzergrenadier.uasset	card_unit_74_panzergrenadier	Germany		
+Germany/Homefront/units/card_unit_92_infantry_regiment.uasset	card_unit_92_infantry_regiment	Germany		
+Germany/Homefront/units/card_unit_ace_of_spades.uasset	card_unit_ace_of_spades	Germany		
+Germany/Homefront/units/card_unit_armored_car_home.uasset	card_unit_armored_car_home	Germany		
+Germany/Homefront/units/card_unit_dornier_do_17.uasset	card_unit_dornier_do_17	Germany		
+Germany/Homefront/units/card_unit_panzer_i_a.uasset	card_unit_panzer_i_a	Germany		
+Germany/Homefront/units/card_unit_panzer_iv_home.uasset	card_unit_panzer_iv_home	Germany		
+Germany/Legions/events/card_event_enemy_sighted.uasset	card_event_enemy_sighted	Germany		
+Germany/Legions/events/card_event_envelop.uasset	card_event_envelop	Germany		
+Germany/Legions/events/card_event_gathering_storm.uasset	card_event_gathering_storm	Germany		
+Germany/Legions/events/card_event_lost_convoy.uasset	card_event_lost_convoy	Germany		
+Germany/Legions/events/card_event_propaganda.uasset	card_event_propaganda	Germany		
+Germany/Legions/events/card_event_ride_of_the_valkyries.uasset	card_event_ride_of_the_valkyries	Germany		
+Germany/Legions/events/card_event_through_the_breach.uasset	card_event_through_the_breach	Germany		
+Germany/Legions/units/card_unit_104_panzergrenadier.uasset	card_unit_104_panzergrenadier	Germany		
+Germany/Legions/units/card_unit_1097_volksgrenadier.uasset	card_unit_1097_volksgrenadier	Germany		
+Germany/Legions/units/card_unit_136_gebirgsjager.uasset	card_unit_136_gebirgsjager	Germany		
+Germany/Legions/units/card_unit_28_jager_regiment.uasset	card_unit_28_jager_regiment	Germany		
+Germany/Legions/units/card_unit_gebirger_pionier_95.uasset	card_unit_gebirger_pionier_95	Germany		
+Germany/Legions/units/card_unit_heinkel_he_115_inv.uasset	card_unit_heinkel_he_115_inv	Germany		
+Germany/Legions/units/card_unit_ju_88_g6.uasset	card_unit_ju_88_g6	Germany		
+Germany/Legions/units/card_unit_me_bf_109_v2.uasset	card_unit_me_bf_109_v2	Germany		
+Germany/locations/card_location_ardennes_waw.uasset	card_location_ardennes_waw	Germany		
+Germany/locations/card_location_ardennes_waw_event.uasset	card_location_ardennes_waw_event	Germany		
+Germany/locations/card_location_arnhem.uasset	card_location_arnhem	Germany		
+Germany/locations/card_location_berlin.uasset	card_location_berlin	Germany		
+Germany/locations/card_location_el_alamein.uasset	card_location_el_alamein	Germany		
+Germany/locations/card_location_villers_bocage.uasset	card_location_villers_bocage	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock1.uasset	card_location_ai_german_unlock1	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock1_tut.uasset	card_location_ai_german_unlock1_tut	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock2.uasset	card_location_ai_german_unlock2	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock2_tut.uasset	card_location_ai_german_unlock2_tut	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock3.uasset	card_location_ai_german_unlock3	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock3_tut.uasset	card_location_ai_german_unlock3_tut	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock4.uasset	card_location_ai_german_unlock4	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock4_tut.uasset	card_location_ai_german_unlock4_tut	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock5.uasset	card_location_ai_german_unlock5	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock5_tut.uasset	card_location_ai_german_unlock5_tut	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock6.uasset	card_location_ai_german_unlock6	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock6_tut.uasset	card_location_ai_german_unlock6_tut	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock7.uasset	card_location_ai_german_unlock7	Germany		
+Germany/locations/Germanunlock/card_location_ai_german_unlock7_tut.uasset	card_location_ai_german_unlock7_tut	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock1.uasset	card_location_berlin_unlock1	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock1_tut.uasset	card_location_berlin_unlock1_tut	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock2.uasset	card_location_berlin_unlock2	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock2_tut.uasset	card_location_berlin_unlock2_tut	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock3.uasset	card_location_berlin_unlock3	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock3_tut.uasset	card_location_berlin_unlock3_tut	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock4.uasset	card_location_berlin_unlock4	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock4_tut.uasset	card_location_berlin_unlock4_tut	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock5.uasset	card_location_berlin_unlock5	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock5_tut.uasset	card_location_berlin_unlock5_tut	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock6.uasset	card_location_berlin_unlock6	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock6_tut.uasset	card_location_berlin_unlock6_tut	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock7.uasset	card_location_berlin_unlock7	Germany		
+Germany/locations/Germanunlock/card_location_berlin_unlock7_tut.uasset	card_location_berlin_unlock7_tut	Germany		
+Germany/NavalWarfare/events/card_event_capitulation.uasset	card_event_capitulation	Germany		
+Germany/NavalWarfare/events/card_event_fliegerfuhrer_atlantik.uasset	card_event_fliegerfuhrer_atlantik	Germany		
+Germany/NavalWarfare/events/card_event_happy_time.uasset	card_event_happy_time	Germany		
+Germany/NavalWarfare/events/card_event_old_hares.uasset	card_event_old_hares	Germany		
+Germany/NavalWarfare/events/card_event_prinz_eugen.uasset	card_event_prinz_eugen	Germany		
+Germany/NavalWarfare/events/card_event_tirpitz.uasset	card_event_tirpitz	Germany		
+Germany/NavalWarfare/units/card_unit_108_panzergrenadier.uasset	card_unit_108_panzergrenadier	Germany		
+Germany/NavalWarfare/units/card_unit_2_marine_division.uasset	card_unit_2_marine_division	Germany		
+Germany/NavalWarfare/units/card_unit_4_fallschirmjager.uasset	card_unit_4_fallschirmjager	Germany		
+Germany/NavalWarfare/units/card_unit_957_volksgrenadier.uasset	card_unit_957_volksgrenadier	Germany		
+Germany/NavalWarfare/units/card_unit_bergmann_battalion.uasset	card_unit_bergmann_battalion	Germany		
+Germany/NavalWarfare/units/card_unit_fw189.uasset	card_unit_fw189	Germany		
+Germany/NavalWarfare/units/card_unit_fw_190_f8.uasset	card_unit_fw_190_f8	Germany		
+Germany/NavalWarfare/units/card_unit_jagdpanzer_iv.uasset	card_unit_jagdpanzer_iv	Germany		
+Germany/NavalWarfare/units/card_unit_sd_kfz_10_38.uasset	card_unit_sd_kfz_10_38	Germany		
+Germany/OceaniaStorm/events/card_event_claim_objective.uasset	card_event_claim_objective	Germany		
+Germany/OceaniaStorm/events/card_event_detailed_recon.uasset	card_event_detailed_recon	Germany		
+Germany/OceaniaStorm/events/card_event_german_counterattack.uasset	card_event_german_counterattack	Germany		
+Germany/OceaniaStorm/events/card_event_sustained_pressure.uasset	card_event_sustained_pressure	Germany		
+Germany/OceaniaStorm/events/card_event_tank_wedge.uasset	card_event_tank_wedge	Germany		
+Germany/OceaniaStorm/units/card_unit_102_grenadier.uasset	card_unit_102_grenadier	Germany		
+Germany/OceaniaStorm/units/card_unit_14_panzergrenadier.uasset	card_unit_14_panzergrenadier	Germany		
+Germany/OceaniaStorm/units/card_unit_182_landwehr.uasset	card_unit_182_landwehr	Germany		
+Germany/OceaniaStorm/units/card_unit_30_infantry_regiment.uasset	card_unit_30_infantry_regiment	Germany		
+Germany/OceaniaStorm/units/card_unit_3_panzergrenadier.uasset	card_unit_3_panzergrenadier	Germany		
+Germany/OceaniaStorm/units/card_unit_blue_legion.uasset	card_unit_blue_legion	Germany		
+Germany/OceaniaStorm/units/card_unit_fw_190_ta_152.uasset	card_unit_fw_190_ta_152	Germany		
+Germany/OceaniaStorm/units/card_unit_heinkel_he_59.uasset	card_unit_heinkel_he_59	Germany		
+Germany/OceaniaStorm/units/card_unit_katzmann.uasset	card_unit_katzmann	Germany		
+Germany/OceaniaStorm/units/card_unit_panther_a_zimm.uasset	card_unit_panther_a_zimm	Germany		
+Germany/OceaniaStorm/units/card_unit_windhund_division.uasset	card_unit_windhund_division	Germany		
+Germany/specialCards/card_event_campaign_alamein1_flanking_maneuver.uasset	card_event_campaign_alamein1_flanking_maneuver	Germany		
+Germany/specialCards/card_event_campaign_alamein1_iron_fist.uasset	card_event_campaign_alamein1_iron_fist	Germany		
+Germany/specialCards/card_event_campaign_alamein3_head_to_head.uasset	card_event_campaign_alamein3_head_to_head	Germany		
+Germany/specialCards/card_event_campaign_alamein3_riding_the_storm.uasset	card_event_campaign_alamein3_riding_the_storm	Germany		
+Germany/specialCards/card_event_combined_arms_cam1.uasset	card_event_combined_arms_cam1	Germany		
+Germany/specialCards/card_event_joint_operation_cam1.uasset	card_event_joint_operation_cam1	Germany		
+Germany/specialCards/card_event_reinforcements_cam1.uasset	card_event_reinforcements_cam1	Germany		
+Germany/specialCards/card_location_british_scen1_ai.uasset	card_location_british_scen1_ai	Germany		
+Germany/specialCards/card_location_british_scen2_ai.uasset	card_location_british_scen2_ai	Germany		
+Germany/specialCards/card_location_british_scen3_ai.uasset	card_location_british_scen3_ai	Germany		
+Germany/specialCards/card_location_british_scen4_ai.uasset	card_location_british_scen4_ai	Germany		
+Germany/specialCards/card_location_british_scen5_ai.uasset	card_location_british_scen5_ai	Germany		
+Germany/specialCards/card_location_german_scen1.uasset	card_location_german_scen1	Germany		
+Germany/specialCards/card_location_german_scen2.uasset	card_location_german_scen2	Germany		
+Germany/specialCards/card_location_german_scen3.uasset	card_location_german_scen3	Germany		
+Germany/specialCards/card_location_german_scen4.uasset	card_location_german_scen4	Germany		
+Germany/specialCards/card_location_german_scen5.uasset	card_location_german_scen5	Germany		
+Germany/specialCards/card_location_soviet_scen1_ai.uasset	card_location_soviet_scen1_ai	Germany		
+Germany/specialCards/card_location_soviet_scen2_ai.uasset	card_location_soviet_scen2_ai	Germany		
+Germany/specialCards/card_location_soviet_scen3_ai.uasset	card_location_soviet_scen3_ai	Germany		
+Germany/specialCards/card_location_soviet_scen4_ai.uasset	card_location_soviet_scen4_ai	Germany		
+Germany/specialCards/card_location_soviet_scen5_ai.uasset	card_location_soviet_scen5_ai	Germany		
+Germany/specialCards/card_unit_102_grenadier_vet.uasset	card_unit_102_grenadier_vet	Germany		
+Germany/specialCards/card_unit_119_grenadier_vet.uasset	card_unit_119_grenadier_vet	Germany		
+Germany/specialCards/card_unit_14_panzergrenadier_vet.uasset	card_unit_14_panzergrenadier_vet	Germany		
+Germany/specialCards/card_unit_182_landwehr_vet.uasset	card_unit_182_landwehr_vet	Germany		
+Germany/specialCards/card_unit_1st_infantry_regiment_cam1.uasset	card_unit_1st_infantry_regiment_cam1	Germany		
+Germany/specialCards/card_unit_35_grenadier_vet.uasset	card_unit_35_grenadier_vet	Germany		
+Germany/specialCards/card_unit_361_light_regiment_cam1.uasset	card_unit_361_light_regiment_cam1	Germany		
+Germany/specialCards/card_unit_3_fallschirmjager_cam1.uasset	card_unit_3_fallschirmjager_cam1	Germany		
+Germany/specialCards/card_unit_50_infantry_regiment_vet.uasset	card_unit_50_infantry_regiment_vet	Germany		
+Germany/specialCards/card_unit_64_panzergrenadier_vet.uasset	card_unit_64_panzergrenadier_vet	Germany		
+Germany/specialCards/card_unit_7_schutzen_vet.uasset	card_unit_7_schutzen_vet	Germany		
+Germany/specialCards/card_unit_ace_of_spades_vet.uasset	card_unit_ace_of_spades_vet	Germany		
+Germany/specialCards/card_unit_fw_190_ta_152_vet.uasset	card_unit_fw_190_ta_152_vet	Germany		
+Germany/specialCards/card_unit_grenadier_245_blank.uasset	card_unit_grenadier_245_blank	Germany		
+Germany/specialCards/card_unit_panzer_35_t_cam1.uasset	card_unit_panzer_35_t_cam1	Germany		
+Germany/specialCards/card_unit_panzer_i_brothers_vet.uasset	card_unit_panzer_i_brothers_vet	Germany		
+Germany/specialCards/card_unit_panzer_ii_a_cam1.uasset	card_unit_panzer_ii_a_cam1	Germany		
+Germany/specialCards/card_unit_panzer_iii_j_early.uasset	card_unit_panzer_iii_j_early	Germany		
+Germany/specialCards/card_unit_panzer_iii_j_late_vet.uasset	card_unit_panzer_iii_j_late_vet	Germany		
+Germany/specialCards/card_unit_panzer_iv_g_cam1.uasset	card_unit_panzer_iv_g_cam1	Germany		
+Germany/specialCards/card_unit_panzer_iv_h_vet.uasset	card_unit_panzer_iv_h_vet	Germany		
+Germany/specialCards/card_unit_stuka_brothers_vet.uasset	card_unit_stuka_brothers_vet	Germany		
+Germany/ToW/events/card_event_exploit_the_gap.uasset	card_event_exploit_the_gap	Germany		
+Germany/ToW/events/card_event_pursuit.uasset	card_event_pursuit	Germany		
+Germany/ToW/events/card_event_reich_defenders.uasset	card_event_reich_defenders	Germany		
+Germany/ToW/events/card_event_root_out_the_enemy.uasset	card_event_root_out_the_enemy	Germany		
+Germany/ToW/units/card_unit_361_light_regiment.uasset	card_unit_361_light_regiment	Germany		
+Germany/ToW/units/card_unit_panzer_iii_g_desert.uasset	card_unit_panzer_iii_g_desert	Germany		
+Germany/ToW/units/card_unit_wespe_desert.uasset	card_unit_wespe_desert	Germany		
+Germany/WinterWar/events/card_event_alpenfestung.uasset	card_event_alpenfestung	Germany		
+Germany/WinterWar/events/card_event_focused_attack_ger.uasset	card_event_focused_attack_ger	Germany		
+Germany/WinterWar/events/card_event_mountain_offense.uasset	card_event_mountain_offense	Germany		
+Germany/WinterWar/events/card_event_pummel.uasset	card_event_pummel	Germany		
+Germany/WinterWar/units/card_unit_139_gebirgsjager.uasset	card_unit_139_gebirgsjager	Germany		
+Germany/WinterWar/units/card_unit_13_gebirgsjager.uasset	card_unit_13_gebirgsjager	Germany		
+Germany/WinterWar/units/card_unit_20_panzergrenadier.uasset	card_unit_20_panzergrenadier	Germany		
+Germany/WinterWar/units/card_unit_432_infantry_regiment.uasset	card_unit_432_infantry_regiment	Germany		
+Germany/WinterWar/units/card_unit_64_panzergrenadier.uasset	card_unit_64_panzergrenadier	Germany		
+Germany/WinterWar/units/card_unit_h39_swg.uasset	card_unit_h39_swg	Germany		
+Germany/WinterWar/units/card_unit_jet_protoype_a.uasset	card_unit_jet_protoype_a	Germany		
+Germany/WinterWar/units/card_unit_panther_d_winter.uasset	card_unit_panther_d_winter	Germany		
+Germany/WorldAtWar/events/card_event_bypass.uasset	card_event_bypass	Germany		
+Germany/WorldAtWar/events/card_event_case_yellow.uasset	card_event_case_yellow	Germany		
+Germany/WorldAtWar/events/card_event_eagle_day.uasset	card_event_eagle_day	Germany		
+Germany/WorldAtWar/events/card_event_harass.uasset	card_event_harass	Germany		
+Germany/WorldAtWar/events/card_event_scatter_tactics.uasset	card_event_scatter_tactics	Germany		
+Germany/WorldAtWar/units/card_unit_989_infantry_regiment.uasset	card_unit_989_infantry_regiment	Germany		
+Germany/WorldAtWar/units/card_unit_fieseler_156.uasset	card_unit_fieseler_156	Germany		
+Germany/WorldAtWar/units/card_unit_heinkel_he_111_waw.uasset	card_unit_heinkel_he_111_waw	Germany		
+Germany/WorldAtWar/units/card_unit_henschel_he_129.uasset	card_unit_henschel_he_129	Germany		
+Germany/WorldAtWar/units/card_unit_king_tiger_ii.uasset	card_unit_king_tiger_ii	Germany		
+Germany/WorldAtWar/units/card_unit_me_bf_110_waw.uasset	card_unit_me_bf_110_waw	Germany		
+Germany/WorldAtWar/units/card_unit_salamander.uasset	card_unit_salamander	Germany		
+Italy/events/card_event_air_escort.uasset	card_event_air_escort	Italy		
+Italy/events/card_event_air_strips.uasset	card_event_air_strips	Italy		
+Italy/events/card_event_attack_in_the_colonies.uasset	card_event_attack_in_the_colonies	Italy		
+Italy/events/card_event_betasom.uasset	card_event_betasom	Italy		
+Italy/events/card_event_brute_force.uasset	card_event_brute_force	Italy		
+Italy/events/card_event_colonial_dreams.uasset	card_event_colonial_dreams	Italy		
+Italy/events/card_event_convoy_attack.uasset	card_event_convoy_attack	Italy		
+Italy/events/card_event_dagger_has_struck.uasset	card_event_dagger_has_struck	Italy		
+Italy/events/card_event_decisive_defense.uasset	card_event_decisive_defense	Italy		
+Italy/events/card_event_desert_push.uasset	card_event_desert_push	Italy		
+Italy/events/card_event_eastern_front.uasset	card_event_eastern_front	Italy		
+Italy/events/card_event_italian_human_torpedo.uasset	card_event_italian_human_torpedo	Italy		
+Italy/events/card_event_lion_for_a_day.uasset	card_event_lion_for_a_day	Italy		
+Italy/events/card_event_mare_nostrum.uasset	card_event_mare_nostrum	Italy		
+Italy/events/card_event_med_raid.uasset	card_event_med_raid	Italy		
+Italy/events/card_event_naval_engagement.uasset	card_event_naval_engagement	Italy		
+Italy/events/card_event_pact_of_steel.uasset	card_event_pact_of_steel	Italy		
+Italy/events/card_event_regia_aeronautica.uasset	card_event_regia_aeronautica	Italy		
+Italy/events/card_event_regia_marina.uasset	card_event_regia_marina	Italy		
+Italy/events/card_event_rm_bersaglieri.uasset	card_event_rm_bersaglieri	Italy		
+Italy/events/card_event_rm_roma.uasset	card_event_rm_roma	Italy		
+Italy/events/card_event_spirit_of_rome.uasset	card_event_spirit_of_rome	Italy		
+Italy/events/card_event_spring_offensive.uasset	card_event_spring_offensive	Italy		
+Italy/events/card_event_vanguard_ita.uasset	card_event_vanguard_ita	Italy		
+Italy/specialCards/card_event_campaign_alamein1_through_the_wire.uasset	card_event_campaign_alamein1_through_the_wire	Italy		
+Italy/specialCards/card_event_campaign_alamein3_spring_the_reserves.uasset	card_event_campaign_alamein3_spring_the_reserves	Italy		
+Italy/specialCards/card_event_desert_push_cam1.uasset	card_event_desert_push_cam1	Italy		
+Italy/specialCards/card_unit_18th_bersaglieri.uasset	card_unit_18th_bersaglieri	Italy		
+Italy/specialCards/card_unit_33rd_livorno_cam1.uasset	card_unit_33rd_livorno_cam1	Italy		
+Italy/units/card_unit_125th_la_spezia.uasset	card_unit_125th_la_spezia	Italy		
+Italy/units/card_unit_185th_folgore.uasset	card_unit_185th_folgore	Italy		
+Italy/units/card_unit_185th_folgore_cov.uasset	card_unit_185th_folgore_cov	Italy		
+Italy/units/card_unit_1st_san_marco.uasset	card_unit_1st_san_marco	Italy		
+Italy/units/card_unit_2nd_alpini.uasset	card_unit_2nd_alpini	Italy		
+Italy/units/card_unit_33rd_livorno.uasset	card_unit_33rd_livorno	Italy		
+Italy/units/card_unit_39th_bologna.uasset	card_unit_39th_bologna	Italy		
+Italy/units/card_unit_3rd_alpini.uasset	card_unit_3rd_alpini	Italy		
+Italy/units/card_unit_49th_infantry_regiment.uasset	card_unit_49th_infantry_regiment	Italy		
+Italy/units/card_unit_4th_alpini_regiment.uasset	card_unit_4th_alpini_regiment	Italy		
+Italy/units/card_unit_5th_bersaglieri.uasset	card_unit_5th_bersaglieri	Italy		
+Italy/units/card_unit_6th_alpini_regiment.uasset	card_unit_6th_alpini_regiment	Italy		
+Italy/units/card_unit_76th_napoli.uasset	card_unit_76th_napoli	Italy		
+Italy/units/card_unit_7th_alpini.uasset	card_unit_7th_alpini	Italy		
+Italy/units/card_unit_80th_pasubio.uasset	card_unit_80th_pasubio	Italy		
+Italy/units/card_unit_93rd_messina.uasset	card_unit_93rd_messina	Italy		
+Italy/units/card_unit_9th_bersaglieri.uasset	card_unit_9th_bersaglieri	Italy		
+Italy/units/card_unit_breda_ba_65.uasset	card_unit_breda_ba_65	Italy		
+Italy/units/card_unit_cannone_da_47.uasset	card_unit_cannone_da_47	Italy		
+Italy/units/card_unit_caproni_ca_133.uasset	card_unit_caproni_ca_133	Italy		
+Italy/units/card_unit_fiat_br_20.uasset	card_unit_fiat_br_20	Italy		
+Italy/units/card_unit_fiat_cr_32.uasset	card_unit_fiat_cr_32	Italy		
+Italy/units/card_unit_fiat_cr_42.uasset	card_unit_fiat_cr_42	Italy		
+Italy/units/card_unit_fiat_g50.uasset	card_unit_fiat_g50	Italy		
+Italy/units/card_unit_fiat_g55.uasset	card_unit_fiat_g55	Italy		
+Italy/units/card_unit_italian_cavalry.uasset	card_unit_italian_cavalry	Italy		
+Italy/units/card_unit_l6_40.uasset	card_unit_l6_40	Italy		
+Italy/units/card_unit_la_decima.uasset	card_unit_la_decima	Italy		
+Italy/units/card_unit_m13_40.uasset	card_unit_m13_40	Italy		
+Italy/units/card_unit_macchi_c202.uasset	card_unit_macchi_c202	Italy		
+Italy/units/card_unit_macchi_c205.uasset	card_unit_macchi_c205	Italy		
+Italy/units/card_unit_macchi_c_200.uasset	card_unit_macchi_c_200	Italy		
+Italy/units/card_unit_obice_da_75_13.uasset	card_unit_obice_da_75_13	Italy		
+Italy/units/card_unit_semovente_75_18.uasset	card_unit_semovente_75_18	Italy		
+Italy/units/card_unit_sm_79.uasset	card_unit_sm_79	Italy		
+Italy/units/card_unit_trento_division.uasset	card_unit_trento_division	Italy		
+Italy/units/card_unit_wolves_of_tuscany.uasset	card_unit_wolves_of_tuscany	Italy		
+Japan/Allegiance/events/card_event_desperate_measures.uasset	card_event_desperate_measures	Japan	card_japan	亡命之计
+Japan/Allegiance/events/card_event_elusive_force.uasset	card_event_elusive_force	Japan	card_japan	潜在力量
+Japan/Allegiance/events/card_event_for_glory.uasset	card_event_for_glory	Japan	card_japan	为了荣耀
+Japan/Allegiance/events/card_event_gunboat_hit.uasset	card_event_gunboat_hit	Japan	card_japan	炮艇命中
+Japan/Allegiance/events/card_event_gunboat_raid.uasset	card_event_gunboat_raid	Japan	card_japan	炮艇突袭
+Japan/Allegiance/events/card_event_gunboat_run.uasset	card_event_gunboat_run	Japan	card_japan	炮艇出击
+Japan/Allegiance/events/card_event_honorable_death.uasset	card_event_honorable_death	Japan	card_japan	光荣死亡
+Japan/Allegiance/events/card_event_imperial_decree.uasset	card_event_imperial_decree	Japan	card_japan	诏令
+Japan/Allegiance/events/card_event_isolation.uasset	card_event_isolation	Japan	card_japan	孤立
+Japan/Allegiance/events/card_event_sneak_maneuver.uasset	card_event_sneak_maneuver	Japan	card_japan	潜伏特训
+Japan/Allegiance/events/card_event_to_the_last_man.uasset	card_event_to_the_last_man	Japan	card_japan	至死方休
+Japan/Allegiance/units/card_unit_144th_infantry_regiment.uasset	card_unit_144th_infantry_regiment	Japan	card_japan	步兵第百四十四联队
+Japan/Allegiance/units/card_unit_1st_yokosuka.uasset	card_unit_1st_yokosuka	Japan	card_japan	横镇第一特别陆战队
+Japan/Allegiance/units/card_unit_34th_infantry_regiment.uasset	card_unit_34th_infantry_regiment	Japan	card_japan	橘联队
+Japan/Allegiance/units/card_unit_a6m3_zeke.uasset	card_unit_a6m3_zeke	Japan	card_japan	A6M3 零战三二型
+Japan/Allegiance/units/card_unit_d4y_suisei.uasset	card_unit_d4y_suisei	Japan	card_japan	D4Y 彗星舰爆
+Japan/Allegiance/units/card_unit_hayabusa.uasset	card_unit_hayabusa	Japan	card_japan	Ki-43 一式战 隼
+Japan/Allegiance/units/card_unit_kagoshima_regiment.uasset	card_unit_kagoshima_regiment	Japan	card_japan	布干维尔守备队
+Japan/Allegiance/units/card_unit_ki_51_sonia.uasset	card_unit_ki_51_sonia	Japan	card_japan	Ki-51 九九轻爆
+Japan/Allegiance/units/card_unit_ki_61_tony.uasset	card_unit_ki_61_tony	Japan	card_japan	Ki-61 三式战改 飞燕
+Japan/Allegiance/units/card_unit_osaka_regiment.uasset	card_unit_osaka_regiment	Japan	card_japan	大阪联队
+Japan/Allegiance/units/card_unit_shibata_regiment.uasset	card_unit_shibata_regiment	Japan	card_japan	新发田联队
+Japan/Allegiance/units/card_unit_type94_tk.uasset	card_unit_type94_tk	Japan	card_japan	九四式轻装甲车
+Japan/Allegiance/units/card_unit_type_1_37mm.uasset	card_unit_type_1_37mm	Japan	card_japan	一式反坦克炮
+Japan/Allegiance/units/card_unit_type_1_chi_he.uasset	card_unit_type_1_chi_he	Japan	card_japan	一式中战车
+Japan/Base/events/card_event_air_superiority.uasset	card_event_air_superiority	Japan	card_japan	空中优势
+Japan/Base/events/card_event_amphibious_assault.uasset	card_event_amphibious_assault	Japan	card_japan	两栖进攻
+Japan/Base/events/card_event_ancient_empire.uasset	card_event_ancient_empire	Japan	card_japan	古老帝国
+Japan/Base/events/card_event_blade_of_the_samurai.uasset	card_event_blade_of_the_samurai	Japan	card_japan	武士之刃
+Japan/Base/events/card_event_bombing_raid.uasset	card_event_bombing_raid	Japan	card_japan	轰炸突袭
+Japan/Base/events/card_event_burning_sun.uasset	card_event_burning_sun	Japan	card_japan	烈日
+Japan/Base/events/card_event_burst_of_fire.uasset	card_event_burst_of_fire	Japan	card_japan	火力爆发
+Japan/Base/events/card_event_code_of_bushido.uasset	card_event_code_of_bushido	Japan	card_japan	武士道准则
+Japan/Base/events/card_event_deadly_duty.uasset	card_event_deadly_duty	Japan	card_japan	极限使命
+Japan/Base/events/card_event_divine_wind.uasset	card_event_divine_wind	Japan	card_japan	神风行动
+Japan/Base/events/card_event_empire_of_the_sun.uasset	card_event_empire_of_the_sun	Japan	card_japan	太阳帝国
+Japan/Base/events/card_event_for_prosperety.uasset	card_event_for_prosperety	Japan	card_japan	为了繁荣
+Japan/Base/events/card_event_for_the_emperor.uasset	card_event_for_the_emperor	Japan	card_japan	为了帝国
+Japan/Base/events/card_event_home_defense.uasset	card_event_home_defense	Japan	card_japan	本土决战
+Japan/Base/events/card_event_honor.uasset	card_event_honor	Japan	card_japan	玉碎
+Japan/Base/events/card_event_imperial_order.uasset	card_event_imperial_order	Japan	card_japan	帝国指令
+Japan/Base/events/card_event_imperial_strength.uasset	card_event_imperial_strength	Japan	card_japan	帝国之力
+Japan/Base/events/card_event_kamikaze.uasset	card_event_kamikaze	Japan	card_japan	神风特攻队
+Japan/Base/events/card_event_last_rites.uasset	card_event_last_rites	Japan	card_japan	最后的仪式
+Japan/Base/events/card_event_lightning_conquest_new.uasset	card_event_lightning_conquest_new	Japan	card_japan	闪电征服
+Japan/Base/events/card_event_naval_operation.uasset	card_event_naval_operation	Japan	card_japan	海军行动
+Japan/Base/events/card_event_naval_supply_run.uasset	card_event_naval_supply_run	Japan	card_japan	海上补给运输
+Japan/Base/events/card_event_reconnaissance.uasset	card_event_reconnaissance	Japan	card_japan	远距离侦察
+Japan/Base/events/card_event_rising_sun.uasset	card_event_rising_sun	Japan	card_japan	扩张
+Japan/Base/events/card_event_surprise_attack.uasset	card_event_surprise_attack	Japan	card_japan	偷袭
+Japan/Base/events/card_event_tora_tora.uasset	card_event_tora_tora	Japan	card_japan	虎！虎！虎！
+Japan/Base/events/card_event_yamamoto.uasset	card_event_yamamoto	Japan	card_japan	山本五十六
+Japan/Base/units/card_unit_15th_cavalry_regiment.uasset	card_unit_15th_cavalry_regiment	Japan	card_japan	骑兵第十五联队
+Japan/Base/units/card_unit_1st_signal_regiment.uasset	card_unit_1st_signal_regiment	Japan	card_japan	电信第一联队
+Japan/Base/units/card_unit_28cm_coasttal_howitzer.uasset	card_unit_28cm_coasttal_howitzer	Japan	card_japan	280 毫米榴弹炮
+Japan/Base/units/card_unit_2nd_raiding_brigade.uasset	card_unit_2nd_raiding_brigade	Japan	card_japan	第二挺进团
+Japan/Base/units/card_unit_33rd_recon.uasset	card_unit_33rd_recon	Japan	card_japan	搜索第三十三联队
+Japan/Base/units/card_unit_41st_bicycle_regiment.uasset	card_unit_41st_bicycle_regiment	Japan	card_japan	马来银轮部队
+Japan/Base/units/card_unit_6th_infantry_regiment.uasset	card_unit_6th_infantry_regiment	Japan	card_japan	步兵第六联队
+Japan/Base/units/card_unit_75mm_field_artillery.uasset	card_unit_75mm_field_artillery	Japan	card_japan	九零式野战炮
+Japan/Base/units/card_unit_75mm_mountain_gun.uasset	card_unit_75mm_mountain_gun	Japan	card_japan	四一式山炮
+Japan/Base/units/card_unit_a5m4_claude.uasset	card_unit_a5m4_claude	Japan	card_japan	A5M4 九六舰战
+Japan/Base/units/card_unit_aichi_d3a.uasset	card_unit_aichi_d3a	Japan	card_japan	D3A2 九九舰爆
+Japan/Base/units/card_unit_akita_regiment.uasset	card_unit_akita_regiment	Japan	card_japan	秋田联队
+Japan/Base/units/card_unit_c6n_saiun.uasset	card_unit_c6n_saiun	Japan	card_japan	C6N 彩云舰侦
+Japan/Base/units/card_unit_dinah.uasset	card_unit_dinah	Japan	card_japan	M6A1 晴岚特攻
+Japan/Base/units/card_unit_g4m1_betty.uasset	card_unit_g4m1_betty	Japan	card_japan	G4M1 一式陆攻
+Japan/Base/units/card_unit_himeji_regiment.uasset	card_unit_himeji_regiment	Japan	card_japan	姬路联队
+Japan/Base/units/card_unit_j1n1_gekko.uasset	card_unit_j1n1_gekko	Japan	card_japan	J1N1 月光夜战
+Japan/Base/units/card_unit_jade_division.uasset	card_unit_jade_division	Japan	card_japan	玉兵团
+Japan/Base/units/card_unit_ki_27_nate.uasset	card_unit_ki_27_nate	Japan	card_japan	Ki-27 九七战
+Japan/Base/units/card_unit_ki_44_tojo.uasset	card_unit_ki_44_tojo	Japan	card_japan	Ki-44 二式战 钟馗
+Japan/Base/units/card_unit_ki_61_hien.uasset	card_unit_ki_61_hien	Japan	card_japan	Ki-61 三式战 飞燕
+Japan/Base/units/card_unit_ki_84_frank.uasset	card_unit_ki_84_frank	Japan	card_japan	Ki-84 四式战 疾风
+Japan/Base/units/card_unit_kumamoto_regiment.uasset	card_unit_kumamoto_regiment	Japan	card_japan	所罗门守备队
+Japan/Base/units/card_unit_mito_regiment.uasset	card_unit_mito_regiment	Japan	card_japan	水户联队
+Japan/Base/units/card_unit_model_25.uasset	card_unit_model_25	Japan	card_japan	维克斯装甲车
+Japan/Base/units/card_unit_nakajima_b5n.uasset	card_unit_nakajima_b5n	Japan	card_japan	B5N 九七舰攻
+Japan/Base/units/card_unit_p1y_ginga.uasset	card_unit_p1y_ginga	Japan	card_japan	P1Y 银河陆爆
+Japan/Base/units/card_unit_pete.uasset	card_unit_pete	Japan	card_japan	F1M2 零式水观
+Japan/Base/units/card_unit_sally.uasset	card_unit_sally	Japan	card_japan	Ki-21 九七重爆
+Japan/Base/units/card_unit_sendai_regiment.uasset	card_unit_sendai_regiment	Japan	card_japan	仙台联队
+Japan/Base/units/card_unit_shiden.uasset	card_unit_shiden	Japan	card_japan	N1K-J 紫电局地战
+Japan/Base/units/card_unit_sonia.uasset	card_unit_sonia	Japan	card_japan	D3A1 九九舰爆
+Japan/Base/units/card_unit_takasagi_regiment.uasset	card_unit_takasagi_regiment	Japan	card_japan	高崎联队
+Japan/Base/units/card_unit_type_3_chi_nu.uasset	card_unit_type_3_chi_nu	Japan	card_japan	三式中战车
+Japan/Base/units/card_unit_type_4.uasset	card_unit_type_4	Japan	card_japan	四式自走炮
+Japan/Base/units/card_unit_type_88_aa_gun.uasset	card_unit_type_88_aa_gun	Japan	card_japan	八八式高射炮
+Japan/Base/units/card_unit_type_89.uasset	card_unit_type_89	Japan	card_japan	八九式中战车
+Japan/Base/units/card_unit_type_93.uasset	card_unit_type_93	Japan	card_japan	九三式装甲车
+Japan/Base/units/card_unit_type_95.uasset	card_unit_type_95	Japan	card_japan	九五式轻战车
+Japan/Base/units/card_unit_type_96_25mm_aa_gun.uasset	card_unit_type_96_25mm_aa_gun	Japan	card_japan	九六式高射炮
+Japan/Base/units/card_unit_type_97.uasset	card_unit_type_97	Japan	card_japan	九七式中战车
+Japan/Base/units/card_unit_type_98_ke_ni.uasset	card_unit_type_98_ke_ni	Japan	card_japan	九八式轻战车
+Japan/Base/units/card_unit_zero.uasset	card_unit_zero	Japan	card_japan	A6M2 零战
+Japan/BloodIron/events/card_event_command_failure.uasset	card_event_command_failure	Japan	card_japan	指挥不当
+Japan/BloodIron/events/card_event_defeat_in_detail.uasset	card_event_defeat_in_detail	Japan	card_japan	逐个击破
+Japan/BloodIron/events/card_event_duty_bound.uasset	card_event_duty_bound	Japan	card_japan	责无旁贷
+Japan/BloodIron/events/card_event_exhaust_all_options.uasset	card_event_exhaust_all_options	Japan	card_japan	竭尽全力
+Japan/BloodIron/events/card_event_seek_and_destroy.uasset	card_event_seek_and_destroy	Japan	card_japan	穷追猛打
+Japan/BloodIron/events/card_event_shadow_strike.uasset	card_event_shadow_strike	Japan	card_japan	暗影袭击
+Japan/BloodIron/units/card_unit_388th_independent.uasset	card_unit_388th_independent	Japan	card_japan	独立步兵第三百八十八大队
+Japan/BloodIron/units/card_unit_58th_infantry_regiment.uasset	card_unit_58th_infantry_regiment	Japan	card_japan	步兵第五十八联队
+Japan/BloodIron/units/card_unit_77th_regiment.uasset	card_unit_77th_regiment	Japan	card_japan	步兵第七十七联队
+Japan/BloodIron/units/card_unit_cedar_division.uasset	card_unit_cedar_division	Japan	card_japan	杉兵团
+Japan/BloodIron/units/card_unit_fukuoka_regiment.uasset	card_unit_fukuoka_regiment	Japan	card_japan	福冈联队
+Japan/BloodIron/units/card_unit_hirosaki_regiment.uasset	card_unit_hirosaki_regiment	Japan	card_japan	弘前旅团
+Japan/BloodIron/units/card_unit_ki_30_ann.uasset	card_unit_ki_30_ann	Japan	card_japan	Ki-30 九七轻爆
+Japan/BloodIron/units/card_unit_type_4_chi_to.uasset	card_unit_type_4_chi_to	Japan	card_japan	四式中战车
+Japan/BloodIron/units/card_unit_type_92_jyu_shokasa.uasset	card_unit_type_92_jyu_shokasa	Japan	card_japan	九二式重装甲车
+Japan/Breakthrough/events/card_event_costly_victory.uasset	card_event_costly_victory	Japan	card_japan	惨胜
+Japan/Breakthrough/events/card_event_experimental_flight.uasset	card_event_experimental_flight	Japan	card_japan	试验飞行
+Japan/Breakthrough/events/card_event_greater_purpose.uasset	card_event_greater_purpose	Japan	card_japan	远大目标
+Japan/Breakthrough/events/card_event_outmaneuver.uasset	card_event_outmaneuver	Japan	card_japan	以智取胜
+Japan/Breakthrough/events/card_event_reorganize.uasset	card_event_reorganize	Japan	card_japan	调整
+Japan/Breakthrough/events/card_event_seize_the_initiative.uasset	card_event_seize_the_initiative	Japan	card_japan	先发制人
+Japan/Breakthrough/events/card_event_sneak_attack.uasset	card_event_sneak_attack	Japan	card_japan	潜行突击
+Japan/Breakthrough/events/card_event_yamato.uasset	card_event_yamato	Japan	card_japan	IJN 大和号
+Japan/Breakthrough/units/card_unit_dinah_iii.uasset	card_unit_dinah_iii	Japan	card_japan	Ki-46 百式司侦
+Japan/Breakthrough/units/card_unit_japan_ki_100_goshiken.uasset	card_unit_japan_ki_100_goshiken	Japan	card_japan	Ki-100 五式战
+Japan/Breakthrough/units/card_unit_kawanishi_h6k.uasset	card_unit_kawanishi_h6k	Japan	card_japan	H6K 九七大艇
+Japan/Breakthrough/units/card_unit_ki_83.uasset	card_unit_ki_83	Japan	card_japan	Ki-83 试制重战
+Japan/Breakthrough/units/card_unit_mikawa_regiment.uasset	card_unit_mikawa_regiment	Japan	card_japan	丰桥联队
+Japan/Breakthrough/units/card_unit_toyama_regiment.uasset	card_unit_toyama_regiment	Japan	card_japan	富山联队
+Japan/Breakthrough/units/card_unit_type_92_105mm_field_gun.uasset	card_unit_type_92_105mm_field_gun	Japan	card_japan	九二式野战炮
+Japan/Breakthrough/units/card_unit_type_97_kai.uasset	card_unit_type_97_kai	Japan	card_japan	九七式改中战车
+Japan/Breakthrough/units/card_unit_utsunomiya_regiment.uasset	card_unit_utsunomiya_regiment	Japan	card_japan	宇都宫联队
+Japan/Breakthrough/units/card_unit_wakamatsu_regiment.uasset	card_unit_wakamatsu_regiment	Japan	card_japan	马坦尼考守备队
+Japan/Breakthrough/units/card_unit_yamagata_regiment.uasset	card_unit_yamagata_regiment	Japan	card_japan	山形联队
+Japan/BrothersInArms/events/card_event_diplomatic_attache.uasset	card_event_diplomatic_attache	Japan	card_japan	外交专员
+Japan/BrothersInArms/events/card_event_island_fighting.uasset	card_event_island_fighting	Japan	card_japan	岛屿防御
+Japan/BrothersInArms/events/card_event_japan_duty.uasset	card_event_japan_duty	Japan	card_japan	义重如山
+Japan/BrothersInArms/events/card_event_jungle_warfare.uasset	card_event_jungle_warfare	Japan	card_japan	丛林战
+Japan/BrothersInArms/events/card_event_on_the_horizon.uasset	card_event_on_the_horizon	Japan	card_japan	海平面
+Japan/BrothersInArms/events/card_event_shinano.uasset	card_event_shinano	Japan	card_japan	IJN 信浓号
+Japan/BrothersInArms/events/card_event_stealth_mission.uasset	card_event_stealth_mission	Japan	card_japan	潜行任务
+Japan/BrothersInArms/events/card_event_under_fire_japan.uasset	card_event_under_fire_japan	Japan	card_japan	枪林弹雨
+Japan/BrothersInArms/units/card_unit_24th_cavalry_regiment.uasset	card_unit_24th_cavalry_regiment	Japan	card_japan	骑兵第二十四联队
+Japan/BrothersInArms/units/card_unit_56th_recon.uasset	card_unit_56th_recon	Japan	card_japan	搜索第五十六联队
+Japan/BrothersInArms/units/card_unit_66th_independent.uasset	card_unit_66th_independent	Japan	card_japan	独立第六十六步兵团
+Japan/BrothersInArms/units/card_unit_ki_45_dragon_slayer.uasset	card_unit_ki_45_dragon_slayer	Japan	card_japan	Ki-45 二式复战 屠龙
+Japan/BrothersInArms/units/card_unit_ki_49_donryu.uasset	card_unit_ki_49_donryu	Japan	card_japan	Ki-49 百式重爆 吞龙
+Japan/BrothersInArms/units/card_unit_kokuras_sword.uasset	card_unit_kokuras_sword	Japan	card_japan	剑兵团
+Japan/BrothersInArms/units/card_unit_matsumoto_regiment.uasset	card_unit_matsumoto_regiment	Japan	card_japan	松本联队
+Japan/BrothersInArms/units/card_unit_okayama_regiment.uasset	card_unit_okayama_regiment	Japan	card_japan	鸟取联队
+Japan/CovertOp/events/card_event_air_land_sea.uasset	card_event_air_land_sea	Japan	card_japan	海陆空
+Japan/CovertOp/events/card_event_carrier_battle.uasset	card_event_carrier_battle	Japan	card_japan	航母战
+Japan/CovertOp/events/card_event_commit_the_reserves.uasset	card_event_commit_the_reserves	Japan	card_japan	穷兵黩武
+Japan/CovertOp/events/card_event_grand_plans.uasset	card_event_grand_plans	Japan	card_japan	好高骛远
+Japan/CovertOp/events/card_event_great_expanse.uasset	card_event_great_expanse	Japan	card_japan	阔土
+Japan/CovertOp/events/card_event_one_roof.uasset	card_event_one_roof	Japan	card_japan	虚妄之梦
+Japan/CovertOp/units/card_unit_174th_independent.uasset	card_unit_174th_independent	Japan	card_japan	独立步兵第百七十四大队
+Japan/CovertOp/units/card_unit_40th_cavalry_regiment.uasset	card_unit_40th_cavalry_regiment	Japan	card_japan	骑兵第四十联队
+Japan/CovertOp/units/card_unit_51st_recon.uasset	card_unit_51st_recon	Japan	card_japan	搜索第五十一联队
+Japan/CovertOp/units/card_unit_5th_regiment.uasset	card_unit_5th_regiment	Japan	card_japan	步兵第五联队
+Japan/CovertOp/units/card_unit_e13a_jake.uasset	card_unit_e13a_jake	Japan	card_japan	E13A 零式水侦
+Japan/CovertOp/units/card_unit_e7k.uasset	card_unit_e7k	Japan	card_japan	E7K 九四水侦
+Japan/CovertOp/units/card_unit_kurume_regiment.uasset	card_unit_kurume_regiment	Japan	card_japan	久留米联队
+Japan/CovertOp/units/card_unit_shoge_detachment.uasset	card_unit_shoge_detachment	Japan	card_japan	庄下支队
+Japan/CovertOp/units/card_unit_tsu_regiment.uasset	card_unit_tsu_regiment	Japan	card_japan	津联队
+Japan/Homefront/events/card_event_drive_into_the_sea.uasset	card_event_drive_into_the_sea	Japan	card_japan	驱敌入海
+Japan/Homefront/events/card_event_ijn_shirakumo.uasset	card_event_ijn_shirakumo	Japan	card_japan	IJN 白云号
+Japan/Homefront/events/card_event_overpower.uasset	card_event_overpower	Japan	card_japan	摧枯拉朽
+Japan/Homefront/events/card_event_swift_victory.uasset	card_event_swift_victory	Japan	card_japan	快速胜利
+Japan/Homefront/events/card_event_volunteer_corps_home.uasset	card_event_volunteer_corps_home	Japan	card_japan	国民义勇队
+Japan/Homefront/events/card_event_way_of_subjects.uasset	card_event_way_of_subjects	Japan	card_japan	臣民之道
+Japan/Homefront/units/card_unit_106th_infantry_regiment.uasset	card_unit_106th_infantry_regiment	Japan	card_japan	步兵第百六联队
+Japan/Homefront/units/card_unit_151st_infantry_regiment.uasset	card_unit_151st_infantry_regiment	Japan	card_japan	步兵第百五十一联队
+Japan/Homefront/units/card_unit_211th_tokyo.uasset	card_unit_211th_tokyo	Japan	card_japan	步兵第二百一十一联队
+Japan/Homefront/units/card_unit_73rd_infantry_regiment.uasset	card_unit_73rd_infantry_regiment	Japan	card_japan	步兵第七十三联队
+Japan/Homefront/units/card_unit_9th_guards_regiment.uasset	card_unit_9th_guards_regiment	Japan	card_japan	近卫步兵第九联队
+Japan/Homefront/units/card_unit_japan_ki_67_peggy.uasset	card_unit_japan_ki_67_peggy	Japan	card_japan	Ki-67 四式重爆 飞龙
+Japan/Homefront/units/card_unit_kanazawa_regiment.uasset	card_unit_kanazawa_regiment	Japan	card_japan	金泽联队
+Japan/Homefront/units/card_unit_kawasaki_ki_10.uasset	card_unit_kawasaki_ki_10	Japan	card_japan	Ki-10 九五战
+Japan/Homefront/units/card_unit_ki_61_i_tei.uasset	card_unit_ki_61_i_tei	Japan	card_japan	Ki-61-I 三式战一型丁 飞燕
+Japan/Homefront/units/card_unit_kofu_regiment.uasset	card_unit_kofu_regiment	Japan	card_japan	甲府联队
+Japan/Homefront/units/card_unit_oita_regiment.uasset	card_unit_oita_regiment	Japan	card_japan	大分联队
+Japan/Homefront/units/card_unit_sapporo_regiment.uasset	card_unit_sapporo_regiment	Japan	card_japan	札幌联队
+Japan/Homefront/units/card_unit_storm_division.uasset	card_unit_storm_division	Japan	card_japan	岚兵团
+Japan/Legions/events/card_event_banzai_charge.uasset	card_event_banzai_charge	Japan	card_japan	万岁冲锋
+Japan/Legions/events/card_event_calm_before_the_storm.uasset	card_event_calm_before_the_storm	Japan	card_japan	暴风雨前的宁静
+Japan/Legions/events/card_event_dawn_operations.uasset	card_event_dawn_operations	Japan	card_japan	拂晓行动
+Japan/Legions/events/card_event_diversion.uasset	card_event_diversion	Japan	card_japan	转移目标
+Japan/Legions/events/card_event_new_doctrine.uasset	card_event_new_doctrine	Japan	card_japan	新式战法
+Japan/Legions/events/card_event_redeployment.uasset	card_event_redeployment	Japan	card_japan	重新部署
+Japan/Legions/events/card_event_rule_the_skies.uasset	card_event_rule_the_skies	Japan	card_japan	统治天空
+Japan/Legions/events/card_event_shock_attack.uasset	card_event_shock_attack	Japan	card_japan	震慑冲击
+Japan/Legions/units/card_unit_54th_infantry_regiment.uasset	card_unit_54th_infantry_regiment	Japan	card_japan	步兵第五十四联队
+Japan/Legions/units/card_unit_aichi_b7a2.uasset	card_unit_aichi_b7a2	Japan	card_japan	B7A2 流星改
+Japan/Legions/units/card_unit_ki_42_ii_ko.uasset	card_unit_ki_42_ii_ko	Japan	card_japan	Ki-43 一式战二型乙
+Japan/Legions/units/card_unit_kikka_jet.uasset	card_unit_kikka_jet	Japan	card_japan	试制橘花
+Japan/Legions/units/card_unit_matsue_regiment.uasset	card_unit_matsue_regiment	Japan	card_japan	松江联队
+Japan/Legions/units/card_unit_nara_regiment.uasset	card_unit_nara_regiment	Japan	card_japan	关岛守备队
+Japan/Legions/units/card_unit_p1y2_kasho.uasset	card_unit_p1y2_kasho	Japan	card_japan	P1Y1 银河一一型
+Japan/locations/card_location_baguio.uasset	card_location_baguio	Japan	card_japan	碧瑶
+Japan/locations/card_location_changchun.uasset	card_location_changchun	Japan	card_japan	特鲁克
+Japan/locations/card_location_manila.uasset	card_location_manila	Japan	card_japan	马尼拉
+Japan/locations/card_location_rangoon.uasset	card_location_rangoon	Japan	card_japan	仰光
+Japan/locations/Japanunlock/card_location_ai_japan_unlock1.uasset	card_location_ai_japan_unlock1	Japan		
+Japan/locations/Japanunlock/card_location_ai_japan_unlock2.uasset	card_location_ai_japan_unlock2	Japan		
+Japan/locations/Japanunlock/card_location_ai_japan_unlock3.uasset	card_location_ai_japan_unlock3	Japan		
+Japan/locations/Japanunlock/card_location_ai_japan_unlock4.uasset	card_location_ai_japan_unlock4	Japan		
+Japan/locations/Japanunlock/card_location_ai_japan_unlock5.uasset	card_location_ai_japan_unlock5	Japan		
+Japan/locations/Japanunlock/card_location_ai_japan_unlock6.uasset	card_location_ai_japan_unlock6	Japan		
+Japan/locations/Japanunlock/card_location_ai_japan_unlock7.uasset	card_location_ai_japan_unlock7	Japan		
+Japan/locations/Japanunlock/card_location_truk_unlock1.uasset	card_location_truk_unlock1	Japan		
+Japan/locations/Japanunlock/card_location_truk_unlock2.uasset	card_location_truk_unlock2	Japan		
+Japan/locations/Japanunlock/card_location_truk_unlock3.uasset	card_location_truk_unlock3	Japan		
+Japan/locations/Japanunlock/card_location_truk_unlock4.uasset	card_location_truk_unlock4	Japan		
+Japan/locations/Japanunlock/card_location_truk_unlock5.uasset	card_location_truk_unlock5	Japan		
+Japan/locations/Japanunlock/card_location_truk_unlock6.uasset	card_location_truk_unlock6	Japan		
+Japan/locations/Japanunlock/card_location_truk_unlock7.uasset	card_location_truk_unlock7	Japan		
+Japan/NavalWarfare/events/card_event_dug_in.uasset	card_event_dug_in	Japan	card_japan	深挖
+Japan/NavalWarfare/events/card_event_engage_close.uasset	card_event_engage_close	Japan	card_japan	近距离交战
+Japan/NavalWarfare/events/card_event_engage_range.uasset	card_event_engage_range	Japan	card_japan	远距离交战
+Japan/NavalWarfare/events/card_event_ijn_akagi.uasset	card_event_ijn_akagi	Japan	card_japan	IJN 赤城号
+Japan/NavalWarfare/events/card_event_mikura.uasset	card_event_mikura	Japan	card_japan	IJN 御藏号
+Japan/NavalWarfare/events/card_event_shifting_doctrine.uasset	card_event_shifting_doctrine	Japan	card_japan	转变战法
+Japan/NavalWarfare/events/card_event_the_tide_turns.uasset	card_event_the_tide_turns	Japan	card_japan	潮起潮落
+Japan/NavalWarfare/units/card_unit_10th_recon.uasset	card_unit_10th_recon	Japan	card_japan	搜索第十联队
+Japan/NavalWarfare/units/card_unit_3rd_kure_snlf.uasset	card_unit_3rd_kure_snlf	Japan	card_japan	吴镇第三特别陆战队
+Japan/NavalWarfare/units/card_unit_3rd_mixed_regiment.uasset	card_unit_3rd_mixed_regiment	Japan	card_japan	混成第三联队
+Japan/NavalWarfare/units/card_unit_5th_sasebo_snlf.uasset	card_unit_5th_sasebo_snlf	Japan	card_japan	佐镇第五特别陆战队
+Japan/NavalWarfare/units/card_unit_gifu_regiment.uasset	card_unit_gifu_regiment	Japan	card_japan	岐阜联队
+Japan/NavalWarfare/units/card_unit_kyoto_regiment.uasset	card_unit_kyoto_regiment	Japan	card_japan	京都联队
+Japan/NavalWarfare/units/card_unit_nakajima_b5n2.uasset	card_unit_nakajima_b5n2	Japan	card_japan	B5N2 九七舰攻
+Japan/NavalWarfare/units/card_unit_sabae_regiment.uasset	card_unit_sabae_regiment	Japan	card_japan	鲭江联队
+Japan/NavalWarfare/units/card_unit_thunder_division.uasset	card_unit_thunder_division	Japan	card_japan	雷兵团
+Japan/OceaniaStorm/events/card_event_7075_aluminium.uasset	card_event_7075_aluminium	Japan	card_japan	7075 铝
+Japan/OceaniaStorm/events/card_event_advanced_imperial_rnd.uasset	card_event_advanced_imperial_rnd	Japan	card_japan	高级帝国研发
+Japan/OceaniaStorm/events/card_event_balloon_bombs.uasset	card_event_balloon_bombs	Japan	card_japan	气球炸弹
+Japan/OceaniaStorm/events/card_event_cruiser_scouts.uasset	card_event_cruiser_scouts	Japan	card_japan	巡洋舰侦察机
+Japan/OceaniaStorm/events/card_event_expanded_imperial_rnd.uasset	card_event_expanded_imperial_rnd	Japan	card_japan	扩展帝国研发
+Japan/OceaniaStorm/events/card_event_ferocious_assault.uasset	card_event_ferocious_assault	Japan	card_japan	猛袭
+Japan/OceaniaStorm/events/card_event_imperial_research.uasset	card_event_imperial_research	Japan	card_japan	帝国研发
+Japan/OceaniaStorm/events/card_event_imperial_weapon_no_2.uasset	card_event_imperial_weapon_no_2	Japan	card_japan	皇国二号兵器
+Japan/OceaniaStorm/events/card_event_last_ditch_force.uasset	card_event_last_ditch_force	Japan	card_japan	最后一搏
+Japan/OceaniaStorm/events/card_event_long_lance.uasset	card_event_long_lance	Japan	card_japan	氧气鱼雷
+Japan/OceaniaStorm/events/card_event_out_of_the_sun.uasset	card_event_out_of_the_sun	Japan	card_japan	逆光攻击
+Japan/OceaniaStorm/events/card_event_shinyo_motorboats.uasset	card_event_shinyo_motorboats	Japan	card_japan	震洋特攻摩托艇
+Japan/OceaniaStorm/events/card_event_special_attack.uasset	card_event_special_attack	Japan	card_japan	特攻
+Japan/OceaniaStorm/units/card_unit_1st_recon.uasset	card_unit_1st_recon	Japan	card_japan	搜索第七联队
+Japan/OceaniaStorm/units/card_unit_238th_regiment.uasset	card_unit_238th_regiment	Japan	card_japan	步兵第二百三十八联队
+Japan/OceaniaStorm/units/card_unit_38th_independent.uasset	card_unit_38th_independent	Japan	card_japan	独立混成第三十八旅团
+Japan/OceaniaStorm/units/card_unit_78th_yongsan.uasset	card_unit_78th_yongsan	Japan	card_japan	步兵第七十八联队
+Japan/OceaniaStorm/units/card_unit_79th_infantry_regiment.uasset	card_unit_79th_infantry_regiment	Japan	card_japan	步兵第七十九联队
+Japan/OceaniaStorm/units/card_unit_j2m_raiden.uasset	card_unit_j2m_raiden	Japan	card_japan	J2M 雷电局地战
+Japan/OceaniaStorm/units/card_unit_kawanishi_h8k.uasset	card_unit_kawanishi_h8k	Japan	card_japan	H8K 二式大艇
+Japan/OceaniaStorm/units/card_unit_murase_battalion.uasset	card_unit_murase_battalion	Japan	card_japan	村濑大队
+Japan/OceaniaStorm/units/card_unit_yokosuka_e14y.uasset	card_unit_yokosuka_e14y	Japan	card_japan	E14Y 零式小型水侦
+Japan/specialCards/card_event_air_superiority_cam1.uasset	card_event_air_superiority_cam1	Japan	card_japan	空中优势
+Japan/specialCards/card_event_amphibious_assault_cam1.uasset	card_event_amphibious_assault_cam1	Japan	card_japan	两栖进攻
+Japan/specialCards/card_event_campaign_philippines2_chase_them_down.uasset	card_event_campaign_philippines2_chase_them_down	Japan	card_japan	紧追不放
+Japan/specialCards/card_event_campaign_philippines2_strafe_the_roads.uasset	card_event_campaign_philippines2_strafe_the_roads	Japan	card_japan	扫射道路
+Japan/specialCards/card_event_campaign_philippines2_the_hunt.uasset	card_event_campaign_philippines2_the_hunt	Japan	card_japan	狩猎
+Japan/specialCards/card_event_campaign_philippines4_aerial_assault.uasset	card_event_campaign_philippines4_aerial_assault	Japan	card_japan	空中突袭
+Japan/specialCards/card_event_campaign_philippines4_infiltration.uasset	card_event_campaign_philippines4_infiltration	Japan	card_japan	渗透
+Japan/specialCards/card_event_campaign_philippines4_smash_the_defenses.uasset	card_event_campaign_philippines4_smash_the_defenses	Japan	card_japan	击碎防御
+Japan/specialCards/card_event_for_prosperety_cam1.uasset	card_event_for_prosperety_cam1	Japan	card_japan	为了繁荣
+Japan/specialCards/card_event_sneak_maneuver_cam1.uasset	card_event_sneak_maneuver_cam1	Japan	card_japan	潜伏特训
+Japan/specialCards/card_event_target_acquired.uasset	card_event_target_acquired	Japan	card_japan	目标锁定
+Japan/specialCards/card_location_japan_scen1.uasset	card_location_japan_scen1	Japan	card_japan	福尔摩沙
+Japan/specialCards/card_location_japan_scen2.uasset	card_location_japan_scen2	Japan	card_japan	圣费尔南多
+Japan/specialCards/card_location_japan_scen3.uasset	card_location_japan_scen3	Japan	card_japan	埃尔莫萨
+Japan/specialCards/card_location_japan_scen4.uasset	card_location_japan_scen4	Japan	card_japan	埃尔莫萨
+Japan/specialCards/card_location_japan_scen5.uasset	card_location_japan_scen5	Japan	card_japan	马里韦莱斯
+Japan/specialCards/card_location_usa_scen1_ai.uasset	card_location_usa_scen1_ai	Japan	card_japan	太午角
+Japan/specialCards/card_location_usa_scen2_ai.uasset	card_location_usa_scen2_ai	Japan	card_japan	太午角
+Japan/specialCards/card_location_usa_scen3_ai.uasset	card_location_usa_scen3_ai	Japan	card_japan	马坦尼考
+Japan/specialCards/card_location_usa_scen4_ai.uasset	card_location_usa_scen4_ai	Japan	card_japan	奥斯丁山
+Japan/specialCards/card_location_usa_scen5_ai.uasset	card_location_usa_scen5_ai	Japan	card_japan	奥斯丁山
+Japan/specialCards/card_location_usa_scen5_galloping.uasset	card_location_usa_scen5_galloping	Japan	card_japan	奔马山
+Japan/specialCards/card_location_usa_scen5_seahorse.uasset	card_location_usa_scen5_seahorse	Japan	card_japan	海马山
+Japan/specialCards/card_unit_1st_taipei_regiment_cam1.uasset	card_unit_1st_taipei_regiment_cam1	Japan	card_japan	海联队
+Japan/specialCards/card_unit_cedar_division_vet.uasset	card_unit_cedar_division_vet	Japan	card_japan	杉兵团
+Japan/specialCards/card_unit_himeji_regiment_cam1.uasset	card_unit_himeji_regiment_cam1	Japan	card_japan	塞班混成守备队
+Japan/specialCards/card_unit_ki_45_dragon_slayer_vet.uasset	card_unit_ki_45_dragon_slayer_vet	Japan	card_japan	Ki-45 二式复战 屠龙
+Japan/specialCards/card_unit_kumamoto_regiment_cam1.uasset	card_unit_kumamoto_regiment_cam1	Japan	card_japan	所罗门守备队
+Japan/specialCards/card_unit_sally_cam1.uasset	card_unit_sally_cam1	Japan	card_japan	Ki-21 九七重爆
+Japan/specialCards/card_unit_type94_tk_cam1.uasset	card_unit_type94_tk_cam1	Japan	card_japan	九四式轻装甲车
+Japan/specialCards/card_unit_type_93_cam1.uasset	card_unit_type_93_cam1	Japan	card_japan	九三式装甲车
+Japan/specialCards/card_unit_type_97_cam1.uasset	card_unit_type_97_cam1	Japan	card_japan	九七式中战车
+Japan/specialCards/card_unit_zero_blank.uasset	card_unit_zero_blank	Japan		
+Japan/ToW/events/card_event_feigned_retreat.uasset	card_event_feigned_retreat	Japan	card_japan	假装撤退
+Japan/ToW/events/card_event_outflank.uasset	card_event_outflank	Japan	card_japan	包抄
+Japan/ToW/events/card_event_scouting_party.uasset	card_event_scouting_party	Japan	card_japan	侦察队
+Japan/ToW/events/card_event_soul_of_old_japan.uasset	card_event_soul_of_old_japan	Japan	card_japan	苇原之魂
+Japan/ToW/units/card_unit_1st_taipei_regiment.uasset	card_unit_1st_taipei_regiment	Japan	card_japan	海联队
+Japan/ToW/units/card_unit_61st_infantry_regiment.uasset	card_unit_61st_infantry_regiment	Japan	card_japan	步兵第六十一联队
+Japan/ToW/units/card_unit_b6n_tenzan.uasset	card_unit_b6n_tenzan	Japan	card_japan	B6N 天山舰攻
+Japan/WinterWar/events/card_event_distant_front.uasset	card_event_distant_front	Japan	card_japan	鞭长莫及
+Japan/WinterWar/events/card_event_forced_surrender.uasset	card_event_forced_surrender	Japan	card_japan	逼迫投降
+Japan/WinterWar/events/card_event_on_the_ascend.uasset	card_event_on_the_ascend	Japan	card_japan	如日方升
+Japan/WinterWar/events/card_event_out_of_the_mist.uasset	card_event_out_of_the_mist	Japan	card_japan	穿云破雾
+Japan/WinterWar/events/card_event_take_liberty.uasset	card_event_take_liberty	Japan	card_japan	池鱼笼鸟
+Japan/WinterWar/units/card_unit_118_mixed_regiment.uasset	card_unit_118_mixed_regiment	Japan	card_japan	步兵第百十八联队
+Japan/WinterWar/units/card_unit_20th_infantry_regiment.uasset	card_unit_20th_infantry_regiment	Japan	card_japan	塞班混成守备队
+Japan/WinterWar/units/card_unit_3rd_maizuru_snlf.uasset	card_unit_3rd_maizuru_snlf	Japan	card_japan	舞镇第三特别陆战队
+Japan/WinterWar/units/card_unit_tsuruga_regiment.uasset	card_unit_tsuruga_regiment	Japan	card_japan	敦贺联队
+Japan/WinterWar/units/card_unit_type_97_te_ke.uasset	card_unit_type_97_te_ke	Japan	card_japan	九四式轻装甲车早期型
+Japan/WinterWar/units/card_unit_winter_regiment.uasset	card_unit_winter_regiment	Japan	card_japan	冬联队
+Japan/WinterWar/units/card_unit_zero_a6m2_21.uasset	card_unit_zero_a6m2_21	Japan	card_japan	A6M2 零战二一型
+Japan/WorldAtWar/events/card_event_audacity.uasset	card_event_audacity	Japan	card_japan	无所畏惧
+Japan/WorldAtWar/events/card_event_edge_of_the_empire.uasset	card_event_edge_of_the_empire	Japan	card_japan	帝国边境
+Japan/WorldAtWar/events/card_event_flight_to_oblivion.uasset	card_event_flight_to_oblivion	Japan	card_japan	终焉之行
+Japan/WorldAtWar/events/card_event_southern_plan.uasset	card_event_southern_plan	Japan	card_japan	南进计划
+Japan/WorldAtWar/units/card_unit_114th_infantry_regiment.uasset	card_unit_114th_infantry_regiment	Japan	card_japan	步兵第百十四联队
+Japan/WorldAtWar/units/card_unit_3rd_yokosuka.uasset	card_unit_3rd_yokosuka	Japan	card_japan	横镇第三特别陆战队
+Japan/WorldAtWar/units/card_unit_kyushu_j7w3.uasset	card_unit_kyushu_j7w3	Japan	card_japan	J7W3 震电局地战
+Japan/WorldAtWar/units/card_unit_n1k1_kyofu.uasset	card_unit_n1k1_kyofu	Japan	card_japan	N1K1 强风一一型
+Japan/WorldAtWar/units/card_unit_sakura_regiment.uasset	card_unit_sakura_regiment	Japan	card_japan	佐仓联队
+Japan/WorldAtWar/units/card_unit_sunrise_division.uasset	card_unit_sunrise_division	Japan	card_japan	旭兵团
+Neutral/events/card_event_blast.uasset	card_event_blast	Neutral		
+Neutral/events/card_event_plan.uasset	card_event_plan	Neutral		
+Neutral/events/card_event_production.uasset	card_event_production	Neutral		
+Neutral/events/card_event_rain1_mist.uasset	card_event_rain1_mist	Neutral		
+Neutral/events/card_event_rain2_deluge.uasset	card_event_rain2_deluge	Neutral		
+Neutral/events/card_event_rain2_deluge2.uasset	card_event_rain2_deluge2	Neutral		
+Neutral/events/card_event_rain2_deluge3.uasset	card_event_rain2_deluge3	Neutral		
+Neutral/events/card_event_rain3_torrential_rain.uasset	card_event_rain3_torrential_rain	Neutral		
+Neutral/events/card_event_rain3_torrential_rain2.uasset	card_event_rain3_torrential_rain2	Neutral		
+Neutral/events/card_event_rain3_torrential_rain3.uasset	card_event_rain3_torrential_rain3	Neutral		
+Neutral/events/card_event_rain4_monsoon_rain.uasset	card_event_rain4_monsoon_rain	Neutral		
+Neutral/events/card_event_rain4_monsoon_rain2.uasset	card_event_rain4_monsoon_rain2	Neutral		
+Neutral/events/card_event_rain4_monsoon_rain3.uasset	card_event_rain4_monsoon_rain3	Neutral		
+Neutral/events/card_event_storm1_gale.uasset	card_event_storm1_gale	Neutral		
+Neutral/events/card_event_storm2_thunderstorm.uasset	card_event_storm2_thunderstorm	Neutral		
+Neutral/events/card_event_storm2_thunderstorm2.uasset	card_event_storm2_thunderstorm2	Neutral		
+Neutral/events/card_event_storm2_thunderstorm3.uasset	card_event_storm2_thunderstorm3	Neutral		
+Neutral/events/card_event_storm3_tropical_storm.uasset	card_event_storm3_tropical_storm	Neutral		
+Neutral/events/card_event_storm3_tropical_storm2.uasset	card_event_storm3_tropical_storm2	Neutral		
+Neutral/events/card_event_storm3_tropical_storm3.uasset	card_event_storm3_tropical_storm3	Neutral		
+Neutral/events/card_event_storm4_cyclone.uasset	card_event_storm4_cyclone	Neutral		
+Neutral/events/card_event_storm4_cyclone2.uasset	card_event_storm4_cyclone2	Neutral		
+Neutral/events/card_event_storm4_cyclone3.uasset	card_event_storm4_cyclone3	Neutral		
+Neutral/events/card_event_sunny1_blue_sky.uasset	card_event_sunny1_blue_sky	Neutral		
+Neutral/events/card_event_sunny2_heatwave.uasset	card_event_sunny2_heatwave	Neutral		
+Neutral/events/card_event_sunny2_heatwave2.uasset	card_event_sunny2_heatwave2	Neutral		
+Neutral/events/card_event_sunny2_heatwave3.uasset	card_event_sunny2_heatwave3	Neutral		
+Neutral/events/card_event_sunny3_jungle_fever.uasset	card_event_sunny3_jungle_fever	Neutral		
+Neutral/events/card_event_sunny3_jungle_fever2.uasset	card_event_sunny3_jungle_fever2	Neutral		
+Neutral/events/card_event_sunny3_jungle_fever3.uasset	card_event_sunny3_jungle_fever3	Neutral		
+Neutral/events/card_event_sunny4_scorching_sun.uasset	card_event_sunny4_scorching_sun	Neutral		
+Neutral/events/card_event_sunny4_scorching_sun2.uasset	card_event_sunny4_scorching_sun2	Neutral		
+Neutral/events/card_event_sunny4_scorching_sun3.uasset	card_event_sunny4_scorching_sun3	Neutral		
+Neutral/locations/card_location_concrete_bunker_neutral.uasset	card_location_concrete_bunker_neutral	Neutral		
+Neutral/locations/card_location_flotilla_neutral.uasset	card_location_flotilla_neutral	Neutral		
+Neutral/locations/card_location_fortress_darwin_neutral.uasset	card_location_fortress_darwin_neutral	Neutral		
+Neutral/locations/card_location_iwo_jima_neutral.uasset	card_location_iwo_jima_neutral	Neutral		
+Neutral/locations/card_location_supply_train_neutral.uasset	card_location_supply_train_neutral	Neutral		
+Neutral/units/card_unit_routed_troops.uasset	card_unit_routed_troops	Neutral		
+Poland/events/card_event_act_on_the_intel.uasset	card_event_act_on_the_intel	Poland		
+Poland/events/card_event_agency_africa.uasset	card_event_agency_africa	Poland		
+Poland/events/card_event_anders_army.uasset	card_event_anders_army	Poland		
+Poland/events/card_event_daring_strike.uasset	card_event_daring_strike	Poland		
+Poland/events/card_event_exiled_forces.uasset	card_event_exiled_forces	Poland		
+Poland/events/card_event_first_to_fight.uasset	card_event_first_to_fight	Poland		
+Poland/events/card_event_frontal_defense.uasset	card_event_frontal_defense	Poland		
+Poland/events/card_event_hammer_home.uasset	card_event_hammer_home	Poland		
+Poland/events/card_event_hel.uasset	card_event_hel	Poland		
+Poland/events/card_event_hold_the_line.uasset	card_event_hold_the_line	Poland		
+Poland/events/card_event_orp_blyskawica.uasset	card_event_orp_blyskawica	Poland		
+Poland/events/card_event_orp_general_haller.uasset	card_event_orp_general_haller	Poland		
+Poland/events/card_event_orp_orzel.uasset	card_event_orp_orzel	Poland		
+Poland/events/card_event_pilot_escape.uasset	card_event_pilot_escape	Poland		
+Poland/events/card_event_plan_west.uasset	card_event_plan_west	Poland		
+Poland/events/card_event_punish.uasset	card_event_punish	Poland		
+Poland/events/card_event_rapid_response.uasset	card_event_rapid_response	Poland		
+Poland/events/card_event_romanian_bridgehead.uasset	card_event_romanian_bridgehead	Poland		
+Poland/events/card_event_section_ii.uasset	card_event_section_ii	Poland		
+Poland/events/card_event_stretch_the_line.uasset	card_event_stretch_the_line	Poland		
+Poland/events/card_event_stubborn_defense.uasset	card_event_stubborn_defense	Poland		
+Poland/events/card_event_underground_state.uasset	card_event_underground_state	Poland		
+Poland/events/card_event_uprising.uasset	card_event_uprising	Poland		
+Poland/events/card_event_zamosc_uprising.uasset	card_event_zamosc_uprising	Poland		
+Poland/units/card_event_lysander_pl.uasset	card_event_lysander_pl	Poland		
+Poland/units/card_unit_12th_ulan.uasset	card_unit_12th_ulan	Poland		
+Poland/units/card_unit_15th_wolves_regiment.uasset	card_unit_15th_wolves_regiment	Poland		
+Poland/units/card_unit_16th_tarnow_regiment.uasset	card_unit_16th_tarnow_regiment	Poland		
+Poland/units/card_unit_1st_grenadier_regiment.uasset	card_unit_1st_grenadier_regiment	Poland		
+Poland/units/card_unit_24th_uhlan.uasset	card_unit_24th_uhlan	Poland		
+Poland/units/card_unit_28th_infantry_regiment.uasset	card_unit_28th_infantry_regiment	Poland		
+Poland/units/card_unit_2nd_infantry_regiment.uasset	card_unit_2nd_infantry_regiment	Poland		
+Poland/units/card_unit_35th_infantry_regiment.uasset	card_unit_35th_infantry_regiment	Poland		
+Poland/units/card_unit_37mm_bofors_gun.uasset	card_unit_37mm_bofors_gun	Poland		
+Poland/units/card_unit_3rd_carpathian.uasset	card_unit_3rd_carpathian	Poland		
+Poland/units/card_unit_4tp.uasset	card_unit_4tp	Poland		
+Poland/units/card_unit_5th_legions_regiment.uasset	card_unit_5th_legions_regiment	Poland		
+Poland/units/card_unit_5th_wilno_regiment.uasset	card_unit_5th_wilno_regiment	Poland		
+Poland/units/card_unit_6th_infantry_brigade.uasset	card_unit_6th_infantry_brigade	Poland		
+Poland/units/card_unit_74th_silesian_regiment.uasset	card_unit_74th_silesian_regiment	Poland		
+Poland/units/card_unit_78th_steel_regiment.uasset	card_unit_78th_steel_regiment	Poland		
+Poland/units/card_unit_7tp.uasset	card_unit_7tp	Poland		
+Poland/units/card_unit_danuta.uasset	card_unit_danuta	Poland		
+Poland/units/card_unit_fairey_battle_elit.uasset	card_unit_fairey_battle_elit	Poland		
+Poland/units/card_unit_iron_division.uasset	card_unit_iron_division	Poland		
+Poland/units/card_unit_legion_pol.uasset	card_unit_legion_pol	Poland		
+Poland/units/card_unit_lublin_r_xiii.uasset	card_unit_lublin_r_xiii	Poland		
+Poland/units/card_unit_p37los.uasset	card_unit_p37los	Poland		
+Poland/units/card_unit_polish_hurricane.uasset	card_unit_polish_hurricane	Poland		
+Poland/units/card_unit_polish_sherman.uasset	card_unit_polish_sherman	Poland		
+Poland/units/card_unit_pzl_11.uasset	card_unit_pzl_11	Poland		
+Poland/units/card_unit_pzl_23_karas.uasset	card_unit_pzl_23_karas	Poland		
+Poland/units/card_unit_pzl_7.uasset	card_unit_pzl_7	Poland		
+Poland/units/card_unit_sherman_firefly_pl.uasset	card_unit_sherman_firefly_pl	Poland		
+Poland/units/card_unit_spitfire_mk_v_pol.uasset	card_unit_spitfire_mk_v_pol	Poland		
+Poland/units/card_unit_sturmovik_pol.uasset	card_unit_sturmovik_pol	Poland		
+Poland/units/card_unit_t_34_pol.uasset	card_unit_t_34_pol	Poland		
+Poland/units/card_unit_tks.uasset	card_unit_tks	Poland		
+Poland/units/card_unit_yak_9_pl.uasset	card_unit_yak_9_pl	Poland		
+Poland/units/card_unit_zaza_division.uasset	card_unit_zaza_division	Poland		
+PromoCards/card_event_bomber_cost.uasset	card_event_bomber_cost	PromoCards		
+PromoCards/card_event_bombing_run.uasset	card_event_bombing_run	PromoCards		
+PromoCards/card_event_carrier_support.uasset	card_event_carrier_support	PromoCards		
+PromoCards/card_event_dogfight_usa.uasset	card_event_dogfight_usa	PromoCards		
+PromoCards/card_event_flank_attack_sov.uasset	card_event_flank_attack_sov	PromoCards		
+PromoCards/card_event_for_our_freedom.uasset	card_event_for_our_freedom	PromoCards		
+PromoCards/card_event_french_promo2.uasset	card_event_french_promo2	PromoCards		
+PromoCards/card_event_inspired_tactics.uasset	card_event_inspired_tactics	PromoCards		
+PromoCards/card_event_last_ditch.uasset	card_event_last_ditch	PromoCards		
+PromoCards/card_event_ruthless_planning.uasset	card_event_ruthless_planning	PromoCards		
+PromoCards/card_event_secret_service.uasset	card_event_secret_service	PromoCards		
+PromoCards/card_event_soviet_promo3.uasset	card_event_soviet_promo3	PromoCards		
+PromoCards/card_event_top_deck_play_test.uasset	card_event_top_deck_play_test	PromoCards		
+PromoCards/card_event_usa_promo2.uasset	card_event_usa_promo2	PromoCards		
+PromoCards/card_unit_110th_infantry_regiment.uasset	card_unit_110th_infantry_regiment	PromoCards		
+PromoCards/card_unit_1st_pulk_piechoty.uasset	card_unit_1st_pulk_piechoty	PromoCards		
+PromoCards/card_unit_211th_basargino.uasset	card_unit_211th_basargino	PromoCards		
+PromoCards/card_unit_britain_promo1.uasset	card_unit_britain_promo1	PromoCards		
+PromoCards/card_unit_jager_regiment_75.uasset	card_unit_jager_regiment_75	PromoCards		
+PromoCards/card_unit_japan_promo1.uasset	card_unit_japan_promo1	PromoCards		
+PromoCards/card_unit_m1_240mm_howitzer.uasset	card_unit_m1_240mm_howitzer	PromoCards		
+PromoCards/card_unit_royal_sussex.uasset	card_unit_royal_sussex	PromoCards		
+PromoCards/card_unit_soviet_promo1.uasset	card_unit_soviet_promo1	PromoCards		
+PromoCards/card_unit_usa_promo1.uasset	card_unit_usa_promo1	PromoCards		
+Render/BP_RenderedCardCache.uasset	BP_RenderedCardCache	Render		
+Render/M_CardRendererFlipper.uasset	M_CardRendererFlipper	Render		
+Render/RenderCardCacheData.uasset	RenderCardCacheData	Render		
+Render/RenderCardData.uasset	RenderCardData	Render		
+Render/RenderDebugParams.uasset	RenderDebugParams	Render		
+Render/RT_CardRendererCaptureTexture.uasset	RT_CardRendererCaptureTexture	Render		
+Render/WBP_DebugRenderer.uasset	WBP_DebugRenderer	Render		
+Soviet/Allegiance/events/card_event_barrage.uasset	card_event_barrage	Soviet	card_soviet	弹幕
+Soviet/Allegiance/events/card_event_comrades.uasset	card_event_comrades	Soviet	card_soviet	主宰者
+Soviet/Allegiance/events/card_event_counter_offensive.uasset	card_event_counter_offensive	Soviet	card_soviet	反击攻势
+Soviet/Allegiance/events/card_event_men_of_steel.uasset	card_event_men_of_steel	Soviet	card_soviet	钢铁之躯
+Soviet/Allegiance/events/card_event_mobile_defense.uasset	card_event_mobile_defense	Soviet	card_soviet	机动防御
+Soviet/Allegiance/events/card_event_mud.uasset	card_event_mud	Soviet	card_soviet	泥泞
+Soviet/Allegiance/events/card_event_night_witches.uasset	card_event_night_witches	Soviet	card_soviet	黑夜女巫
+Soviet/Allegiance/events/card_event_no_retreat.uasset	card_event_no_retreat	Soviet	card_soviet	背水一战
+Soviet/Allegiance/events/card_event_parade.uasset	card_event_parade	Soviet	card_soviet	阅兵
+Soviet/Allegiance/events/card_event_veteran_pilots.uasset	card_event_veteran_pilots	Soviet	card_soviet	资深飞行员
+Soviet/Allegiance/units/card_unit_10th_guards_regiment.uasset	card_unit_10th_guards_regiment	Soviet	card_soviet	近卫步兵第 10 团
+Soviet/Allegiance/units/card_unit_1271st_rifles.uasset	card_unit_1271st_rifles	Soviet	card_soviet	步兵第 1271 团
+Soviet/Allegiance/units/card_unit_34th_guards.uasset	card_unit_34th_guards	Soviet	card_soviet	近卫步兵第 34 团
+Soviet/Allegiance/units/card_unit_6th_motor_rifles.uasset	card_unit_6th_motor_rifles	Soviet	card_soviet	摩托化步兵第 15 团
+Soviet/Allegiance/units/card_unit_83rd_naval_brigade.uasset	card_unit_83rd_naval_brigade	Soviet	card_soviet	海军步兵第 83 旅
+Soviet/Allegiance/units/card_unit_845th_rifles.uasset	card_unit_845th_rifles	Soviet	card_soviet	步兵第 845 团
+Soviet/Allegiance/units/card_unit_kv_ii.uasset	card_unit_kv_ii	Soviet	card_soviet	KV-2
+Soviet/Allegiance/units/card_unit_mig_3.uasset	card_unit_mig_3	Soviet	card_soviet	米格-3
+Soviet/Allegiance/units/card_unit_p_40b_tomahawk.uasset	card_unit_p_40b_tomahawk	Soviet	card_soviet	P-40B 战斧
+Soviet/Allegiance/units/card_unit_polikarpov_po_2.uasset	card_unit_polikarpov_po_2	Soviet	card_soviet	波-2
+Soviet/Allegiance/units/card_unit_polikarpov_po_2_ii.uasset	card_unit_polikarpov_po_2_ii	Soviet	card_soviet	波-2-II
+Soviet/Allegiance/units/card_unit_su_85.uasset	card_unit_su_85	Soviet	card_soviet	SU-85
+Soviet/Allegiance/units/card_unit_t_70eot.uasset	card_unit_t_70eot	Soviet	card_soviet	T-70
+Soviet/Allegiance/units/card_unit_t_80.uasset	card_unit_t_80	Soviet	card_soviet	T-80
+Soviet/Base/events/card_event_arctic_convoy.uasset	card_event_arctic_convoy	Soviet	card_soviet	北极护航队
+Soviet/Base/events/card_event_assault.uasset	card_event_assault	Soviet	card_soviet	正面突击
+Soviet/Base/events/card_event_blood_red_sky.uasset	card_event_blood_red_sky	Soviet	card_soviet	血洒长空
+Soviet/Base/events/card_event_bloody_sickle.uasset	card_event_bloody_sickle	Soviet	card_soviet	血红镰刀
+Soviet/Base/events/card_event_burning_sky.uasset	card_event_burning_sky	Soviet	card_soviet	燃烧的天空
+Soviet/Base/events/card_event_close_combat.uasset	card_event_close_combat	Soviet	card_soviet	短兵相接
+Soviet/Base/events/card_event_critical_hit.uasset	card_event_critical_hit	Soviet	card_soviet	致命一击
+Soviet/Base/events/card_event_final_push.uasset	card_event_final_push	Soviet	card_soviet	最后一击
+Soviet/Base/events/card_event_from_the_people.uasset	card_event_from_the_people	Soviet	card_soviet	来自人民
+Soviet/Base/events/card_event_mass_attack.uasset	card_event_mass_attack	Soviet	card_soviet	大规模攻击
+Soviet/Base/events/card_event_mother_russia.uasset	card_event_mother_russia	Soviet	card_soviet	俄罗斯母亲
+Soviet/Base/events/card_event_no_surrender.uasset	card_event_no_surrender	Soviet	card_soviet	决不投降
+Soviet/Base/events/card_event_order_no_227.uasset	card_event_order_no_227	Soviet	card_soviet	第 227 号命令
+Soviet/Base/events/card_event_patriotic_firestorm.uasset	card_event_patriotic_firestorm	Soviet	card_soviet	爱国风暴
+Soviet/Base/events/card_event_patriotic_war.uasset	card_event_patriotic_war	Soviet	card_soviet	伟大的卫国战争
+Soviet/Base/events/card_event_red_banner.uasset	card_event_red_banner	Soviet	card_soviet	红色旗帜
+Soviet/Base/events/card_event_red_october.uasset	card_event_red_october	Soviet	card_soviet	红色十月
+Soviet/Base/events/card_event_reserves.uasset	card_event_reserves	Soviet	card_soviet	预备役
+Soviet/Base/events/card_event_scorched_earth.uasset	card_event_scorched_earth	Soviet	card_soviet	焦土政策
+Soviet/Base/events/card_event_siberian_transfer.uasset	card_event_siberian_transfer	Soviet	card_soviet	西伯利亚转移
+Soviet/Base/events/card_event_tamanskya.uasset	card_event_tamanskya	Soviet	card_soviet	塔曼斯卡亚！
+Soviet/Base/events/card_event_the_hammer.uasset	card_event_the_hammer	Soviet	card_soviet	铁锤
+Soviet/Base/events/card_event_ural_factories.uasset	card_event_ural_factories	Soviet	card_soviet	乌拉尔工厂
+Soviet/Base/events/card_event_war_production.uasset	card_event_war_production	Soviet	card_soviet	战时生产
+Soviet/Base/events/card_event_winter_war.uasset	card_event_winter_war	Soviet	card_soviet	冬季战争
+Soviet/Base/events/card_event_workers_unite.uasset	card_event_workers_unite	Soviet	card_soviet	无产者，联合起来！
+Soviet/Base/events/card_event_zhukov.uasset	card_event_zhukov	Soviet	card_soviet	朱可夫
+Soviet/Base/units/card_unit_11th_signal_battalion.uasset	card_unit_11th_signal_battalion	Soviet	card_soviet	工兵第 329 营
+Soviet/Base/units/card_unit_13th_rifle_regiment.uasset	card_unit_13th_rifle_regiment	Soviet	card_soviet	步兵第 13 团
+Soviet/Base/units/card_unit_16th_rifles.uasset	card_unit_16th_rifles	Soviet	card_soviet	步兵第 16 团
+Soviet/Base/units/card_unit_2nd_motor.uasset	card_unit_2nd_motor	Soviet	card_soviet	摩托化步兵第 2 师
+Soviet/Base/units/card_unit_321st_rifles.uasset	card_unit_321st_rifles	Soviet	card_soviet	步兵第 321 团
+Soviet/Base/units/card_unit_35th_rifles.uasset	card_unit_35th_rifles	Soviet	card_soviet	步兵第 35 团
+Soviet/Base/units/card_unit_3rd_guards.uasset	card_unit_3rd_guards	Soviet	card_soviet	近卫步兵第 3 团
+Soviet/Base/units/card_unit_42nd_rifles.uasset	card_unit_42nd_rifles	Soviet	card_soviet	步兵第 42 团
+Soviet/Base/units/card_unit_45mm_anti_tank_gun.uasset	card_unit_45mm_anti_tank_gun	Soviet	card_soviet	45 毫米反坦克炮
+Soviet/Base/units/card_unit_554th_rifles.uasset	card_unit_554th_rifles	Soviet	card_soviet	步兵第 554 团
+Soviet/Base/units/card_unit_6th_airborne.uasset	card_unit_6th_airborne	Soviet	card_soviet	近卫空降第 6 团
+Soviet/Base/units/card_unit_6th_naval_brigade.uasset	card_unit_6th_naval_brigade	Soviet	card_soviet	海军步兵第 6 旅
+Soviet/Base/units/card_unit_756th_regiment.uasset	card_unit_756th_regiment	Soviet	card_soviet	步兵第 756 团
+Soviet/Base/units/card_unit_76mm_howitzer_1939.uasset	card_unit_76mm_howitzer_1939	Soviet	card_soviet	76 毫米榴弹炮 1939
+Soviet/Base/units/card_unit_84th_infantry.uasset	card_unit_84th_infantry	Soviet	card_soviet	步兵第 84 团
+Soviet/Base/units/card_unit_85mm_d44.uasset	card_unit_85mm_d44	Soviet	card_soviet	85 毫米野战炮
+Soviet/Base/units/card_unit_89th_infantry.uasset	card_unit_89th_infantry	Soviet	card_soviet	步兵第 89 团
+Soviet/Base/units/card_unit_93rd_guards.uasset	card_unit_93rd_guards	Soviet	card_soviet	近卫步兵第 1 团
+Soviet/Base/units/card_unit_95th_rifles.uasset	card_unit_95th_rifles	Soviet	card_soviet	步兵第 95 团
+Soviet/Base/units/card_unit_a20_soviet.uasset	card_unit_a20_soviet	Soviet	card_soviet	A-20B
+Soviet/Base/units/card_unit_armored_train.uasset	card_unit_armored_train	Soviet	card_soviet	BP-43 装甲列车
+Soviet/Base/units/card_unit_b4_203mm_howitzer.uasset	card_unit_b4_203mm_howitzer	Soviet	card_soviet	203 毫米榴弹炮
+Soviet/Base/units/card_unit_bt_7.uasset	card_unit_bt_7	Soviet	card_soviet	BT-7
+Soviet/Base/units/card_unit_cossack_cavalry.uasset	card_unit_cossack_cavalry	Soviet	card_soviet	库班哥萨克第 4 团
+Soviet/Base/units/card_unit_i_15_chaika.uasset	card_unit_i_15_chaika	Soviet	card_soviet	伊-15 海鸥
+Soviet/Base/units/card_unit_i_16_ishak.uasset	card_unit_i_16_ishak	Soviet	card_soviet	伊-16 毛驴
+Soviet/Base/units/card_unit_is_i.uasset	card_unit_is_i	Soviet	card_soviet	IS-2
+Soviet/Base/units/card_unit_isu_152.uasset	card_unit_isu_152	Soviet	card_soviet	ISU-152
+Soviet/Base/units/card_unit_katyusha.uasset	card_unit_katyusha	Soviet	card_soviet	喀秋莎
+Soviet/Base/units/card_unit_kv_1.uasset	card_unit_kv_1	Soviet	card_soviet	KV-1 1939
+Soviet/Base/units/card_unit_kv_1_1941.uasset	card_unit_kv_1_1941	Soviet	card_soviet	KV-1 1941
+Soviet/Base/units/card_unit_la_3.uasset	card_unit_la_3	Soviet	card_soviet	拉-5
+Soviet/Base/units/card_unit_light_anti_air_battery.uasset	card_unit_light_anti_air_battery	Soviet	card_soviet	37 毫米高射炮
+Soviet/Base/units/card_unit_light_infantry.uasset	card_unit_light_infantry	Soviet	card_soviet	轻步兵
+Soviet/Base/units/card_unit_petlyakov_pe_2.uasset	card_unit_petlyakov_pe_2	Soviet	card_soviet	佩-2
+Soviet/Base/units/card_unit_sturmovik.uasset	card_unit_sturmovik	Soviet	card_soviet	伊尔-2M
+Soviet/Base/units/card_unit_su_152.uasset	card_unit_su_152	Soviet	card_soviet	SU-152
+Soviet/Base/units/card_unit_su_76.uasset	card_unit_su_76	Soviet	card_soviet	SU-76M
+Soviet/Base/units/card_unit_t_34.uasset	card_unit_t_34	Soviet	card_soviet	T-34 1942
+Soviet/Base/units/card_unit_t_34_85.uasset	card_unit_t_34_85	Soviet	card_soviet	T-34-85
+Soviet/Base/units/card_unit_t_34_flame.uasset	card_unit_t_34_flame	Soviet	card_soviet	OT-34
+Soviet/Base/units/card_unit_t_34eot.uasset	card_unit_t_34eot	Soviet	card_soviet	T-34 1942
+Soviet/Base/units/card_unit_t_70.uasset	card_unit_t_70	Soviet	card_soviet	T-70
+Soviet/Base/units/card_unit_yak_3.uasset	card_unit_yak_3	Soviet	card_soviet	雅克-3
+Soviet/Base/units/card_unit_yak_9.uasset	card_unit_yak_9	Soviet	card_soviet	雅克-9
+Soviet/BloodIron/events/card_event_front_formation.uasset	card_event_front_formation	Soviet	card_soviet	方面军
+Soviet/BloodIron/events/card_event_hull_down.uasset	card_event_hull_down	Soviet	card_soviet	车体隐蔽
+Soviet/BloodIron/events/card_event_iron_victory.uasset	card_event_iron_victory	Soviet	card_soviet	百炼成钢
+Soviet/BloodIron/events/card_event_shock_tactics.uasset	card_event_shock_tactics	Soviet	card_soviet	突击战术
+Soviet/BloodIron/events/card_event_turning_point.uasset	card_event_turning_point	Soviet	card_soviet	转折点
+Soviet/BloodIron/events/card_event_vystrel_course.uasset	card_event_vystrel_course	Soviet	card_soviet	高级步兵战术进修
+Soviet/BloodIron/units/card_unit_12th_guards_mechanised.uasset	card_unit_12th_guards_mechanised	Soviet	card_soviet	近卫机械化第 12 旅
+Soviet/BloodIron/units/card_unit_190th_guard_rifles.uasset	card_unit_190th_guard_rifles	Soviet	card_soviet	近卫步兵第 190 团
+Soviet/BloodIron/units/card_unit_204th_guards.uasset	card_unit_204th_guards	Soviet	card_soviet	近卫步兵第 204 团
+Soviet/BloodIron/units/card_unit_269th_rifles.uasset	card_unit_269th_rifles	Soviet	card_soviet	步兵第 269 团
+Soviet/BloodIron/units/card_unit_4th_guards_rifles.uasset	card_unit_4th_guards_rifles	Soviet	card_soviet	近卫步兵第 4 团
+Soviet/BloodIron/units/card_unit_57th_rifles.uasset	card_unit_57th_rifles	Soviet	card_soviet	步兵第 57 旅
+Soviet/BloodIron/units/card_unit_654_rifles.uasset	card_unit_654_rifles	Soviet	card_soviet	步兵第 654 团
+Soviet/BloodIron/units/card_unit_t_34_76d.uasset	card_unit_t_34_76d	Soviet	card_soviet	T-34-76D
+Soviet/BloodIron/units/card_unit_t_34_85_1945.uasset	card_unit_t_34_85_1945	Soviet	card_soviet	T-34-85 1945
+Soviet/Breakthrough/events/card_event_at_all_cost.uasset	card_event_at_all_cost	Soviet	card_soviet	不惜代价
+Soviet/Breakthrough/events/card_event_by_the_sword.uasset	card_event_by_the_sword	Soviet	card_soviet	以剑之名
+Soviet/Breakthrough/events/card_event_confusion.uasset	card_event_confusion	Soviet	card_soviet	混乱
+Soviet/Breakthrough/events/card_event_lesser_of_two_evils.uasset	card_event_lesser_of_two_evils	Soviet	card_soviet	权衡
+Soviet/Breakthrough/events/card_event_minority_recruits.uasset	card_event_minority_recruits	Soviet	card_soviet	小国成员
+Soviet/Breakthrough/events/card_event_reckless_assault.uasset	card_event_reckless_assault	Soviet	card_soviet	鲁莽攻击
+Soviet/Breakthrough/events/card_event_spy_ring.uasset	card_event_spy_ring	Soviet	card_soviet	间谍组织
+Soviet/Breakthrough/events/card_event_winter_offensive.uasset	card_event_winter_offensive	Soviet	card_soviet	冬季攻势
+Soviet/Breakthrough/units/card_unit_117th_zhytomyr.uasset	card_unit_117th_zhytomyr	Soviet	card_soviet	日托米尔第 71 团
+Soviet/Breakthrough/units/card_unit_128th_rifles.uasset	card_unit_128th_rifles	Soviet	card_soviet	步兵第 128 团
+Soviet/Breakthrough/units/card_unit_222th_guard_rifles.uasset	card_unit_222th_guard_rifles	Soviet	card_soviet	近卫步兵第 222 团
+Soviet/Breakthrough/units/card_unit_25th_infantry_regiment.uasset	card_unit_25th_infantry_regiment	Soviet	card_soviet	步兵第 25 团
+Soviet/Breakthrough/units/card_unit_35th_mountain_rifles.uasset	card_unit_35th_mountain_rifles	Soviet	card_soviet	山地步兵第 35 团
+Soviet/Breakthrough/units/card_unit_456th_rifle_regiment.uasset	card_unit_456th_rifle_regiment	Soviet	card_soviet	步兵第 456 团
+Soviet/Breakthrough/units/card_unit_57mm_m1943.uasset	card_unit_57mm_m1943	Soviet	card_soviet	ZiS-2
+Soviet/Breakthrough/units/card_unit_petlyakov_pe_2ft.uasset	card_unit_petlyakov_pe_2ft	Soviet	card_soviet	佩-2 FT
+Soviet/Breakthrough/units/card_unit_t_28_pincer.uasset	card_unit_t_28_pincer	Soviet	card_soviet	T-28
+Soviet/Breakthrough/units/card_unit_t_60.uasset	card_unit_t_60	Soviet	card_soviet	T-60
+Soviet/Breakthrough/units/card_unit_yak_7.uasset	card_unit_yak_7	Soviet	card_soviet	雅克-7
+Soviet/BrothersInArms/events/card_event_ancestral_call.uasset	card_event_ancestral_call	Soviet	card_soviet	卫国英烈
+Soviet/BrothersInArms/events/card_event_enemy_at_the_gates.uasset	card_event_enemy_at_the_gates	Soviet	card_soviet	兵临城下
+Soviet/BrothersInArms/events/card_event_gambit.uasset	card_event_gambit	Soviet	card_soviet	博弈
+Soviet/BrothersInArms/events/card_event_spearhead.uasset	card_event_spearhead	Soviet	card_soviet	先锋
+Soviet/BrothersInArms/events/card_event_stand_together_brothers.uasset	card_event_stand_together_brothers	Soviet	card_soviet	同仇敌忾
+Soviet/BrothersInArms/events/card_event_the_mighty_fall.uasset	card_event_the_mighty_fall	Soviet	card_soviet	巨人陨落
+Soviet/BrothersInArms/events/card_event_urban_fighting.uasset	card_event_urban_fighting	Soviet	card_soviet	巷战
+Soviet/BrothersInArms/units/card_unit_1357th_rifles.uasset	card_unit_1357th_rifles	Soviet	card_soviet	步兵第 1357 团
+Soviet/BrothersInArms/units/card_unit_14th_guards_rifles.uasset	card_unit_14th_guards_rifles	Soviet	card_soviet	近卫步兵第 14 团
+Soviet/BrothersInArms/units/card_unit_266th_guards_rifles.uasset	card_unit_266th_guards_rifles	Soviet	card_soviet	近卫步兵第 266 团
+Soviet/BrothersInArms/units/card_unit_49th_karachev.uasset	card_unit_49th_karachev	Soviet	card_soviet	卡拉切夫第 49 团
+Soviet/BrothersInArms/units/card_unit_91st_astrakhan.uasset	card_unit_91st_astrakhan	Soviet	card_soviet	阿斯特拉罕第 91 团
+Soviet/BrothersInArms/units/card_unit_beriev_be_4.uasset	card_unit_beriev_be_4	Soviet	card_soviet	别-4
+Soviet/BrothersInArms/units/card_unit_bm_13n_us6.uasset	card_unit_bm_13n_us6	Soviet	card_soviet	BM-13N US6
+Soviet/BrothersInArms/units/card_unit_bt_7_1937.uasset	card_unit_bt_7_1937	Soviet	card_soviet	BT-7 1937
+Soviet/BrothersInArms/units/card_unit_tupolev_sb_2.uasset	card_unit_tupolev_sb_2	Soviet	card_soviet	斯勃-2
+Soviet/CovertOp/events/card_event_covert_operation.uasset	card_event_covert_operation	Soviet	card_soviet	秘密行动
+Soviet/CovertOp/events/card_event_field_recon.uasset	card_event_field_recon	Soviet	card_soviet	野外侦察
+Soviet/CovertOp/events/card_event_respite.uasset	card_event_respite	Soviet	card_soviet	喘息之机
+Soviet/CovertOp/events/card_event_strategic_focus.uasset	card_event_strategic_focus	Soviet	card_soviet	战略重心
+Soviet/CovertOp/events/card_event_turmoil.uasset	card_event_turmoil	Soviet	card_soviet	动乱
+Soviet/CovertOp/units/card_unit_101st_bezhitsa.uasset	card_unit_101st_bezhitsa	Soviet	card_soviet	别日察第 101 团
+Soviet/CovertOp/units/card_unit_115th_separate_btn.uasset	card_unit_115th_separate_btn	Soviet	card_soviet	独立第 115 营
+Soviet/CovertOp/units/card_unit_186th_recon_company.uasset	card_unit_186th_recon_company	Soviet	card_soviet	侦察第 186 连
+Soviet/CovertOp/units/card_unit_36th_cavalry.uasset	card_unit_36th_cavalry	Soviet	card_soviet	骑兵第 36 师
+Soviet/CovertOp/units/card_unit_38th_guards_rifles.uasset	card_unit_38th_guards_rifles	Soviet	card_soviet	近卫步兵第 38 团
+Soviet/CovertOp/units/card_unit_392nd_rifles.uasset	card_unit_392nd_rifles	Soviet	card_soviet	步兵第 392 团
+Soviet/CovertOp/units/card_unit_92nd_naval_brigade.uasset	card_unit_92nd_naval_brigade	Soviet	card_soviet	海军步兵第 92 旅
+Soviet/CovertOp/units/card_unit_97th_rifles.uasset	card_unit_97th_rifles	Soviet	card_soviet	步兵第 97 团
+Soviet/CovertOp/units/card_unit_katalina.uasset	card_unit_katalina	Soviet	card_soviet	卡特琳娜
+Soviet/CovertOp/units/card_unit_su_100.uasset	card_unit_su_100	Soviet	card_soviet	SU-100
+Soviet/Homefront/events/card_event_aid_to_the_front.uasset	card_event_aid_to_the_front	Soviet	card_soviet	如虎添翼
+Soviet/Homefront/events/card_event_exposed.uasset	card_event_exposed	Soviet	card_soviet	暴露无遗
+Soviet/Homefront/events/card_event_forged_in_fire.uasset	card_event_forged_in_fire	Soviet	card_soviet	千锤百炼
+Soviet/Homefront/events/card_event_motherland_calls.uasset	card_event_motherland_calls	Soviet	card_soviet	祖国在召唤！
+Soviet/Homefront/events/card_event_persian_corridor.uasset	card_event_persian_corridor	Soviet	card_soviet	波斯走廊
+Soviet/Homefront/events/card_event_the_peoples_army.uasset	card_event_the_peoples_army	Soviet	card_soviet	人民军
+Soviet/Homefront/units/card_unit_132nd_omsk.uasset	card_unit_132nd_omsk	Soviet	card_soviet	鄂木斯克第 132 团
+Soviet/Homefront/units/card_unit_178th_guard_rifles.uasset	card_unit_178th_guard_rifles	Soviet	card_soviet	近卫步兵第 178 团
+Soviet/Homefront/units/card_unit_199th_rifle_regiment.uasset	card_unit_199th_rifle_regiment	Soviet	card_soviet	步兵第 199 团
+Soviet/Homefront/units/card_unit_289th_gatchina.uasset	card_unit_289th_gatchina	Soviet	card_soviet	加特契纳第 289 团
+Soviet/Homefront/units/card_unit_44th_silesia.uasset	card_unit_44th_silesia	Soviet	card_soviet	西里西亚第 44 团
+Soviet/Homefront/units/card_unit_55th_rifles.uasset	card_unit_55th_rifles	Soviet	card_soviet	步兵第 55 团
+Soviet/Homefront/units/card_unit_573rd_rifles.uasset	card_unit_573rd_rifles	Soviet	card_soviet	步兵第 573 团
+Soviet/Homefront/units/card_unit_61st_kirkenes.uasset	card_unit_61st_kirkenes	Soviet	card_soviet	希尔克内斯第 61 团
+Soviet/Homefront/units/card_unit_740th_rifle_regiment.uasset	card_unit_740th_rifle_regiment	Soviet	card_soviet	步兵第 740 团
+Soviet/Homefront/units/card_unit_77th_guards.uasset	card_unit_77th_guards	Soviet	card_soviet	近卫步兵第 77 团
+Soviet/Homefront/units/card_unit_iosef_stalin_ii_1944.uasset	card_unit_iosef_stalin_ii_1944	Soviet	card_soviet	IS-2 1944 早期型
+Soviet/Homefront/units/card_unit_kv_1s.uasset	card_unit_kv_1s	Soviet	card_soviet	KV-1S
+Soviet/Homefront/units/card_unit_tupolev_tb_3.uasset	card_unit_tupolev_tb_3	Soviet	card_soviet	特勃-3
+Soviet/Legions/events/card_event_deep_operation.uasset	card_event_deep_operation	Soviet	card_soviet	大纵深作战
+Soviet/Legions/events/card_event_five_year_plan.uasset	card_event_five_year_plan	Soviet	card_soviet	五年计划
+Soviet/Legions/events/card_event_partisans.uasset	card_event_partisans	Soviet	card_soviet	游击队
+Soviet/Legions/events/card_event_promotion.uasset	card_event_promotion	Soviet	card_soviet	晋升
+Soviet/Legions/events/card_event_red_dawn.uasset	card_event_red_dawn	Soviet	card_soviet	赤色黎明
+Soviet/Legions/events/card_event_refit.uasset	card_event_refit	Soviet	card_soviet	改装
+Soviet/Legions/events/card_event_road_to_berlin.uasset	card_event_road_to_berlin	Soviet	card_soviet	柏林之路
+Soviet/Legions/units/card_unit_125_rifle_regiment.uasset	card_unit_125_rifle_regiment	Soviet	card_soviet	步兵第 125 团
+Soviet/Legions/units/card_unit_152mm_howitzer_gun.uasset	card_unit_152mm_howitzer_gun	Soviet	card_soviet	152 毫米榴弹炮
+Soviet/Legions/units/card_unit_173rd_guard_rifles.uasset	card_unit_173rd_guard_rifles	Soviet	card_soviet	近卫步兵第 173 团
+Soviet/Legions/units/card_unit_175th_motorized.uasset	card_unit_175th_motorized	Soviet	card_soviet	摩托化步兵第 175 团
+Soviet/Legions/units/card_unit_214th_amur.uasset	card_unit_214th_amur	Soviet	card_soviet	阿穆尔第 214 团
+Soviet/Legions/units/card_unit_272nd_guards.uasset	card_unit_272nd_guards	Soviet	card_soviet	近卫步兵第 272 团
+Soviet/Legions/units/card_unit_2nd_marines_battalion.uasset	card_unit_2nd_marines_battalion	Soviet	card_soviet	海军陆战队第 2 营
+Soviet/Legions/units/card_unit_461st_rifles.uasset	card_unit_461st_rifles	Soviet	card_soviet	步兵第 461 团
+Soviet/Locations/card_location_bryansk_waw.uasset	card_location_bryansk_waw	Soviet	card_soviet	布良斯克
+Soviet/Locations/card_location_kursk.uasset	card_location_kursk	Soviet	card_soviet	库尔斯克
+Soviet/Locations/card_location_moscow.uasset	card_location_moscow	Soviet	card_soviet	莫斯科
+Soviet/Locations/card_location_stalingrad.uasset	card_location_stalingrad	Soviet	card_soviet	斯大林格勒
+Soviet/Locations/Sovietunlock/card_location_ai_soviet_unlock1.uasset	card_location_ai_soviet_unlock1	Soviet		
+Soviet/Locations/Sovietunlock/card_location_ai_soviet_unlock2.uasset	card_location_ai_soviet_unlock2	Soviet		
+Soviet/Locations/Sovietunlock/card_location_ai_soviet_unlock3.uasset	card_location_ai_soviet_unlock3	Soviet		
+Soviet/Locations/Sovietunlock/card_location_ai_soviet_unlock4.uasset	card_location_ai_soviet_unlock4	Soviet		
+Soviet/Locations/Sovietunlock/card_location_ai_soviet_unlock5.uasset	card_location_ai_soviet_unlock5	Soviet		
+Soviet/Locations/Sovietunlock/card_location_ai_soviet_unlock6.uasset	card_location_ai_soviet_unlock6	Soviet		
+Soviet/Locations/Sovietunlock/card_location_ai_soviet_unlock7.uasset	card_location_ai_soviet_unlock7	Soviet		
+Soviet/Locations/Sovietunlock/card_location_stalingrad_unlock1.uasset	card_location_stalingrad_unlock1	Soviet		
+Soviet/Locations/Sovietunlock/card_location_stalingrad_unlock2.uasset	card_location_stalingrad_unlock2	Soviet		
+Soviet/Locations/Sovietunlock/card_location_stalingrad_unlock3.uasset	card_location_stalingrad_unlock3	Soviet		
+Soviet/Locations/Sovietunlock/card_location_stalingrad_unlock4.uasset	card_location_stalingrad_unlock4	Soviet		
+Soviet/Locations/Sovietunlock/card_location_stalingrad_unlock5.uasset	card_location_stalingrad_unlock5	Soviet		
+Soviet/Locations/Sovietunlock/card_location_stalingrad_unlock6.uasset	card_location_stalingrad_unlock6	Soviet		
+Soviet/Locations/Sovietunlock/card_location_stalingrad_unlock7.uasset	card_location_stalingrad_unlock7	Soviet		
+Soviet/NavalWarfare/events/card_event_extended_barrage.uasset	card_event_extended_barrage	Soviet	card_soviet	持续弹幕
+Soviet/NavalWarfare/events/card_event_honorifics.uasset	card_event_honorifics	Soviet	card_soviet	荣誉称号
+Soviet/NavalWarfare/events/card_event_orders_from_above.uasset	card_event_orders_from_above	Soviet	card_soviet	上级指令
+Soviet/NavalWarfare/events/card_event_rush.uasset	card_event_rush	Soviet	card_soviet	强袭
+Soviet/NavalWarfare/events/card_event_surveil.uasset	card_event_surveil	Soviet	card_soviet	监视
+Soviet/NavalWarfare/events/card_event_victory_banners.uasset	card_event_victory_banners	Soviet	card_soviet	胜利旗帜
+Soviet/NavalWarfare/units/card_unit_220th_rifles.uasset	card_unit_220th_rifles	Soviet	card_soviet	步兵第 220 团
+Soviet/NavalWarfare/units/card_unit_312th_novgorod.uasset	card_unit_312th_novgorod	Soviet	card_soviet	诺夫哥罗德第 312 团
+Soviet/NavalWarfare/units/card_unit_336th_guards_naval.uasset	card_unit_336th_guards_naval	Soviet	card_soviet	近卫海军步兵第 336 旅
+Soviet/NavalWarfare/units/card_unit_51st_rifle_brigade.uasset	card_unit_51st_rifle_brigade	Soviet	card_soviet	步兵第 51 旅
+Soviet/NavalWarfare/units/card_unit_676th_regiment.uasset	card_unit_676th_regiment	Soviet	card_soviet	步兵第 676 团
+Soviet/NavalWarfare/units/card_unit_6th_motor_rifles_sov.uasset	card_unit_6th_motor_rifles_sov	Soviet	card_soviet	摩托化步兵第 6 团
+Soviet/NavalWarfare/units/card_unit_99th_kholm.uasset	card_unit_99th_kholm	Soviet	card_soviet	霍尔姆第 99 团
+Soviet/NavalWarfare/units/card_unit_ilyushin_il_2.uasset	card_unit_ilyushin_il_2	Soviet	card_soviet	伊尔-2
+Soviet/NavalWarfare/units/card_unit_kv_85.uasset	card_unit_kv_85	Soviet	card_soviet	KV-85
+Soviet/OceaniaStorm/events/card_event_advanced_soviet_research.uasset	card_event_advanced_soviet_research	Soviet	card_soviet	高级苏联研发
+Soviet/OceaniaStorm/events/card_event_aerosani.uasset	card_event_aerosani	Soviet	card_soviet	气动雪橇
+Soviet/OceaniaStorm/events/card_event_do_or_die.uasset	card_event_do_or_die	Soviet	card_soviet	拼死一搏
+Soviet/OceaniaStorm/events/card_event_expanded_soviet_research.uasset	card_event_expanded_soviet_research	Soviet	card_soviet	扩展苏联研发
+Soviet/OceaniaStorm/events/card_event_form_battle_line.uasset	card_event_form_battle_line	Soviet	card_soviet	形成战线
+Soviet/OceaniaStorm/events/card_event_irregular_recruits.uasset	card_event_irregular_recruits	Soviet	card_soviet	非常规兵员
+Soviet/OceaniaStorm/events/card_event_rasputitsa.uasset	card_event_rasputitsa	Soviet	card_soviet	泥泞季
+Soviet/OceaniaStorm/events/card_event_sloped_armor.uasset	card_event_sloped_armor	Soviet	card_soviet	倾斜装甲
+Soviet/OceaniaStorm/events/card_event_soviet_military_research.uasset	card_event_soviet_military_research	Soviet	card_soviet	苏联军事研发
+Soviet/OceaniaStorm/events/card_event_stalin_organ.uasset	card_event_stalin_organ	Soviet	card_soviet	斯大林管风琴
+Soviet/OceaniaStorm/events/card_event_standard_ammo.uasset	card_event_standard_ammo	Soviet	card_soviet	标准弹药
+Soviet/OceaniaStorm/units/card_unit_102_rifles.uasset	card_unit_102_rifles	Soviet	card_soviet	步兵第 102 团
+Soviet/OceaniaStorm/units/card_unit_1081th_smolensk.uasset	card_unit_1081th_smolensk	Soviet	card_soviet	斯摩棱斯克第 1081 团
+Soviet/OceaniaStorm/units/card_unit_216th_guards.uasset	card_unit_216th_guards	Soviet	card_soviet	近卫步兵第 216 团
+Soviet/OceaniaStorm/units/card_unit_3rd_morskoi_pekhoty.uasset	card_unit_3rd_morskoi_pekhoty	Soviet	card_soviet	海军步兵第 3 旅
+Soviet/OceaniaStorm/units/card_unit_511th_regiment.uasset	card_unit_511th_regiment	Soviet	card_soviet	步兵第 511 团
+Soviet/OceaniaStorm/units/card_unit_641st_rifles.uasset	card_unit_641st_rifles	Soviet	card_soviet	步兵第 641 团
+Soviet/OceaniaStorm/units/card_unit_75th_rifle_regiment.uasset	card_unit_75th_rifle_regiment	Soviet	card_soviet	步兵第 75 团
+Soviet/OceaniaStorm/units/card_unit_866th_rifles.uasset	card_unit_866th_rifles	Soviet	card_soviet	步兵第 866 团
+Soviet/OceaniaStorm/units/card_unit_909th_roslavl.uasset	card_unit_909th_roslavl	Soviet	card_soviet	罗斯拉夫尔第 909 团
+Soviet/OceaniaStorm/units/card_unit_stz_5_katyusha.uasset	card_unit_stz_5_katyusha	Soviet	card_soviet	STZ-5 喀秋莎
+Soviet/OceaniaStorm/units/card_unit_tupolev_tu_2.uasset	card_unit_tupolev_tu_2	Soviet	card_soviet	图-2
+Soviet/specialCards/card_event_assault_cam1.uasset	card_event_assault_cam1	Soviet	card_soviet	正面突击
+Soviet/specialCards/card_event_bloody_sickle_cam1.uasset	card_event_bloody_sickle_cam1	Soviet	card_soviet	血红镰刀
+Soviet/specialCards/card_event_campaign_frostbite.uasset	card_event_campaign_frostbite	Soviet	card_soviet	冻疮
+Soviet/specialCards/card_event_campaign_moscow1_retreat.uasset	card_event_campaign_moscow1_retreat	Soviet	card_soviet	撤退
+Soviet/specialCards/card_event_campaign_moscow3_charge.uasset	card_event_campaign_moscow3_charge	Soviet	card_soviet	冲锋
+Soviet/specialCards/card_event_campaign_moscow3_forward_press.uasset	card_event_campaign_moscow3_forward_press	Soviet	card_soviet	前压
+Soviet/specialCards/card_event_campaign_moscow3_toe_to_toe.uasset	card_event_campaign_moscow3_toe_to_toe	Soviet	card_soviet	针锋相对
+Soviet/specialCards/card_event_from_the_people_tut.uasset	card_event_from_the_people_tut	Soviet		
+Soviet/specialCards/card_event_reserves_cam1.uasset	card_event_reserves_cam1	Soviet	card_soviet	预备役
+Soviet/specialCards/card_event_ural_factories_cam1.uasset	card_event_ural_factories_cam1	Soviet	card_soviet	乌拉尔工厂
+Soviet/specialCards/card_location_soviet_scen1.uasset	card_location_soviet_scen1	Soviet	card_soviet	布良斯克
+Soviet/specialCards/card_location_soviet_scen2.uasset	card_location_soviet_scen2	Soviet	card_soviet	加里宁
+Soviet/specialCards/card_location_soviet_scen3.uasset	card_location_soviet_scen3	Soviet	card_soviet	克林
+Soviet/specialCards/card_location_soviet_scen4.uasset	card_location_soviet_scen4	Soviet	card_soviet	莫斯科
+Soviet/specialCards/card_location_soviet_scen5.uasset	card_location_soviet_scen5	Soviet	card_soviet	莫斯科
+Soviet/specialCards/card_unit_1005th_rifles_cam1.uasset	card_unit_1005th_rifles_cam1	Soviet	card_soviet	步兵第 1005 团
+Soviet/specialCards/card_unit_102_rifles_vet.uasset	card_unit_102_rifles_vet	Soviet	card_soviet	步兵第 102 团
+Soviet/specialCards/card_unit_10th_guards_regiment_cam1.uasset	card_unit_10th_guards_regiment_cam1	Soviet	card_soviet	近卫第 918 团
+Soviet/specialCards/card_unit_12th_guards_mechanised_vet.uasset	card_unit_12th_guards_mechanised_vet	Soviet	card_soviet	近卫机械化第 12 旅
+Soviet/specialCards/card_unit_14th_guards_rifles_vet.uasset	card_unit_14th_guards_rifles_vet	Soviet	card_soviet	近卫步兵第 14 团
+Soviet/specialCards/card_unit_190th_guard_rifles_vet.uasset	card_unit_190th_guard_rifles_vet	Soviet	card_soviet	近卫步兵第 190 团
+Soviet/specialCards/card_unit_216th_guards_vet.uasset	card_unit_216th_guards_vet	Soviet	card_soviet	近卫步兵第 216 团
+Soviet/specialCards/card_unit_252nd_RIFLES_vet.uasset	card_unit_252nd_RIFLES_vet	Soviet	card_soviet	步兵第 252 团
+Soviet/specialCards/card_unit_266th_guards_rifles_vet.uasset	card_unit_266th_guards_rifles_vet	Soviet	card_soviet	近卫步兵第 266 团
+Soviet/specialCards/card_unit_269th_rifles_vet.uasset	card_unit_269th_rifles_vet	Soviet	card_soviet	步兵第 269 团
+Soviet/specialCards/card_unit_321st_rifles_cam1.uasset	card_unit_321st_rifles_cam1	Soviet	card_soviet	步兵第 51 团
+Soviet/specialCards/card_unit_392nd_rifles_vet.uasset	card_unit_392nd_rifles_vet	Soviet	card_soviet	步兵第 392 团
+Soviet/specialCards/card_unit_414th_rifles.uasset	card_unit_414th_rifles	Soviet	card_soviet	步兵第 414 团
+Soviet/specialCards/card_unit_511th_regiment_vet.uasset	card_unit_511th_regiment_vet	Soviet	card_soviet	步兵第 511 团
+Soviet/specialCards/card_unit_641st_rifles_vet.uasset	card_unit_641st_rifles_vet	Soviet	card_soviet	步兵第 641 团
+Soviet/specialCards/card_unit_84th_infantry_cam1.uasset	card_unit_84th_infantry_cam1	Soviet	card_soviet	第 17 步兵团
+Soviet/specialCards/card_unit_95th_rifles_blank.uasset	card_unit_95th_rifles_blank	Soviet		
+Soviet/specialCards/card_unit_bt_7_1937_vet.uasset	card_unit_bt_7_1937_vet	Soviet	card_soviet	BT-7 1937
+Soviet/specialCards/card_unit_bt_7_cam1.uasset	card_unit_bt_7_cam1	Soviet	card_soviet	BT-7
+Soviet/specialCards/card_unit_katyusha_cam1.uasset	card_unit_katyusha_cam1	Soviet	card_soviet	喀秋莎
+Soviet/specialCards/card_unit_light_infantry_cam1.uasset	card_unit_light_infantry_cam1	Soviet	card_soviet	轻步兵
+Soviet/specialCards/card_unit_t_34_cam1.uasset	card_unit_t_34_cam1	Soviet	card_soviet	T-34 1942
+Soviet/ToW/events/card_event_conscripts.uasset	card_event_conscripts	Soviet	card_soviet	征召兵
+Soviet/ToW/events/card_event_heroes_of_the_soviet_union.uasset	card_event_heroes_of_the_soviet_union	Soviet	card_soviet	苏联英雄
+Soviet/ToW/events/card_event_moat.uasset	card_event_moat	Soviet	card_soviet	坚守不退
+Soviet/ToW/events/card_event_tractor_factories.uasset	card_event_tractor_factories	Soviet	card_soviet	拖拉机厂
+Soviet/ToW/events/card_event_ura.uasset	card_event_ura	Soviet	card_soviet	呜啦！
+Soviet/ToW/units/card_unit_1005th_rifles.uasset	card_unit_1005th_rifles	Soviet	card_soviet	步兵第 1005 团
+Soviet/ToW/units/card_unit_17th_rifle_regiment.uasset	card_unit_17th_rifle_regiment	Soviet	card_soviet	步兵第 17 团
+Soviet/ToW/units/card_unit_503rd_motors.uasset	card_unit_503rd_motors	Soviet	card_soviet	摩托化步兵第 503 团
+Soviet/WinterWar/events/card_event_claim_the_skies.uasset	card_event_claim_the_skies	Soviet	card_soviet	夺取制空
+Soviet/WinterWar/events/card_event_depths_of_winter.uasset	card_event_depths_of_winter	Soviet	card_soviet	严冬
+Soviet/WinterWar/events/card_event_line_of_engagement.uasset	card_event_line_of_engagement	Soviet	card_soviet	交战线
+Soviet/WinterWar/events/card_event_push.uasset	card_event_push	Soviet	card_soviet	推进！
+Soviet/WinterWar/events/card_event_snowstorm.uasset	card_event_snowstorm	Soviet	card_soviet	暴风雪
+Soviet/WinterWar/events/card_event_special_reinforcements.uasset	card_event_special_reinforcements	Soviet	card_soviet	特殊增援
+Soviet/WinterWar/units/card_unit_122nd_korsun.uasset	card_unit_122nd_korsun	Soviet	card_soviet	科尔孙第 122 团
+Soviet/WinterWar/units/card_unit_146th_infantry_regiment.uasset	card_unit_146th_infantry_regiment	Soviet	card_soviet	步兵第 146 团
+Soviet/WinterWar/units/card_unit_252nd_RIFLES.uasset	card_unit_252nd_RIFLES	Soviet	card_soviet	步兵第 252 团
+Soviet/WinterWar/units/card_unit_334th_mountain_rifles.uasset	card_unit_334th_mountain_rifles	Soviet	card_soviet	山地步兵第 334 团
+Soviet/WinterWar/units/card_unit_67th_baranovichi.uasset	card_unit_67th_baranovichi	Soviet	card_soviet	巴拉诺维奇第 67 团
+Soviet/WinterWar/units/card_unit_t_34_85_1944.uasset	card_unit_t_34_85_1944	Soviet	card_soviet	T-34-85 1944
+Soviet/WinterWar/units/card_unit_t_35_winter.uasset	card_unit_t_35_winter	Soviet	card_soviet	T-35
+Soviet/WorldAtWar/events/card_event_hasty_reinforcements.uasset	card_event_hasty_reinforcements	Soviet	card_soviet	急速增援
+Soviet/WorldAtWar/events/card_event_machines_of_war.uasset	card_event_machines_of_war	Soviet	card_soviet	全民参战
+Soviet/WorldAtWar/events/card_event_monastyr.uasset	card_event_monastyr	Soviet	card_soviet	修道院行动
+Soviet/WorldAtWar/events/card_event_out_with_the_old.uasset	card_event_out_with_the_old	Soviet	card_soviet	推陈出新
+Soviet/WorldAtWar/events/card_event_surazh_gate.uasset	card_event_surazh_gate	Soviet	card_soviet	苏拉日之门
+Soviet/WorldAtWar/units/card_unit_39th_rifle_regiment.uasset	card_unit_39th_rifle_regiment	Soviet	card_soviet	步兵第 39 团
+Soviet/WorldAtWar/units/card_unit_52_k.uasset	card_unit_52_k	Soviet	card_soviet	52-K
+Soviet/WorldAtWar/units/card_unit_60th_cavalry_regiment.uasset	card_unit_60th_cavalry_regiment	Soviet	card_soviet	骑兵第 60 团
+Soviet/WorldAtWar/units/card_unit_bryansk_irregulars.uasset	card_unit_bryansk_irregulars	Soviet	card_soviet	布良斯克游击队
+Soviet/WorldAtWar/units/card_unit_ilyushin_10.uasset	card_unit_ilyushin_10	Soviet	card_soviet	伊尔-10
+Soviet/WorldAtWar/units/card_unit_p_39_airacobra.uasset	card_unit_p_39_airacobra	Soviet	card_soviet	P-39 小蛇
+Tutorials/card_event_air_blitz_tut.uasset	card_event_air_blitz_tut	Tutorials		
+Tutorials/card_event_gunship_assault_tut.uasset	card_event_gunship_assault_tut	Tutorials		
+Tutorials/card_event_precision_strike_tut.uasset	card_event_precision_strike_tut	Tutorials		
+Tutorials/card_event_usace_tut.uasset	card_event_usace_tut	Tutorials		
+Tutorials/card_unit_115th_regiment_tut.uasset	card_unit_115th_regiment_tut	Tutorials		
+Tutorials/card_unit_121st_regiment_tut.uasset	card_unit_121st_regiment_tut	Tutorials		
+Tutorials/card_unit_12th_infantry_regiment_tut.uasset	card_unit_12th_infantry_regiment_tut	Tutorials		
+Tutorials/card_unit_38_jaeger_tut.uasset	card_unit_38_jaeger_tut	Tutorials		
+Tutorials/card_unit_m4a1_sherman_tut.uasset	card_unit_m4a1_sherman_tut	Tutorials		
+Tutorials/card_unit_m5a1_stuart_tut.uasset	card_unit_m5a1_stuart_tut	Tutorials		
+Tutorials/card_unit_panzer_35_t_tut.uasset	card_unit_panzer_35_t_tut	Tutorials		
+USA/Allegiance/events/card_event_carrier_cover.uasset	card_event_carrier_cover	USA		
+USA/Allegiance/events/card_event_counter_strike.uasset	card_event_counter_strike	USA		
+USA/Allegiance/events/card_event_embargo.uasset	card_event_embargo	USA		
+USA/Allegiance/events/card_event_magic.uasset	card_event_magic	USA		
+USA/Allegiance/events/card_event_naval_task_force.uasset	card_event_naval_task_force	USA		
+USA/Allegiance/events/card_event_shore_bombardment.uasset	card_event_shore_bombardment	USA		
+USA/Allegiance/events/card_event_strafing.uasset	card_event_strafing	USA		
+USA/Allegiance/events/card_event_strategic_planning.uasset	card_event_strategic_planning	USA		
+USA/Allegiance/events/card_event_supply_front.uasset	card_event_supply_front	USA		
+USA/Allegiance/units/card_unit_106th_quartermasters.uasset	card_unit_106th_quartermasters	USA		
+USA/Allegiance/units/card_unit_109th_combat_engineers.uasset	card_unit_109th_combat_engineers	USA		
+USA/Allegiance/units/card_unit_11th_infantry_regiment.uasset	card_unit_11th_infantry_regiment	USA		
+USA/Allegiance/units/card_unit_12th_infantry_regiment.uasset	card_unit_12th_infantry_regiment	USA		
+USA/Allegiance/units/card_unit_1st_marines.uasset	card_unit_1st_marines	USA		
+USA/Allegiance/units/card_unit_a_36_apache.uasset	card_unit_a_36_apache	USA		
+USA/Allegiance/units/card_unit_b_25h.uasset	card_unit_b_25h	USA		
+USA/Allegiance/units/card_unit_b_29_super_fortress.uasset	card_unit_b_29_super_fortress	USA		
+USA/Allegiance/units/card_unit_f4f_3_wildcat.uasset	card_unit_f4f_3_wildcat	USA		
+USA/Allegiance/units/card_unit_m4a1.uasset	card_unit_m4a1	USA		
+USA/Allegiance/units/card_unit_m8_howitzer.uasset	card_unit_m8_howitzer	USA		
+USA/Allegiance/units/card_unit_motorized_infantry.uasset	card_unit_motorized_infantry	USA		
+USA/Allegiance/units/card_unit_p_61_black_widow.uasset	card_unit_p_61_black_widow	USA		
+USA/Base/events/card_event_air_defense.uasset	card_event_air_defense	USA		
+USA/Base/events/card_event_awoken_giant.uasset	card_event_awoken_giant	USA		
+USA/Base/events/card_event_cadet_nurse_corps.uasset	card_event_cadet_nurse_corps	USA		
+USA/Base/events/card_event_death_from_above.uasset	card_event_death_from_above	USA		
+USA/Base/events/card_event_enemy_spotted.uasset	card_event_enemy_spotted	USA		
+USA/Base/events/card_event_for_freedom.uasset	card_event_for_freedom	USA		
+USA/Base/events/card_event_gunship.uasset	card_event_gunship	USA		
+USA/Base/events/card_event_in_the_navy.uasset	card_event_in_the_navy	USA		
+USA/Base/events/card_event_industrial_might.uasset	card_event_industrial_might	USA		
+USA/Base/events/card_event_land_of_the_free.uasset	card_event_land_of_the_free	USA		
+USA/Base/events/card_event_mobilization.uasset	card_event_mobilization	USA		
+USA/Base/events/card_event_naval_bombardment.uasset	card_event_naval_bombardment	USA		
+USA/Base/events/card_event_overwhelming_force.uasset	card_event_overwhelming_force	USA		
+USA/Base/events/card_event_patriotic_zeal.uasset	card_event_patriotic_zeal	USA		
+USA/Base/events/card_event_patton.uasset	card_event_patton	USA		
+USA/Base/events/card_event_seaborne_invasion.uasset	card_event_seaborne_invasion	USA		
+USA/Base/events/card_event_strategic_bombing.uasset	card_event_strategic_bombing	USA		
+USA/Base/events/card_event_supply_chain.uasset	card_event_supply_chain	USA		
+USA/Base/events/card_event_supply_shipment.uasset	card_event_supply_shipment	USA		
+USA/Base/events/card_event_the_alliance.uasset	card_event_the_alliance	USA		
+USA/Base/events/card_event_the_war_machine.uasset	card_event_the_war_machine	USA		
+USA/Base/events/card_event_torpedo_attack.uasset	card_event_torpedo_attack	USA		
+USA/Base/events/card_event_uncle_sam.uasset	card_event_uncle_sam	USA		
+USA/Base/events/card_event_unity_is_strength.uasset	card_event_unity_is_strength	USA		
+USA/Base/events/card_event_usace.uasset	card_event_usace	USA		
+USA/Base/events/card_event_war_bonds.uasset	card_event_war_bonds	USA		
+USA/Base/events/card_event_we_can_do_it.uasset	card_event_we_can_do_it	USA		
+USA/Base/units/card_unit_101st_airborne.uasset	card_unit_101st_airborne	USA		
+USA/Base/units/card_unit_10th_engineering_battalion.uasset	card_unit_10th_engineering_battalion	USA		
+USA/Base/units/card_unit_17th_infantry_regiment.uasset	card_unit_17th_infantry_regiment	USA		
+USA/Base/units/card_unit_1918_155mm.uasset	card_unit_1918_155mm	USA		
+USA/Base/units/card_unit_30th_regiment.uasset	card_unit_30th_regiment	USA		
+USA/Base/units/card_unit_332nd_engineers.uasset	card_unit_332nd_engineers	USA		
+USA/Base/units/card_unit_463rd_battalion.uasset	card_unit_463rd_battalion	USA		
+USA/Base/units/card_unit_506th_airborne.uasset	card_unit_506th_airborne	USA		
+USA/Base/units/card_unit_75_mm_pack_howitzer.uasset	card_unit_75_mm_pack_howitzer	USA		
+USA/Base/units/card_unit_7th_regiment.uasset	card_unit_7th_regiment	USA		
+USA/Base/units/card_unit_8th_cavalry_regiment.uasset	card_unit_8th_cavalry_regiment	USA		
+USA/Base/units/card_unit_99th_infantry.uasset	card_unit_99th_infantry	USA		
+USA/Base/units/card_unit_a20_havoc.uasset	card_unit_a20_havoc	USA		
+USA/Base/units/card_unit_a26_invader.uasset	card_unit_a26_invader	USA		
+USA/Base/units/card_unit_a_24_banshee.uasset	card_unit_a_24_banshee	USA		
+USA/Base/units/card_unit_b_17.uasset	card_unit_b_17	USA		
+USA/Base/units/card_unit_b_24.uasset	card_unit_b_24	USA		
+USA/Base/units/card_unit_b_25_mitchell.uasset	card_unit_b_25_mitchell	USA		
+USA/Base/units/card_unit_b_26_marauder.uasset	card_unit_b_26_marauder	USA		
+USA/Base/units/card_unit_corsair_f4u.uasset	card_unit_corsair_f4u	USA		
+USA/Base/units/card_unit_corsair_f4u_1d.uasset	card_unit_corsair_f4u_1d	USA		
+USA/Base/units/card_unit_f4f_wildcat.uasset	card_unit_f4f_wildcat	USA		
+USA/Base/units/card_unit_grumman_hellcat2.uasset	card_unit_grumman_hellcat2	USA		
+USA/Base/units/card_unit_m16_halftrack.uasset	card_unit_m16_halftrack	USA		
+USA/Base/units/card_unit_m18_hellcat.uasset	card_unit_m18_hellcat	USA		
+USA/Base/units/card_unit_m1_155mm_long_tom.uasset	card_unit_m1_155mm_long_tom	USA		
+USA/Base/units/card_unit_m24_chaffee.uasset	card_unit_m24_chaffee	USA		
+USA/Base/units/card_unit_m26_pershing.uasset	card_unit_m26_pershing	USA		
+USA/Base/units/card_unit_m36_destroyer.uasset	card_unit_m36_destroyer	USA		
+USA/Base/units/card_unit_m3_stuart.uasset	card_unit_m3_stuart	USA		
+USA/Base/units/card_unit_m4_sherman.uasset	card_unit_m4_sherman	USA		
+USA/Base/units/card_unit_m4_sherman_flam.uasset	card_unit_m4_sherman_flam	USA		
+USA/Base/units/card_unit_m7_priest.uasset	card_unit_m7_priest	USA		
+USA/Base/units/card_unit_m8_greyhound.uasset	card_unit_m8_greyhound	USA		
+USA/Base/units/card_unit_marines.uasset	card_unit_marines	USA		
+USA/Base/units/card_unit_p38_lightning.uasset	card_unit_p38_lightning	USA		
+USA/Base/units/card_unit_p40_warhawk.uasset	card_unit_p40_warhawk	USA		
+USA/Base/units/card_unit_p40n.uasset	card_unit_p40n	USA		
+USA/Base/units/card_unit_p47d_thunderbolt.uasset	card_unit_p47d_thunderbolt	USA		
+USA/Base/units/card_unit_p51_mustang.uasset	card_unit_p51_mustang	USA		
+USA/Base/units/card_unit_sbd3_dauntless.uasset	card_unit_sbd3_dauntless	USA		
+USA/Base/units/card_unit_t19_howitzer.uasset	card_unit_t19_howitzer	USA		
+USA/Base/units/card_unit_tbf_avanger.uasset	card_unit_tbf_avanger	USA		
+USA/Base/units/card_unit_us_signal_corps.uasset	card_unit_us_signal_corps	USA		
+USA/BloodIron/events/card_event_air_corps_ferrying.uasset	card_event_air_corps_ferrying	USA		
+USA/BloodIron/events/card_event_bocage_warfare.uasset	card_event_bocage_warfare	USA		
+USA/BloodIron/events/card_event_hell_on_wheels.uasset	card_event_hell_on_wheels	USA		
+USA/BloodIron/events/card_event_pontoon_bridge.uasset	card_event_pontoon_bridge	USA		
+USA/BloodIron/events/card_event_women_at_work.uasset	card_event_women_at_work	USA		
+USA/BloodIron/units/card_unit_1st_cavalry_troop.uasset	card_unit_1st_cavalry_troop	USA		
+USA/BloodIron/units/card_unit_2nd_michigan.uasset	card_unit_2nd_michigan	USA		
+USA/BloodIron/units/card_unit_306th_regiment.uasset	card_unit_306th_regiment	USA		
+USA/BloodIron/units/card_unit_511th_airborne.uasset	card_unit_511th_airborne	USA		
+USA/BloodIron/units/card_unit_62nd_armored_infantry.uasset	card_unit_62nd_armored_infantry	USA		
+USA/BloodIron/units/card_unit_big_red_one.uasset	card_unit_big_red_one	USA		
+USA/BloodIron/units/card_unit_calliope.uasset	card_unit_calliope	USA		
+USA/BloodIron/units/card_unit_cyclone_division.uasset	card_unit_cyclone_division	USA		
+USA/BloodIron/units/card_unit_l4_grasshopper.uasset	card_unit_l4_grasshopper	USA		
+USA/BloodIron/units/card_unit_m6.uasset	card_unit_m6	USA		
+USA/Breakthrough/events/card_event_advanced_us_research.uasset	card_event_advanced_us_research	USA		
+USA/Breakthrough/events/card_event_allied_research_effort.uasset	card_event_allied_research_effort	USA		
+USA/Breakthrough/events/card_event_bolster_the_ranks.uasset	card_event_bolster_the_ranks	USA		
+USA/Breakthrough/events/card_event_campaign_trail.uasset	card_event_campaign_trail	USA		
+USA/Breakthrough/events/card_event_depth_charges.uasset	card_event_depth_charges	USA		
+USA/Breakthrough/events/card_event_expanded_us_research.uasset	card_event_expanded_us_research	USA		
+USA/Breakthrough/events/card_event_manhattan_project.uasset	card_event_manhattan_project	USA		
+USA/Breakthrough/events/card_event_overcast.uasset	card_event_overcast	USA		
+USA/Breakthrough/events/card_event_penicillin.uasset	card_event_penicillin	USA		
+USA/Breakthrough/events/card_event_pressurized_cabin.uasset	card_event_pressurized_cabin	USA		
+USA/Breakthrough/events/card_event_sniped.uasset	card_event_sniped	USA		
+USA/Breakthrough/events/card_event_special_assignment.uasset	card_event_special_assignment	USA		
+USA/Breakthrough/events/card_event_us_military_research.uasset	card_event_us_military_research	USA		
+USA/Breakthrough/units/card_unit_120mm_m1_gun.uasset	card_unit_120mm_m1_gun	USA		
+USA/Breakthrough/units/card_unit_32nd_infantry_regiment.uasset	card_unit_32nd_infantry_regiment	USA		
+USA/Breakthrough/units/card_unit_47th_infantry_regiment.uasset	card_unit_47th_infantry_regiment	USA		
+USA/Breakthrough/units/card_unit_4th_marines.uasset	card_unit_4th_marines	USA		
+USA/Breakthrough/units/card_unit_60th_infantry_regiment.uasset	card_unit_60th_infantry_regiment	USA		
+USA/Breakthrough/units/card_unit_75th_rangers.uasset	card_unit_75th_rangers	USA		
+USA/Breakthrough/units/card_unit_b_17_f.uasset	card_unit_b_17_f	USA		
+USA/Breakthrough/units/card_unit_c47_skytrain.uasset	card_unit_c47_skytrain	USA		
+USA/Breakthrough/units/card_unit_m10_destroyer.uasset	card_unit_m10_destroyer	USA		
+USA/Breakthrough/units/card_unit_pby_catalina.uasset	card_unit_pby_catalina	USA		
+USA/Breakthrough/units/card_unit_usaaf_spitfire_ix.uasset	card_unit_usaaf_spitfire_ix	USA		
+USA/BrothersInArms/events/card_event_asw_patrol.uasset	card_event_asw_patrol	USA		
+USA/BrothersInArms/events/card_event_attrition.uasset	card_event_attrition	USA		
+USA/BrothersInArms/events/card_event_battle_valor.uasset	card_event_battle_valor	USA		
+USA/BrothersInArms/events/card_event_field_hospital.uasset	card_event_field_hospital	USA		
+USA/BrothersInArms/events/card_event_fortunes_of_war.uasset	card_event_fortunes_of_war	USA		
+USA/BrothersInArms/events/card_event_manpower.uasset	card_event_manpower	USA		
+USA/BrothersInArms/events/card_event_night_bombing.uasset	card_event_night_bombing	USA		
+USA/BrothersInArms/units/card_unit_133rd_ironman.uasset	card_unit_133rd_ironman	USA		
+USA/BrothersInArms/units/card_unit_158th_bushmasters.uasset	card_unit_158th_bushmasters	USA		
+USA/BrothersInArms/units/card_unit_179th_tomahawks.uasset	card_unit_179th_tomahawks	USA		
+USA/BrothersInArms/units/card_unit_327th_pathfinders.uasset	card_unit_327th_pathfinders	USA		
+USA/BrothersInArms/units/card_unit_3_inch_m5.uasset	card_unit_3_inch_m5	USA		
+USA/BrothersInArms/units/card_unit_48th_armored_infantry.uasset	card_unit_48th_armored_infantry	USA		
+USA/BrothersInArms/units/card_unit_6th_infantry_regiment_usa.uasset	card_unit_6th_infantry_regiment_usa	USA		
+USA/BrothersInArms/units/card_unit_8th_marines.uasset	card_unit_8th_marines	USA		
+USA/BrothersInArms/units/card_unit_p51_b.uasset	card_unit_p51_b	USA		
+USA/BrothersInArms/units/card_unit_seabees.uasset	card_unit_seabees	USA		
+USA/CovertOp/events/card_event_america_goes_to_war.uasset	card_event_america_goes_to_war	USA		
+USA/CovertOp/events/card_event_bomber_mafia.uasset	card_event_bomber_mafia	USA		
+USA/CovertOp/events/card_event_firebomb.uasset	card_event_firebomb	USA		
+USA/CovertOp/events/card_event_furor.uasset	card_event_furor	USA		
+USA/CovertOp/events/card_event_hidden_plans.uasset	card_event_hidden_plans	USA		
+USA/CovertOp/events/card_event_mayhem.uasset	card_event_mayhem	USA		
+USA/CovertOp/events/card_event_retribution.uasset	card_event_retribution	USA		
+USA/CovertOp/events/card_event_yank_the_army_weekly.uasset	card_event_yank_the_army_weekly	USA		
+USA/CovertOp/units/card_unit_103rd_cavalry_recon.uasset	card_unit_103rd_cavalry_recon	USA		
+USA/CovertOp/units/card_unit_121st_infantry_regiment.uasset	card_unit_121st_infantry_regiment	USA		
+USA/CovertOp/units/card_unit_394th_infantry_regiment.uasset	card_unit_394th_infantry_regiment	USA		
+USA/CovertOp/units/card_unit_blue_and_gray.uasset	card_unit_blue_and_gray	USA		
+USA/CovertOp/units/card_unit_grumman_goose.uasset	card_unit_grumman_goose	USA		
+USA/CovertOp/units/card_unit_m20_scout_car.uasset	card_unit_m20_scout_car	USA		
+USA/CovertOp/units/card_unit_the_deuce.uasset	card_unit_the_deuce	USA		
+USA/Homefront/events/card_event_rationing.uasset	card_event_rationing	USA		
+USA/Homefront/events/card_event_spars.uasset	card_event_spars	USA		
+USA/Homefront/events/card_event_surging_power.uasset	card_event_surging_power	USA		
+USA/Homefront/events/card_event_swift_response.uasset	card_event_swift_response	USA		
+USA/Homefront/events/card_event_the_big_three.uasset	card_event_the_big_three	USA		
+USA/Homefront/events/card_event_uss_sullivans.uasset	card_event_uss_sullivans	USA		
+USA/Homefront/events/card_event_victory_garden.uasset	card_event_victory_garden	USA		
+USA/Homefront/units/card_unit_15th_engineers.uasset	card_unit_15th_engineers	USA		
+USA/Homefront/units/card_unit_1st_defense_battalion.uasset	card_unit_1st_defense_battalion	USA		
+USA/Homefront/units/card_unit_1st_florida.uasset	card_unit_1st_florida	USA		
+USA/Homefront/units/card_unit_41st_infantry_regiment.uasset	card_unit_41st_infantry_regiment	USA		
+USA/Homefront/units/card_unit_f6f_hellcat_home.uasset	card_unit_f6f_hellcat_home	USA		
+USA/Homefront/units/card_unit_m2a4.uasset	card_unit_m2a4	USA		
+USA/Homefront/units/card_unit_m3_lee_home.uasset	card_unit_m3_lee_home	USA		
+USA/Homefront/units/card_unit_magnificent_seven.uasset	card_unit_magnificent_seven	USA		
+USA/Homefront/units/card_unit_p_38_lightning_home.uasset	card_unit_p_38_lightning_home	USA		
+USA/Homefront/units/card_unit_red_bull.uasset	card_unit_red_bull	USA		
+USA/Homefront/units/card_unit_the_professionals.uasset	card_unit_the_professionals	USA		
+USA/Homefront/units/card_unit_thunderbolt.uasset	card_unit_thunderbolt	USA		
+USA/Legions/events/card_event_fresh_recruits.uasset	card_event_fresh_recruits	USA		
+USA/Legions/events/card_event_in_hour_of_need.uasset	card_event_in_hour_of_need	USA		
+USA/Legions/events/card_event_island_hopping_elit.uasset	card_event_island_hopping_elit	USA		
+USA/Legions/events/card_event_mass_deployment.uasset	card_event_mass_deployment	USA		
+USA/Legions/events/card_event_stars_n_stripes.uasset	card_event_stars_n_stripes	USA		
+USA/Legions/events/card_event_united_we_stand.uasset	card_event_united_we_stand	USA		
+USA/Legions/units/card_unit_1st_texas_infantry.uasset	card_unit_1st_texas_infantry	USA		
+USA/Legions/units/card_unit_26th_infantry_regiment.uasset	card_unit_26th_infantry_regiment	USA		
+USA/Legions/units/card_unit_2nd_california.uasset	card_unit_2nd_california	USA		
+USA/Legions/units/card_unit_37mm_m1_aa_gun.uasset	card_unit_37mm_m1_aa_gun	USA		
+USA/Legions/units/card_unit_507th_pir.uasset	card_unit_507th_pir	USA		
+USA/Legions/units/card_unit_p_40_k.uasset	card_unit_p_40_k	USA		
+USA/Legions/units/card_unit_pb4y_2_privateer.uasset	card_unit_pb4y_2_privateer	USA		
+USA/Legions/units/card_unit_red_devils.uasset	card_unit_red_devils	USA		
+USA/Legions/units/card_unit_sb2c_helldiver.uasset	card_unit_sb2c_helldiver	USA		
+USA/locations/card_location_arracourt.uasset	card_location_arracourt	USA		
+USA/locations/card_location_bastogne_waw_event.uasset	card_location_bastogne_waw_event	USA		
+USA/locations/card_location_cherbourg.uasset	card_location_cherbourg	USA		
+USA/locations/card_location_guadalcanal.uasset	card_location_guadalcanal	USA		
+USA/locations/card_location_washington_waw.uasset	card_location_washington_waw	USA		
+USA/locations/USunlock/card_location_arnhem_unlock1.uasset	card_location_arnhem_unlock1	USA		
+USA/locations/USunlock/card_location_arnhem_unlock2.uasset	card_location_arnhem_unlock2	USA		
+USA/locations/USunlock/card_location_arnhem_unlock3.uasset	card_location_arnhem_unlock3	USA		
+USA/locations/USunlock/card_location_arnhem_unlock4.uasset	card_location_arnhem_unlock4	USA		
+USA/locations/USunlock/card_location_arnhem_unlock5.uasset	card_location_arnhem_unlock5	USA		
+USA/locations/USunlock/card_location_arnhem_unlock6.uasset	card_location_arnhem_unlock6	USA		
+USA/locations/USunlock/card_location_arnhem_unlock7.uasset	card_location_arnhem_unlock7	USA		
+USA/locations/USunlock/card_location_arnhem_usa_base_unlock1.uasset	card_location_arnhem_usa_base_unlock1	USA		
+USA/locations/USunlock/card_location_arnhem_usa_base_unlock2.uasset	card_location_arnhem_usa_base_unlock2	USA		
+USA/locations/USunlock/card_location_arnhem_usa_base_unlock3.uasset	card_location_arnhem_usa_base_unlock3	USA		
+USA/locations/USunlock/card_location_arnhem_usa_base_unlock4.uasset	card_location_arnhem_usa_base_unlock4	USA		
+USA/locations/USunlock/card_location_arnhem_usa_base_unlock5.uasset	card_location_arnhem_usa_base_unlock5	USA		
+USA/locations/USunlock/card_location_arnhem_usa_base_unlock6.uasset	card_location_arnhem_usa_base_unlock6	USA		
+USA/locations/USunlock/card_location_arnhem_usa_base_unlock7.uasset	card_location_arnhem_usa_base_unlock7	USA		
+USA/locations/USunlock/card_location_cherbourg_unlock1.uasset	card_location_cherbourg_unlock1	USA		
+USA/locations/USunlock/card_location_cherbourg_unlock2.uasset	card_location_cherbourg_unlock2	USA		
+USA/locations/USunlock/card_location_cherbourg_unlock3.uasset	card_location_cherbourg_unlock3	USA		
+USA/locations/USunlock/card_location_cherbourg_unlock4.uasset	card_location_cherbourg_unlock4	USA		
+USA/locations/USunlock/card_location_cherbourg_unlock5.uasset	card_location_cherbourg_unlock5	USA		
+USA/locations/USunlock/card_location_cherbourg_unlock6.uasset	card_location_cherbourg_unlock6	USA		
+USA/locations/USunlock/card_location_cherbourg_unlock7.uasset	card_location_cherbourg_unlock7	USA		
+USA/locations/USunlock/card_location_cherbourg_usa_base_unlock1.uasset	card_location_cherbourg_usa_base_unlock1	USA		
+USA/locations/USunlock/card_location_cherbourg_usa_base_unlock2.uasset	card_location_cherbourg_usa_base_unlock2	USA		
+USA/locations/USunlock/card_location_cherbourg_usa_base_unlock3.uasset	card_location_cherbourg_usa_base_unlock3	USA		
+USA/locations/USunlock/card_location_cherbourg_usa_base_unlock4.uasset	card_location_cherbourg_usa_base_unlock4	USA		
+USA/locations/USunlock/card_location_cherbourg_usa_base_unlock5.uasset	card_location_cherbourg_usa_base_unlock5	USA		
+USA/locations/USunlock/card_location_cherbourg_usa_base_unlock6.uasset	card_location_cherbourg_usa_base_unlock6	USA		
+USA/locations/USunlock/card_location_cherbourg_usa_base_unlock7.uasset	card_location_cherbourg_usa_base_unlock7	USA		
+USA/NavalWarfare/events/card_event_air_cover_us.uasset	card_event_air_cover_us	USA		
+USA/NavalWarfare/events/card_event_night_patrol.uasset	card_event_night_patrol	USA		
+USA/NavalWarfare/events/card_event_semper_fi.uasset	card_event_semper_fi	USA		
+USA/NavalWarfare/events/card_event_strike_group.uasset	card_event_strike_group	USA		
+USA/NavalWarfare/events/card_event_uss_arcfish.uasset	card_event_uss_arcfish	USA		
+USA/NavalWarfare/events/card_event_uss_fitch.uasset	card_event_uss_fitch	USA		
+USA/NavalWarfare/events/card_event_uss_missouri.uasset	card_event_uss_missouri	USA		
+USA/NavalWarfare/events/card_event_uss_yorktown.uasset	card_event_uss_yorktown	USA		
+USA/NavalWarfare/units/card_unit_175th_infantry_regiment.uasset	card_unit_175th_infantry_regiment	USA		
+USA/NavalWarfare/units/card_unit_22nd_marines.uasset	card_unit_22nd_marines	USA		
+USA/NavalWarfare/units/card_unit_4th_alabama.uasset	card_unit_4th_alabama	USA		
+USA/NavalWarfare/units/card_unit_pb2y_coronado.uasset	card_unit_pb2y_coronado	USA		
+USA/NavalWarfare/units/card_unit_sykes_regulars.uasset	card_unit_sykes_regulars	USA		
+USA/NavalWarfare/units/card_unit_the_123s.uasset	card_unit_the_123s	USA		
+USA/NavalWarfare/units/card_unit_the_american_guard.uasset	card_unit_the_american_guard	USA		
+USA/OceaniaStorm/events/card_event_naval_battle.uasset	card_event_naval_battle	USA		
+USA/OceaniaStorm/events/card_event_parachute_assault.uasset	card_event_parachute_assault	USA		
+USA/OceaniaStorm/events/card_event_quinine.uasset	card_event_quinine	USA		
+USA/OceaniaStorm/events/card_event_surprise_engagement.uasset	card_event_surprise_engagement	USA		
+USA/OceaniaStorm/events/card_event_us_weather_bureau.uasset	card_event_us_weather_bureau	USA		
+USA/OceaniaStorm/events/card_event_usaaf.uasset	card_event_usaaf	USA		
+USA/OceaniaStorm/units/card_unit_116th_infantry_regiment.uasset	card_unit_116th_infantry_regiment	USA		
+USA/OceaniaStorm/units/card_unit_162nd_regiment.uasset	card_unit_162nd_regiment	USA		
+USA/OceaniaStorm/units/card_unit_1st_infantry_regiment_us.uasset	card_unit_1st_infantry_regiment_us	USA		
+USA/OceaniaStorm/units/card_unit_6th_marine_regiment.uasset	card_unit_6th_marine_regiment	USA		
+USA/OceaniaStorm/units/card_unit_duck_us.uasset	card_unit_duck_us	USA		
+USA/OceaniaStorm/units/card_unit_fifth_ohio.uasset	card_unit_fifth_ohio	USA		
+USA/OceaniaStorm/units/card_unit_kingfisher_us.uasset	card_unit_kingfisher_us	USA		
+USA/OceaniaStorm/units/card_unit_ruffians.uasset	card_unit_ruffians	USA		
+USA/OceaniaStorm/units/card_unit_tropic_lightning.uasset	card_unit_tropic_lightning	USA		
+USA/OceaniaStorm/units/card_unit_wolfhounds.uasset	card_unit_wolfhounds	USA		
+USA/specialCards/card_event_campaign_guadalcanal2_base_defense.uasset	card_event_campaign_guadalcanal2_base_defense	USA		
+USA/specialCards/card_event_campaign_guadalcanal2_coastal_raid.uasset	card_event_campaign_guadalcanal2_coastal_raid	USA		
+USA/specialCards/card_event_campaign_guadalcanal2_naval_patrol.uasset	card_event_campaign_guadalcanal2_naval_patrol	USA		
+USA/specialCards/card_event_campaign_guadalcanal4_bomber_runway.uasset	card_event_campaign_guadalcanal4_bomber_runway	USA		
+USA/specialCards/card_event_campaign_guadalcanal4_marine_patrols.uasset	card_event_campaign_guadalcanal4_marine_patrols	USA		
+USA/specialCards/card_event_campaign_guadalcanal4_naval_blockade.uasset	card_event_campaign_guadalcanal4_naval_blockade	USA		
+USA/specialCards/card_event_campaign_tunis1_blade_force_arrives.uasset	card_event_campaign_tunis1_blade_force_arrives	USA		
+USA/specialCards/card_event_campaign_tunis3_counterattack.uasset	card_event_campaign_tunis3_counterattack	USA		
+USA/specialCards/card_event_naval_bombardment_cam1.uasset	card_event_naval_bombardment_cam1	USA		
+USA/specialCards/card_event_retribution1.uasset	card_event_retribution1	USA		
+USA/specialCards/card_event_retribution10.uasset	card_event_retribution10	USA		
+USA/specialCards/card_event_retribution12.uasset	card_event_retribution12	USA		
+USA/specialCards/card_event_retribution13.uasset	card_event_retribution13	USA		
+USA/specialCards/card_event_retribution2.uasset	card_event_retribution2	USA		
+USA/specialCards/card_event_retribution3.uasset	card_event_retribution3	USA		
+USA/specialCards/card_event_retribution4.uasset	card_event_retribution4	USA		
+USA/specialCards/card_event_retribution5.uasset	card_event_retribution5	USA		
+USA/specialCards/card_event_retribution6.uasset	card_event_retribution6	USA		
+USA/specialCards/card_event_retribution7.uasset	card_event_retribution7	USA		
+USA/specialCards/card_event_retribution8.uasset	card_event_retribution8	USA		
+USA/specialCards/card_event_retribution9.uasset	card_event_retribution9	USA		
+USA/specialCards/card_event_supply_shipment_cam1.uasset	card_event_supply_shipment_cam1	USA		
+USA/specialCards/card_event_unity_is_strength_cam1.uasset	card_event_unity_is_strength_cam1	USA		
+USA/specialCards/card_location_japan_scen1_ai.uasset	card_location_japan_scen1_ai	USA		
+USA/specialCards/card_location_japan_scen2_ai.uasset	card_location_japan_scen2_ai	USA		
+USA/specialCards/card_location_japan_scen3_ai.uasset	card_location_japan_scen3_ai	USA	card_japan	巴加克
+USA/specialCards/card_location_japan_scen4_ai.uasset	card_location_japan_scen4_ai	USA		
+USA/specialCards/card_location_japan_scen5_ai.uasset	card_location_japan_scen5_ai	USA		
+USA/specialCards/card_location_usa_scen1.uasset	card_location_usa_scen1	USA		
+USA/specialCards/card_location_usa_scen2.uasset	card_location_usa_scen2	USA		
+USA/specialCards/card_location_usa_scen3.uasset	card_location_usa_scen3	USA		
+USA/specialCards/card_location_usa_scen4.uasset	card_location_usa_scen4	USA		
+USA/specialCards/card_location_usa_scen5.uasset	card_location_usa_scen5	USA		
+USA/specialCards/card_unit_164th_infantry_regiment_cam1.uasset	card_unit_164th_infantry_regiment_cam1	USA		
+USA/specialCards/card_unit_179th_tomahawks_vet.uasset	card_unit_179th_tomahawks_vet	USA		
+USA/specialCards/card_unit_22nd_marines_vet.uasset	card_unit_22nd_marines_vet	USA		
+USA/specialCards/card_unit_30th_regiment_cam1.uasset	card_unit_30th_regiment_cam1	USA		
+USA/specialCards/card_unit_327th_pathfinders_vet.uasset	card_unit_327th_pathfinders_vet	USA		
+USA/specialCards/card_unit_39th_infantry_regiment.uasset	card_unit_39th_infantry_regiment	USA		
+USA/specialCards/card_unit_47th_infantry_regiment_vet.uasset	card_unit_47th_infantry_regiment_vet	USA		
+USA/specialCards/card_unit_6th_infantry_regiment_usa_vet.uasset	card_unit_6th_infantry_regiment_usa_vet	USA		
+USA/specialCards/card_unit_7th_regiment_cam1.uasset	card_unit_7th_regiment_cam1	USA		
+USA/specialCards/card_unit_8th_cavalry_regiment_blank.uasset	card_unit_8th_cavalry_regiment_blank	USA		
+USA/specialCards/card_unit_b_24_d.uasset	card_unit_b_24_d	USA		
+USA/specialCards/card_unit_b_24_j.uasset	card_unit_b_24_j	USA		
+USA/specialCards/card_unit_b_25h_cam1.uasset	card_unit_b_25h_cam1	USA		
+USA/specialCards/card_unit_brewster_f2a.uasset	card_unit_brewster_f2a	USA		
+USA/specialCards/card_unit_cyclone_division_vet.uasset	card_unit_cyclone_division_vet	USA		
+USA/specialCards/card_unit_f4f_3_wildcat_cam1.uasset	card_unit_f4f_3_wildcat_cam1	USA		
+USA/specialCards/card_unit_f4f_wildcat_cam1.uasset	card_unit_f4f_wildcat_cam1	USA		
+USA/specialCards/card_unit_jazz_band.uasset	card_unit_jazz_band	USA		
+USA/specialCards/card_unit_m3_stuart_cam1.uasset	card_unit_m3_stuart_cam1	USA		
+USA/specialCards/card_unit_marines_cam1.uasset	card_unit_marines_cam1	USA		
+USA/specialCards/card_unit_sbd3_dauntless_cam1.uasset	card_unit_sbd3_dauntless_cam1	USA		
+USA/specialCards/card_unit_superman.uasset	card_unit_superman	USA		
+USA/specialCards/card_unit_t19_howitzer_cam1.uasset	card_unit_t19_howitzer_cam1	USA		
+USA/specialCards/card_unit_tropic_lightning_vet.uasset	card_unit_tropic_lightning_vet	USA		
+USA/specialCards/card_unit_wolfhounds_vet.uasset	card_unit_wolfhounds_vet	USA		
+USA/ToW/events/card_event_a_few_good_men.uasset	card_event_a_few_good_men	USA		
+USA/ToW/events/card_event_direct_hit.uasset	card_event_direct_hit	USA		
+USA/ToW/events/card_event_high_altitude_bombing.uasset	card_event_high_altitude_bombing	USA		
+USA/ToW/events/card_event_patrol.uasset	card_event_patrol	USA		
+USA/ToW/events/card_event_special_delivery_us.uasset	card_event_special_delivery_us	USA		
+USA/ToW/units/card_unit_164th_infantry_regiment.uasset	card_unit_164th_infantry_regiment	USA		
+USA/ToW/units/card_unit_2_5_marines.uasset	card_unit_2_5_marines	USA		
+USA/ToW/units/card_unit_p39_airacobra.uasset	card_unit_p39_airacobra	USA		
+USA/WinterWar/events/card_event_duress.uasset	card_event_duress	USA		
+USA/WinterWar/events/card_event_grim_day.uasset	card_event_grim_day	USA		
+USA/WinterWar/events/card_event_production_order.uasset	card_event_production_order	USA		
+USA/WinterWar/events/card_event_supply_priorities.uasset	card_event_supply_priorities	USA		
+USA/WinterWar/events/card_event_vicious_salvo.uasset	card_event_vicious_salvo	USA		
+USA/WinterWar/events/card_event_victory_march.uasset	card_event_victory_march	USA		
+USA/WinterWar/units/card_unit_104th_infantry_regiment.uasset	card_unit_104th_infantry_regiment	USA		
+USA/WinterWar/units/card_unit_13th_engineers_battalion.uasset	card_unit_13th_engineers_battalion	USA		
+USA/WinterWar/units/card_unit_142nd_infantry_regiment.uasset	card_unit_142nd_infantry_regiment	USA		
+USA/WinterWar/units/card_unit_devils_brigade.uasset	card_unit_devils_brigade	USA		
+USA/WinterWar/units/card_unit_les_terribles.uasset	card_unit_les_terribles	USA		
+USA/WinterWar/units/card_unit_m10_a1.uasset	card_unit_m10_a1	USA		
+USA/WorldAtWar/events/card_event_battery.uasset	card_event_battery	USA		
+USA/WorldAtWar/events/card_event_firewall.uasset	card_event_firewall	USA		
+USA/WorldAtWar/events/card_event_screening_force.uasset	card_event_screening_force	USA		
+USA/WorldAtWar/units/card_unit_112th_infantry_regiment.uasset	card_unit_112th_infantry_regiment	USA		
+USA/WorldAtWar/units/card_unit_442nd_infantry_regiment.uasset	card_unit_442nd_infantry_regiment	USA		
+USA/WorldAtWar/units/card_unit_5th_medical_battalion.uasset	card_unit_5th_medical_battalion	USA		
+USA/WorldAtWar/units/card_unit_5th_rangers.uasset	card_unit_5th_rangers	USA		
+USA/WorldAtWar/units/card_unit_m4a2.uasset	card_unit_m4a2	USA		
+USA/WorldAtWar/units/card_unit_p47d_25_waw.uasset	card_unit_p47d_25_waw	USA		
+USA/WorldAtWar/units/card_unit_seagull.uasset	card_unit_seagull	USA		
+USA/WorldAtWar/units/card_unit_seahawk.uasset	card_unit_seahawk	USA		
+USA/WorldAtWar/units/card_unit_tigercat.uasset	card_unit_tigercat	USA		
+Visuals/VisualCardActionBase.uasset	VisualCardActionBase	Visuals		
+WBP_CreateCardInnerButton.uasset	WBP_CreateCardInnerButton	WBP_CreateCardInnerButton.uasset		
+Wildcards/card_wildcard_elite.uasset	card_wildcard_elite	Wildcards		
+Wildcards/card_wildcard_elite_britain.uasset	card_wildcard_elite_britain	Wildcards		
+Wildcards/card_wildcard_elite_germany.uasset	card_wildcard_elite_germany	Wildcards		
+Wildcards/card_wildcard_elite_japan.uasset	card_wildcard_elite_japan	Wildcards		
+Wildcards/card_wildcard_elite_soviet.uasset	card_wildcard_elite_soviet	Wildcards		
+Wildcards/card_wildcard_elite_usa.uasset	card_wildcard_elite_usa	Wildcards		
+Wildcards/card_wildcard_limited.uasset	card_wildcard_limited	Wildcards		
+Wildcards/card_wildcard_limited_britain.uasset	card_wildcard_limited_britain	Wildcards		
+Wildcards/card_wildcard_limited_germany.uasset	card_wildcard_limited_germany	Wildcards		
+Wildcards/card_wildcard_limited_japan.uasset	card_wildcard_limited_japan	Wildcards		
+Wildcards/card_wildcard_limited_soviet.uasset	card_wildcard_limited_soviet	Wildcards		
+Wildcards/card_wildcard_limited_usa.uasset	card_wildcard_limited_usa	Wildcards		
+Wildcards/card_wildcard_special.uasset	card_wildcard_special	Wildcards		
+Wildcards/card_wildcard_special_britain.uasset	card_wildcard_special_britain	Wildcards		
+Wildcards/card_wildcard_special_germany.uasset	card_wildcard_special_germany	Wildcards		
+Wildcards/card_wildcard_special_japan.uasset	card_wildcard_special_japan	Wildcards		
+Wildcards/card_wildcard_special_soviet.uasset	card_wildcard_special_soviet	Wildcards		
+Wildcards/card_wildcard_special_usa.uasset	card_wildcard_special_usa	Wildcards		
+Wildcards/card_wildcard_standard.uasset	card_wildcard_standard	Wildcards		
+Wildcards/card_wildcard_standard_britain.uasset	card_wildcard_standard_britain	Wildcards		
+Wildcards/card_wildcard_standard_germany.uasset	card_wildcard_standard_germany	Wildcards		
+Wildcards/card_wildcard_standard_japan.uasset	card_wildcard_standard_japan	Wildcards		
+Wildcards/card_wildcard_standard_soviet.uasset	card_wildcard_standard_soviet	Wildcards		
+Wildcards/card_wildcard_standard_usa.uasset	card_wildcard_standard_usa	Wildcards		
+ZSideEffectHolders/card_sideeffect_holder_left.uasset	card_sideeffect_holder_left	ZSideEffectHolders		
+ZSideEffectHolders/card_sideeffect_holder_right.uasset	card_sideeffect_holder_right	ZSideEffectHolders		

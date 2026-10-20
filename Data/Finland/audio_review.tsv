@@ -1,0 +1,81 @@
+id	original	asr	distance	seconds	rms	peak	sha256
+FI_ORDER_card_event_breaking_point	He eivät pysty vastaamaan tuleen. Viimeistelkää hyökkäys!	He eivät pysty vastaamaan tuleen viimeistelkää hyökkäys.	0.000	4.490	0.0986	0.9400	4cbc05c7c0f480408809c197fb6d4c845e1618cbb908b588f61ea7b4eab83868
+FI_ORDER_card_event_cold_trap	Antakaa heidän tulla. Sissit katkaisevat hyökkäyksen!	Antakaa heidän tullosissit katkaisevat hyökkäyksen.	0.022	4.010	0.1014	0.9400	ad185a6492bf2af96878ed7c5d6329e19822137ec0c26e5487e2a4a1ba42e44d
+FI_ORDER_card_event_dark_deeds	Sissit ovat asemissa. Viesti tuli, toimikaa nopeasti!	Siis sit ovat asemissa piesti tuli toimikaan nopeasti.	0.044	4.130	0.1053	0.9400	9da4a5a9f28364e1ca7be8ff243d9bdde00f2c5d2d5e252c66f9635a3f960767
+FI_ORDER_card_event_decoy_tactics	Houkutelkaa heidät ansaan. Jokainen hyökkäys käy heille kalliiksi!	Oukutelkaa heidät ansaan, jokainen hyökkäys käy heille kalliksi.	0.018	5.840	0.0887	0.9400	09c22e57bc0863e3a57a2309a2cc01758c5b02d1a114a7c834b4a0daa06a2c42
+FI_ORDER_card_event_depot_raid	Ajakaa heidät pois varikolta. Kalusto jää meille!	Ajakaa heidät pois pari koulta. Kalusto, jää meille!	0.036	4.050	0.1052	0.9400	c031254c3432237c5ba1f2db0380d15a3b0ca21121bd022b7f90293e00404cd3
+FI_ORDER_card_event_friendly_fire_fin	Sekoittakaa heidän rivinsä. He ampuvat omiaan!	Sekoitakaa heidän ribinsä, he ampuvat omiaan.	0.039	4.040	0.1177	0.9400	21af111c46766d68ad7394ca471afa8c387f6b97d890a527b8fa8298f354903a
+FI_ORDER_card_event_frozen_assets	Partio iskuun! Ottakaa vihollisen kalusto talteen!	Artio, iskuun ottakaa vihollisen kalustotauteen.	0.035	3.900	0.0928	0.9400	2c8c2500b19f99c4a990312b32caf8d0392f6a7ac2b076e65b5e6bbb58a6c2a1
+FI_ORDER_card_event_heartland_defense	Kotiemme kimppuun ei käydä! Puolustajat asemiin!	Kotiemme kimppuun ei käydä puolustajat asemiin.	0.000	3.780	0.1042	0.9400	731277b9e64b430c049fd5f8d867ee139d27e2cdb6041b9620773d9f08cb358a
+FI_ORDER_card_event_lotta_svard	Yhteys kunnossa! Joukot voivat jatkaa taistelua!	Yhteys kunnossa joukot voivat jatkaa taistelua.	0.000	3.890	0.0986	0.9400	e2c1338287d7f4268c5dbaa5baadaccc04822dffa952d2a34bf32bd89050948b
+FI_ORDER_card_event_molotov_cocktail_fin	Pullot valmiiksi! Pysäytetään niiden eteneminen!	Mullut valmiiksi pysäytetään, niiden eteneminen.	0.048	4.060	0.1166	0.9400	512371ba211fb2197a5c2103bf1818e72db723d9f6df689f1bfd12adf2b926d2
+FI_ORDER_card_event_motti_tactic	Katkaiskaa tie! Saartakaa ja ottakaa kalusto!	Katkaiskaa tie saamtakaa ja ottakaa kalusto.	0.026	4.000	0.1300	0.9257	ab056353c5f93f88c498e632acb0c9fc1588e465550419b58ad54a3e47331a28
+FI_ORDER_card_event_order_of_the_day	Suomen miehet, aseisiin! Sissiosastot kokoontuvat!	Suomen miehet aseisiin sissiosastot kokoontuvat.	0.000	4.130	0.0971	0.9400	ee08f0ae14dc8da16158e4ec9c955dac979e7fd16d05a0dab708955822bdf94c
+FI_ORDER_card_event_prolonged_siege	Saartorengas pitää. Uudet tiedot on käytettävä heti!	Saartorennas pitää uudet tiedot, on käytettävä heti.	0.023	4.280	0.0885	0.9400	a6b4b592b586e8ea448a132e1b8e169a69c219e343344fcabc0eefeec0d99c64
+FI_ORDER_card_event_salpa_line	Salpalinja pitää! Sissit vahvistavat puolustuksen!	Salpalinja pitää sissit vahvistavat puolustuksen.	0.000	4.000	0.1099	0.9400	c662bd90b7ea2be2db02b45755aff6305d540a00cb42f7201ec9dcc65d02e6e6
+FI_ORDER_card_event_scrap_metal	Purkuun! Käyttökelpoiset osat takaisin palvelukseen!	Burkuun käyttökelpoiset osat takaisin palvelukseen.	0.022	4.300	0.0901	0.9400	a64c9ee58eaeb1368719d3864b2bc524ee46db9c2fe0fb66cff803044a977e54
+FI_ORDER_card_event_sisu	Me emme murru! Isku takaisin vihollisen johtoon!	Me emme murru isku takaisin pihollisen johtoon.	0.025	3.980	0.1102	0.9400	a49d9dafe80028e51955c39ff92143522543ea40f26d34a1646b97ff001a437b
+FI_ORDER_card_event_ski_troops	Sukset liikkeelle! Yllättäkää tulokkaat ennen kuin he ehtivät toimia!	Sukset liikkeelle, yllättäkää tulokkaat ennen kuin he ehtivät toimia.	0.000	5.500	0.0927	0.9400	64a472984e7cf6c38725a16881ecea208432c1ab31effce23958281874296f1b
+FI_ORDER_card_event_strike_from_the_forest	Metsästä tulta! Sissit sulkevat tien!	Metsästä tuutasisit sulkevat tien.	0.049	3.110	0.0795	0.9400	57517dede170ec6b0240fda069219fb9303dc50160e25bf60d2ce3889faf9c3e
+FI_ORDER_card_event_through_the_ice	Jää pettää heidän allaan! Iskekää koko osastoon!	Ja pettää heidän allaan iskekää koko osastoon.	0.038	4.280	0.0861	0.9400	13cd1db5f03c4ce6d90bd94549e35e515d71c524e0af4342edc3fe06f36eca33
+FI_ORDER_card_event_white_death	He eivät näe meitä. Yksi laukaus, ja asemat vaihtoon!	He eivät näe meitä yksi laukaus ja asemat vaihtoon.	0.000	4.270	0.0973	0.9400	284fe709afee297ac48a0f042b53f2e27a2a343a98a76d697025bc58749c4e5b
+FI_SUB_AIR_ATTACK	Lähestymme maalia. Avataan tuli!	Lähestymme maalia, avataan tuli.	0.000	2.370	0.1200	0.9400	9b315868e62f9279844619f5084588204c4bda36bcae5753b6c172558a226906
+FI_SUB_AIR_ATTACK_2	Vihollinen edessä. Hyökkään!	Pihollinen edessä hyökkää.	0.064	2.210	0.1300	0.9003	e956336a30374f3bff4176963b46bc372531761eab54b326c51f1819deab1625
+FI_SUB_AIR_ATTACK_3	Syöksyyn! Avaan tulen!	Syöksyyn, avaan, tulen!	0.000	1.930	0.0956	0.9400	c61aa98f52fa53add7c2c4e657cf6eb66d2e66eae3acf8500e3a7aa3cdbed85b
+FI_SUB_AIR_DEPLOY	Parvi ilmassa. Odotamme käskyä.	Arvi ilmassa odotamme keskyä.	0.059	2.840	0.0793	0.9400	cb515ab4a02e49828559bd2ed17236b20b336767589a8018a24ed40f039f48ca
+FI_SUB_AIR_DEPLOY_2	Nousu valmis. Suunta kohti rintamaa.	Nousu valami suunta kohti rintamaa.	0.033	3.330	0.1215	0.9400	46ee5092bcf3b6999a3e31ae70f89359ae310f5fa375561202bc2e4984e13e75
+FI_SUB_AIR_DEPLOY_3	Aseet ladattu. Taivas on tarkkailussa.	Aseet ladattu taivas on tarkkailussa.	0.000	3.020	0.0871	0.9400	db312f11b12a7216eaef4d181390440eb9b352419a0c3f63af9c02911a5410ee
+FI_SUB_AIR_DEPLOY_4	Kone valmiina. Moottori käy tasaisesti.	Kone valmiina, moottori käy tasaisesti.	0.000	3.510	0.1099	0.9400	ec5fa3ec8081344f724f9b68e6d5ac0cd92c184a759618f5160d1937941f752f
+FI_SUB_AIR_DEPLOY_5	Lennämme korkealla. Maali näkyvissä.	Lennämme korkealla maalinäkymissä.	0.032	2.990	0.1014	0.9400	f79e6ed131ce5f98611f57d846a84b0f20c9f3f03af98138b7a1a56b6327434d
+FI_SUB_AIR_HURT	Koneeseen osui!	Koneeseen hosui.	0.037	1.560	0.1300	0.9390	92561d106a84a07690c3f84fe6555f5484933c9d01fc0517af05eabf78845815
+FI_SUB_AIR_HURT_2	Vihollinen takana! Väistä!	Lihollinen takana päistä!	0.091	2.040	0.1270	0.9400	0f1f0c0a49a61c8e85585c0f480a6df7415510f46dde94ff2e16956824c6e3e0
+FI_SUB_AIR_HURT_3	Siipi vaurioitui! Pysyn ilmassa!	Siipi vaurioitui pesyn ilmassa.	0.037	2.910	0.1008	0.9400	58c0ecde5aed23454ff060ad9f50949ff986cab1b8180d4ff2c5d91b68173dac
+FI_SUB_AIR_MOVE	Kohti etulinjaa!	Kohti etulinjaa!	0.000	1.860	0.0782	0.9400	6879f50876316a33cc275b35ccad2e9e87132ad76a79697c49eb76abc1de136a
+FI_SUB_AIR_MOVE_2	Vaihdetaan lentosuuntaa!	Vaihdetaan lentosuuntaa.	0.000	2.300	0.1021	0.9400	47af9cd4be0442b04c80847f97365e540b9c9dc4cd19e1249c648c1ecbe1d64d
+FI_SUB_ARTILLERY_ATTACK	Panssari näkyvissä! Avataan tuli!	Antsari näkyvissä avataan tuli.	0.055	2.550	0.0961	0.9400	b786f0db89858a7f68091a8fbcf5490517ae7cf252196585498e308802885943
+FI_SUB_ARTILLERY_ATTACK_2	Tähtäys valmis! Avataan tuli!	Tähtäis valmis avataan tuli.	0.042	2.320	0.0978	0.9400	c144fb0e91906455e84f5c69545084176bb0548518a11b54ba13f903f99bbd13
+FI_SUB_ARTILLERY_ATTACK_3	Suoraan maaliin! Avataan tuli!	Suoraan maaliin avataan tuli.	0.000	2.560	0.1300	0.8122	33bb9357794c27bb369b0282efc2d26621eb2edb1c5347251a3173ad7042612f
+FI_SUB_ARTILLERY_DEPLOY	Ammukset valmiina. Tykki on asemissa.	Pammukset valmiina tykki on asemissa.	0.016	3.240	0.1139	0.9400	4dd44b48cab4b4d288add1107933356f7a0dd57409b59126154a5121b367bda9
+FI_SUB_ARTILLERY_DEPLOY_2	Tuliasema valmis. Odotamme maalia.	Tuli-asema! Valmis odotamme maalia!	0.000	3.280	0.1168	0.9400	63abc652dd983600eae23aed8aaec4fe3c16cfd923d245f3936467de765387a0
+FI_SUB_ARTILLERY_DEPLOY_3	Tähtäin säädetty. Antakaa maali.	Tähtäin säädetty, antakaa maali!	0.000	2.670	0.1072	0.9400	b084c75ed99d87fa722361849bf6089e0403864c239df540b4470610f72055e8
+FI_SUB_ARTILLERY_DEPLOY_4	Miehistö paikalla. Putki kohti tietä.	Miehistöpaikalla putki kohti tietä.	0.000	3.040	0.1010	0.9400	75c640d2901ee92e25feafb9ee32cad110b4e236ab25ad9fa3f90efef93d06d9
+FI_SUB_ARTILLERY_DEPLOY_5	Tykki suunnattu. Olemme valmiina.	Tykkisuunnattu, olemme valmiina!	0.000	2.560	0.1267	0.9400	b4b617e07a5c8f74aaa256768d214dbf3cbe4fcf4ebbbc4ad15cf129e43e1956
+FI_SUB_ARTILLERY_HURT	Tykkiasemaan osui! Suojaan!	Tykkiasemaan osui suojaan.	0.000	2.840	0.0933	0.9400	1169f6abc0d1df041adefffe6e26f043b7c51fa5ad67552d7247f1f2273014b8
+FI_SUB_ARTILLERY_HURT_2	Miehistö suojaan!	Miehistö suojaan!	0.000	1.740	0.1121	0.9400	19e228794df0f2aa2785ff5bcda89f8a832db85e09463034f84e80de3073eee9
+FI_SUB_ARTILLERY_HURT_3	Tulta asemissamme! Pysykää matalana!	Tuota asemissamme pysykää matalana!	0.032	2.860	0.1119	0.9400	9f8b30c50f758d4595b42cca462f77b8074e386a3549d6d0c2a4c4354915ae7d
+FI_SUB_ARTILLERY_MOVE	Siirretään tykki eteen!	Siirretään tykki eteen.	0.000	2.180	0.0935	0.9400	1288980179c674e1ad60c2351e66a4616df38f4fb9f22df1ed5e0bb2daa1998e
+FI_SUB_ARTILLERY_MOVE_2	Uuteen tuliasemaan!	Uuteen tuliasemaan!	0.000	1.790	0.0954	0.9400	969a0abd84d7b96c4062bea6e3689b3f67c576d8b85bbce2069d6a6f5098b50c
+FI_SUB_CMD_ENEMY_HQ_LOW	Vihollisen esikunta horjuu. Jatkakaa hyökkäystä!	Vihollisen esikunta, Odju, jatkakaa hyökkäystä!	0.049	4.290	0.1247	0.9400	0e2719b1d794d4bd6f07b1ff7fbf5e60e7aa3e33472be819492f8496c39b882e
+FI_SUB_CMD_HQ_CRITICAL	Esikunta vaarassa! Viimeiset reservit tänne!	Esikunta vaarassa. Viimeiset reservit tänne.	0.000	3.940	0.0873	0.9400	d421563502739f2df84b9c62118a5f4ee9ab0a2b2dd0bf15fddca47ddc354506
+FI_SUB_CMD_HQ_LOW	Esikunta on tulen alla. Asemat lujiksi!	Esikunta on tulen alla, asemat lujiksi.	0.000	3.580	0.0916	0.9400	eb9ef79fa399a8a2232845fd8d161d72847f2eb3e7b79c216c6a30e29e285f3e
+FI_SUB_CMD_INTRO_1	Suomen sotilaat! Vihollinen tahtoo viedä meiltä kotimme!	Suomen sotilaak Pihollinen tahtoo viedä meiltä kotimme.	0.042	5.220	0.1035	0.9400	b3ab9e95901916a0dfe938fbc3d36909bfb9b9b9757f6940fc98ea6469f5da5a
+FI_SUB_CMD_INTRO_2	Näyttäkää heille, ettei tämä maa antaudu!	Näyttäkää heille, ettei tämä maa antaudu!	0.000	3.470	0.1160	0.9400	7ec8e5d3cac827983b7ec936a681c4a7528ede6115298401fc6dbfd79596aa2c
+FI_SUB_CMD_INTRO_3	Jokaisessa metsässä, jokaisella tiellä pysäytämme heidät!	Jokaisessa metsässä, jokaisella tiellä pysäytämme heidät.	0.000	5.230	0.1048	0.9400	81206dfe39ea24c981cb38df6244eaac44722dba6646a803b4a5a0b9ed54a4de
+FI_SUB_CMD_INTRO_4	Lyökää heidät takaisin! Taistelkaa vapautemme puolesta!	Yökää heidät takaisin taistelukkaan vapautemme puolesta.	0.041	4.250	0.1164	0.9400	effc4b3e6f7116ae4b2be9b0f6b5b3439a28dcee8c9b76108376f282b939a0fd
+FI_SUB_CMD_INTRO_5	Suomen puolesta! Kaikki eteenpäin!	Suomen puolesta kaikki eteenpäin.	0.000	2.910	0.0893	0.9400	6a5774c0261e1234a7269185f61d8be30cf7851f7393971fc3de20fc31529688
+FI_SUB_INFANTRY_ATTACK	Aseet valmiina! Avataan tuli!	Aset valmiina, avataan tuli!	0.021	2.210	0.1300	0.8528	3688799ba0bf2ef1ab34213e68e8727cbc2ea778c83a6758be09481d8e9db810
+FI_SUB_INFANTRY_ATTACK_2	Vihollinen tähtäimessä. Ammumme!	Diolinen tähtäimessä ammumme.	0.074	2.740	0.0929	0.9400	3f2b583ad9154ee4b113770eb5ae50a73e26ce04494b26a67c31b6a43c4ef7a2
+FI_SUB_INFANTRY_ATTACK_3	Nyt isketään! Eteenpäin!	Nyt isketen eteenpäin.	0.077	2.300	0.1151	0.9400	a3b5a17455f6648b8bd163cdd26a126ceb5e5a604f78d3699fa8455b9c6691b2
+FI_SUB_INFANTRY_DEPLOY	Osasto valmiina. Odotamme käskyä.	Osasto, valmiina odotamme käskyä.	0.000	3.150	0.0802	0.9400	f10ea17de1abf65f89d9154bd98636b150bc641d1cdcaf35df9a09aef8772fb7
+FI_SUB_INFANTRY_DEPLOY_2	Asemat miehitetty. Pidämme tämän kohdan.	Asemat miehitetty pidämme tämän kohdan.	0.000	3.500	0.1049	0.9400	fe71981cee87ba4455b2f237df7095a057881cafbc647d0aa0b75fd37c6ed7fa
+FI_SUB_INFANTRY_DEPLOY_3	Ryhmä paikalla. Aseet ovat valmiina.	Yhmä paikalla aseet ovat valmiina.	0.017	2.990	0.1063	0.9400	fdfd5938b9b0960f08398e3b1aecd0a208dd1694975f0c5fd6681e59e8b5a845
+FI_SUB_INFANTRY_DEPLOY_4	Metsänreuna varmistettu. Tänne ei tulla.	Metsänheuna varmistettu tänne ei tulla.	0.029	3.160	0.0898	0.9400	319dc5478646eb445f46ab9ebc0b3be89a2e7c3c8c33d18da265f19fbcb9a484
+FI_SUB_INFANTRY_DEPLOY_5	Miehet ovat asemissa. Voimme aloittaa.	Niehet ovat asemissa, poimme aloittaa!	0.062	3.480	0.0956	0.9400	8a81610580b220db027f7a0ce69f74b294aa94d5f9980b98ae6cb123182a5f45
+FI_SUB_INFANTRY_HURT	Suojaan! Meitä tulitetaan!	Suojaan meitä tulitetaan!	0.000	2.280	0.1106	0.9400	5156e9b59b9563c6ce1a7ae8f986caf9426b0e535c8f8ac5030392e41e5f287c
+FI_SUB_INFANTRY_HURT_2	Pysykää suojassa!	Mysykää suojassa.	0.067	1.480	0.1079	0.9400	b831ed45de43931a47a83d5ae35fa3eb2d3e75f2e9fe11176b9fdf5bbedaae9a
+FI_SUB_INFANTRY_HURT_3	Osumia asemissa! Pidetään asemat!	Osumia asemissa pidätään asemat.	0.036	3.530	0.0996	0.9400	62265c54ca99caa2f570fe863a30678b2529950d1cc92862e2f84826434477ee
+FI_SUB_INFANTRY_MOVE	Liikkeelle! Pysykää yhdessä!	Niikkeelle pysykää yhdessä.	0.042	2.370	0.0913	0.9400	9028941d1ff21e3387b18328d37529e7a9626cf4327d5d380c75dbb876c79095
+FI_SUB_INFANTRY_MOVE_2	Eteenpäin, metsän suojaan!	eteenpäin metsensuojaan.	0.045	2.550	0.1068	0.9400	d7251cd420ba3d5c0e39f77c6978afd47498957e0dff694bf15e4fe8968c10cf
+FI_SUB_TANK_ATTACK	Vihollinen edessä! Avataan tuli!	Pihollinen edessä avataan tuli.	0.037	2.510	0.1300	0.8464	c125422f5f780f9c9e50d5807dfbd4f51b2db9872ce7edfbffb43ad148a6e283
+FI_SUB_TANK_ATTACK_2	Tykki kohti vihollista!	Tykki kohti vihollista.	0.000	2.160	0.1276	0.9134	3dcca01065ba6032beae8009df8c18d3c8f346ba8dbc274a7de8e74e9a18e505
+FI_SUB_TANK_ATTACK_3	Laukaus! Jatkakaa hyökkäystä!	Maukaus, jatkakaa hyökkäystä!	0.040	2.340	0.1078	0.9400	a6dfc4d462543e7f0f3e9141d5dcd32f6451217aeae675d1e74e892dcbc89cca
+FI_SUB_TANK_DEPLOY	Vaunu valmiina. Odotamme lähtökäskyä.	Vaanu, valmiina odotamme lähtökäskyä.	0.031	3.500	0.1067	0.9400	24e8929ac789bcbe4b9ad176dc101ec7adb094f8047beeafa3d99b07582e639d
+FI_SUB_TANK_DEPLOY_2	Moottori käy. Ammukset mukana.	Moottori käy ammukset mukana.	0.000	2.360	0.1126	0.9400	6e0e9b1317089a615d05eb916fba9b49ca6e912dfcd47eeb31a5b66e0ff0496d
+FI_SUB_TANK_DEPLOY_3	Miehistö paikoillaan. Voimme lähteä.	Miehistöpaikoillaan voimme lähteä.	0.000	2.620	0.1028	0.9400	2e8c126f8c0d08ff68014cd420398fdc21eb1ab6ef1454a06e06f443262e49ba
+FI_SUB_TANK_DEPLOY_4	Panssari etulinjaan. Näyttäkää suunta.	Antsari etulinjaan, näyttekää suunta!	0.077	3.100	0.0906	0.9400	b14e51fd4c98bea57ac406d58301a005afe80f5a74fbcac521d7991f3d044aa1
+FI_SUB_TANK_DEPLOY_5	Tähtäin kunnossa. Tykki ladattu.	Tehtäen kunnossa tykki ladattu.	0.074	2.500	0.0965	0.9400	adf44c0c0de047dbaf0a9c8b7348329ab030e60c50ddb239a950a9f485315e81
+FI_SUB_TANK_HURT	Osuma panssariin!	Osuma-pansseriin!	0.067	1.700	0.1035	0.9400	ee9c57e4eaa63c7d937a09d83b376bd0b6f3c8ce948be700601727c68116c9dc
+FI_SUB_TANK_HURT_2	Meihin osui! Pitäkää kiinni!	Meihin osuit, pitäkää kiinni!	0.021	2.630	0.0813	0.9400	7700554446c36f80fd647b1aa3fbfca68777aa66f8098fcc704b14a268861a45
+FI_SUB_TANK_HURT_3	Sivustalta tulitetaan!	Sivustalta tulitetaan.	0.000	1.900	0.1225	0.9400	8baeef4b78fd63af3535e2777aa5a384269b98d426fc2b23940319f2baba0565
+FI_SUB_TANK_MOVE	Vaunu eteenpäin!	Vaunu eteenpäin.	0.000	1.740	0.1191	0.9400	a3e4d81c3e85c20b02abb3ab881a01a3409ef2d4ab1dccb90d6a3c02ae30a135
+FI_SUB_TANK_MOVE_2	Kohti etulinjaa. Liikkeelle!	Kohti etu linjaa liikkeelle.	0.000	2.370	0.1011	0.9400	7da4bbf66638147f99269223c80a147cea303484aacb6bc52262d43d186d32f2

@@ -1,0 +1,7 @@
+resource	chinese_title	effect_zh	original	chinese	review
+card_event_reinforcements	增援	完全修复所有友方单位，抽 1 张牌。	Nachschub ist da. Verwundete versorgen, Fahrzeuge reparieren!	补给到了。救治伤员，修复车辆！	语义已按当前牌效校对；原创口语军令；不冒充史料
+card_event_tactical_strike	战术打击	对 1 个单位造成 2 点伤害。若其在支援阵线，改为造成 4 点伤害。	Feindliche Stellung erfasst. Schwerpunkt im Hinterland!	已锁定敌军阵地。重点打击后方！	语义已按当前牌效校对；原创口语军令；不冒充史料
+card_event_synthetic_oil	合成机油	下个回合开始时，获得 10 个指挥点并抽 1 张牌。	Treibstofflieferung bestätigt. Nächsten Einsatz vorbereiten!	燃料供应已确认。准备下一次行动！	语义已按当前牌效校对；原创口语军令；不冒充史料
+card_event_mountain_offense	山地攻势	随机将花费为 1，2 和 3 的山地单位各 1 个加入支援阵线。	Gebirgstruppen sammeln sich. Verstärkung trifft ein!	山地部队正在集结。援军抵达！	语义已按当前牌效校对；原创口语军令；不冒充史料
+card_event_combined_arms	协同作战	友方单位每有一种单位类型，使 1 个友方坦克获得一次 +1+1。	Alle Waffengattungen unterstützen die Panzer!	各兵种支援坦克！	语义已按当前牌效校对；原创口语军令；不冒充史料
+card_event_minor_nation_conquest	征服	友方单位每有一种单位类型，抽 1 张牌。	Alle Truppengattungen melden. Lageberichte zusammentragen!	各兵种报告。汇总战况情报！	语义已按当前牌效校对；原创口语军令；不冒充史料

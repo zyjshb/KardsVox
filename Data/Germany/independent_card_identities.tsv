@@ -1,0 +1,297 @@
+resource	category	chinese_title	scope	rotation_status
+card_event_admiral_hipper	ORDER	KM 希佩尔海军上将号	card	unconfirmed
+card_event_advanced_reich_research	ORDER	高级德意志帝国研发	card	unconfirmed
+card_event_air_blitz	ORDER	空中闪击	card	unconfirmed
+card_event_air_blitz_tut	ORDER	空中闪击	tutorial	unconfirmed
+card_event_airstrike_new	ORDER	空袭	card	unconfirmed
+card_event_alpenfestung	ORDER	阿尔卑斯要塞	card	unconfirmed
+card_event_annihilation	ORDER	歼灭	card	unconfirmed
+card_event_aunt_frieda	ORDER	弗里达阿姨手册	card	unconfirmed
+card_event_bismarck	ORDER	KM 俾斯麦号	card	unconfirmed
+card_event_blackout	ORDER	灯火管制	card	unconfirmed
+card_event_blitz_doctrine	ORDER	闪击战法	card	unconfirmed
+card_event_blitzkrieg	ORDER	闪电战	card	unconfirmed
+card_event_breakthrough	ORDER	突破	card	unconfirmed
+card_event_bridge_too_far	ORDER	遥远的桥	card	unconfirmed
+card_event_buzz_bomb	ORDER	嗡嗡炸弹	card	unconfirmed
+card_event_bypass	ORDER	迂回	card	unconfirmed
+card_event_campaign_alamein1_flanking_maneuver	ORDER	侧翼机动	campaign	unconfirmed
+card_event_campaign_alamein1_iron_fist	ORDER	铁拳	campaign	unconfirmed
+card_event_campaign_alamein3_head_to_head	ORDER	硬碰硬	campaign	unconfirmed
+card_event_campaign_alamein3_riding_the_storm	ORDER	乘风破浪	campaign	unconfirmed
+card_event_capitulation	ORDER	一触即溃	card	unconfirmed
+card_event_careless_talk	ORDER	无心漫谈	card	unconfirmed
+card_event_case_blue	ORDER	蓝色方案	card	unconfirmed
+card_event_case_yellow	ORDER	黄色方案	card	unconfirmed
+card_event_claim_objective	ORDER	夺取目标	card	unconfirmed
+card_event_combined_arms	ORDER	协同作战	card	unconfirmed
+card_event_combined_arms_cam1	ORDER	协同作战	campaign	unconfirmed
+card_event_contest_doctrine	ORDER	竞争战法	card	unconfirmed
+card_event_crossfire	ORDER	交叉火力	card	unconfirmed
+card_event_detailed_recon	ORDER	周密侦察	card	unconfirmed
+card_event_dive_bombing	ORDER	俯冲轰炸	card	unconfirmed
+card_event_eagle_claws	ORDER	鹰爪	card	unconfirmed
+card_event_eagle_day	ORDER	鹰日计划	card	unconfirmed
+card_event_encirclement	ORDER	包围	card	unconfirmed
+card_event_enemy_sighted	ORDER	目击敌人	card	unconfirmed
+card_event_enigma	ORDER	恩尼格玛	card	unconfirmed
+card_event_entrapment	ORDER	圈套	card	unconfirmed
+card_event_envelop	ORDER	合围	card	unconfirmed
+card_event_expanded_reich_research	ORDER	扩展德意志帝国研发	card	unconfirmed
+card_event_exploit_the_gap	ORDER	扩大优势	card	unconfirmed
+card_event_fast_heinz	ORDER	古德里安	card	unconfirmed
+card_event_fighter_frieda	ORDER	空中支援	card	unconfirmed
+card_event_fliegerfuhrer_atlantik	ORDER	大西洋航空指挥部	card	unconfirmed
+card_event_focused_attack_ger	ORDER	集中攻击	card	unconfirmed
+card_event_foiled_plans	ORDER	轻虑浅谋	card	unconfirmed
+card_event_from_the_deep	ORDER	来自深处	card	unconfirmed
+card_event_front_and_homeland	ORDER	前线与家乡	card	unconfirmed
+card_event_gathering_storm	ORDER	风暴前夕	card	unconfirmed
+card_event_german_counterattack	ORDER	反击	card	unconfirmed
+card_event_glide_bombing	ORDER	滑翔轰炸	card	unconfirmed
+card_event_happy_time	ORDER	美好时光	card	unconfirmed
+card_event_harass	ORDER	侵扰	card	unconfirmed
+card_event_hit_the_drop_point	ORDER	袭击落点	card	unconfirmed
+card_event_iron_from_the_north	ORDER	北方铁矿	card	unconfirmed
+card_event_joint_operation	ORDER	联合行动	card	unconfirmed
+card_event_joint_operation_cam1	ORDER	联合行动	campaign	unconfirmed
+card_event_kettenkrad_home	ORDER	轻型履带摩托车	card	unconfirmed
+card_event_kriegsmarine	ORDER	战争海军	card	unconfirmed
+card_event_lightning_strike	ORDER	闪电袭击	card	unconfirmed
+card_event_lost_convoy	ORDER	护航覆灭	card	unconfirmed
+card_event_lurking_danger	ORDER	潜在危险	card	unconfirmed
+card_event_maelstrom	ORDER	大混战	card	unconfirmed
+card_event_minor_nation_conquest	ORDER	征服	card	unconfirmed
+card_event_missing	ORDER	失踪	card	unconfirmed
+card_event_momentum	ORDER	破竹之势	card	unconfirmed
+card_event_mountain_offense	ORDER	山地攻势	card	unconfirmed
+card_event_night_attack	ORDER	夜间攻击	card	unconfirmed
+card_event_old_hares	ORDER	老兔子	card	unconfirmed
+card_event_precision_strike_tut	ORDER	精准打击	tutorial	unconfirmed
+card_event_prinz_eugen	ORDER	KM 欧根亲王号	card	unconfirmed
+card_event_propaganda	ORDER	战争宣传	card	unconfirmed
+card_event_protect_the_pocket	ORDER	困兽犹斗	card	unconfirmed
+card_event_pummel	ORDER	炮火连击	card	unconfirmed
+card_event_pursuit	ORDER	追击	card	unconfirmed
+card_event_rally	ORDER	重整旗鼓	card	unconfirmed
+card_event_rapid_engagement	ORDER	迅速交战	card	unconfirmed
+card_event_recuperation	ORDER	休养	card	unconfirmed
+card_event_reich_defenders	ORDER	非洲军团	card	unconfirmed
+card_event_reich_research	ORDER	德意志帝国研发	card	unconfirmed
+card_event_reichsbank	ORDER	德意志帝国银行	card	unconfirmed
+card_event_reinforcements	ORDER	增援	card	unconfirmed
+card_event_reinforcements_cam1	ORDER	增援	campaign	unconfirmed
+card_event_retaliation	ORDER	复仇	card	unconfirmed
+card_event_ride_of_the_valkyries	ORDER	女武神的骑行	card	unconfirmed
+card_event_root_out_the_enemy	ORDER	斩草除根	card	unconfirmed
+card_event_rout	ORDER	溃敌	card	unconfirmed
+card_event_run_the_battlefield	ORDER	掌控战场	card	unconfirmed
+card_event_rush_production	ORDER	加急生产	card	unconfirmed
+card_event_scatter_tactics	ORDER	分散战术	card	unconfirmed
+card_event_sea_hunters	ORDER	暗夜猎手	card	unconfirmed
+card_event_second_front	ORDER	第二战线	card	unconfirmed
+card_event_shifting_attack	ORDER	转变攻击	card	unconfirmed
+card_event_sky_barons	ORDER	空中男爵	card	unconfirmed
+card_event_spoils_of_war	ORDER	战利品	card	unconfirmed
+card_event_stranglehold	ORDER	截断	card	unconfirmed
+card_event_strike_at_the_heart_skirm	ORDER	正中要害	brawl	unconfirmed
+card_event_sudden_strike	ORDER	突然袭击	card	unconfirmed
+card_event_support_column	ORDER	支援纵队	card	unconfirmed
+card_event_suppression_fire	ORDER	抑制	card	unconfirmed
+card_event_sustained_pressure	ORDER	持续施压	card	unconfirmed
+card_event_synthetic_oil	ORDER	合成机油	card	unconfirmed
+card_event_tactical_retreat	ORDER	暂避锋芒	card	unconfirmed
+card_event_tactical_strike	ORDER	战术打击	card	unconfirmed
+card_event_tank_frieda	ORDER	坦克机动	card	unconfirmed
+card_event_tank_wedge	ORDER	装甲楔形阵	card	unconfirmed
+card_event_through_the_breach	ORDER	乘虚而入	card	unconfirmed
+card_event_tip_of_the_spear	ORDER	矛尖	card	unconfirmed
+card_event_tirpitz	ORDER	KM 提尔皮茨号	card	unconfirmed
+card_event_type_xxi_boat	ORDER	XXI 级 U 型潜艇	card	unconfirmed
+card_event_u_16	ORDER	U-16	card	unconfirmed
+card_event_u_375	ORDER	U-375	card	unconfirmed
+card_event_u_99	ORDER	U-48	card	unconfirmed
+card_event_uranium_club	ORDER	铀工程	card	unconfirmed
+card_event_v1_flying_bomb	ORDER	V-1 飞行炸弹	card	unconfirmed
+card_event_wolfpack	ORDER	狼群战术	card	unconfirmed
+card_unit_101_infantry_regiment	INFANTRY	第 101 步兵团	card	unconfirmed
+card_unit_102_grenadier	INFANTRY	第 102 掷弹兵团	card	unconfirmed
+card_unit_102_grenadier_vet	INFANTRY	第 102 掷弹兵团	special	unconfirmed
+card_unit_104_panzergrenadier	INFANTRY	第 104 装甲掷弹兵团	card	unconfirmed
+card_unit_108_panzergrenadier	INFANTRY	第 108 装甲掷弹兵团	card	unconfirmed
+card_unit_1097_volksgrenadier	INFANTRY	第 1097 国民掷弹兵团	card	unconfirmed
+card_unit_10_5_cm_lefh	ARTILLERY	105 毫米轻型榴弹炮	card	unconfirmed
+card_unit_110_panzergrenadier	INFANTRY	第 110 装甲掷弹兵团	card	unconfirmed
+card_unit_113_schutzen	INFANTRY	第 113 步枪兵团	card	unconfirmed
+card_unit_119_grenadier	INFANTRY	第 119 掷弹兵团	card	unconfirmed
+card_unit_119_grenadier_vet	INFANTRY	第 119 掷弹兵团	special	unconfirmed
+card_unit_136_gebirgsjager	INFANTRY	第 136 山地猎兵团	card	unconfirmed
+card_unit_139_gebirgsjager	INFANTRY	第 139 山地猎兵团	card	unconfirmed
+card_unit_13_gebirgsjager	INFANTRY	第 13 山地猎兵团	card	unconfirmed
+card_unit_141_gebirgsjager	INFANTRY	第 141 山地猎兵团	card	unconfirmed
+card_unit_14_panzergrenadier	INFANTRY	第 14 装甲掷弹兵团	card	unconfirmed
+card_unit_14_panzergrenadier_vet	INFANTRY	第 14 装甲掷弹兵团	special	unconfirmed
+card_unit_158_nachschub	INFANTRY	第 158 补给营	card	unconfirmed
+card_unit_15_aufklarungs	INFANTRY	第 15 侦察营	card	unconfirmed
+card_unit_15_cm_autokanone	ARTILLERY	150 毫米榴弹炮	card	unconfirmed
+card_unit_169_grenadiers	INFANTRY	第 169 掷弹兵团	card	unconfirmed
+card_unit_171_infantry_regiment	INFANTRY	第 171 步兵团	card	unconfirmed
+card_unit_182_landwehr	INFANTRY	第 182 国土防卫团	card	unconfirmed
+card_unit_182_landwehr_vet	INFANTRY	第 182 国土防卫团	special	unconfirmed
+card_unit_18_infantry_regiment	INFANTRY	第 18 步兵团	card	unconfirmed
+card_unit_1st_infantry_regiment	INFANTRY	第 1 步兵团	card	unconfirmed
+card_unit_1st_infantry_regiment_cam1	INFANTRY	第 155 轻步兵团	campaign	unconfirmed
+card_unit_20_panzergrenadier	INFANTRY	第 20 装甲掷弹兵团	card	unconfirmed
+card_unit_22_infantry	INFANTRY	第 22 步兵团	card	unconfirmed
+card_unit_25_panzergrenadier	INFANTRY	第 25 装甲掷弹兵团	card	unconfirmed
+card_unit_27_fusiliers	INFANTRY	第 27 燧发枪兵团	card	unconfirmed
+card_unit_28_jager_regiment	INFANTRY	第 28 猎兵团	card	unconfirmed
+card_unit_2_marine_division	INFANTRY	第 2 海军步兵师	card	unconfirmed
+card_unit_304_panzergrenadier	INFANTRY	第 304 装甲掷弹兵团	card	unconfirmed
+card_unit_30_infantry_regiment	INFANTRY	第 30 步兵团	card	unconfirmed
+card_unit_33_panzergrenadier	INFANTRY	第 33 装甲掷弹兵团	card	unconfirmed
+card_unit_342_fusiliers	INFANTRY	第 342 燧发枪兵营	card	unconfirmed
+card_unit_35_grenadier	INFANTRY	第 35 掷弹兵团	card	unconfirmed
+card_unit_35_grenadier_vet	INFANTRY	第 35 掷弹兵团	special	unconfirmed
+card_unit_361_light_regiment	INFANTRY	第 361 非洲兵团	card	unconfirmed
+card_unit_361_light_regiment_cam1	INFANTRY	第 361 非洲兵团	campaign	unconfirmed
+card_unit_36_kradschutzen	INFANTRY	第 36 摩托化步兵营	card	unconfirmed
+card_unit_38_jaeger_tut	INFANTRY	第 38 猎兵团	tutorial	unconfirmed
+card_unit_39_panzergrenadier	INFANTRY	第 39 装甲掷弹兵团	card	unconfirmed
+card_unit_3_fallschirmjager	INFANTRY	第 3 空降猎兵团	card	unconfirmed
+card_unit_3_fallschirmjager_cam1	INFANTRY	第 125 装甲掷弹兵团	campaign	unconfirmed
+card_unit_3_panzergrenadier	INFANTRY	第 3 装甲掷弹兵团	card	unconfirmed
+card_unit_40_panzergrenadier	INFANTRY	第 40 装甲掷弹兵团	card	unconfirmed
+card_unit_432_infantry_regiment	INFANTRY	第 432 步兵团	card	unconfirmed
+card_unit_43_infantry_regiment	INFANTRY	第 43 步兵团	card	unconfirmed
+card_unit_4_fallschirmjager	INFANTRY	第 4 空降猎兵团	card	unconfirmed
+card_unit_4_pioneer	INFANTRY	第 4 先锋营	card	unconfirmed
+card_unit_50_infantry_regiment	INFANTRY	第 50 步兵团	card	unconfirmed
+card_unit_50_infantry_regiment_vet	INFANTRY	第 50 步兵团	special	unconfirmed
+card_unit_54_jager_regiment	INFANTRY	第 56 猎兵团	card	unconfirmed
+card_unit_5_panzergrenadier	INFANTRY	第 5 装甲掷弹兵团	card	unconfirmed
+card_unit_62_infantry_regiment	INFANTRY	第 62 步兵团	card	unconfirmed
+card_unit_64_panzergrenadier	INFANTRY	第 64 装甲掷弹兵团	card	unconfirmed
+card_unit_64_panzergrenadier_vet	INFANTRY	第 64 装甲掷弹兵团	special	unconfirmed
+card_unit_738_jager_regiment	INFANTRY	第 738 猎兵团	card	unconfirmed
+card_unit_74_panzergrenadier	INFANTRY	第 74 装甲掷弹兵团	card	unconfirmed
+card_unit_7_schutzen	INFANTRY	第 7 步枪兵团	card	unconfirmed
+card_unit_7_schutzen_vet	INFANTRY	第 7 步枪兵团	special	unconfirmed
+card_unit_81_infanterie_regiment	INFANTRY	第 81 步兵团	card	unconfirmed
+card_unit_87_grenadier	INFANTRY	第 87 掷弹兵团	card	unconfirmed
+card_unit_88_mm_flak	ARTILLERY	88 毫米高射炮	card	unconfirmed
+card_unit_92_infantry_regiment	INFANTRY	第 92 步兵团	card	unconfirmed
+card_unit_957_volksgrenadier	INFANTRY	第 957 国民掷弹兵团	card	unconfirmed
+card_unit_96_infantry_regiment	INFANTRY	第 96 步兵团	card	unconfirmed
+card_unit_989_infantry_regiment	INFANTRY	第 989 步兵团	card	unconfirmed
+card_unit_ace_of_spades	INFANTRY	黑桃 A 师	card	unconfirmed
+card_unit_ace_of_spades_vet	INFANTRY	黑桃 A 师	special	unconfirmed
+card_unit_adler_command_vehicle	TANK	狮鹫指挥车	card	unconfirmed
+card_unit_arado_ar_196	AIR	Ar 196	card	unconfirmed
+card_unit_armored_car_home	TANK	Sd Kfz 250/9	card	unconfirmed
+card_unit_bergmann_battalion	INFANTRY	山地人营	card	unconfirmed
+card_unit_bloom_and_voss	AIR	Bv 138 海龙	card	unconfirmed
+card_unit_blue_legion	INFANTRY	蓝色军团	card	unconfirmed
+card_unit_comet	AIR	Me 163 彗星	card	unconfirmed
+card_unit_dornier_do_17	AIR	Do 17 Z	card	unconfirmed
+card_unit_dornier_do_18g	AIR	Do 18 G	card	unconfirmed
+card_unit_dornier_do_217	AIR	Do 217	card	unconfirmed
+card_unit_fallschirmjager	INFANTRY	第 8 空降猎兵团	card	unconfirmed
+card_unit_feldhernhalle_rifles	INFANTRY	统帅堂装甲掷弹兵师	card	unconfirmed
+card_unit_fieseler_156	AIR	Fi 156 鹳式	card	unconfirmed
+card_unit_flak_37_spg	TANK	自行高炮 37 型	card	unconfirmed
+card_unit_flammpanzer	TANK	喷火坦克	card	unconfirmed
+card_unit_fw189	AIR	Fw 189 鸮鹰	card	unconfirmed
+card_unit_fw_190	AIR	Fw 190 A 百舌鸟	card	unconfirmed
+card_unit_fw_190_f	AIR	Fw 190 A-3/U3	card	unconfirmed
+card_unit_fw_190_f8	AIR	Fw 190 F-9	card	unconfirmed
+card_unit_fw_190_ta_152	AIR	Ta 152	card	unconfirmed
+card_unit_fw_190_ta_152_vet	AIR	Ta 152	special	unconfirmed
+card_unit_fw_200_condor	AIR	Fw 200 秃鹰	card	unconfirmed
+card_unit_gebirger_pionier_95	INFANTRY	第 95 山地工兵营	card	unconfirmed
+card_unit_grenadier_245	INFANTRY	第 980 国民掷弹兵团	card	unconfirmed
+card_unit_grenadier_245_blank	INFANTRY	第 980 国民掷弹兵团	special	unconfirmed
+card_unit_h39_swg	ARTILLERY	H39 sWG	card	unconfirmed
+card_unit_heinkel_he_111_waw	AIR	He 111	card	unconfirmed
+card_unit_heinkel_he_115_inv	AIR	He 115	card	unconfirmed
+card_unit_heinkel_he_219	AIR	He 219 夜枭	card	unconfirmed
+card_unit_heinkel_he_59	AIR	He 59	card	unconfirmed
+card_unit_henschel_he_129	AIR	Hs 129	card	unconfirmed
+card_unit_henschel_hs_123	AIR	Hs 123	card	unconfirmed
+card_unit_henschel_hs_126	AIR	Hs 126	card	unconfirmed
+card_unit_hummel	ARTILLERY	野蜂式自行火炮	card	unconfirmed
+card_unit_jagdpanther	TANK	猎豹	card	unconfirmed
+card_unit_jagdpanzer_iv	TANK	四号坦克歼击车	card	unconfirmed
+card_unit_jet_protoype_a	AIR	喷气机原型机	card	unconfirmed
+card_unit_ju_87_b2	AIR	Ju 87 B-2 斯图卡	card	unconfirmed
+card_unit_ju_87_stuka	AIR	Ju 87 B 斯图卡	card	unconfirmed
+card_unit_ju_88_g6	AIR	Ju 88 G-6	card	unconfirmed
+card_unit_junkers_ju_188	AIR	Ju 188 E 复仇者	card	unconfirmed
+card_unit_junkers_ju_88	AIR	Ju 88 A	card	unconfirmed
+card_unit_katzmann	INFANTRY	卡茨曼团	card	unconfirmed
+card_unit_king_tiger_ii	TANK	虎王坦克	card	unconfirmed
+card_unit_kurmark_aufklarungs	INFANTRY	库尔马克侦察营	card	unconfirmed
+card_unit_list_regiment	INFANTRY	利斯特步兵团	card	unconfirmed
+card_unit_marder_iii_h	TANK	黄鼠狼 III H 型	card	unconfirmed
+card_unit_maus	TANK	鼠式坦克	card	unconfirmed
+card_unit_me_262_schwalbe	AIR	Me 262 A 飞燕	card	unconfirmed
+card_unit_me_410_hornisse	AIR	Me 410 大黄蜂	card	unconfirmed
+card_unit_me_bf_109_brothers	AIR	Bf 109 G	card	unconfirmed
+card_unit_me_bf_109_g	AIR	Bf 109 E	card	unconfirmed
+card_unit_me_bf_109_v2	AIR	Bf 109 E-7 热带型	card	unconfirmed
+card_unit_me_bf_110	AIR	Bf 110	card	unconfirmed
+card_unit_me_bf_110_brothers	AIR	Bf 110 E	card	unconfirmed
+card_unit_me_bf_110_waw	AIR	Bf 110 C	card	unconfirmed
+card_unit_nebelwerfer	ARTILLERY	喷烟者 42 型	card	unconfirmed
+card_unit_pak_36	ARTILLERY	Pak 36 反坦克炮	card	unconfirmed
+card_unit_pak_38_vs_2	ARTILLERY	Pak 38 反坦克炮	card	unconfirmed
+card_unit_pak_40	ARTILLERY	Pak 40 反坦克炮	card	unconfirmed
+card_unit_panther	TANK	豹式坦克 G 型	card	unconfirmed
+card_unit_panther_a	TANK	豹式坦克 A 型	card	unconfirmed
+card_unit_panther_a_zimm	TANK	豹式坦克 A 型 防磁装甲型	card	unconfirmed
+card_unit_panther_d_winter	TANK	豹式坦克 D 型	card	unconfirmed
+card_unit_panzer_35_t	TANK	35(t) 坦克	card	unconfirmed
+card_unit_panzer_35_t_cam1	TANK	35(t)坦克	campaign	unconfirmed
+card_unit_panzer_35_t_tut	TANK	35(t) 坦克	tutorial	unconfirmed
+card_unit_panzer_35t_commander	TANK	35(t) 指挥车	card	unconfirmed
+card_unit_panzer_38_t	TANK	38(t) 坦克	card	unconfirmed
+card_unit_panzer_i_a	TANK	一号坦克 A 型	card	unconfirmed
+card_unit_panzer_i_brothers	TANK	一号坦克 B 型	card	unconfirmed
+card_unit_panzer_i_brothers_vet	TANK	一号坦克 B 型	special	unconfirmed
+card_unit_panzer_i_dak	TANK	一号坦克 DAK	card	unconfirmed
+card_unit_panzer_ii_a	TANK	二号坦克 A 型	card	unconfirmed
+card_unit_panzer_ii_a_cam1	TANK	二号坦克 A 型	campaign	unconfirmed
+card_unit_panzer_ii_c	TANK	二号坦克 C 型	card	unconfirmed
+card_unit_panzer_iii_e	TANK	三号坦克 L 型	card	unconfirmed
+card_unit_panzer_iii_f	TANK	三号坦克 F 型	card	unconfirmed
+card_unit_panzer_iii_g_desert	TANK	三号坦克 G 型	card	unconfirmed
+card_unit_panzer_iii_h	TANK	三号坦克 H 型	card	unconfirmed
+card_unit_panzer_iii_j	TANK	三号坦克 J 型	card	unconfirmed
+card_unit_panzer_iii_j_early	TANK	三号坦克 J 型 早期型	special	unconfirmed
+card_unit_panzer_iii_j_late	TANK	三号坦克 J 型 晚期型	card	unconfirmed
+card_unit_panzer_iii_j_late_vet	TANK	三号坦克 J 型 晚期型	special	unconfirmed
+card_unit_panzer_iii_l	TANK	三号坦克 E 型	card	unconfirmed
+card_unit_panzer_iv_f2	TANK	四号坦克 F2 型	card	unconfirmed
+card_unit_panzer_iv_g	TANK	四号坦克 G 型	card	unconfirmed
+card_unit_panzer_iv_g_cam1	TANK	四号坦克 G 型	campaign	unconfirmed
+card_unit_panzer_iv_h	TANK	四号坦克 H 型	card	unconfirmed
+card_unit_panzer_iv_h_vet	TANK	四号坦克 H 型	special	unconfirmed
+card_unit_panzer_iv_home	TANK	四号坦克 J 型	card	unconfirmed
+card_unit_panzergrenadier	INFANTRY	第 59 装甲掷弹兵团	card	unconfirmed
+card_unit_panzerzug_6	TANK	BP-42 装甲列车	card	unconfirmed
+card_unit_railway_gun_leopold	ARTILLERY	利奥波德	card	unconfirmed
+card_unit_salamander	AIR	He 162 蝾螈	card	unconfirmed
+card_unit_sd_kfz222x	TANK	Sd KFz 222	card	unconfirmed
+card_unit_sd_kfz_10_38	TANK	Sd Kfz 10 PaK 38	card	unconfirmed
+card_unit_stug_iii	TANK	三号突击炮 F 型	card	unconfirmed
+card_unit_stug_iii_g	TANK	三号突击炮 G 型	card	unconfirmed
+card_unit_stug_iii_g_schurzen	TANK	三号突击炮 G 型 裙甲型	card	unconfirmed
+card_unit_stug_iv	TANK	四号突击炮	card	unconfirmed
+card_unit_stuka_brothers	AIR	Ju 87 G 斯图卡	card	unconfirmed
+card_unit_stuka_brothers_vet	AIR	Ju 87 G 斯图卡	special	unconfirmed
+card_unit_sturm_brigade_rhodos	INFANTRY	罗得突击旅	card	unconfirmed
+card_unit_tiger_i	TANK	虎式坦克 H 型	card	unconfirmed
+card_unit_tiger_i_e	TANK	虎式坦克 E 型	card	unconfirmed
+card_unit_wespe_desert	ARTILLERY	黄蜂式自行火炮	card	unconfirmed
+card_unit_windhund_division	INFANTRY	灰猎犬师	card	unconfirmed
+card_unit_wirbelwind	TANK	旋风防空坦克	card	unconfirmed

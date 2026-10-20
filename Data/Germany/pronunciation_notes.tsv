@@ -1,0 +1,5 @@
+id	written	spoken_hint	note
+DE_ORDER_card_event_u_16	U 16	U sechzehn	U 按德语字母读；不要朗读内部资源键。
+DE_ORDER_card_event_u_375	U 375	U dreihundertfünfundsiebzig	字幕保留编号，录音读出完整德语数词。
+DE_ORDER_card_event_u_99	U 48	U achtundvierzig	当前游戏本地化标题是 U-48；资源键 u_99 保持不变。
+DE_ORDER_card_event_v1_flying_bomb	V 1	V eins	V 按德语字母名 Fau 发音。

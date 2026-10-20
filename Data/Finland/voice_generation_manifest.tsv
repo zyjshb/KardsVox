@@ -1,0 +1,81 @@
+id	kind	key	original	chinese	wav	speaker	card_title	duration_seconds	status	note
+FI_SUB_CMD_INTRO_1	SUB	CMD/INTRO_1	Suomen sotilaat! Vihollinen tahtoo viedä meiltä kotimme!	芬兰的士兵们！敌人妄想夺走我们的家园！	FI_SUB_CMD_INTRO_1.wav	芬兰指挥官		5.220	format_ok_listening_pending	
+FI_SUB_CMD_INTRO_2	SUB	CMD/INTRO_2	Näyttäkää heille, ettei tämä maa antaudu!	让他们明白，芬兰绝不投降！	FI_SUB_CMD_INTRO_2.wav	芬兰指挥官		3.470	format_ok_listening_pending	
+FI_SUB_CMD_INTRO_3	SUB	CMD/INTRO_3	Jokaisessa metsässä, jokaisella tiellä pysäytämme heidät!	在每一片森林、每一条道路上，我们都会挡住他们！	FI_SUB_CMD_INTRO_3.wav	芬兰指挥官		5.230	format_ok_listening_pending	
+FI_SUB_CMD_INTRO_4	SUB	CMD/INTRO_4	Lyökää heidät takaisin! Taistelkaa vapautemme puolesta!	把他们打回去！为我们的自由而战！	FI_SUB_CMD_INTRO_4.wav	芬兰指挥官		4.250	format_ok_listening_pending	
+FI_SUB_CMD_INTRO_5	SUB	CMD/INTRO_5	Suomen puolesta! Kaikki eteenpäin!	为了芬兰——全军前进！	FI_SUB_CMD_INTRO_5.wav	芬兰指挥官		2.910	format_ok_listening_pending	
+FI_SUB_CMD_HQ_LOW	SUB	CMD/HQ_LOW	Esikunta on tulen alla. Asemat lujiksi!	总部遭到炮火袭击。巩固阵地！	FI_SUB_CMD_HQ_LOW.wav	芬兰指挥官		3.580	format_ok_listening_pending	
+FI_SUB_CMD_HQ_CRITICAL	SUB	CMD/HQ_CRITICAL	Esikunta vaarassa! Viimeiset reservit tänne!	总部危急！最后的预备队来这里！	FI_SUB_CMD_HQ_CRITICAL.wav	芬兰指挥官		3.940	format_ok_listening_pending	
+FI_SUB_CMD_ENEMY_HQ_LOW	SUB	CMD/ENEMY_HQ_LOW	Vihollisen esikunta horjuu. Jatkakaa hyökkäystä!	敌方总部已经动摇。继续进攻！	FI_SUB_CMD_ENEMY_HQ_LOW.wav	芬兰指挥官		4.290	format_ok_listening_pending	
+FI_SUB_INFANTRY_DEPLOY	SUB	INFANTRY/DEPLOY	Osasto valmiina. Odotamme käskyä.	分队准备就绪。等待命令。	FI_SUB_INFANTRY_DEPLOY.wav	芬兰步兵		3.150	format_ok_listening_pending	
+FI_SUB_INFANTRY_DEPLOY_2	SUB	INFANTRY/DEPLOY_2	Asemat miehitetty. Pidämme tämän kohdan.	阵地已经占领。我们守住这里。	FI_SUB_INFANTRY_DEPLOY_2.wav	芬兰步兵		3.500	format_ok_listening_pending	
+FI_SUB_INFANTRY_DEPLOY_3	SUB	INFANTRY/DEPLOY_3	Ryhmä paikalla. Aseet ovat valmiina.	小队到位。武器已经准备好。	FI_SUB_INFANTRY_DEPLOY_3.wav	芬兰步兵		2.990	format_ok_listening_pending	
+FI_SUB_INFANTRY_DEPLOY_4	SUB	INFANTRY/DEPLOY_4	Metsänreuna varmistettu. Tänne ei tulla.	林缘已经控制。敌人别想过来。	FI_SUB_INFANTRY_DEPLOY_4.wav	芬兰步兵		3.160	format_ok_listening_pending	
+FI_SUB_INFANTRY_DEPLOY_5	SUB	INFANTRY/DEPLOY_5	Miehet ovat asemissa. Voimme aloittaa.	弟兄们已进入阵地。可以开始了。	FI_SUB_INFANTRY_DEPLOY_5.wav	芬兰步兵		3.480	format_ok_listening_pending	
+FI_SUB_INFANTRY_ATTACK	SUB	INFANTRY/ATTACK	Aseet valmiina! Avataan tuli!	武器准备！开火！	FI_SUB_INFANTRY_ATTACK.wav	芬兰步兵		2.210	format_ok_listening_pending	
+FI_SUB_INFANTRY_ATTACK_2	SUB	INFANTRY/ATTACK_2	Vihollinen tähtäimessä. Ammumme!	敌人进入准星。射击！	FI_SUB_INFANTRY_ATTACK_2.wav	芬兰步兵		2.740	format_ok_listening_pending	
+FI_SUB_INFANTRY_ATTACK_3	SUB	INFANTRY/ATTACK_3	Nyt isketään! Eteenpäin!	现在出击！前进！	FI_SUB_INFANTRY_ATTACK_3.wav	芬兰步兵		2.300	format_ok_listening_pending	
+FI_SUB_INFANTRY_HURT	SUB	INFANTRY/HURT	Suojaan! Meitä tulitetaan!	隐蔽！我们遭到射击！	FI_SUB_INFANTRY_HURT.wav	芬兰步兵		2.280	format_ok_listening_pending	
+FI_SUB_INFANTRY_HURT_2	SUB	INFANTRY/HURT_2	Pysykää suojassa!	待在掩体里！	FI_SUB_INFANTRY_HURT_2.wav	芬兰步兵		1.480	format_ok_listening_pending	
+FI_SUB_INFANTRY_HURT_3	SUB	INFANTRY/HURT_3	Osumia asemissa! Pidetään asemat!	阵地遭到命中！守住阵地！	FI_SUB_INFANTRY_HURT_3.wav	芬兰步兵		3.530	format_ok_listening_pending	
+FI_SUB_INFANTRY_MOVE	SUB	INFANTRY/MOVE	Liikkeelle! Pysykää yhdessä!	行动！保持队形！	FI_SUB_INFANTRY_MOVE.wav	芬兰步兵		2.370	format_ok_listening_pending	
+FI_SUB_INFANTRY_MOVE_2	SUB	INFANTRY/MOVE_2	Eteenpäin, metsän suojaan!	前进，到林中隐蔽！	FI_SUB_INFANTRY_MOVE_2.wav	芬兰步兵		2.550	format_ok_listening_pending	
+FI_SUB_ARTILLERY_DEPLOY	SUB	ARTILLERY/DEPLOY	Ammukset valmiina. Tykki on asemissa.	弹药就绪。火炮已经就位。	FI_SUB_ARTILLERY_DEPLOY.wav	芬兰炮兵		3.240	format_ok_listening_pending	
+FI_SUB_ARTILLERY_DEPLOY_2	SUB	ARTILLERY/DEPLOY_2	Tuliasema valmis. Odotamme maalia.	炮位准备完毕。等待目标。	FI_SUB_ARTILLERY_DEPLOY_2.wav	芬兰炮兵		3.280	format_ok_listening_pending	
+FI_SUB_ARTILLERY_DEPLOY_3	SUB	ARTILLERY/DEPLOY_3	Tähtäin säädetty. Antakaa maali.	瞄具调整完毕。请指示目标。	FI_SUB_ARTILLERY_DEPLOY_3.wav	芬兰炮兵		2.670	format_ok_listening_pending	
+FI_SUB_ARTILLERY_DEPLOY_4	SUB	ARTILLERY/DEPLOY_4	Miehistö paikalla. Putki kohti tietä.	炮组到位。炮口对准道路。	FI_SUB_ARTILLERY_DEPLOY_4.wav	芬兰炮兵		3.040	format_ok_listening_pending	
+FI_SUB_ARTILLERY_DEPLOY_5	SUB	ARTILLERY/DEPLOY_5	Tykki suunnattu. Olemme valmiina.	火炮已瞄准。我们准备好了。	FI_SUB_ARTILLERY_DEPLOY_5.wav	芬兰炮兵		2.560	format_ok_listening_pending	
+FI_SUB_ARTILLERY_ATTACK	SUB	ARTILLERY/ATTACK	Panssari näkyvissä! Avataan tuli!	发现装甲目标！开火！	FI_SUB_ARTILLERY_ATTACK.wav	芬兰炮兵		2.550	format_ok_listening_pending	
+FI_SUB_ARTILLERY_ATTACK_2	SUB	ARTILLERY/ATTACK_2	Tähtäys valmis! Avataan tuli!	瞄准完毕！开火！	FI_SUB_ARTILLERY_ATTACK_2.wav	芬兰炮兵		2.320	format_ok_listening_pending	
+FI_SUB_ARTILLERY_ATTACK_3	SUB	ARTILLERY/ATTACK_3	Suoraan maaliin! Avataan tuli!	直击目标！开火！	FI_SUB_ARTILLERY_ATTACK_3.wav	芬兰炮兵		2.560	format_ok_listening_pending	
+FI_SUB_ARTILLERY_HURT	SUB	ARTILLERY/HURT	Tykkiasemaan osui! Suojaan!	炮位被击中了！隐蔽！	FI_SUB_ARTILLERY_HURT.wav	芬兰炮兵		2.840	format_ok_listening_pending	
+FI_SUB_ARTILLERY_HURT_2	SUB	ARTILLERY/HURT_2	Miehistö suojaan!	炮组隐蔽！	FI_SUB_ARTILLERY_HURT_2.wav	芬兰炮兵		1.740	format_ok_listening_pending	
+FI_SUB_ARTILLERY_HURT_3	SUB	ARTILLERY/HURT_3	Tulta asemissamme! Pysykää matalana!	敌人正向炮位开火！压低身体！	FI_SUB_ARTILLERY_HURT_3.wav	芬兰炮兵		2.860	format_ok_listening_pending	
+FI_SUB_ARTILLERY_MOVE	SUB	ARTILLERY/MOVE	Siirretään tykki eteen!	把火炮向前移动！	FI_SUB_ARTILLERY_MOVE.wav	芬兰炮兵		2.180	format_ok_listening_pending	
+FI_SUB_ARTILLERY_MOVE_2	SUB	ARTILLERY/MOVE_2	Uuteen tuliasemaan!	转移到新炮位！	FI_SUB_ARTILLERY_MOVE_2.wav	芬兰炮兵		1.790	format_ok_listening_pending	
+FI_SUB_TANK_DEPLOY	SUB	TANK/DEPLOY	Vaunu valmiina. Odotamme lähtökäskyä.	战车准备就绪。等待出发命令。	FI_SUB_TANK_DEPLOY.wav	芬兰装甲部队		3.500	format_ok_listening_pending	
+FI_SUB_TANK_DEPLOY_2	SUB	TANK/DEPLOY_2	Moottori käy. Ammukset mukana.	引擎运转。弹药已装车。	FI_SUB_TANK_DEPLOY_2.wav	芬兰装甲部队		2.360	format_ok_listening_pending	
+FI_SUB_TANK_DEPLOY_3	SUB	TANK/DEPLOY_3	Miehistö paikoillaan. Voimme lähteä.	乘员全部到位。可以出发。	FI_SUB_TANK_DEPLOY_3.wav	芬兰装甲部队		2.620	format_ok_listening_pending	
+FI_SUB_TANK_DEPLOY_4	SUB	TANK/DEPLOY_4	Panssari etulinjaan. Näyttäkää suunta.	装甲部队开赴前线。请指示方向。	FI_SUB_TANK_DEPLOY_4.wav	芬兰装甲部队		3.100	format_ok_listening_pending	
+FI_SUB_TANK_DEPLOY_5	SUB	TANK/DEPLOY_5	Tähtäin kunnossa. Tykki ladattu.	瞄具正常。火炮装填完毕。	FI_SUB_TANK_DEPLOY_5.wav	芬兰装甲部队		2.500	format_ok_listening_pending	
+FI_SUB_TANK_ATTACK	SUB	TANK/ATTACK	Vihollinen edessä! Avataan tuli!	敌人在前方！开火！	FI_SUB_TANK_ATTACK.wav	芬兰装甲部队		2.510	format_ok_listening_pending	
+FI_SUB_TANK_ATTACK_2	SUB	TANK/ATTACK_2	Tykki kohti vihollista!	炮口对准敌人！	FI_SUB_TANK_ATTACK_2.wav	芬兰装甲部队		2.160	format_ok_listening_pending	
+FI_SUB_TANK_ATTACK_3	SUB	TANK/ATTACK_3	Laukaus! Jatkakaa hyökkäystä!	开炮！继续进攻！	FI_SUB_TANK_ATTACK_3.wav	芬兰装甲部队		2.340	format_ok_listening_pending	
+FI_SUB_TANK_HURT	SUB	TANK/HURT	Osuma panssariin!	装甲被击中了！	FI_SUB_TANK_HURT.wav	芬兰装甲部队		1.700	format_ok_listening_pending	
+FI_SUB_TANK_HURT_2	SUB	TANK/HURT_2	Meihin osui! Pitäkää kiinni!	我们被击中了！抓稳！	FI_SUB_TANK_HURT_2.wav	芬兰装甲部队		2.630	format_ok_listening_pending	
+FI_SUB_TANK_HURT_3	SUB	TANK/HURT_3	Sivustalta tulitetaan!	侧翼遭到射击！	FI_SUB_TANK_HURT_3.wav	芬兰装甲部队		1.900	format_ok_listening_pending	
+FI_SUB_TANK_MOVE	SUB	TANK/MOVE	Vaunu eteenpäin!	战车前进！	FI_SUB_TANK_MOVE.wav	芬兰装甲部队		1.740	format_ok_listening_pending	
+FI_SUB_TANK_MOVE_2	SUB	TANK/MOVE_2	Kohti etulinjaa. Liikkeelle!	向前线进发。行动！	FI_SUB_TANK_MOVE_2.wav	芬兰装甲部队		2.370	format_ok_listening_pending	
+FI_SUB_AIR_DEPLOY	SUB	AIR/DEPLOY	Parvi ilmassa. Odotamme käskyä.	机群已经升空。等待命令。	FI_SUB_AIR_DEPLOY.wav	芬兰航空队		2.840	format_ok_listening_pending	
+FI_SUB_AIR_DEPLOY_2	SUB	AIR/DEPLOY_2	Nousu valmis. Suunta kohti rintamaa.	爬升完成。航向前线。	FI_SUB_AIR_DEPLOY_2.wav	芬兰航空队		3.330	format_ok_listening_pending	
+FI_SUB_AIR_DEPLOY_3	SUB	AIR/DEPLOY_3	Aseet ladattu. Taivas on tarkkailussa.	武器装填完毕。正在监视空域。	FI_SUB_AIR_DEPLOY_3.wav	芬兰航空队		3.020	format_ok_listening_pending	
+FI_SUB_AIR_DEPLOY_4	SUB	AIR/DEPLOY_4	Kone valmiina. Moottori käy tasaisesti.	飞机准备就绪。引擎运转平稳。	FI_SUB_AIR_DEPLOY_4.wav	芬兰航空队		3.510	format_ok_listening_pending	
+FI_SUB_AIR_DEPLOY_5	SUB	AIR/DEPLOY_5	Lennämme korkealla. Maali näkyvissä.	我们在高空飞行。目标已经可见。	FI_SUB_AIR_DEPLOY_5.wav	芬兰航空队		2.990	format_ok_listening_pending	
+FI_SUB_AIR_ATTACK	SUB	AIR/ATTACK	Lähestymme maalia. Avataan tuli!	正在接近目标。开火！	FI_SUB_AIR_ATTACK.wav	芬兰航空队		2.370	format_ok_listening_pending	
+FI_SUB_AIR_ATTACK_2	SUB	AIR/ATTACK_2	Vihollinen edessä. Hyökkään!	敌人在前方。我来攻击！	FI_SUB_AIR_ATTACK_2.wav	芬兰航空队		2.210	format_ok_listening_pending	
+FI_SUB_AIR_ATTACK_3	SUB	AIR/ATTACK_3	Syöksyyn! Avaan tulen!	俯冲！我开始射击！	FI_SUB_AIR_ATTACK_3.wav	芬兰航空队		1.930	format_ok_listening_pending	
+FI_SUB_AIR_HURT	SUB	AIR/HURT	Koneeseen osui!	飞机被击中了！	FI_SUB_AIR_HURT.wav	芬兰航空队		1.560	format_ok_listening_pending	
+FI_SUB_AIR_HURT_2	SUB	AIR/HURT_2	Vihollinen takana! Väistä!	后方有敌机！规避！	FI_SUB_AIR_HURT_2.wav	芬兰航空队		2.040	format_ok_listening_pending	
+FI_SUB_AIR_HURT_3	SUB	AIR/HURT_3	Siipi vaurioitui! Pysyn ilmassa!	机翼受损！我还能飞！	FI_SUB_AIR_HURT_3.wav	芬兰航空队		2.910	format_ok_listening_pending	
+FI_SUB_AIR_MOVE	SUB	AIR/MOVE	Kohti etulinjaa!	飞向前线！	FI_SUB_AIR_MOVE.wav	芬兰航空队		1.860	format_ok_listening_pending	
+FI_SUB_AIR_MOVE_2	SUB	AIR/MOVE_2	Vaihdetaan lentosuuntaa!	改变航向！	FI_SUB_AIR_MOVE_2.wav	芬兰航空队		2.300	format_ok_listening_pending	
+FI_ORDER_card_event_breaking_point	ORDER	card_event_breaking_point	He eivät pysty vastaamaan tuleen. Viimeistelkää hyökkäys!	他们已无力还击。完成最后一击！	FI_ORDER_card_event_breaking_point.wav	芬兰通信兵	临界点	4.490	format_ok_listening_pending	
+FI_ORDER_card_event_cold_trap	ORDER	card_event_cold_trap	Antakaa heidän tulla. Sissit katkaisevat hyökkäyksen!	让他们过来。游击队会截住攻势！	FI_ORDER_card_event_cold_trap.wav	芬兰通信兵	极寒陷阱	4.010	format_ok_listening_pending	
+FI_ORDER_card_event_dark_deeds	ORDER	card_event_dark_deeds	Sissit ovat asemissa. Viesti tuli, toimikaa nopeasti!	游击队已经就位。消息到了，迅速行动！	FI_ORDER_card_event_dark_deeds.wav	芬兰通信兵	阴谋	4.130	format_ok_listening_pending	
+FI_ORDER_card_event_decoy_tactics	ORDER	card_event_decoy_tactics	Houkutelkaa heidät ansaan. Jokainen hyökkäys käy heille kalliiksi!	把他们引入陷阱。每次进攻都要让他们付出代价！	FI_ORDER_card_event_decoy_tactics.wav	芬兰通信兵	诱饵战术	5.840	format_ok_listening_pending	
+FI_ORDER_card_event_depot_raid	ORDER	card_event_depot_raid	Ajakaa heidät pois varikolta. Kalusto jää meille!	把他们赶出营地。装备归我们！	FI_ORDER_card_event_depot_raid.wav	芬兰通信兵	劫营	4.050	format_ok_listening_pending	
+FI_ORDER_card_event_friendly_fire_fin	ORDER	card_event_friendly_fire_fin	Sekoittakaa heidän rivinsä. He ampuvat omiaan!	搅乱他们的阵线。他们在打自己人！	FI_ORDER_card_event_friendly_fire_fin.wav	芬兰通信兵	误伤	4.040	format_ok_listening_pending	
+FI_ORDER_card_event_frozen_assets	ORDER	card_event_frozen_assets	Partio iskuun! Ottakaa vihollisen kalusto talteen!	巡逻队出击！收缴敌人的装备！	FI_ORDER_card_event_frozen_assets.wav	芬兰通信兵	强制冻结	3.900	format_ok_listening_pending	
+FI_ORDER_card_event_heartland_defense	ORDER	card_event_heartland_defense	Kotiemme kimppuun ei käydä! Puolustajat asemiin!	休想进犯我们的家园！守卫者进入阵地！	FI_ORDER_card_event_heartland_defense.wav	芬兰通信兵	腹地防御	3.780	format_ok_listening_pending	
+FI_ORDER_card_event_lotta_svard	ORDER	card_event_lotta_svard	Yhteys kunnossa! Joukot voivat jatkaa taistelua!	通信畅通！部队可以继续战斗！	FI_ORDER_card_event_lotta_svard.wav	芬兰通信兵	洛塔组织	3.890	format_ok_listening_pending	
+FI_ORDER_card_event_molotov_cocktail_fin	ORDER	card_event_molotov_cocktail_fin	Pullot valmiiksi! Pysäytetään niiden eteneminen!	燃烧瓶准备！阻止他们推进！	FI_ORDER_card_event_molotov_cocktail_fin.wav	芬兰通信兵	莫洛托夫鸡尾酒	4.060	format_ok_listening_pending	
+FI_ORDER_card_event_motti_tactic	ORDER	card_event_motti_tactic	Katkaiskaa tie! Saartakaa ja ottakaa kalusto!	截断道路！合围，夺取装备！	FI_ORDER_card_event_motti_tactic.wav	芬兰通信兵	柴堆战术	4.000	format_ok_listening_pending	
+FI_ORDER_card_event_order_of_the_day	ORDER	card_event_order_of_the_day	Suomen miehet, aseisiin! Sissiosastot kokoontuvat!	芬兰的儿郎们，拿起武器！游击分队正在集结！	FI_ORDER_card_event_order_of_the_day.wav	芬兰通信兵	动员令	4.130	format_ok_listening_pending	
+FI_ORDER_card_event_prolonged_siege	ORDER	card_event_prolonged_siege	Saartorengas pitää. Uudet tiedot on käytettävä heti!	包围圈稳固。新情报必须立刻利用！	FI_ORDER_card_event_prolonged_siege.wav	芬兰通信兵	长久围困	4.280	format_ok_listening_pending	
+FI_ORDER_card_event_salpa_line	ORDER	card_event_salpa_line	Salpalinja pitää! Sissit vahvistavat puolustuksen!	萨尔帕防线屹立不倒！游击队加固防御！	FI_ORDER_card_event_salpa_line.wav	芬兰通信兵	萨尔帕防线	4.000	format_ok_listening_pending	
+FI_ORDER_card_event_scrap_metal	ORDER	card_event_scrap_metal	Purkuun! Käyttökelpoiset osat takaisin palvelukseen!	拆解！让可用的部件重新派上用场！	FI_ORDER_card_event_scrap_metal.wav	芬兰通信兵	金属废料	4.300	format_ok_listening_pending	
+FI_ORDER_card_event_sisu	ORDER	card_event_sisu	Me emme murru! Isku takaisin vihollisen johtoon!	我们绝不屈服！把打击还给敌方指挥部！	FI_ORDER_card_event_sisu.wav	芬兰通信兵	西苏精神	3.980	format_ok_listening_pending	
+FI_ORDER_card_event_ski_troops	ORDER	card_event_ski_troops	Sukset liikkeelle! Yllättäkää tulokkaat ennen kuin he ehtivät toimia!	滑雪队行动！趁新来的敌人立足未稳，打他们个措手不及！	FI_ORDER_card_event_ski_troops.wav	芬兰通信兵	滑雪部队	5.500	format_ok_listening_pending	
+FI_ORDER_card_event_strike_from_the_forest	ORDER	card_event_strike_from_the_forest	Metsästä tulta! Sissit sulkevat tien!	从林中开火！游击队封住道路！	FI_ORDER_card_event_strike_from_the_forest.wav	芬兰通信兵	林间袭击	3.110	format_ok_listening_pending	
+FI_ORDER_card_event_through_the_ice	ORDER	card_event_through_the_ice	Jää pettää heidän allaan! Iskekää koko osastoon!	他们脚下的冰要塌了！打击整支分队！	FI_ORDER_card_event_through_the_ice.wav	芬兰通信兵	步履薄冰	4.280	format_ok_listening_pending	
+FI_ORDER_card_event_white_death	ORDER	card_event_white_death	He eivät näe meitä. Yksi laukaus, ja asemat vaihtoon!	他们看不见我们。打完一枪，转移阵地！	FI_ORDER_card_event_white_death.wav	芬兰通信兵	白色死神	4.270	format_ok_listening_pending	

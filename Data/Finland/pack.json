@@ -1,0 +1,11 @@
+{
+  "Id": "Finland",
+  "Name": "芬兰",
+  "EnglishName": "FINLAND",
+  "Description": "芬中字幕 · 芬兰语语音",
+  "CardCount": 44,
+  "Playable": true,
+  "Language": "fi",
+  "AudioPrefix": "FI",
+  "FileBased": true
+}
