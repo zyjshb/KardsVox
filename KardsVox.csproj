@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseAppHost>true</UseAppHost>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <Content Include="Audio\Japan\*.wav" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Audio\Soviet\README.md" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Audio\Sfx\Hurt\*.mp3" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Audio\Test\intro.wav" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Japan\voice_lines.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Japan\order_profiles.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Japan\card_catalog.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Soviet\card_catalog.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Soviet\sets.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Soviet\voice_lines.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Soviet\voice_plan.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\Soviet\README.md" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="THIRD_PARTY_NOTICES.md" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Data\detection.json" CopyToOutputDirectory="PreserveNewest" Condition="Exists('Data\detection.json')" />
+  </ItemGroup>
+
+</Project>

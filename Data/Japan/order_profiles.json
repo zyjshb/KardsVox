@@ -1,0 +1,80 @@
+[
+  {
+    "name": "玉碎",
+    "event": "ORDER_RALLY",
+    "telegraph": "... --- ...",
+    "aliases": ["gyokusai", "desperate_measures", "desperatemeasures", "final_push", "finalpush", "banzai_charge", "banzai", "divine_wind", "last_ditch_force", "last_rites", "honorable_death", "deadly_duty"]
+  },
+  {
+    "name": "扩张",
+    "event": "ORDER_SUPPLY",
+    "telegraph": ".- .- ..",
+    "aliases": ["expansion", "expand", "great_expanse", "greatexpanse", "greater_purpose", "greaterpurpose"]
+  },
+  {
+    "name": "为了繁荣",
+    "event": "ORDER_SUPPLY",
+    "telegraph": ".--. .-. ---",
+    "aliases": ["for_prosperety", "forprosperety", "for_prosperity", "forprosperity"]
+  },
+  {
+    "name": "帝国指令",
+    "event": "ORDER_RALLY",
+    "telegraph": ".. -- .--.",
+    "aliases": ["imperial_order", "imperialorder", "imperial_decree", "imperialdecree", "imperial_strength", "imperialstrength"]
+  },
+  {
+    "name": "武士之刃",
+    "event": "ORDER_ATTACK",
+    "telegraph": "-... .-.. -..",
+    "aliases": ["blade_of_the_samurai", "bladeofthesamurai", "code_of_bushido", "codeofbushido"]
+  },
+  {
+    "name": "至死方休",
+    "event": "ORDER_ATTACK",
+    "telegraph": "...- .-",
+    "aliases": ["to_the_last", "tothelast", "to_the_last_man", "last_stand", "laststand", "fight_to_the_death", "fighttothedeath"]
+  },
+  {
+    "name": "两栖进攻",
+    "event": "ORDER_ATTACK",
+    "telegraph": ".- -- .--.",
+    "aliases": ["amphibianassault", "amphibian_assault", "amphibiousassault", "amphibious_assault"]
+  },
+  {
+    "name": "奇袭命令",
+    "event": "ORDER_ATTACK",
+    "telegraph": "-.-. -.-",
+    "aliases": ["surprise_attack", "surpriseattack", "sneak_attack", "sneakattack", "sneak_maneuver", "sneakmaneuver", "shock_attack", "shockattack", "ambush_order", "ambushorder", "defeat_in_detail", "defeatindetail", "outmaneuver"]
+  },
+  {
+    "name": "航空命令",
+    "event": "ORDER_AIR",
+    "telegraph": ".- .. .-.",
+    "aliases": ["air_land_sea", "airlandsea", "air_superiority", "airsuperiority", "air_blitz", "airblitz", "lightning_conquest", "lightningconquest", "lightning_conquest_new", "lightning_strike", "blitzkrieg", "bombing_raid", "bombingraid", "tora_tora", "out_of_the_sun", "flight_to_oblivion", "divebomber", "air_order"]
+  },
+  {
+    "name": "炮击命令",
+    "event": "ORDER_ARTY",
+    "telegraph": ".- .-. -",
+    "aliases": ["barrage", "bombard", "artillery", "shelling", "naval_bombardment"]
+  },
+  {
+    "name": "防御命令",
+    "event": "ORDER_DEFEND",
+    "telegraph": "-.. . ..-.",
+    "aliases": ["forced_surrender", "forcedsurrender", "dig_in", "digin", "fortify", "defensive"]
+  },
+  {
+    "name": "海军急令",
+    "event": "ORDER_RALLY",
+    "telegraph": "-- .- .-.",
+    "aliases": ["ijn_akagi", "ijnakagi", "ijn_mikura", "ijnmikura", "tide_turns", "tideturns", "naval", "carrier"]
+  },
+  {
+    "name": "战略转进",
+    "event": "ORDER_SUPPLY",
+    "telegraph": "... -..",
+    "aliases": ["shifting_doctrine", "shiftingdoctrine", "strategic_shift", "strategicshift", "distant_front", "distantfront"]
+  }
+]
